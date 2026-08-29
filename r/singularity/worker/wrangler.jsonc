@@ -1,6 +1,7 @@
 {
   "$schema": "https://developers.cloudflare.com/workers/wrangler/config-schema.json",
   "name": "transductive-r-singularity",
+  "account_id": "d4204bfece1421ae859e5fba54c0a385",
   "main": "src/index.js",
   "compatibility_date": "2026-08-29",
   "workers_dev": true,
