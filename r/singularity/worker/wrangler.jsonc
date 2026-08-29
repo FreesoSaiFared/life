@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developers.cloudflare.com/workers/wrangler/config-schema.json",
+  "name": "transductive-r-singularity",
+  "main": "src/index.js",
+  "compatibility_date": "2026-08-29",
+  "workers_dev": true,
+  "routes": [{"pattern": "transductive.org/r/singularity*", "zone_name": "transductive.org"}],
+  "assets": {"directory": "../", "binding": "ASSETS"},
+  "vars": {
+    "GITHUB_REPO": "FreesoSaiFared/life",
+    "GITHUB_BRANCH": "master",
+    "MODERATOR_FROM": "Transductive <moderation@transductive.org>"
+  }
+}

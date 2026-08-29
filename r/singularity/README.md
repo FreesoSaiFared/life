@@ -1,42 +1,47 @@
 # transductive.org/r/singularity
 
-A Reddit reader with a transductive editorial overlay.
+A mostly-static Reddit reader with a transductive editorial overlay and volunteer ChatGPT Plus article production.
 
-## Vertical slice
+## Proven ingestion
+Daily discovery uses Reddit RSS. Each discovered thread is passed to the pinned upstream donor `mikekonoval/reddit-thread@ddbc507b81284a5cb98e9555762435c6a5b05096` instead of a locally reimplemented scraper. The donor obtains the complete comment tree from Arctic Shift, reports completeness/more-stub state, and switches to Reddit OAuth for fresh threads when REDDIT_* credentials exist.
 
-1. `data/posts.json` is the half-static article registry.
-2. `index.html` + `app.js` render a stripped Reddit-like list/article reader.
-3. Every post tracks `source_bytes` and `previous_source_bytes`; a source refresh never overwrites the existing summary automatically.
-4. If `summary_status` is `missing`, the article page exposes a ready-to-copy ChatGPT Plus prompt and `contributor.user.js`.
-5. Contributor output is returned as a JSON article proposal. Intended server workflow: `submitted -> owner_notified -> vetted/published`, or `submitted -> auto_published` after 48h.
+Evidence is stored as `data/raw/<reddit_id>.thread.json`. Each post tracks current/previous byte size, SHA-256 history, source origin, completeness, comment count and max depth. Source changes never overwrite a published summary; they set `summary_refresh_needed`.
 
-## Source quarry
+## Contribution flow
+1. Missing/stale article exposes an exact ChatGPT prompt plus the complete-thread evidence URL.
+2. Contributor returns one proposal JSON object and pastes it into the article page.
+3. `POST /r/singularity/api/contribute` validates the proposal against the article registry.
+4. The Worker opens a GitHub moderation issue, stores the proposal under `data/submissions/`, and emails the moderator through Resend.
+5. Add `transductive-approved` to publish on the next hourly pass, or `transductive-rejected` to block it.
+6. With neither label, the hourly moderation workflow auto-publishes after 48 hours.
 
-The reader architecture deliberately reuses proven source patterns instead of cloning Reddit behavior from scratch:
+The published article remains half-static: moderation writes the accepted summary back into `data/posts.json`.
 
-- Redlib (`redlib-org/redlib`, AGPL-3.0): signed-out subreddit/post reader architecture, server-side Reddit normalization, lightweight HTML rendering.
-- reddit-thread (`mikekonoval/reddit-thread`, MIT): complete thread ingestion via Arctic Shift with official Reddit OAuth fallback for fresh threads.
-- Horizon (`Thysrael/Horizon`): subreddit discovery fallback sequence including Reddit RSS when JSON access is blocked.
-
-Important 2026 correction: anonymous Reddit `URL+.json` is no longer dependable for unattended server ingestion. The public workflow may still instruct a logged-in browser user to open the `.json` form, but the daily collector must use RSS/authenticated API/archive fallbacks.
-
-## Article state
-
+## Contribution proposal
 ```json
 {
-  "reddit_id": "...",
-  "reddit_url": "...",
-  "json_url": "...",
+  "reddit_id": "1abc...",
   "title": "...",
-  "source_bytes": 0,
-  "previous_source_bytes": 0,
-  "source_changed": false,
-  "summary_status": "missing|submitted|published",
-  "summary": null,
-  "summary_version": 0,
-  "submitted_at": null,
-  "auto_publish_at": null
+  "dek": "...",
+  "summary_markdown": "...",
+  "cited_comments": [{"author":"...","score":10,"permalink":"https://www.reddit.com/...","claim":"..."}],
+  "source_bytes_observed": 12345,
+  "generated_at": "..."
 }
 ```
 
-The key invariant is that source growth changes the evidence record, not the published summary. A new summary is produced only through the summarization workflow.
+## Cloudflare boundary
+`worker/wrangler.jsonc` owns only `transductive.org/r/singularity*`, preserving the rest of transductive.org. Static assets are served through the Worker asset binding; dynamic routes are:
+- `GET /r/singularity/api/health`
+- `POST /r/singularity/api/contribute`
+
+Production deploy requires GitHub Actions secrets:
+- `CLOUDFLARE_API_TOKEN`
+- `CLOUDFLARE_ACCOUNT_ID`
+- `SINGULARITY_GITHUB_TOKEN` — fine-grained token with Contents + Issues write on FreesoSaiFared/life
+- `RESEND_API_KEY`
+- `MODERATOR_EMAIL`
+Optional Reddit freshness secrets: `REDDIT_CLIENT_ID`, `REDDIT_CLIENT_SECRET`, `REDDIT_USERNAME`, `REDDIT_PASSWORD`.
+
+## Acceptance
+Ingest CI must prove the donor selftest and at least one complete-thread evidence record. Deploy CI then requires public `/api/health` to report both contribution and email configured. Browser acceptance follows on the public reader after deployment.
