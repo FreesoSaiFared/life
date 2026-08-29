@@ -1,0 +1,21 @@
+[
+  {
+    "reddit_id": "demo-singularity-001",
+    "reddit_url": "https://www.reddit.com/r/singularity/",
+    "json_url": "https://www.reddit.com/r/singularity/.json",
+    "title": "The transductive reader is waiting for its first daily ingest",
+    "author": "transductive",
+    "score": 0,
+    "comment_count": 0,
+    "created_utc": 0,
+    "source_bytes": 0,
+    "previous_source_bytes": 0,
+    "source_changed": false,
+    "summary_status": "missing",
+    "summary": null,
+    "summary_version": 0,
+    "submitted_at": null,
+    "auto_publish_at": null,
+    "direct_comment_links": []
+  }
+]
