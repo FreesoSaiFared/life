@@ -89,6 +89,54 @@ Evidence artifact:
 - ZIP SHA-256: `6b9adf75ca00e4624eda47972c7efad0f83a2b3b8bd2ffcd8c0406758cb102a3`
 - contains `browser-acceptance.json`, `desktop.png`, `mobile.png`
 
+## Post-contribution hardening acceptance
+
+Evidence-version and moderation hardening landed after the initial browser acceptance:
+
+- `9091ac9e13a7b191af989d5f08344aa54fd1e3c9` — add evidence-version validation scaffolding and moderation-state selftest
+- `d025f02f26f96f7f6e7fba16eafc28708ce89a01` — repair Worker validation syntax caught by temporary deployment
+- `e39871a58596964b061216c937046efdaf045394` — add executable stale-evidence POST contract gate
+- `d9c324a942d52525609e65a32fc06248062b39a8` — enforce the missing stale-evidence comparison in the Worker
+
+Moderation proof: GitHub Actions run `33247362609`
+
+- moderation labels ensured: PASS
+- four-case state-machine selftest: PASS
+- rejection wins over approval/deadline
+- approval publishes before deadline
+- unlabeled expired proposal auto-publishes
+- unlabeled unexpired proposal remains pending
+- live empty-queue pass: `{"changed": false, "results": []}`
+- publication additionally blocks a proposal if source evidence changed after submission
+
+Final contribution/browser proof: GitHub Actions run `33247545898`
+
+- stale `source_bytes_observed`: HTTP 409 before GitHub mutation
+- malformed/missing `source_bytes_observed`: HTTP 400
+- temporary Worker deploy: PASS
+- `/`: HTTP 200
+- `/r/singularity/`: HTTP 200
+- `/api/health`: HTTP 200
+- `/r/singularity/api/health`: HTTP 200
+- desktop 1440x1100: 26 posts, article navigation PASS, contribution UI PASS, horizontal overflow 0, browser errors 0
+- mobile 390x844: 26 posts, article navigation PASS, contribution UI PASS, horizontal overflow 0, browser errors 0
+- preview correctly reports production contribution/email secrets absent
+
+Final evidence artifact:
+
+- artifact ID: `9713328082`
+- name: `reddit-singularity-browser-acceptance`
+- size: 151391 bytes
+- SHA-256: `f5ef40b2615965fcb54cd7e8e6c8bc803cc200247b7fb969b47f713bbb8d6fea`
+- head SHA: `d9c324a942d52525609e65a32fc06248062b39a8`
+
+Latest permanent-deployment preflight: run `33247545906`
+
+- preflight itself: PASS
+- permanent deployment: intentionally skipped
+- status remains `PRODUCTION_DEPLOY_PENDING_AUTH`
+- missing authorities remain `CLOUDFLARE_API_TOKEN`, `SINGULARITY_GITHUB_TOKEN`, `RESEND_API_KEY`, and `MODERATOR_EMAIL`
+
 ## Production boundary
 
 Production is NOT claimed deployed.
