@@ -24,7 +24,8 @@ function normalize(x){
   if(!/^[a-z0-9]+$/.test(p.reddit_id))throw new Error("invalid reddit_id");
   if(!p.title||p.title.length>500)throw new Error("invalid title");
   if(!p.dek||p.dek.length>1000)throw new Error("invalid dek");
-  if(p.summary_markdown.length<80||p.summary_markdown.length>60000)throw new Error("summary_markdown must be 80..60000 characters");\n  if(!Number.isInteger(p.source_bytes_observed)||p.source_bytes_observed<0)throw new Error("source_bytes_observed must be a non-negative integer");
+  if(p.summary_markdown.length<80||p.summary_markdown.length>60000)throw new Error("summary_markdown must be 80..60000 characters");
+  if(!Number.isInteger(p.source_bytes_observed)||p.source_bytes_observed<0)throw new Error("source_bytes_observed must be a non-negative integer");
   for(const c of p.cited_comments)if(c.permalink&&!/^https:\/\/(?:www\.)?reddit\.com\//i.test(c.permalink))throw new Error("citation permalink must be reddit.com");
   return p;
 }
