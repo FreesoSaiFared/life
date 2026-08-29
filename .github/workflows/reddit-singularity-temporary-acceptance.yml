@@ -30,6 +30,7 @@ jobs:
           const p='r/singularity/worker/wrangler.jsonc';
           const x=JSON.parse(fs.readFileSync(p,'utf8'));
           delete x.routes;
+          delete x.account_id;
           x.name='transductive-r-singularity-preview';
           x.workers_dev=true;
           fs.writeFileSync('r/singularity/worker/wrangler.preview.jsonc',JSON.stringify(x,null,2));
