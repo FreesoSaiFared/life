@@ -1,0 +1,26 @@
+{
+  "post_id": "1w1bly3",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "CEO Cursor \"openai models serve about 5% of Cursor user traffic\"",
+    "author": "JP_525",
+    "score": 110,
+    "upvote_ratio": 0.95,
+    "num_comments": 42,
+    "link_flair_text": "AI",
+    "created_utc": 1787974663,
+    "selftext": "&#x200B;",
+    "permalink": "/r/singularity/comments/1w1bly3/ceo_cursor_openai_models_serve_about_5_of_cursor/"
+  },
+  "comments": []
+}

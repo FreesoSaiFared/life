@@ -1,0 +1,26 @@
+{
+  "post_id": "1w1fbvc",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Delivery robots using humans to cross the street",
+    "author": "japie06",
+    "score": 10,
+    "upvote_ratio": 0.92,
+    "num_comments": 1,
+    "link_flair_text": "Robotics",
+    "created_utc": 1787986514,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w1fbvc/delivery_robots_using_humans_to_cross_the_street/"
+  },
+  "comments": []
+}

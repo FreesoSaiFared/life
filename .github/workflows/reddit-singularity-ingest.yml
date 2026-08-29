@@ -1,0 +1,68 @@
+name: reddit-singularity-ingest
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * *'
+  push:
+    branches: [reddit-singularity]
+    paths:
+      - 'r/singularity/**'
+      - '.github/workflows/reddit-singularity-ingest.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    if: ${{ !contains(github.event.head_commit.message || '', 'Daily r/singularity evidence ingest') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Quarry complete Reddit thread fetcher
+        uses: actions/checkout@v4
+        with:
+          repository: mikekonoval/reddit-thread
+          ref: ddbc507b81284a5cb98e9555762435c6a5b05096
+          path: .quarry/reddit-thread
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Prove donor parser
+        run: python .quarry/reddit-thread/scripts/fetch_thread.py --selftest
+      - name: Ingest r/singularity complete threads
+        env:
+          REDDIT_THREAD_FETCHER: .quarry/reddit-thread/scripts/fetch_thread.py
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+          REDDIT_USER_AGENT: transductive-reddit-reader/0.2
+        run: python r/singularity/scripts/ingest_reddit.py
+      - name: Validate registry and thread evidence
+        run: |
+          python -m json.tool r/singularity/data/posts.json >/dev/null
+          python - <<'PY'
+          import json, pathlib
+          posts=json.load(open('r/singularity/data/posts.json',encoding='utf-8'))
+          live=[p for p in posts if p.get('source_kind')=='complete-thread-json']
+          assert live, 'no complete-thread evidence produced'
+          for p in live[:10]:
+              path=pathlib.Path('r/singularity/data/raw')/(p['reddit_id']+'.thread.json')
+              assert path.exists(), path
+              obj=json.load(open(path,encoding='utf-8'))
+              assert 'summary' in obj and 'comments' in obj
+          print({'complete_thread_records':len(live)})
+          PY
+      - name: Commit changed evidence registry
+        run: |
+          git config user.name 'transductive-ingest'
+          git config user.email 'transductive-ingest@users.noreply.github.com'
+          git add r/singularity/data
+          if git diff --cached --quiet; then
+            echo 'No source change'
+            exit 0
+          fi
+          git commit -m 'Daily r/singularity evidence ingest'
+          git push

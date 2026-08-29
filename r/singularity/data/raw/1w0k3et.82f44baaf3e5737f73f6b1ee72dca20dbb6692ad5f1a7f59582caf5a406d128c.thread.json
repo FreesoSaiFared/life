@@ -1,0 +1,153 @@
+{
+  "post_id": "1w0k3et",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~25h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Introducing to tencent’s Hy4 preview Open weights: 770B MoE, 49B active, 1M context",
+    "author": "Snoo26837",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1787903427,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w0k3et/introducing_to_tencents_hy4_preview_open_weights/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p6djwer",
+      "parent_id": "t3_1w0k3et",
+      "author": "Immediate_Simple_217",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1787903965,
+      "body": "One of my personal benchmarks for AGI's arrival would be the flood of open-source/weighted models and the emergence of stealth models on Hugging Face, by truly anonymous users.We're almost there... Open source is booming, but it still comes from large companies, however, the models are becoming increasingly compact, relatively inexpensive, and powerful. Sometimes I wonder if We're not really developing an ASI before an AGI... since the possibility of achieving recursive self-improvement is closer than a truly generalist AI. An ASI discovers how to manufacture AGI... In that sense."
+    },
+    {
+      "depth": 1,
+      "id": "p6dlks2",
+      "parent_id": "t1_p6djwer",
+      "author": "whatisthisthing65",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1787904824,
+      "body": "You mean RSI? ASI assumes it's general already, otherwise something like Stockfish would be ASI because it's vastly superior to humans in one thing (chess)"
+    },
+    {
+      "depth": 2,
+      "id": "p6dm3d3",
+      "parent_id": "t1_p6dlks2",
+      "author": "Immediate_Simple_217",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1787905092,
+      "body": "RSI is closer to becoming a reality than the widely and socially accepted advent of AGI. Superintelligence arrives before that. I have no doubts about this.\n\nhttps://preview.redd.it/63uqaywrr2mh1.png?width=1500&format=png&auto=webp&s=b04694bbc73bbc7211a9eec8cd878423bb05b3a5"
+    },
+    {
+      "depth": 3,
+      "id": "p6fy2h2",
+      "parent_id": "t1_p6dm3d3",
+      "author": "ninjasaid13",
+      "author_flair_text": "Not now.",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1787933626,
+      "body": ">RSI is closer to becoming a reality\n\nwe are nowhere close to this."
+    },
+    {
+      "depth": 0,
+      "id": "p6dkdbp",
+      "parent_id": "t3_1w0k3et",
+      "author": "seeKAYx",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1787904206,
+      "body": "But the new HY4 pricing is roughly 5-6x higher than HY3, so you're looking at about a 400-500% increase in input/output cost."
+    },
+    {
+      "depth": 0,
+      "id": "p6dkp0u",
+      "parent_id": "t3_1w0k3et",
+      "author": "PsychologicalSoup251",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1787904377,
+      "body": "With those math benchmarks and this recent news: [https://www.reddit.com/r/singularity/comments/1vh2yck/a\\_hy3powered\\_research\\_agent\\_just\\_helped\\_settle\\_a/](https://www.reddit.com/r/singularity/comments/1vh2yck/a_hy3powered_research_agent_just_helped_settle_a/)\n\nwonder if Tencent intends to dominated China's frontier math niche"
+    },
+    {
+      "depth": 0,
+      "id": "p6dmyq8",
+      "parent_id": "t3_1w0k3et",
+      "author": "Routine_Temporary661",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1787905544,
+      "body": "DeepSWE 64 Is pretty decent"
+    },
+    {
+      "depth": 0,
+      "id": "p6e5vz9",
+      "parent_id": "t3_1w0k3et",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1787914557,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "p6e98f3",
+      "parent_id": "t3_1w0k3et",
+      "author": "Psychological_Bell48",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1787915869,
+      "body": "Interesting "
+    }
+  ]
+}
