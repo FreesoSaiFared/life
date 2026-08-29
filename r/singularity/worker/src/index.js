@@ -59,9 +59,10 @@ async function contribute(req,env){
   return json({status:"submitted",submission_id:id,auto_publish_at:s.auto_publish_at,moderation_issue:issue.html_url,moderator_email_sent:note.sent,email_note:note.sent?undefined:note.reason},202);
 }
 export default{async fetch(req,env){const u=new URL(req.url);
-  if(req.method==="GET"&&u.pathname===PREFIX+"/api/health")return json({ok:true,service:"transductive-r-singularity",contribution_configured:Boolean(env.GITHUB_TOKEN),email_configured:Boolean(env.RESEND_API_KEY&&env.MODERATOR_EMAIL)});
-  if(req.method==="POST"&&u.pathname===PREFIX+"/api/contribute")return contribute(req,env);
-  if(req.method==="OPTIONS"&&u.pathname.startsWith(PREFIX+"/api/"))return new Response(null,{status:204});
-  if(u.pathname.startsWith(PREFIX))u.pathname=u.pathname.slice(PREFIX.length)||"/";
+  const path=u.pathname.startsWith(PREFIX)?(u.pathname.slice(PREFIX.length)||"/"):u.pathname;
+  if(req.method==="GET"&&path==="/api/health")return json({ok:true,service:"transductive-r-singularity",contribution_configured:Boolean(env.GITHUB_TOKEN),email_configured:Boolean(env.RESEND_API_KEY&&env.MODERATOR_EMAIL)});
+  if(req.method==="POST"&&path==="/api/contribute")return contribute(req,env);
+  if(req.method==="OPTIONS"&&path.startsWith("/api/"))return new Response(null,{status:204});
+  u.pathname=path;
   return env.ASSETS.fetch(new Request(u,req));
 }};
