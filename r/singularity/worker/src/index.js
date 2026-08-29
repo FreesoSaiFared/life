@@ -42,6 +42,8 @@ async function contribute(req,env){
   let p;try{p=normalize(await req.json())}catch(e){return json({error:String(e.message||e)},400)}
   let posts;try{posts=await registry(env)}catch(e){return json({error:String(e.message||e)},503)}
   const post=posts.find(x=>x.reddit_id===p.reddit_id);if(!post)return json({error:"unknown reddit_id"},404);
+  const expectedSourceBytes=Number(post.source_bytes||0);
+  if(p.source_bytes_observed!==expectedSourceBytes)return json({error:"stale evidence version",expected_source_bytes:expectedSourceBytes,observed_source_bytes:p.source_bytes_observed},409);
   if(post.summary_status==="published"&&!post.summary_refresh_needed)return json({error:"article already has a current published summary"},409);
   const d=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(p.reddit_id+"\0"+p.summary_markdown));
   const id=hex(d).slice(0,24), repo=env.GITHUB_REPO||"FreesoSaiFared/life", branch=env.GITHUB_BRANCH||"master";
