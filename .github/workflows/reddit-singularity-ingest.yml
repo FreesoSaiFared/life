@@ -1,0 +1,33 @@
+name: reddit-singularity-ingest
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Ingest r/singularity
+        run: python r/singularity/scripts/ingest_reddit.py
+      - name: Validate registry
+        run: python -m json.tool r/singularity/data/posts.json >/dev/null
+      - name: Commit changed evidence registry
+        run: |
+          git config user.name 'transductive-ingest'
+          git config user.email 'transductive-ingest@users.noreply.github.com'
+          git add r/singularity/data
+          if git diff --cached --quiet; then
+            echo 'No source change'
+            exit 0
+          fi
+          git commit -m 'Daily r/singularity evidence ingest'
+          git push
