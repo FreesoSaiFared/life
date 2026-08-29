@@ -1,0 +1,28 @@
+name: reddit-singularity-ci
+on:
+  workflow_dispatch:
+  push:
+    branches: [reddit-singularity]
+    paths:
+      - 'r/singularity/**'
+      - '.github/workflows/reddit-singularity-ci.yml'
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - uses: actions/setup-node@v4
+        with: {node-version: '22'}
+      - name: Syntax checks
+        run: |
+          python -m py_compile r/singularity/scripts/ingest_reddit.py r/singularity/scripts/moderate_submissions.py
+          node --check r/singularity/app.js
+          node --check r/singularity/contributor.user.js
+          node --check r/singularity/worker/src/index.js
+          python -m json.tool r/singularity/data/posts.json >/dev/null
+      - name: Wrangler dry-run
+        run: npx --yes wrangler@4 deploy --dry-run --config r/singularity/worker/wrangler.jsonc --outdir /tmp/transductive-r-singularity
