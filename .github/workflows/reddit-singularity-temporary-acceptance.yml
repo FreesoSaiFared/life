@@ -23,6 +23,52 @@ jobs:
       - name: Install acceptance tools
         run: npm install --no-save wrangler@4 playwright-core
 
+      - name: Prove stale-evidence POST rejection
+        run: |
+          node <<'NODE'
+          const fs=require('fs');
+          const assert=require('assert/strict');
+          (async()=>{
+            const src=fs.readFileSync('r/singularity/worker/src/index.js','utf8');
+            const mod=await import('data:text/javascript;base64,'+Buffer.from(src).toString('base64'));
+            const env={
+              GITHUB_TOKEN:'test-only-not-a-real-token',
+              ASSETS:{fetch:async()=>new Response(JSON.stringify([{
+                reddit_id:'abc123',
+                source_bytes:777,
+                summary_status:'missing',
+                summary_refresh_needed:false
+              }]),{headers:{'content-type':'application/json'}})}
+            };
+            const proposal={
+              reddit_id:'abc123',
+              title:'Contract fixture',
+              dek:'Fixture deck',
+              summary_markdown:'This is a deliberately long contract fixture summary used only to prove stale evidence rejection before any GitHub mutation can occur.',
+              cited_comments:[],
+              source_bytes_observed:776,
+              generated_at:'2026-08-29T10:00:00Z'
+            };
+            const stale=await mod.default.fetch(new Request('https://fixture/r/singularity/api/contribute',{
+              method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(proposal)
+            }),env);
+            const staleBody=await stale.json();
+            assert.equal(stale.status,409);
+            assert.equal(staleBody.error,'stale evidence version');
+            assert.equal(staleBody.expected_source_bytes,777);
+            assert.equal(staleBody.observed_source_bytes,776);
+
+            delete proposal.source_bytes_observed;
+            const malformed=await mod.default.fetch(new Request('https://fixture/r/singularity/api/contribute',{
+              method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(proposal)
+            }),env);
+            const malformedBody=await malformed.json();
+            assert.equal(malformed.status,400);
+            assert.match(malformedBody.error,/source_bytes_observed/);
+            console.log(JSON.stringify({stale_evidence_status:stale.status,malformed_evidence_status:malformed.status}));
+          })().catch(e=>{console.error(e);process.exit(1)});
+          NODE
+
       - name: Build tokenless preview config
         run: |
           node <<'NODE'
