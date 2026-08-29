@@ -1,0 +1,26 @@
+{
+  "post_id": "1w1dq48",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Sam Altman says OpenAI are working on a humanoid robot.",
+    "author": "borowcy",
+    "score": 23,
+    "upvote_ratio": 1,
+    "num_comments": 4,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1787981197,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w1dq48/sam_altman_says_openai_are_working_on_a_humanoid/"
+  },
+  "comments": []
+}

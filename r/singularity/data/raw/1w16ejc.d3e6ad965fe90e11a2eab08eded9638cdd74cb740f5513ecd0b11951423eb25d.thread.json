@@ -1,0 +1,41 @@
+{
+  "post_id": "1w16ejc",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~9h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence - Stanford Digital Economy Lab",
+    "author": "OkBelt3772",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1787959844,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w16ejc/canaries_in_the_coal_mine_six_facts_about_the/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p6ik8lr",
+      "parent_id": "t3_1w16ejc",
+      "author": "OkBelt3772",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1787959871,
+      "body": "- We find no evidence of widespread, economy-wide job displacement.\n- However, employment of young workers (ages 22–25) in AI-exposed occupations now stands 19% below where it would be had it kept pace with that of their less-exposed peers; experienced workers show no comparable gap.\n- This divergence has widened steadily since we first documented it in August 2025.\nIt operates primarily through reduced hiring of young workers rather than increased separations.\n- Declines are concentrated in occupations where AI usage primarily substitutes for human tasks; where usage primarily complements workers, employment is flat or rising, especially for experienced workers\n- Adjustment is occurring through employment rather than base compensation."
+    }
+  ]
+}

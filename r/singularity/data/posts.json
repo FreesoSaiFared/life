@@ -5,13 +5,13 @@
     "json_url": "https://www.reddit.com/r/singularity/comments/1w1gl6t/why_are_people_on_the_left_and_centre_in_so_much.json",
     "title": "Why are people on the Left and Centre in so much denial about AI?",
     "author": "WonderFactory",
-    "last_ingested_at": "2026-08-29T08:41:40.498089+00:00",
+    "last_ingested_at": "2026-08-29T08:43:53.556640+00:00",
     "last_ingest_error": null,
     "score": 1,
     "comment_count": 0,
     "created_utc": 1787990868,
     "source_bytes": 1655,
-    "previous_source_bytes": 0,
+    "previous_source_bytes": 1655,
     "summary_status": "missing",
     "summary": null,
     "summary_version": 0,
@@ -26,7 +26,7 @@
     "source_more_stubs": 0,
     "source_max_depth": 0,
     "source_comment_count": 0,
-    "previous_source_sha256": null,
+    "previous_source_sha256": "4c7f7e932e3c4bd52ea662aa22b0f6dc0b5ea80d2feb1ee5661a72dbd0e0105a",
     "source_sha256": "4c7f7e932e3c4bd52ea662aa22b0f6dc0b5ea80d2feb1ee5661a72dbd0e0105a",
     "source_changed": false,
     "source_history": [
@@ -37,7 +37,9 @@
         "source": "arctic-shift"
       }
     ],
-    "ingest_receipt": "[arctic-shift] 0 comments, depth 0, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w1gl6t.thread.json\n  ! thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+    "ingest_receipt": "[arctic-shift] 0 comments, depth 0, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w1gl6t.thread.json\n  ! thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
+    "source_missing_comments": 0,
+    "source_snapshot": "1w1gl6t.4c7f7e932e3c4bd52ea662aa22b0f6dc0b5ea80d2feb1ee5661a72dbd0e0105a.thread.json"
   },
   {
     "reddit_id": "1w1g1k9",
@@ -68,7 +70,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:41:41.972145+00:00",
+    "last_ingested_at": "2026-08-29T08:43:55.246189+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 0 comments, depth 0, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w1g1k9.thread.json\n  ! thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -77,7 +79,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w1g1k9.f6aeb75240eb66e049640939e4fb00934088d6f40de9a623d748eecfe040c04d.thread.json"
   },
   {
     "reddit_id": "1w1fbvc",
@@ -91,7 +95,7 @@
     "created_utc": 1787986514,
     "source_kind": "complete-thread-json",
     "source_origin": "arctic-shift",
-    "source_complete": true,
+    "source_complete": false,
     "source_more_stubs": 0,
     "source_max_depth": 0,
     "source_comment_count": 0,
@@ -108,7 +112,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:41:43.456586+00:00",
+    "last_ingested_at": "2026-08-29T08:43:56.989893+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 0 comments, depth 0, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w1fbvc.thread.json\n  ! thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -117,7 +121,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 1,
+    "source_snapshot": "1w1fbvc.206f4120afd9e04cc18353bd12b69d8987ac862208f773127568fdab950836be.thread.json"
   },
   {
     "reddit_id": "1w1e3h5",
@@ -131,7 +137,7 @@
     "created_utc": 1787982386,
     "source_kind": "complete-thread-json",
     "source_origin": "arctic-shift",
-    "source_complete": true,
+    "source_complete": false,
     "source_more_stubs": 0,
     "source_max_depth": 0,
     "source_comment_count": 0,
@@ -148,7 +154,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:41:44.528422+00:00",
+    "last_ingested_at": "2026-08-29T08:43:58.666746+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 0 comments, depth 0, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w1e3h5.thread.json\n  ! thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -157,7 +163,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 26,
+    "source_snapshot": "1w1e3h5.0591efe551584f6bfd02abf3b4b594513c1ce7a9a091fba35b4a4d8026194d9c.thread.json"
   },
   {
     "reddit_id": "1w1dq48",
@@ -171,7 +179,7 @@
     "created_utc": 1787981197,
     "source_kind": "complete-thread-json",
     "source_origin": "arctic-shift",
-    "source_complete": true,
+    "source_complete": false,
     "source_more_stubs": 0,
     "source_max_depth": 0,
     "source_comment_count": 0,
@@ -188,7 +196,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:41:45.455784+00:00",
+    "last_ingested_at": "2026-08-29T08:43:59.874967+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 0 comments, depth 0, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w1dq48.thread.json\n  ! thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -197,7 +205,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 4,
+    "source_snapshot": "1w1dq48.4e9debfd0301cdc61ef92750e4d812e3235792be6d584213fef6905c9583f350.thread.json"
   },
   {
     "reddit_id": "1w1dird",
@@ -211,7 +221,7 @@
     "created_utc": 1787980556,
     "source_kind": "complete-thread-json",
     "source_origin": "arctic-shift",
-    "source_complete": true,
+    "source_complete": false,
     "source_more_stubs": 0,
     "source_max_depth": 0,
     "source_comment_count": 0,
@@ -228,7 +238,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:41:46.284588+00:00",
+    "last_ingested_at": "2026-08-29T08:44:01.556405+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 0 comments, depth 0, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w1dird.thread.json\n  ! thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -237,7 +247,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 2,
+    "source_snapshot": "1w1dird.1bd84526bc6367a99023a3b355e6fd82b0c5da6ff5c9638d8227227c7978b760.thread.json"
   },
   {
     "reddit_id": "1w1d01y",
@@ -251,7 +263,7 @@
     "created_utc": 1787978931,
     "source_kind": "complete-thread-json",
     "source_origin": "arctic-shift",
-    "source_complete": true,
+    "source_complete": false,
     "source_more_stubs": 0,
     "source_max_depth": 0,
     "source_comment_count": 0,
@@ -268,7 +280,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:41:47.819975+00:00",
+    "last_ingested_at": "2026-08-29T08:44:03.339203+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 0 comments, depth 0, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w1d01y.thread.json\n  ! thread is ~4h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -277,7 +289,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 38,
+    "source_snapshot": "1w1d01y.a3435c975fecb07d192058dd93a210f4d83c2c5b3a2b91a2390b01e871387303.thread.json"
   },
   {
     "reddit_id": "1w1bly3",
@@ -291,7 +305,7 @@
     "created_utc": 1787974663,
     "source_kind": "complete-thread-json",
     "source_origin": "arctic-shift",
-    "source_complete": true,
+    "source_complete": false,
     "source_more_stubs": 0,
     "source_max_depth": 0,
     "source_comment_count": 0,
@@ -308,7 +322,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:41:48.798760+00:00",
+    "last_ingested_at": "2026-08-29T08:44:05.448834+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 0 comments, depth 0, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w1bly3.thread.json\n  ! thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -317,7 +331,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 42,
+    "source_snapshot": "1w1bly3.3d9d5ee2d443c5ca8b0dac33443f1af9197287d316f9e57d56d8731d865e59b5.thread.json"
   },
   {
     "reddit_id": "1w1a5li",
@@ -348,7 +364,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:41:50.404004+00:00",
+    "last_ingested_at": "2026-08-29T08:44:07.213332+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 25 comments, depth 3, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w1a5li.thread.json\n  ! thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -357,7 +373,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w1a5li.f531614507d51272a2f6ec50e94887ef18a1fdcb90c85f07647f5879cc47d08f.thread.json"
   },
   {
     "reddit_id": "1w1823q",
@@ -388,7 +406,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:41:51.800237+00:00",
+    "last_ingested_at": "2026-08-29T08:44:09.142053+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 164 comments, depth 7, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w1823q.thread.json\n  ! thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -397,7 +415,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w1823q.d4699da83eee6b76a4d1cfe278b8b3254f09109e1ede6fd98c7e74422d173fc9.thread.json"
   },
   {
     "reddit_id": "1w16ejc",
@@ -428,7 +448,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:41:53.334163+00:00",
+    "last_ingested_at": "2026-08-29T08:44:11.427289+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 1 comments, depth 0, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w16ejc.thread.json\n  ! thread is ~9h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -437,7 +457,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w16ejc.d3e6ad965fe90e11a2eab08eded9638cdd74cb740f5513ecd0b11951423eb25d.thread.json"
   },
   {
     "reddit_id": "1w120cw",
@@ -468,7 +490,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:41:54.612306+00:00",
+    "last_ingested_at": "2026-08-29T08:44:13.355313+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 233 comments, depth 7, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w120cw.thread.json\n  ! thread is ~12h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -477,7 +499,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w120cw.34eb5e96dbcac257934236aae7d51a91598fe32d48ab6f9174148da337c859b0.thread.json"
   },
   {
     "reddit_id": "1w11kz8",
@@ -508,7 +532,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:41:56.502773+00:00",
+    "last_ingested_at": "2026-08-29T08:44:15.670919+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 214 comments, depth 7, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w11kz8.thread.json\n  ! thread is ~12h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -517,7 +541,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w11kz8.778a5803b9725c6e7b837ae4173400175bddd10f61bf5185d49a37e38a59cb7f.thread.json"
   },
   {
     "reddit_id": "1w10ty7",
@@ -548,7 +574,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:41:58.489282+00:00",
+    "last_ingested_at": "2026-08-29T08:44:17.929835+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 27 comments, depth 6, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w10ty7.thread.json\n  ! thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -557,7 +583,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w10ty7.50520bee886b17be92168d48c39599c59b969e0496829560f564ad2203841e3b.thread.json"
   },
   {
     "reddit_id": "1w0xisb",
@@ -588,7 +616,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:41:59.936174+00:00",
+    "last_ingested_at": "2026-08-29T08:44:19.980260+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 55 comments, depth 7, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w0xisb.thread.json\n  ! thread is ~15h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -597,7 +625,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w0xisb.5977ccde27673521d56424bf18fc7846add617884b0c7bdc558a8f718d313d31.thread.json"
   },
   {
     "reddit_id": "1w0ur6v",
@@ -628,7 +658,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:42:01.366601+00:00",
+    "last_ingested_at": "2026-08-29T08:44:22.065764+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 413 comments, depth 7, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w0ur6v.thread.json\n  ! thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -637,7 +667,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w0ur6v.cde220c30a2e1333d7f89501962b528140a3fc69fa2a890290091f53f8388d61.thread.json"
   },
   {
     "reddit_id": "1w0t2my",
@@ -668,7 +700,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:42:02.946781+00:00",
+    "last_ingested_at": "2026-08-29T08:44:24.192792+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 21 comments, depth 3, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w0t2my.thread.json\n  ! thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -677,7 +709,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w0t2my.d42551b2c6ea2e3def4e5f2aa3d97684a2fee54e6c74c5ab669065b52443d880.thread.json"
   },
   {
     "reddit_id": "1w0rwlx",
@@ -708,7 +742,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:42:04.332692+00:00",
+    "last_ingested_at": "2026-08-29T08:44:26.264101+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 68 comments, depth 16, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w0rwlx.thread.json\n  ! thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -717,7 +751,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w0rwlx.bb7ce7c0471fab6734ba319b4f7309f2f8416601c49ac1a1e184fcfb5f36ffa6.thread.json"
   },
   {
     "reddit_id": "1w0rmif",
@@ -748,7 +784,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:42:05.834350+00:00",
+    "last_ingested_at": "2026-08-29T08:44:28.215050+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 81 comments, depth 6, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w0rmif.thread.json\n  ! thread is ~19h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -757,7 +793,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w0rmif.e8f53d3a3d650ed090b8bc93551e4ce4e55c07ce4292750bf20a242972d9b50a.thread.json"
   },
   {
     "reddit_id": "1w0oqrg",
@@ -788,7 +826,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:42:07.396262+00:00",
+    "last_ingested_at": "2026-08-29T08:44:30.573690+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 10 comments, depth 2, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w0oqrg.thread.json\n  ! thread is ~21h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -797,7 +835,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w0oqrg.f66eae8e51040ab245466d80650bea34438b37b8ddb1b3631b0b9ed59a2f07a9.thread.json"
   },
   {
     "reddit_id": "1w0mn1a",
@@ -828,7 +868,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:42:08.411225+00:00",
+    "last_ingested_at": "2026-08-29T08:44:32.489733+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 24 comments, depth 3, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w0mn1a.thread.json\n  ! thread is ~22h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -837,7 +877,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w0mn1a.8a4e8d494b51ddf7f369dd67f76cc098b5c5ffd5288922fd4930c07577b80f79.thread.json"
   },
   {
     "reddit_id": "1w0l1di",
@@ -868,7 +910,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:42:09.844495+00:00",
+    "last_ingested_at": "2026-08-29T08:44:34.617721+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 66 comments, depth 4, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w0l1di.thread.json\n  ! thread is ~24h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -877,7 +919,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w0l1di.c8c4395ef8be021482df4577c68fcbaf1bcb9b9cb5a91de7af2b1c5eff85d0c6.thread.json"
   },
   {
     "reddit_id": "1w0koli",
@@ -908,7 +952,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:42:11.291166+00:00",
+    "last_ingested_at": "2026-08-29T08:44:36.713723+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 87 comments, depth 6, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w0koli.thread.json\n  ! thread is ~24h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -917,7 +961,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w0koli.8b05cf0fb4329e8526d40f68f8fb39618fd532ba9ce94f938506537577cb2d57.thread.json"
   },
   {
     "reddit_id": "1w0k3et",
@@ -948,7 +994,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:42:12.447630+00:00",
+    "last_ingested_at": "2026-08-29T08:44:38.762965+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 9 comments, depth 3, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w0k3et.thread.json\n  ! thread is ~25h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -957,7 +1003,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w0k3et.82f44baaf3e5737f73f6b1ee72dca20dbb6692ad5f1a7f59582caf5a406d128c.thread.json"
   },
   {
     "reddit_id": "1w0gtdx",
@@ -988,7 +1036,7 @@
         "source": "arctic-shift"
       }
     ],
-    "last_ingested_at": "2026-08-29T08:42:13.779806+00:00",
+    "last_ingested_at": "2026-08-29T08:44:40.472600+00:00",
     "last_ingest_error": null,
     "ingest_receipt": "[arctic-shift] 259 comments, depth 17, all_scored=True, complete=True -> /home/runner/work/life/life/r/singularity/data/raw/1w0gtdx.thread.json\n  ! thread is ~28h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores.",
     "summary_refresh_needed": false,
@@ -997,7 +1045,9 @@
     "summary_version": 0,
     "submitted_at": null,
     "auto_publish_at": null,
-    "direct_comment_links": []
+    "direct_comment_links": [],
+    "source_missing_comments": 0,
+    "source_snapshot": "1w0gtdx.8383e4c135b07738381651154d0e4a8de05a6b266e92988640bbdcf90cc18682.thread.json"
   },
   {
     "reddit_id": "demo-singularity-001",
