@@ -1,0 +1,26 @@
+{
+  "post_id": "1w1dird",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "MineBench Comparisons of a map of the United States",
+    "author": "ENT_Alam",
+    "score": 15,
+    "upvote_ratio": 0.94,
+    "num_comments": 2,
+    "link_flair_text": "Video",
+    "created_utc": 1787980556,
+    "selftext": "**US State Map comparison**: [https://minebench.ai/gallery/gal\\_eKIVk2m4B3SC\\_r8B?sort=new](https://minebench.ai/gallery/gal_eKIVk2m4B3SC_r8B?sort=new)\n\nMuch smaller (update) post, but I know in previous posts most people were hoping for more prompts. There's been a lot more additions to MineBench, including a gallery of custom prompts users can showcase and upvote (to add to the official benchmarking set); thought you guys might enjoy this :D\n\n  \nAlso, for a limited time, logged-in users get unlimited generations with Gemini 3.7 Flash (thanks to Google Deepmind!)\n\n  \n**MineBench 4.0 Release Notes**: [https://github.com/Ammaar-Alam/minebench/releases/tag/4.0.0](https://github.com/Ammaar-Alam/minebench/releases/tag/4.0.0)\n\nHighlights:\n\n* Now available on the appstore for iOS\n* Due to interest from a few labs, MineBench now supports A/B testing private model checkpoints (same policies as LM Arena)\n* [Community Gallery](https://minebench.ai/gallery)\n\n**Previous Posts:**\n\n* [Comparing Fable 5 and Opus 5](https://www.reddit.com/r/ClaudeAI/comments/1v7i49g/differences_between_fable_5_and_opus_5_on/)\n* [Comparing GPT-5.5 Pro and GPT-5.6 Sol](https://www.reddit.com/r/singularity/comments/1uwhvws/differences_between_gpt55_pro_and_gpt56_sol_on/)\n* [Comparing Opus 4.8 and Fable 5](https://www.reddit.com/r/singularity/comments/1u35fjw/differences_between_claude_opus_48_and_claude/)\n* [Comparing Opus 4.7 and Opus 4.8](https://www.reddit.com/r/ClaudeAI/comments/1tt3a8h/differences_between_opus_47_and_opus_48_on/)\n* [Comparing GPT 5.4 and GPT 5.5](https://www.reddit.com/r/singularity/comments/1sxapqb/differences_between_gpt_54_and_gpt_55_on_minebench/)\n* [Comparing Kimi K2.5 and Kimi K2.6](https://www.reddit.com/r/LocalLLaMA/comments/1srs4uj/differences_between_kimi_k25_and_kimi_k26_on/)\n* [Comparing Opus 4.6 and Opus 4.7](https://www.reddit.com/r/ClaudeAI/comments/1sofgno/differences_between_opus_46_and_opus_47_on/)\n* [Comparing GPT 5.4 and GPT 5.4-Pro](https://www.reddit.com/r/OpenAI/comments/1rr0vi4/differences_between_gpt_54_and_gpt_54pro_on/)\n* [Comparing GPT 5.2 and GPT 5.4](https://www.reddit.com/r/singularity/comments/1rluvdz/difference_between_gpt_52_and_gpt_54_on_minebench/)\n* [Comparing GPT 5.2 and GPT 5.3-Codex](https://www.reddit.com/r/OpenAI/comments/1rdwau3/gpt_52_versus_gpt_53codex_on_minebench/)\n* [Comparing Opus 4.5 and 4.6, also answered some questions about the benchmark](https://www.reddit.com/r/ClaudeAI/comments/1qx3war/difference_between_opus_46_and_opus_45_on_my_3d/)\n* [Comparing Opus 4.6 and GPT-5.2 Pro](https://www.reddit.com/r/OpenAI/comments/1r3v8sd/difference_between_opus_46_and_gpt52_pro_on_a/)\n* [Comparing Gemini 3.0 and Gemini 3.1](https://www.reddit.com/r/singularity/comments/1ra6x6n/fixed_difference_between_gemini_30_pro_and_gemini/)\n\n**Extra Information (if you're confused):**\n\nEssentially it's a benchmark that tests how well a model can create a 3D Minecraft-like structure.\n\nSo the models are given a palette of blocks (think of them like legos) and a prompt of what to build, so like the first prompt you see in the post was a fighter jet. Then the models had to build a fighter jet by returning a JSON in which they gave the coordinate of each block/lego (x, y, z). It's interesting to see which model is able to create a better 3D representation of the given prompt.\n\nThe smarter models tend to design much more detailed and intricate builds. The repository readme might help give a better understanding.\n\n*(Disclaimer: This is a public benchmark I created, so technically self-promotion :)*",
+    "permalink": "/r/singularity/comments/1w1dird/minebench_comparisons_of_a_map_of_the_united/"
+  },
+  "comments": []
+}
