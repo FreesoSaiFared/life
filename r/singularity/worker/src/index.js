@@ -17,14 +17,14 @@ async function registry(env){const r=await env.ASSETS.fetch(new Request("https:/
 function normalize(x){
   if(!x||typeof x!=="object")throw new Error("proposal must be an object");
   const p={reddit_id:String(x.reddit_id||"").toLowerCase(),title:String(x.title||"").trim(),dek:String(x.dek||"").trim(),
-    summary_markdown:String(x.summary_markdown||"").trim(),source_bytes_observed:Number(x.source_bytes_observed||0),
+    summary_markdown:String(x.summary_markdown||"").trim(),source_bytes_observed:Number(x.source_bytes_observed),
     cited_comments:Array.isArray(x.cited_comments)?x.cited_comments.slice(0,80).map(c=>({author:String(c?.author||""),
       score:Number.isFinite(Number(c?.score))?Number(c.score):null,permalink:String(c?.permalink||""),claim:String(c?.claim||"").slice(0,2000)})):[]
   };
   if(!/^[a-z0-9]+$/.test(p.reddit_id))throw new Error("invalid reddit_id");
   if(!p.title||p.title.length>500)throw new Error("invalid title");
   if(!p.dek||p.dek.length>1000)throw new Error("invalid dek");
-  if(p.summary_markdown.length<80||p.summary_markdown.length>60000)throw new Error("summary_markdown must be 80..60000 characters");
+  if(p.summary_markdown.length<80||p.summary_markdown.length>60000)throw new Error("summary_markdown must be 80..60000 characters");\n  if(!Number.isInteger(p.source_bytes_observed)||p.source_bytes_observed<0)throw new Error("source_bytes_observed must be a non-negative integer");
   for(const c of p.cited_comments)if(c.permalink&&!/^https:\/\/(?:www\.)?reddit\.com\//i.test(c.permalink))throw new Error("citation permalink must be reddit.com");
   return p;
 }

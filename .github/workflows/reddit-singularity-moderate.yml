@@ -1,6 +1,11 @@
 name: reddit-singularity-moderate
 on:
   workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - 'r/singularity/scripts/moderate_submissions.py'
+      - '.github/workflows/reddit-singularity-moderate.yml'
   schedule:
     - cron: '11 * * * *'
 permissions:
@@ -19,6 +24,8 @@ jobs:
           gh label create transductive-review --color 1D76DB --description 'Awaiting transductive editorial review' --force
           gh label create transductive-approved --color 0E8A16 --description 'Publish on next moderation pass' --force
           gh label create transductive-rejected --color B60205 --description 'Do not publish' --force
+      - name: Prove moderation state machine
+        run: python r/singularity/scripts/moderate_submissions.py --selftest
       - name: Apply moderation and 48h autopublish
         env: {GITHUB_TOKEN: "${{ github.token }}"}
         run: python r/singularity/scripts/moderate_submissions.py
