@@ -5,7 +5,7 @@ on:
   push:
     branches: [master]
     paths:
-      - '.github/workflows/reddit-singularity-temporary-acceptance.yml'
+      - '.github/workflows/reddit-singularity-temporary-acceptance.yml'\n      - 'r/singularity/worker/**'
 
 permissions:
   contents: read
