@@ -39,35 +39,24 @@ jobs:
         shell: bash
         run: |
           set +e
-          npx wrangler deploy --temporary --config r/singularity/worker/wrangler.preview.jsonc >/tmp/wrangler-temporary.out 2>&1
+          NO_COLOR=1 npx wrangler deploy --temporary --config r/singularity/worker/wrangler.preview.jsonc >/tmp/wrangler-temporary.out 2>&1
           code=$?
           set -e
           if [ "$code" -ne 0 ]; then
-            sed -E 's#https://dash\.cloudflare\.com/claim-preview[^[:space:]]*#[CLAIM_URL_REDACTED]#g' /tmp/wrangler-temporary.out | tail -80
+            grep -viE 'claim|token' /tmp/wrangler-temporary.out | tail -80
             exit "$code"
           fi
           PREVIEW_URL="$(grep -Eo 'https://[^[:space:]]+\.workers\.dev' /tmp/wrangler-temporary.out | tail -1 | tr -d '\r')"
           if [ -z "$PREVIEW_URL" ]; then
             echo "Temporary deploy succeeded but no workers.dev URL was parsed."
-            sed -E 's#https://dash\.cloudflare\.com/claim-preview[^[:space:]]*#[CLAIM_URL_REDACTED]#g' /tmp/wrangler-temporary.out | tail -80
+            grep -viE 'claim|token' /tmp/wrangler-temporary.out | tail -80
             exit 1
           fi
           echo "PREVIEW_URL=$PREVIEW_URL" >> "$GITHUB_ENV"
           echo "Temporary preview: $PREVIEW_URL"
+          grep -iE 'uploaded|total upload|binding|deployed|trigger|assets' /tmp/wrangler-temporary.out | grep -viE 'claim|token' | tail -40 || true
 
-      - name: HTTP acceptance
-        run: |
-          curl --fail --retry 5 --retry-delay 2 "$PREVIEW_URL/r/singularity/api/health" -o /tmp/health.json
-          node - <<'NODE'
-          const h=require('/tmp/health.json');
-          if(!h.ok || h.service!=='transductive-r-singularity') throw new Error('health contract failed');
-          if(h.contribution_configured || h.email_configured) throw new Error('temporary preview unexpectedly has production secrets');
-          console.log(JSON.stringify(h));
-          NODE
-          curl --fail --retry 5 --retry-delay 2 "$PREVIEW_URL/r/singularity/" -o /tmp/index.html
-          grep -F 'r/singularity · transductive view' /tmp/index.html
-
-      - name: Real Chrome desktop and mobile acceptance
+      - name: Real Chrome route, API, desktop and mobile acceptance
         run: |
           CHROME="$(command -v google-chrome || command -v google-chrome-stable || command -v chromium || command -v chromium-browser)"
           test -n "$CHROME"
@@ -75,30 +64,65 @@ jobs:
           const {chromium}=require('playwright-core');
           const fs=require('fs');
           (async()=>{
+            const base=process.env.PREVIEW_URL;
             const browser=await chromium.launch({headless:true,executablePath:process.env.CHROME,args:['--no-sandbox']});
+            const probeContext=await browser.newContext({viewport:{width:1280,height:900}});
+            const probe=await probeContext.newPage();
+            const probes=[];
+            for(const path of ['/', '/r/singularity/', '/api/health', '/r/singularity/api/health']){
+              let response=null, error=null;
+              try{
+                response=await probe.goto(base+path,{waitUntil:'domcontentloaded',timeout:30000});
+                await probe.waitForTimeout(2200);
+              }catch(e){error=String(e)}
+              probes.push({
+                path,
+                status:response?.status()??null,
+                contentType:response?.headers()['content-type']||null,
+                title:await probe.title().catch(()=>null),
+                body:(await probe.locator('body').innerText().catch(()=>'' )).slice(0,240),
+                error
+              });
+            }
+            await probeContext.close();
+
             const results=[];
             for(const viewport of [{name:'desktop',width:1440,height:1100},{name:'mobile',width:390,height:844}]){
               const page=await browser.newPage({viewport:{width:viewport.width,height:viewport.height}});
               const errors=[];
-              page.on('console',m=>{ if(m.type()==='error') errors.push(m.text()) });
+              page.on('console',m=>{if(m.type()==='error') errors.push(m.text())});
               page.on('pageerror',e=>errors.push(String(e)));
-              await page.goto(process.env.PREVIEW_URL+'/r/singularity/',{waitUntil:'networkidle'});
-              await page.waitForSelector('.post');
+              const response=await page.goto(base+'/r/singularity/',{waitUntil:'domcontentloaded',timeout:30000});
+              await page.waitForTimeout(2200);
+              await page.waitForSelector('.post',{timeout:15000});
               const listCount=await page.locator('.post').count();
               const overflow=await page.evaluate(()=>document.documentElement.scrollWidth-document.documentElement.clientWidth);
               const title=await page.title();
-              const first=page.locator('.post .title').first();
-              await first.click();
-              await page.waitForSelector('.article h1');
+              await page.locator('.post .title').first().click();
+              await page.waitForSelector('.article h1',{timeout:10000});
               const articleTitle=(await page.locator('.article h1').textContent()||'').trim();
               const contributionVisible=await page.locator('.proposal-label').count()>0;
               await page.screenshot({path:'/tmp/'+viewport.name+'.png',fullPage:true});
-              results.push({viewport:viewport.name,title,listCount,overflow,articleTitle,contributionVisible,errors});
+              results.push({viewport:viewport.name,status:response?.status(),title,listCount,overflow,articleTitle,contributionVisible,errors});
               await page.close();
             }
+
+            const api=await browser.newPage();
+            const healthResponse=await api.goto(base+'/r/singularity/api/health',{waitUntil:'domcontentloaded',timeout:30000});
+            await api.waitForTimeout(1500);
+            const healthText=(await api.locator('body').innerText()).trim();
+            let health=null; try{health=JSON.parse(healthText)}catch{}
+            await api.close();
             await browser.close();
-            fs.writeFileSync('/tmp/browser-acceptance.json',JSON.stringify(results,null,2));
+
+            const receipt={previewUrl:base,probes,healthStatus:healthResponse?.status(),health,results};
+            fs.writeFileSync('/tmp/browser-acceptance.json',JSON.stringify(receipt,null,2));
+            console.log(JSON.stringify(receipt));
+
+            if(healthResponse?.status()!==200 || !health?.ok || health.service!=='transductive-r-singularity') throw new Error('health contract failed');
+            if(health.contribution_configured || health.email_configured) throw new Error('temporary preview unexpectedly has production secrets');
             for(const r of results){
+              if(r.status!==200) throw new Error('reader HTTP failed '+JSON.stringify(r));
               if(r.title!=='r/singularity · transductive view') throw new Error('wrong title '+JSON.stringify(r));
               if(r.listCount<1) throw new Error('empty list '+JSON.stringify(r));
               if(r.overflow!==0) throw new Error('horizontal overflow '+JSON.stringify(r));
@@ -106,11 +130,11 @@ jobs:
               if(!r.contributionVisible) throw new Error('missing contribution UI '+JSON.stringify(r));
               if(r.errors.length) throw new Error('browser errors '+JSON.stringify(r));
             }
-            console.log(JSON.stringify(results));
           })().catch(e=>{console.error(e);process.exit(1)});
           NODE
 
       - name: Upload browser evidence
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: reddit-singularity-browser-acceptance
@@ -118,4 +142,5 @@ jobs:
             /tmp/browser-acceptance.json
             /tmp/desktop.png
             /tmp/mobile.png
+          if-no-files-found: ignore
           retention-days: 7
