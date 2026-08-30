@@ -1,0 +1,139 @@
+{
+  "post_id": "1w29ou2",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Introducing S1: A robot model that learns from one example",
+    "author": "bianceziwo",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1788070949,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w29ou2/introducing_s1_a_robot_model_that_learns_from_one/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p6r0ypb",
+      "parent_id": "t3_1w29ou2",
+      "author": "SwePolygyny",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788073171,
+      "body": "Great to see but I feel like it being forced to store it in the context window means it can just keep track of one such task at a time."
+    },
+    {
+      "depth": 1,
+      "id": "p6rvy2b",
+      "parent_id": "t1_p6r0ypb",
+      "author": "modbroccoli",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788088945,
+      "body": "the thing about using feelings for empirical questions is..."
+    },
+    {
+      "depth": 0,
+      "id": "p6r14b0",
+      "parent_id": "t3_1w29ou2",
+      "author": "Apprehensive_Key_314",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788073250,
+      "body": "this is what im thinking about when we talk agi, typical human task (so generally in part physical) learned on the fly"
+    },
+    {
+      "depth": 0,
+      "id": "p6r1ii3",
+      "parent_id": "t3_1w29ou2",
+      "author": "Fearless-Macaron9183",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788073452,
+      "body": "When are autonomous robots actually being launched for the public, does anyone know???"
+    },
+    {
+      "depth": 0,
+      "id": "p6r634j",
+      "parent_id": "t3_1w29ou2",
+      "author": "No_Fig1077",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788075803,
+      "body": "Good job you can extrapolate all the known possibilities of the universe from a single example "
+    },
+    {
+      "depth": 0,
+      "id": "p6r76yx",
+      "parent_id": "t3_1w29ou2",
+      "author": "osemec",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788076381,
+      "body": "This is BIG"
+    },
+    {
+      "depth": 0,
+      "id": "p6rpgnt",
+      "parent_id": "t3_1w29ou2",
+      "author": "TheNerdosapien",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788085887,
+      "body": "Considering I suck at making pancakes, I’m glad there will be a robot who can help make them for me in my old age. And by my old age, I mean, I’m already old, so like, now."
+    },
+    {
+      "depth": 1,
+      "id": "p6s0a97",
+      "parent_id": "t1_p6rpgnt",
+      "author": "GentlemansCollar",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788090797,
+      "body": "Did you not watch the video? The robot learns from watching its owner, apparently only one time. So I'm sorry to inform you that your robot will likely be as bad at making pancakes as you. Haha."
+    }
+  ]
+}

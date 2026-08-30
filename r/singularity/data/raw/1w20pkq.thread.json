@@ -1,0 +1,153 @@
+{
+  "post_id": "1w20pkq",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Create a problem, sell a solution",
+    "author": "GeneReddit123",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Shitposting",
+    "created_utc": 1788044320,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w20pkq/create_a_problem_sell_a_solution/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p6p4d4a",
+      "parent_id": "t3_1w20pkq",
+      "author": "Gold-Bat-3225",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788045191,
+      "body": "How much for the solution tho"
+    },
+    {
+      "depth": 1,
+      "id": "p6rtgxe",
+      "parent_id": "t1_p6p4d4a",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1788087821,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "p6p6flh",
+      "parent_id": "t3_1w20pkq",
+      "author": "Individual_Yard846",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788045906,
+      "body": "its hilarious, \"oh my god our models are so good at hacking!\" and then dont let anyone actually harden their defense with their models. AMERICAN FRONTIER LABS ARE TURNING EVIL for real."
+    },
+    {
+      "depth": 0,
+      "id": "p6pdh8n",
+      "parent_id": "t3_1w20pkq",
+      "author": "bethesda_gamer",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788048367,
+      "body": "Fun fact. Microsoft is now financing openAI, led by founder and major shareholder Billy Bob who coincidentally is also propagandizing all over the place about AI safety. \n\nNow by no means am I opposed to AI safety as a concept, but I don't think that's what's really going on here. Regardless of how good their AI is, no company has the financial backing and vertical integration to win the U.S. AI wars more than Google. OpenAI and Microsoft are both in direct competition with Google. And the only chance they have to been Google is to \"combine their forces\". How long do you think that's gonna last without any drama. \n\nThe more moving parts, the weaker the system etc."
+    },
+    {
+      "depth": 1,
+      "id": "p6qgjee",
+      "parent_id": "t1_p6pdh8n",
+      "author": "muffchucker",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788063373,
+      "body": ">\"Microsoft is now financing openai\"...\n\nSince 2019, yes.\n\nNice conspiracy theory weirdposting..."
+    },
+    {
+      "depth": 2,
+      "id": "p6qlp89",
+      "parent_id": "t1_p6qgjee",
+      "author": "bethesda_gamer",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788065682,
+      "body": "Whoa. Good call. It's bigger than I thought. \n\nSo they backed openAI since 2019 but are now positioning themselves to rid themselves of openAI and compete with Google and Tencent DIRECTLY. \n\nIn the U.S. this may well come down to Google vs. Microsoft directly. Hundred bucks says Claude gets bought out by one of them in the next year. Winner gets the exclusive government contract to go up against China in the final round."
+    },
+    {
+      "depth": 3,
+      "id": "p6qy8wp",
+      "parent_id": "t1_p6qlp89",
+      "author": "Robos_Basilisk",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788071786,
+      "body": "Stick to glazing Todd Howard please."
+    },
+    {
+      "depth": 0,
+      "id": "p6pex9h",
+      "parent_id": "t3_1w20pkq",
+      "author": "Forgword",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788048864,
+      "body": "Funny how AI was going to cure cancer, now it's the boogie man, that only they have the solution for."
+    },
+    {
+      "depth": 0,
+      "id": "p6rnedk",
+      "parent_id": "t3_1w20pkq",
+      "author": "the_real_ms178",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788084846,
+      "body": "What about mandating companies to ship fixes on EOL hardware down to the firmware level?! Or even better: Open sourcing all of that so that people and AI can do the work themselves if they want to."
+    }
+  ]
+}

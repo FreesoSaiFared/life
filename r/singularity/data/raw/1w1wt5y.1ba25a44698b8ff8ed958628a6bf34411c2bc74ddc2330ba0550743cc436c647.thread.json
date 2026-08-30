@@ -1,0 +1,83 @@
+{
+  "post_id": "1w1wt5y",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~16h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable.",
+    "author": "yogthos",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 1,
+    "link_flair_text": "AI",
+    "created_utc": 1788034585,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w1wt5y/canonicalbasis_realignment_for_transformer_llms/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p6o70u7",
+      "parent_id": "t3_1w1wt5y",
+      "author": "yogthos",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788034589,
+      "body": "The code essentially gives you a way to rotate a Transformer's internal coordinate system into a canonical basis that aligns with its own weight matrices in a lossless way. By absorbing the normalization gains directly into the adjacent weights and using orthogonal matrices built from the singular vectors of the model, you can transform architectures like Qwen or Pythia without altering their outputs or perplexity scores.\n\nApplying this transform reveals the actual hidden geometric structures operating inside the network. Once the model is rotated into this new perspective, you can see its internal mechanisms that were previously opaque. The authors found things like a bipolar oscillator where specific axes form inhibitory pairs that fire against each other in perfect opposition. They also observed a kind of rhythmic respiration across layers where the model alternates between absorbing knowledge and filtering it. On top of that, it exposed a homeostatic defense mechanism that aggressively erases any localized perturbations within just a couple of layers.\n\nPractically speaking, researchers now have a powerful lens for mapping out how models actually do reasoning. For example, it turns out that the effective rank of the correlation matrix in a half billion parameter model might be as low as eleven independent patterns. Reframes how we look at the internal activations of language models provides a standardized way to study their underlying architecture."
+    },
+    {
+      "depth": 1,
+      "id": "p6rqttl",
+      "parent_id": "t1_p6o70u7",
+      "author": "Correctsmorons69",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788086567,
+      "body": "Bipolar oscillator huh?  Sounds like you.  "
+    },
+    {
+      "depth": 0,
+      "id": "p6otjc8",
+      "parent_id": "t3_1w1wt5y",
+      "author": "create-third-places",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788041591,
+      "body": "Amazing! That’s some Glorbo tier AI."
+    },
+    {
+      "depth": 0,
+      "id": "p6qwu34",
+      "parent_id": "t3_1w1wt5y",
+      "author": "JoelMahon",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788071071,
+      "body": "I have no way to verify or deny any of this but agree with the other person that it has slop red flags all over.\n\nLike wtf is this jargon? No fucking way it's necessary. I've read countless AI papers by respected institutions and none of them have been this jargon heavy.\n\nGo look at \"attention is all you need\" for an example of a less absurd level of jargon."
+    }
+  ]
+}
