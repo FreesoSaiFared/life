@@ -202,3 +202,21 @@ Fresh production authority recheck:
 - Connected Windows Wrangler host was still unavailable to the Remote Desktop Commander transport in this continuation, so the existing authenticated OAuth profile could not be used here.
 
 No architecture change is required. The next executable production step remains authenticated Wrangler deployment through the Windows host or provisioning the four GitHub Actions secrets above, followed by public production Chrome acceptance and two controlled contribution/moderation transactions.
+
+
+## Successful contribution POST proof — 2026-08-30
+
+- PR #4 merged as `6e811faf6ed8c4caa2628afbc982625f612259fe`.
+- CI run `33311733007`: syntax PASS; comment accounting regression PASS; successful contribution POST contract PASS; Wrangler v4 dry-run PASS.
+- The contract test proves a valid proposal:
+  - returns HTTP 202;
+  - creates exactly one GitHub moderation issue;
+  - writes a durable pending submission;
+  - records an exact 48-hour auto-publish deadline;
+  - requests moderator email;
+  - preserves the submitted evidence version;
+  - returns duplicate submissions idempotently without creating a second issue.
+- Fresh production preflight run `33311766098` again skipped permanent deployment because production authorities remain unavailable.
+- Final authenticated Windows host probe in this continuation still reported no connected device.
+
+Current remaining boundary is therefore external authority only: production Cloudflare deployment + live email/GitHub-token configuration + public production contribution transactions.
