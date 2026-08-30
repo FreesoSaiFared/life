@@ -38,5 +38,7 @@ jobs:
           assert mod.reconcile_comment_counts(0,0,True)==(0,0,0,True)
           print('comment accounting regression PASS')
           PY
+      - name: Successful contribution POST contract
+        run: node r/singularity/tests/worker_contribute_contract.mjs
       - name: Wrangler dry-run
         run: npx --yes wrangler@4 deploy --dry-run --config r/singularity/worker/wrangler.jsonc --outdir /tmp/transductive-r-singularity
