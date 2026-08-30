@@ -53,6 +53,14 @@ def fetch_thread(url,rid):
 
 def evidence_url(rid):return f"https://transductive.org/r/singularity/data/raw/{rid}.thread.json"
 
+def reconcile_comment_counts(observed, reported, donor_complete):
+    observed=max(0,int(observed or 0))
+    raw_reported=reported if isinstance(reported,int) and reported>=0 else None
+    effective=max(observed,raw_reported or 0)
+    missing=max(0,(raw_reported or 0)-observed)
+    complete=bool(donor_complete) and missing==0
+    return effective,raw_reported,missing,complete
+
 def main():
     old=load_registry(); byid={p["reddit_id"]:p for p in old}; feed=get(FEED,"application/atom+xml,application/xml,text/xml,*/*"); seen=[]; failures=[]
     for title,feed_author,url in feed_entries(feed)[:50]:
@@ -63,17 +71,16 @@ def main():
             changed=bool(prior_digest and prior_digest!=digest)
             snapshot=RAW/f"{rid}.{digest}.thread.json"
             if not snapshot.exists():shutil.copy2(path,snapshot)
-            observed=int(summary.get("comments") or 0); reported=post.get("num_comments") if isinstance(post.get("num_comments"),int) else observed
-            missing=max(0,reported-observed)
-            complete=bool(summary.get("complete")) and missing==0
+            observed=int(summary.get("comments") or 0)
+            comment_count,reported,missing,complete=reconcile_comment_counts(observed,post.get("num_comments"),summary.get("complete"))
             history=list(prev.get("source_history") or [])
             if not history or history[-1].get("sha256")!=digest:
                 history.append({"ingested_at":now,"bytes":size,"sha256":digest,"source":thread.get("source"),"snapshot":snapshot.name,"complete":complete,"observed_comments":observed,"reported_comments":reported})
                 history=history[-30:]
             record.update({
                 "reddit_id":rid,"reddit_url":url,"json_url":json_url(url),"evidence_url":evidence_url(rid),"title":post.get("title") or title,
-                "author":post.get("author") or feed_author,"score":post.get("score") or 0,"comment_count":reported,"created_utc":post.get("created_utc") or 0,
-                "source_kind":"complete-thread-json","source_origin":thread.get("source"),"source_complete":complete,
+                "author":post.get("author") or feed_author,"score":post.get("score") or 0,"comment_count":comment_count,"created_utc":post.get("created_utc") or 0,
+                "source_kind":"complete-thread-json","source_origin":thread.get("source"),"source_complete":complete,"source_reported_comment_count":reported,
                 "source_more_stubs":int(summary.get("more_stubs") or 0),"source_missing_comments":missing,"source_max_depth":int(summary.get("max_depth") or 0),
                 "source_comment_count":observed,"previous_source_bytes":prior_size,"source_bytes":size,"previous_source_sha256":prior_digest,
                 "source_sha256":digest,"source_snapshot":snapshot.name,"source_changed":changed,"source_history":history,"last_ingested_at":now,

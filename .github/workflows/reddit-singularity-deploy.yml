@@ -22,6 +22,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Re-evaluate the real production authority set on every bounded source update.
       - name: Production authority preflight
         id: authority
         shell: bash
