@@ -2,7 +2,7 @@ name: reddit-singularity-ci
 on:
   workflow_dispatch:
   push:
-    branches: [reddit-singularity]
+    branches: [reddit-singularity, 'reddit-singularity-*']
     paths:
       - 'r/singularity/**'
       - '.github/workflows/reddit-singularity-ci.yml'
@@ -24,5 +24,19 @@ jobs:
           node --check r/singularity/contributor.user.js
           node --check r/singularity/worker/src/index.js
           python -m json.tool r/singularity/data/posts.json >/dev/null
+      - name: Comment accounting regression
+        run: |
+          python - <<'PY'
+          import importlib.util, pathlib
+          path=pathlib.Path('r/singularity/scripts/ingest_reddit.py')
+          spec=importlib.util.spec_from_file_location('ingest_reddit',path)
+          mod=importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(mod)
+          assert mod.reconcile_comment_counts(18,0,True)==(18,0,0,True)
+          assert mod.reconcile_comment_counts(3,10,True)==(10,10,7,False)
+          assert mod.reconcile_comment_counts(8,None,True)==(8,None,0,True)
+          assert mod.reconcile_comment_counts(0,0,True)==(0,0,0,True)
+          print('comment accounting regression PASS')
+          PY
       - name: Wrangler dry-run
         run: npx --yes wrangler@4 deploy --dry-run --config r/singularity/worker/wrangler.jsonc --outdir /tmp/transductive-r-singularity
