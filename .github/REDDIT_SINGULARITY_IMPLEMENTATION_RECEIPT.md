@@ -175,3 +175,30 @@ When the authenticated Windows host becomes callable:
 9. Record Worker version, route, public hashes/screenshots and rollback target.
 
 Nothing before Step 1 needs architectural redesign.
+
+
+## Continuation receipt — 2026-08-30
+
+Comment accounting hardening:
+
+- PR #3 merged as `4fa1f899fd719a6f47ed54adad6820941309535a`.
+- CI run `33311586716`: Python/JavaScript syntax PASS; four-case comment-accounting regression PASS; Wrangler v4 dry-run PASS.
+- 37 existing registry entries were repaired so the visible `comment_count` is never lower than the observed complete-thread evidence count.
+- Raw upstream metadata is preserved separately as `source_reported_comment_count`; observed evidence remains `source_comment_count`.
+- Representative corrected records now report: `1w2dz61 = 18 observed / 0 raw-reported`, `1w243so = 65 / 0`, and `1w23bd2 = 34 / 0`.
+- Completeness still requires donor completeness plus zero known missing comments; a stale upstream zero can no longer erase already observed comments.
+
+Fresh production authority recheck:
+
+- GitHub Actions run `33311630261`.
+- Production authority preflight: PASS.
+- Permanent deploy: intentionally skipped.
+- Fresh missing authority set remains exactly:
+  - `CLOUDFLARE_API_TOKEN`
+  - `SINGULARITY_GITHUB_TOKEN`
+  - `RESEND_API_KEY`
+  - `MODERATOR_EMAIL`
+- Current status remains `PRODUCTION_DEPLOY_PENDING_AUTH`.
+- Connected Windows Wrangler host was still unavailable to the Remote Desktop Commander transport in this continuation, so the existing authenticated OAuth profile could not be used here.
+
+No architecture change is required. The next executable production step remains authenticated Wrangler deployment through the Windows host or provisioning the four GitHub Actions secrets above, followed by public production Chrome acceptance and two controlled contribution/moderation transactions.
