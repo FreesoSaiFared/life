@@ -1,0 +1,83 @@
+{
+  "post_id": "1w2kom2",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~22h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Code World Model: Coding Agent as World Brain",
+    "author": "Charuru",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788104006,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w2kom2/code_world_model_coding_agent_as_world_brain/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p6t99mk",
+      "parent_id": "t3_1w2kom2",
+      "author": "pavelkomin",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788105066,
+      "body": "If I understood it correctly, the paper is about combining coding agents and video generators to create better world models/generators (like Genie) by utilizing the precision and persistency of code and variety of neural generation.\n\nI've always wondered what the end game is here. Total neural, or a neuro-symbolic hybrid? Not just in world models, but in general models as well. Why should training a general model have to involve discovering some complex manifold transformation just to calculate 3 + 5 as it does now? But maybe it's simpler than trying to wire symbolic pieces into the architecture."
+    },
+    {
+      "depth": 1,
+      "id": "p6thymf",
+      "parent_id": "t1_p6t99mk",
+      "author": "duy0699cat",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788107442,
+      "body": "i believe in the hybrid path. imho the symbolic pieces is just easier to implement while still affected by LLM/VLM inherent architectural limitations that everyone want to solve first..."
+    },
+    {
+      "depth": 1,
+      "id": "p6vwhig",
+      "parent_id": "t1_p6t99mk",
+      "author": "BlueberryWorried6493",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788132565,
+      "body": "Its primarily to solve issues in different domains. We have a different ways of processing problems in humans to.\n\nWhile the human brain handles both of these cognitive modes using one single biological network, artificial intelligence researchers take a more direct route. Rather than forcing a neural model to learn complex logic from scratch, they combine a creative neural network with a precise reasoning engine to get the best of both approaches instantly\n\nI guess this could be a temporary way of solving this issues"
+    },
+    {
+      "depth": 0,
+      "id": "p6xrh27",
+      "parent_id": "t3_1w2kom2",
+      "author": "Psychological_Bell48",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788160355,
+      "body": "Interesting "
+    }
+  ]
+}
