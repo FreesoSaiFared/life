@@ -1,0 +1,69 @@
+{
+  "post_id": "1w3wyi8",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~11h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+    "author": "Recoil42",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788224212,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w3wyi8/timesfm3_a_zeroshot_foundation_model_for/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p73bygb",
+      "parent_id": "t3_1w3wyi8",
+      "author": "Recoil42",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788224252,
+      "body": ">*Up until TimesFM-2.5 (released in September 2025), our models were strictly limited to univariate forecasting: forecasting using only the history of a single time series. Yet, most real-world forecasting problems are inherently multivariate: where multiple time series and auxiliary external features jointly impact the future forecast of a time series. Consider forecasting ice cream sales for a retail chain. Past sales alone rarely tell the full story. A good forecast should also draw on sales of related products (e.g., ice cream cones, syrups), historical foot traffic, and known future events like weather forecasts, promotions, and holidays.*\n\n>*Today we introduce TimesFM-3, the next generation of our time-series foundation model that is natively pre-trained for multivariate forecasting. TimesFM-3 has 330 million parameters and is pre-trained on a real-world and synthetic time-series corpus comprising more than 1 trillion time points. Building on the efficiency and zero-shot generalization of its predecessors, TimesFM-3 adds robust support for complex multivariate scenarios in a zero-shot manner. It can jointly predict multiple coevolving time series, capturing dependencies that improve overall accuracy without requiring task-specific fine-tuning. The model natively supports:*\n\n>*Multiple targets: Forecast multiple related time series simultaneously (e.g., jointly forecasting different brands of ice cream). The model supports both point and quantile forecasts for all targets.*\n\n>*Past covariates: Incorporate features that are only known historically (e.g., past foot traffic).*\n\n>*Past-future (dynamic) covariates: Leverage known future events to guide the forecast (e.g., planned promotional campaigns or weather forecasts).*"
+    },
+    {
+      "depth": 0,
+      "id": "p7504ur",
+      "parent_id": "t3_1w3wyi8",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1788249861,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "p75nhi1",
+      "parent_id": "t3_1w3wyi8",
+      "author": "alwaysbeblepping",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788261231,
+      "body": "Interesting that it exists but with the current strict non-commercial license, I'm not sure what you could actually use it for."
+    }
+  ]
+}
