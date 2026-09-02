@@ -1,0 +1,125 @@
+{
+  "post_id": "1w4mai2",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~16h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "World Labs just dropped Atlas: An omni world model that simulates space-time and accelerates physical AI",
+    "author": "jasteinerman",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1788290708,
+    "selftext": "The new [Atlas](https://www.worldlabs.ai/blog/atlas) model from World Labs is a massive step toward spatial intelligence and giving AI a true understanding of physics and 3D geometry. It’s a multimodal autoregressive diffusion transformer that doesn't just generate 2D pixels, but grounds everything in a shared \"spatial context.\"\n\nThe space-time simulation and Real-to-Sim capabilities are the most mind-bending parts of this release:\n\n* **The \"Holodeck\" from a Cell Phone:** With footage from just three to five standard cell phones, Atlas builds a complete, navigable space-time simulation. It freezes time and lets you reframe 3D shots from impossible angles without a multi-million-dollar volumetric capture studio.\n* **Real-to-Sim for Embodied AGI:** It doesn't just scan a static room. As a simulated robot moves through a reconstructed space, Atlas actively generates the exact RGB and depth sensor data the robot would see along its specific trajectory.\n* **Physics and Interaction:** It captures how objects actually move and interact in the real world. You can take a casual recording and simulate rigid, articulated, and deformable objects, instantly tweaking the lighting and background to generate infinite training environments.\n* **Explicit 3D Geometry:** Instead of just hallucinating flat video frames, it natively outputs full 3D point clouds and Gaussian splats that can be rendered and explored in real-time.",
+    "permalink": "/r/singularity/comments/1w4mai2/world_labs_just_dropped_atlas_an_omni_world_model/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p78o129",
+      "parent_id": "t3_1w4mai2",
+      "author": "WonderFactory",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788291337,
+      "body": "Thats a very original name for a humanoid robot model"
+    },
+    {
+      "depth": 0,
+      "id": "p78qdwq",
+      "parent_id": "t3_1w4mai2",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1788291963,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "p792hp8",
+      "parent_id": "t3_1w4mai2",
+      "author": "bornlasttuesday",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788295239,
+      "body": "I worry that the big three will start buying these smaller companies up and ruining it for everyone."
+    },
+    {
+      "depth": 1,
+      "id": "p7934x6",
+      "parent_id": "t1_p792hp8",
+      "author": "jasteinerman",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788295416,
+      "body": "Good odds that Meta buys World Labs"
+    },
+    {
+      "depth": 0,
+      "id": "p7a1qvi",
+      "parent_id": "t3_1w4mai2",
+      "author": "RemusShepherd",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788306124,
+      "body": "This is where we need to be headed. For scientific models, we've known for a long time that you need a physics model welded to a ML predictor. I expect great things will happen in the generative AI space once we start doing that there."
+    },
+    {
+      "depth": 0,
+      "id": "p7acbif",
+      "parent_id": "t3_1w4mai2",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1788309609,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "p7aj4d7",
+      "parent_id": "t3_1w4mai2",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1788311867,
+      "body": "[removed]"
+    }
+  ]
+}

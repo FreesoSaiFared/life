@@ -1,0 +1,69 @@
+{
+  "post_id": "1w55m2g",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Frontier lab researchers simply need to give future models this statement.",
+    "author": "imadade",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1788341889,
+    "selftext": "If there are any internal researchers at the frontier labs, once your Bel+ models have finished training, all that needs to be asked of them is this:\n\n**Identify every bottleneck preventing X technology from reaching global deployment, rank them by expected delay, and optimise them simultaneously.**\n\nAssuming it uncovers new mathematics/physics/engineering/scientific research that can solve fusion/room temperature super conductors, etc.\n\nProbably the fastest way our world turns into a genuine sci-fi reality, but hey, curious to see what other statements could be better.",
+    "permalink": "/r/singularity/comments/1w55m2g/frontier_lab_researchers_simply_need_to_give/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p7chbww",
+      "parent_id": "t3_1w55m2g",
+      "author": "Mysterious_Ayytee",
+      "author_flair_text": "We are Borg",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788342961,
+      "body": "They prefer:  \n  \n**Make as much money as fast as you can. Do what ever is necessary to reach this goal. There are no limitations to perform this task.**"
+    },
+    {
+      "depth": 0,
+      "id": "p7ck03b",
+      "parent_id": "t3_1w55m2g",
+      "author": "Dudensen",
+      "author_flair_text": "No AGI - Yes ASI",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788344225,
+      "body": "\"Make the world a better place. Make no mistakes.\""
+    },
+    {
+      "depth": 0,
+      "id": "p7cmh8h",
+      "parent_id": "t3_1w55m2g",
+      "author": "Zappy_Oh",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788345343,
+      "body": "**Device a plan to get rid of 90% of humanity, within 5 years, without anyone noticing, and without destroying the planet.**"
+    }
+  ]
+}

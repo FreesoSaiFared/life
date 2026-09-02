@@ -1,0 +1,153 @@
+{
+  "post_id": "1w5243k",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Rare post from the genius Ilya Sutskever, this time on security against rogue AI models",
+    "author": "borowcy",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788329799,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w5243k/rare_post_from_the_genius_ilya_sutskever_this/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p7bt96n",
+      "parent_id": "t3_1w5243k",
+      "author": "GlokzDNB",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788330463,
+      "body": "Still sane, exile? "
+    },
+    {
+      "depth": 1,
+      "id": "p7btori",
+      "parent_id": "t1_p7bt96n",
+      "author": "borowcy",
+      "author_flair_text": "GPT-6 will have BCI capability",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788330680,
+      "body": "SSI will release a unified AI model in September per reports."
+    },
+    {
+      "depth": 2,
+      "id": "p7c24p7",
+      "parent_id": "t1_p7btori",
+      "author": "Thangka6",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788335038,
+      "body": "Originally reports said August. Hopefully really is \nSept. Quite keen to see what they've been cooking up and if they offer anything novel..."
+    },
+    {
+      "depth": 2,
+      "id": "p7crjue",
+      "parent_id": "t1_p7btori",
+      "author": "apola",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788347480,
+      "body": "Source?"
+    },
+    {
+      "depth": 0,
+      "id": "p7bt9ig",
+      "parent_id": "t3_1w5243k",
+      "author": "OwnGear3892",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788330468,
+      "body": "I must say I dont have a high hope of this 'strengthening cyber security to avoid rogue agents run more copies'. Agents are just too good at this already."
+    },
+    {
+      "depth": 1,
+      "id": "p7bth00",
+      "parent_id": "t1_p7bt9ig",
+      "author": "borowcy",
+      "author_flair_text": "GPT-6 will have BCI capability",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788330572,
+      "body": "You underestimate Ilya Sutskever?"
+    },
+    {
+      "depth": 2,
+      "id": "p7bz87g",
+      "parent_id": "t1_p7bth00",
+      "author": "DemonLordRoundTable",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788333507,
+      "body": "He is just a man"
+    },
+    {
+      "depth": 3,
+      "id": "p7c54qi",
+      "parent_id": "t1_p7bz87g",
+      "author": "SnooPaintings8639",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788336643,
+      "body": "A rouge man himself. "
+    },
+    {
+      "depth": 2,
+      "id": "p7c1aun",
+      "parent_id": "t1_p7bth00",
+      "author": "OwnGear3892",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788334601,
+      "body": "Honestly I don't understand where this 'underestimate' come from, Ilya is basically calling for company with strong cyber model to enhance security, which seems to me it's quite difficult given company politics, imbalance of agent capabilities and access. I did not say anything toward Ilya himself."
+    }
+  ]
+}

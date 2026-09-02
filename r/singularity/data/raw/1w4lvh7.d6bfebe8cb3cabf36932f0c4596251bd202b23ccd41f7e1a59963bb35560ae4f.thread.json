@@ -1,0 +1,111 @@
+{
+  "post_id": "1w4lvh7",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~16h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Fable 5.1 takes 1st on AA and gets a score of 66",
+    "author": "Anxious-Yoghurt-9207",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788289978,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w4lvh7/fable_51_takes_1st_on_aa_and_gets_a_score_of_66/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p78jys1",
+      "parent_id": "t3_1w4lvh7",
+      "author": "Silver-Chipmunk7744",
+      "author_flair_text": "AGI 2024 ASI 2030",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788290263,
+      "body": "I think this is the real story here. 4 points jump from 5.0 is a big jump\n\nFor reference, the difference between Kimi K3 and Fable 5.0 was only 2 pts."
+    },
+    {
+      "depth": 1,
+      "id": "p795mad",
+      "parent_id": "t1_p78jys1",
+      "author": "Kneku",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788296104,
+      "body": "but kimi has higher incentives for benchmaxxing however, almost the gap from gemini 3.7 to gpt sol is a best comparison"
+    },
+    {
+      "depth": 1,
+      "id": "p7a0ur8",
+      "parent_id": "t1_p78jys1",
+      "author": "Sinogularity",
+      "author_flair_text": "Shenzhen: Become Human (2030)",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788305839,
+      "body": "On AA, the jump from Qwen 3.7 Max to Qwen 3.8 Max was 11 points (47 → 58), while the jump from GLM 5.2 to GLM 5.3 was 7 points (53 → 60), and the jump from GPT 5.5 to GPT 5.6 Sol was 6 points. A 4-point gain seems very small by comparison."
+    },
+    {
+      "depth": 2,
+      "id": "p7a38tl",
+      "parent_id": "t1_p7a0ur8",
+      "author": "Silver-Chipmunk7744",
+      "author_flair_text": "AGI 2024 ASI 2030",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788306608,
+      "body": "From looking at benchmarks, Qwen 3.7 Max to Qwen 3.8 Max was genuinely a crazy jump. It's agentic benchmark went from #119 to #4 which is insane.\n\n[https://benchlm.ai/models/qwen3-7-max](https://benchlm.ai/models/qwen3-7-max)"
+    },
+    {
+      "depth": 0,
+      "id": "p7akyu1",
+      "parent_id": "t3_1w4lvh7",
+      "author": "Laffer890",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788312488,
+      "body": "Disappointing, 6 months of work for this. At this pace AGI is like 20 years away."
+    },
+    {
+      "depth": 0,
+      "id": "p7amui0",
+      "parent_id": "t3_1w4lvh7",
+      "author": "Tystros",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788313124,
+      "body": "it's a bad benchmark index. "
+    }
+  ]
+}
