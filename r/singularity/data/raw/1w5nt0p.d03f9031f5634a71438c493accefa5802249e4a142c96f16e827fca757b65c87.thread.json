@@ -1,0 +1,26 @@
+{
+  "post_id": "1w5nt0p",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "VoxGen, an AMD-optimized TTS inference engine for VoxCPM 2 models",
+    "author": "Substantial_Swan_144",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788384509,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w5nt0p/voxgen_an_amdoptimized_tts_inference_engine_for/"
+  },
+  "comments": []
+}
