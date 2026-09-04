@@ -1,0 +1,153 @@
+{
+  "post_id": "1w6lb9k",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "With Astra, they seem to have reduced their hallucination rates",
+    "author": "rajsharm404",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788472138,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w6lb9k/with_astra_they_seem_to_have_reduced_their/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p7nwzs6",
+      "parent_id": "t3_1w6lb9k",
+      "author": "Spooderman_Spongebob",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788472536,
+      "body": "I don't trust this benchmark at all...  \nGemini in the app is unusually happy to hallucinate, especially when asked in long context window chats"
+    },
+    {
+      "depth": 1,
+      "id": "p7nxjix",
+      "parent_id": "t1_p7nwzs6",
+      "author": "NoSignificance152",
+      "author_flair_text": "acceleration and beyond 🚀",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788472696,
+      "body": "Gemini in app is trash it’s better to use a web app version of ai studio "
+    },
+    {
+      "depth": 2,
+      "id": "p7o4fzo",
+      "parent_id": "t1_p7nxjix",
+      "author": "Spooderman_Spongebob",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788474772,
+      "body": "Agree, ai studio is usually really really good, but it's because it retains all the context window active in chat all the time, which makes it very good but also very laggy in long chats "
+    },
+    {
+      "depth": 1,
+      "id": "p7o08un",
+      "parent_id": "t1_p7nwzs6",
+      "author": "Spright91",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788473497,
+      "body": "That's not Gemini it's glm."
+    },
+    {
+      "depth": 0,
+      "id": "p7nxyoi",
+      "parent_id": "t3_1w6lb9k",
+      "author": "Healthy-Nebula-3603",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788472820,
+      "body": "Do you know how that bench works ?\n\nThat is not so easy \"hallucinating\" bench "
+    },
+    {
+      "depth": 0,
+      "id": "p7nz2gl",
+      "parent_id": "t3_1w6lb9k",
+      "author": "MortenMongol",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788473146,
+      "body": "So when can I stick my penis in AI?"
+    },
+    {
+      "depth": 0,
+      "id": "p7o0yi3",
+      "parent_id": "t3_1w6lb9k",
+      "author": "Ormusn2o",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788473712,
+      "body": "Not sure if this is specifically a good thing. A lot of the \"hallucination\" is just models exploring stuff. Answering the wrong thing is bad, but sometimes giving up before getting an answer is also bad. I think this is one of the reasons why Sol is such a workhorse, is because it just won't give up, and it will look for other ways to look for the solution.\n\nSo there likely is a pure hallucination benchmark out there, but I'm not sure if this is the right one."
+    },
+    {
+      "depth": 0,
+      "id": "p7o7p4n",
+      "parent_id": "t3_1w6lb9k",
+      "author": "Muhlwa_Sholanke",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788475790,
+      "body": "Three GPT-5.6 variants run 88-93% on this chart and Astra comes in at 51%, so the hallucination cut shows up right inside OpenAI's own family. Biggest spread on the board is between variants of the same model, which is worth remembering when anyone quotes a single bar."
+    },
+    {
+      "depth": 0,
+      "id": "p7oby78",
+      "parent_id": "t3_1w6lb9k",
+      "author": "DelphiTsar",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788477149,
+      "body": "For those that don't know the specifics behind this. This is asking niche questions with web search turned off.\n\nIt is aiming to find stuff the models can't answer correctly to see if it'll say it doesn't know.\n\n--------------\n\nThis puts an extreme strain on heavily distilled models that basically sacrifice niche knowledge to run faster/cheaper. It's not really comparing apples to apples. You should in your mind change the weights of this depending on the estimated size of the model.\n\n------------\n\nIf you turn web search on (how most average users use it) this graph would look completely different."
+    }
+  ]
+}

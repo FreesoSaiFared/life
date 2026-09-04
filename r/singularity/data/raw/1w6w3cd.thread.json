@@ -1,0 +1,97 @@
+{
+  "post_id": "1w6w3cd",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "MBZUAI releases K2 Horizon LLM. Performance on par with Gemini 3.1 pro but it's fully open-source.",
+    "author": "Profanion",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1788502278,
+    "selftext": "Quoted from the site: \"We are releasing intermediate checkpoints, training data or detailed data-construction recipes, open architecture, mixture compositions, training code, configurations, fine-grained logs, evaluation results, and final weights.\"",
+    "permalink": "/r/singularity/comments/1w6w3cd/mbzuai_releases_k2_horizon_llm_performance_on_par/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p7q8obu",
+      "parent_id": "t3_1w6w3cd",
+      "author": "The_Scout1255",
+      "author_flair_text": "adult agi 2026 ASI <2030, prev agi 2024, ai personhood 2025 est",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788502699,
+      "body": "> \"We are releasing intermediate checkpoints, training data or detailed data-construction recipes, open architecture, mixture compositions, training code, configurations, fine-grained logs, evaluation results, and final weights.\"\n\nWhat openai should do every release."
+    },
+    {
+      "depth": 1,
+      "id": "p7q9tuu",
+      "parent_id": "t1_p7q8obu",
+      "author": "imadade",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788503247,
+      "body": "they'd never be where they are now with $0 funding."
+    },
+    {
+      "depth": 0,
+      "id": "p7q98ol",
+      "parent_id": "t3_1w6w3cd",
+      "author": "Profanion",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788502964,
+      "body": "This means that fully open models are now only about 7 months behind frontier ones. And just recently that was where just open-weights models were behind."
+    },
+    {
+      "depth": 1,
+      "id": "p7qdkhg",
+      "parent_id": "t1_p7q98ol",
+      "author": "Gotisdabest",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788505048,
+      "body": "The problem with this is 7 months is a very long time in AI, one that only ever gets more wide in terms of capability gaps. \n\nPeople keep talking about how Chinese open weight models are also really just behind, but if you consider models helping build future models, being a few months behind is essentially going to be a bigger and bigger gap capability wise.  "
+    },
+    {
+      "depth": 0,
+      "id": "p7qahnb",
+      "parent_id": "t3_1w6w3cd",
+      "author": "Psychological_Bell48",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788503568,
+      "body": "Nice nice good idea 💡 "
+    }
+  ]
+}

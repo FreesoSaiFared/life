@@ -1,0 +1,139 @@
+{
+  "post_id": "1w6kzdk",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Arena AI showcased Astra’s web 3D and design capabilities",
+    "author": "Successful-Earth678",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788471390,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w6kzdk/arena_ai_showcased_astras_web_3d_and_design/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p7nw4qd",
+      "parent_id": "t3_1w6kzdk",
+      "author": "ZestycloseWheel9647",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788472285,
+      "body": "The Monet Water Lilies one actually dropped my jaw."
+    },
+    {
+      "depth": 1,
+      "id": "p7o4rq0",
+      "parent_id": "t1_p7nw4qd",
+      "author": "Silver-Chipmunk7744",
+      "author_flair_text": "AGI 2024 ASI 2030",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788474873,
+      "body": "https://reddit.com/link/p7o4rq0/video/oj81p6vutdnh1/player\n\nFor the record, this is one Opus had done for me.  \nI don't know which is truly better but i love this kind out outputs."
+    },
+    {
+      "depth": 2,
+      "id": "p7oezmz",
+      "parent_id": "t1_p7o4rq0",
+      "author": "LiminalEntityX",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788478143,
+      "body": "Groovy dudeski, I enjoyed wandering in there. "
+    },
+    {
+      "depth": 0,
+      "id": "p7nysrs",
+      "parent_id": "t3_1w6kzdk",
+      "author": "FollowingHumble8983",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788473066,
+      "body": "A lot of people in the 3d industry are going to look at this and think this kind of sucks relative to what they can do. And that is kind of true purely visually. But we put a lot of work into getting AI to properly reason in 3d without major artifacts and this is much more impressive than people can tell from first view. \n\nWith this as a foundation AI will be able to create much more impressive things visually with very little effort in maybe just a couple of months. "
+    },
+    {
+      "depth": 1,
+      "id": "p7oansu",
+      "parent_id": "t1_p7nysrs",
+      "author": "Healthy-Nebula-3603",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788476732,
+      "body": "You are talking about what we have CURRENTLY. \n\nThey already said that will be releasing new much powerful models much often now.... imagine how good models will be in few months ... "
+    },
+    {
+      "depth": 2,
+      "id": "p7oau5e",
+      "parent_id": "t1_p7oansu",
+      "author": "FollowingHumble8983",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788476789,
+      "body": "You should learn to read an entire comment before replying. "
+    },
+    {
+      "depth": 0,
+      "id": "p7py9n0",
+      "parent_id": "t3_1w6kzdk",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1788497941,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "p7qairz",
+      "parent_id": "t3_1w6kzdk",
+      "author": "blaawker",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788503583,
+      "body": "Love the prompts this guy uses. Always creative."
+    }
+  ]
+}

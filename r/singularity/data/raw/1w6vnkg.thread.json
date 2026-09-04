@@ -1,0 +1,55 @@
+{
+  "post_id": "1w6vnkg",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Figure robot skills expanded for Figure/YOUTUBE industrial use - climbing up and down stairs",
+    "author": "Anen-o-me",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1788500850,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w6vnkg/figure_robot_skills_expanded_for_figureyoutube/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p7qennu",
+      "parent_id": "t3_1w6vnkg",
+      "author": "terrarialord201",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788505578,
+      "body": "Cool shit. 👍"
+    },
+    {
+      "depth": 0,
+      "id": "p7qnubd",
+      "parent_id": "t3_1w6vnkg",
+      "author": "the_pwnererXx",
+      "author_flair_text": "FOOM 2040",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788510299,
+      "body": "Tele operated I guess? "
+    }
+  ]
+}
