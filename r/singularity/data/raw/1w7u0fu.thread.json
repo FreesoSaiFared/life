@@ -1,0 +1,69 @@
+{
+  "post_id": "1w7u0fu",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Generating Minecraft worlds from a single natural language prompt",
+    "author": "pokeuser61",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788593527,
+    "selftext": "Hi, today I'm sharing something cool I've been working on for a bit, called [Terrainist](https://github.com/pikalover6/terrainist). It's an  incomplete demo with likely massive gaps+vibeslop, but I don't really have the skills or determination to squeeze a tidy product out of it, so I figure it'd be best to open it up. It uses LLMs to author a high-level representation of a world in json with a custom \"language\" called loam, which is the compiled into a complete minecraft world. It's able to pretty decently represent super weird and random prompts that it doesn't have anything hardcoded for. It combines a custom modelless procedural generator +  llms for unique structures. Using the default model config, gemini 3.8 flash high via openrouter costs roughly around 25¢-75¢ for a 512x512 block world.",
+    "permalink": "/r/singularity/comments/1w7u0fu/generating_minecraft_worlds_from_a_single_natural/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p7xlw5n",
+      "parent_id": "t3_1w7u0fu",
+      "author": "Veldyn_",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788593871,
+      "body": "cool concepts"
+    },
+    {
+      "depth": 0,
+      "id": "p7xnlq8",
+      "parent_id": "t3_1w7u0fu",
+      "author": "DeviceCertain7226",
+      "author_flair_text": "▪️ASI - Never (in the usual sense)",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788594755,
+      "body": "I really like the snake"
+    },
+    {
+      "depth": 0,
+      "id": "p7y32f0",
+      "parent_id": "t3_1w7u0fu",
+      "author": "nitonitonii",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788602904,
+      "body": "What problem does this solve?\n\nDoes Astra do anything useful?"
+    }
+  ]
+}

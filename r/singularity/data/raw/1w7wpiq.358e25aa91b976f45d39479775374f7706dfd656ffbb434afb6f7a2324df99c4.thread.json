@@ -1,0 +1,26 @@
+{
+  "post_id": "1w7wpiq",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "6 months ago I posted GPT-5.4 solving one face of a Rubik's cube. Today Astra can do the whole thing (without code execution)",
+    "author": "crabbix",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788602845,
+    "selftext": "Astra also found a hole in my sandbox and ran code to generate a 19-move solution, after patching that and telling it not to run code it found this much more human-like 61-move solution. So, not quite saturated in terms of finding an \\*optimal\\* solution yet but pretty impressive. Code at [https://github.com/crabbixOCE/CubeBench](https://github.com/crabbixOCE/CubeBench)",
+    "permalink": "/r/singularity/comments/1w7wpiq/6_months_ago_i_posted_gpt54_solving_one_face_of_a/"
+  },
+  "comments": []
+}

@@ -1,0 +1,69 @@
+{
+  "post_id": "1w7velc",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Theory: most of Astra's gain is in vision",
+    "author": "dumquestions",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1788598416,
+    "selftext": "It would explain the incredible design and research related gains, as well as the modest coding benchmark gains.\n\nIt's still a massive jump that shouldn't be trivialized. Curious if others who have used it more extensively agree.",
+    "permalink": "/r/singularity/comments/1w7velc/theory_most_of_astras_gain_is_in_vision/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p7y0z4e",
+      "parent_id": "t3_1w7velc",
+      "author": "WonderFactory",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788601844,
+      "body": "No, I think it's internal world model is stronger"
+    },
+    {
+      "depth": 0,
+      "id": "p7y1cig",
+      "parent_id": "t3_1w7velc",
+      "author": "Odd_Dandelion",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788602036,
+      "body": "This morning I just handed over to Astra a session I ran with Sol. We were preparing a talk: The model has the complete arc, the list of experiments to make, screenshots to take, and the result still felt lame. I was coming to terms with the fact that I will have to do a lot of manual work.\n\nAstra just took over and immediately understood what I have on mind. Now it runs example tasks, takes screenshots, makes cleaner slides than I would ever make and... The biggest difference is it actually gets what I mean. Like Fable but so much better."
+    },
+    {
+      "depth": 0,
+      "id": "p7y54xa",
+      "parent_id": "t3_1w7velc",
+      "author": "katoptronophile",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788603925,
+      "body": "Human's multimodal perception is key to their intelligence."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "post_id": "1w7tor2",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 4,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "From anyone who is expert or very familiar with 3D software: we have seen incredibly impressive demos in the last 24 hrs but what would you say is the extent of GPT6/Astra's ability working with tools like Blender & Unreal?",
+    "author": "TwoFluid4446",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788592403,
+    "selftext": "For GPT6/Astra only:\n\nWhat do you think it can/can't do? \n\nTypical game/CGI workflows that it has cracked vs not, or probably will vs probably won't be able to crack until later models?\n\nAs far as you know or can predict, is there anything like a function or task to achieve that requires a human touch as far as the controls/UI such as manipulation or navigation of 3D objects/scenes that you don't believe the MCP or API gives the AI the same or any version of to achieve the same by manipulating the software from a non-human-mouse-utilizing way?\n\nHow far do you think the AI can go by researching references images on its own then taking those into Unreal/Blender and creating exceedingly detailed or realistic or just high-fidelity objects/characters/environments/etc?\n\nAre there sub-departments of working with 3D that you believe it cannot access or even if it could would perform very poorly in, for example could be anything like: lighting, inverse kinematics, rigging, weight painting/skinning, facial animation, cloth or hair simulation, topology/retopology, UVs/texturing, shader setup, procedural systems, animation polish, or scene optimization etc etc I know there is an insane wildass boatload of various aspects and dimensions to working with 3D, so really it could be any of them.\n\nCan anybody answer similarly in regards to professional engineering/CAD software?\n\nAnd otherwise just provide your free thoughts and expertise on this, from what you yourself have either seen online of other people experimenting, or done firsthand.\n\nI suppose I'm trying to piece together a state of the art sense of what an AI of Astra's ability and smarts can actually do in this area, beyond what's been posted already.\n\nAnd yes, I know its early to be asking. And yes, I'm aware some of these questions maybe can't be answered in full at the moment, or that nobody might know.\n\nTo me this is truly mindblowing. It's like climbing a tree where you suspect monkeys may be using sticks as tools to drag ants out of small holes but then you find them chilling on a branch soldering small electronic parts together with a welder's mask on. Another chimp jetpacks up to you and hand-motions to show him your ID clearance. Like Planet of the Apes, but 500 years later. \n\nIf they can use such powerful and sophisticated software like Blender/Unreal with that precision and throughput, and considering how much better they can probably perform when guided and iterated on and when spooling other agents to coordinate on large tasks, this potentially bursts so many doors wide open. Scifi dream tech. It's like we now have what Tony Stark had, for a couple hundred $$ a month. Insane.",
+    "permalink": "/r/singularity/comments/1w7tor2/from_anyone_who_is_expert_or_very_familiar_with/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p7xlyfl",
+      "parent_id": "t3_1w7tor2",
+      "author": "Dzsaffar",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788593904,
+      "body": "With Blender, in terms of 3D work:\n\n\\- clearly quite capable of making mockups, speeding up blockouts\n\n\\- for the node-based parts (materials, geonodes) it's probably close to human capabilities. the biggest limitation is actually visually checking the resulting materials when issues are not immediately apparent\n\n\\- not good for complex modeling. having proper topology, choosing your vertex densities appropriately, making models with subdiv already in mind, and especially if animation comes into play, it's just not ready for the specificity that requires\n\n\\- not good for sculpting, texture painting, etc\n\nWith Unreal, in terms of game development:\n\n\\- can make fancy prototypes, and can be helpful for development, but nowhere near the point where it could make a good game, or even just a decent one\n\n\\- it can whip up a prototype in the matter of hours, sure, which an experienced dev can do at most in a few days. but actual, releasable games take years, usually for a whole team to make. so just because astra can do in hours what one dev can do in a few days, does not mean astra can also do what a whole team of devs do over a span of years\n\n\\- making a game is more about game \\*design\\* than game development. adjusting small parameters of the controller until the smoothness and snappiness feels just right. making small adjustments to the lengths, arrangements of levels until the flow and pacing \\*feel\\* right. looking at people playing the game and trying to catch the relevant information from it. astra can be very useful for executing faster, but the \\*design decisions\\* are the main driver of creating a good game, and those things it can't do at the moment"
+    },
+    {
+      "depth": 1,
+      "id": "p7xn69n",
+      "parent_id": "t1_p7xlyfl",
+      "author": "TwoFluid4446",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788594532,
+      "body": "Awesome answer thank you. \n\nNow, a more interesting question if you don't mind, let's say you had someone familiar with how 3D works and (most) of its aspects, perhaps like most of people here being computer-literate, for example me myself I've worked with 3D software before enough to grasp the basics, used to be a programmer for several years (moved on from that to do video/content instead), but still a non-expert obviously will not claim any credentials here, but let's say you have someone \"in the driver's seat\" guiding, correcting, providing feedback, getting the model to focus specifically on problem areas or complex \"small\" tasks one at a time, like iterating on a character, or sculpting based on prompting (e.g. \"This guy's face should look more medieval, I picked out a face I like use \\[upload image\\] this face\", and so on) to address the areas the AI might be poor at 0-shotting on its own... then, how do you foresee someone being able to \"bridge the gap\" or at least a lot of the shortcomings when working closely intelligently and themselves learning about process along the way, at least good enough to guide the AI what they want done?"
+    },
+    {
+      "depth": 2,
+      "id": "p7xsqb3",
+      "parent_id": "t1_p7xn69n",
+      "author": "Dzsaffar",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788597456,
+      "body": "it depends on what your goal / usecase is. if you just wanna make a 3d rendered still image, you can get away with a lot of hacky stuff and can probably get decent results. if you're trying to make a game, where the player should then be able to go up arbitrarily close to any object, from any directions, the objects need to look good under any lighting condition, etc. now your margin for error is a LOT less\n\nastra is not gonna sculpt you a passable human face, that's definitely a no-go, you might be able to get it looking okay if you try and assemble it from assets, with a kitbashing-esque workflow. but in general, if you want a professional-passing result, you'll need to be at a level where you could make it yourself, and astra is just speeding it up. i dont think the gaps that still exist are bridgeable if you have little experience with 3d work or gamedev"
+    },
+    {
+      "depth": 3,
+      "id": "p7xz8e0",
+      "parent_id": "t1_p7xsqb3",
+      "author": "TwoFluid4446",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788600931,
+      "body": "If I may ask, and serious question of course, what are you basing your intuition on? Is there something specific you've seen so far that makes you think \"ah. It's doing \\[this\\]. It's not ready for the big leagues yet.\" or even like \"I heard someone trying to do X and it just struggled with it\""
+    },
+    {
+      "depth": 4,
+      "id": "p7y2k6g",
+      "parent_id": "t1_p7xz8e0",
+      "author": "Dzsaffar",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788602651,
+      "body": "sure\n\nfor sculpting, you need really precise control of your movements, and the form of the whole model is often hard to judge from one angle, so you're constantly rotating around the object to see if it's how it should be from all angles. i don't think current models have the precision and temporal \"resolution\" for this kind of thing\n\nfor topology, it can be a similar story. if bad topology is causing lighting issues, those are often most noticable during camera movements. if you're animating something, and trying to figure out the correct vertex weights, again problems will be clearest during actual motion, even when each frame individually can look fine. i'm pretty confident these models don't have the ability and fidelity to grasp these subteties in movement\n\nfor games, astra can't feel what it's like to whip around your mouse and get a sense of the character controller's fluidity, snappiness, etc. a lot of these subtle sensory things are just something that \\*feels\\* right to us. making a corridor slightly longer before a bossfight for a bit more tension, because when you walk down the corridor, it just \\*felt\\* right. these models can't grasp these intuitive aspects of an interactive experience\n\nmost other things that astra IMO can't do also mostly boil down to these things - not having the same sensory feelings and intuitions as us, not having the same fluidity when trying to understand movement as us, not having enough precision for certain actions.\n\noh and also debugging / playtesting, trying to find edgecases where game behaviour is weird, it's way way way more difficult then it looks, especially when its not a technical issue - how does astra notice a \"bug\" where in a racing game the bots are just a bit too aggressive, or they take a slightly weird line if you're in front of them at a certain angle, etc. there's a level of intricacy to most gameplay systems that is way harder and messier to manage than you would think, and a lot of it is not a clearly definable goal of how (for example) the ai drivers should behave, it's just you keep trying it and keep experimenting until it feels balanced, but i dont think that sense of game feel is something these models can grasp (they can follow existing conventions to get a passable result probably, but i doubt it goes beyond that)"
+    },
+    {
+      "depth": 3,
+      "id": "p7xzigv",
+      "parent_id": "t1_p7xsqb3",
+      "author": "GestureArtist",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788601078,
+      "body": "Agree. 3d pro since 90s. The big problem with asking AI to make anything is trying to get the result you have in mind. We see this in image gen and video gen which has come a long way and can create amazing results. However we’re still rolling the dice and hoping to get the number in our brain. \n\nWith 3D this becomes very complicated. Right now AI can generate a result but I wouldn’t call it a production ready result. Even if the AI model could generate production grade geometry to the spec of the user’s needs, getting the exact result would again be rolling the dice. It may or may not result in the exact change we need and could result in altering other areas of the model negatively while improving the area we attempted to get AI to address. \n\nIn a sense, as AI gets better it doesn’t mean we as creators get the result we’re intending too. Again we see this with image and video gen which can create amazing results, just not the exact artistic creation we intended. \n\nSo I think it will be a while before this improves enough to satisfy an artists intent but the tools will improve and give great results as they improve but it doesn’t connect my brain to paper like pencil will. It may draw better than me but it may not quite communicate exactly what I intended. "
+    },
+    {
+      "depth": 4,
+      "id": "p7y59wj",
+      "parent_id": "t1_p7xzigv",
+      "author": "TwoFluid4446",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788603993,
+      "body": "That's definitely the case with image and video, and this is something I know firsthand since that's what Im deep into at the moment, it just takes a huge amount of time fiddling with the AI and various processes pipelines tools and such to wrangle out of it what you want.\n\nBut let's suppose one were making some 3D scenes or characters where maybe they didn't need super specific artistry, and just what passed plausibly to the intended audience as being what the audience felt was passable for what that content was... that was the target, not some singular \"vision\". It could be a game, or could be a 3D pixar-style series, just anything where that description fits. Then aside from the specificity, what do you feel are the actual technical limitations of what a model as powerful as Astra just couldn't do?\n\nFor example, just picking something at random, this isn't my thing or desire, but if let's say somebody wanted to create some 3D fantasy-themed TV show/series (I've been watching Vox Machina on Prime so that's what came to mind), but not using AI video models, instead using Astra to agent Blender, then rendering actual 3D scenes. Let's say one set was an ice fortress, another a mystical enchanted woods, another an underground cave area with glowing purple mushrooms etc etc... typical fantasy envs. And of course some characters that looked passable. \n\nCould a model like Astra not keep iterating on any one asset until the user was satisfied, then move on to the next? Is there something preventing that at the technical level? And even if the static objects could be sculpted to look passable, would there be other hurdles further down the pipeline at which point you think the AI would hit a roadblock and just like wouldn't be able to really do it, like animating those objects, or something else?"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "post_id": "1w7pjdw",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Why would Google or NAVER partner with an independent AI web index?",
+    "author": "Genzinvestor16180339",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788579266,
+    "selftext": "Companies such as Parallel and Keenable are building new web indexes designed specifically for AI agents. Google has already integrated Parallel despite owning one of the world’s largest search indexes.\n\nWhy would Google or NAVER partner with these companies instead of building the technology internally? Does this validate independent AI search as a major new category, or will these startups eventually become features or acquisition targets?",
+    "permalink": "/r/singularity/comments/1w7pjdw/why_would_google_or_naver_partner_with_an/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p7xfc74",
+      "parent_id": "t3_1w7pjdw",
+      "author": "DecoySnailProducer",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788590593,
+      "body": "AI agents don’t read ads"
+    }
+  ]
+}
