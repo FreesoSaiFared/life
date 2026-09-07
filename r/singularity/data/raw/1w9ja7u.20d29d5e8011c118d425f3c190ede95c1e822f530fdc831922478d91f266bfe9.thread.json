@@ -1,0 +1,83 @@
+{
+  "post_id": "1w9ja7u",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Google’s Gemini 3.5 Transcribe is fast. But it’s not #1",
+    "author": "Slight_Republic_4242",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1788759457,
+    "selftext": "I spent some time comparing Google’s new Gemini 3.5 Transcribe with other serious STT models because the **2.6% WER** headline looked impressive.\n\nIt is impressive.\n\nJust not for exactly the reason the launch headline suggests.\n\nOn the current Artificial Analysis benchmark, the leaderboard roughly like this:\n\n1. ElevenLabs Scribe v2  **2.2% WER**\n2. Microsoft MAI-Transcribe-1.5  **2.4% WER**\n3. Gemini 3.5 Transcribe **2.6% WER**\n\nSo Gemini is only **0.4 percentage points behind Scribe v2**.\n\nThat sounds small, but in production even small differences can matter. Now let’s talk about speed.\n\nArtificial Analysis currently puts Gemini 3.5 at around **80× real-time** for non-streaming transcription.\n\nMAI-Transcribe-1.5 is around **190×**, while Scribe v2 is around **55×**.\n\nThen there’s price:\n\nGemini is roughly **$5 per 1,000 minutes**, Scribe v2 about **$3.67**, and MAI-Transcribe-1.5 about **$6**. So Google isn’t winning on price either.\n\nSo why are engineering teams still going to care about Gemini…\n\nIt can handle self-corrections, filler removal, formatting, custom vocabulary, **85+ languages**, and speaker attribution for up to three speakers.\n\nGoogle also reports **5.50% streaming WER and 5.04% non-streaming WER on FLEURS**.\n\nAnd this is where I think the product becomes more interesting.\n\nIf I’m building a voice agent, call intelligence system, or real-time assistant, I don’t necessarily want **“the best transcription model.”**\n\nI want the **best audio input layer for the whole system**.\n\nIf the model can turn messy speech into clean structured text, preserve important entities, understand domain vocabulary, and feed that directly into the rest of the stack, then raw WER becomes only one part of the decision.\n\nAnd this is why I keep coming back to one point:\n\nBenchmarks are useful, but they are not a perfect representation of production reality.\n\nYour harness, orchestration, latency budget, retries, tools, and downstream workflow all matter.\n\nSo you should be able to switch vendors when needed.\n\nThat is one reason I personally prefer using an open-source orchestrator with no vendor lock ins (I used dograh locally hosted with BYOK so i don’t waste time in patching things up). Vendor lock-in becomes a much bigger problem when the model underneath your system changes every few months.\n\n",
+    "permalink": "/r/singularity/comments/1w9ja7u/googles_gemini_35_transcribe_is_fast_but_its_not_1/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p8azqow",
+      "parent_id": "t3_1w9ja7u",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1788762359,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "p8b1cwt",
+      "parent_id": "t3_1w9ja7u",
+      "author": "makertrainer",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788763127,
+      "body": "Thank you fellow human 👋 I will definitely check out [product]!\n\nI love companies that have utter contempt for their potential users! "
+    },
+    {
+      "depth": 1,
+      "id": "p8baaxe",
+      "parent_id": "t1_p8b1cwt",
+      "author": "welcome-overlords",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788767517,
+      "body": "Lmao clanker"
+    },
+    {
+      "depth": 0,
+      "id": "p8bd5zx",
+      "parent_id": "t3_1w9ja7u",
+      "author": "KoolKat5000",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788768987,
+      "body": "I'm very curious on 3.5 Transcibes English accent understanding as Google's last STT model was horrible."
+    }
+  ]
+}

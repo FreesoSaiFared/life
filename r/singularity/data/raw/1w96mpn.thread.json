@@ -1,0 +1,41 @@
+{
+  "post_id": "1w96mpn",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Research acceleration: The view inside OpenAI",
+    "author": "Psychological_Job614",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788725039,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1w96mpn/research_acceleration_the_view_inside_openai/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p88n4sp",
+      "parent_id": "t3_1w96mpn",
+      "author": "throwingitaway12324",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788730650,
+      "body": " Wonder how long the “it’s just marketing” will last"
+    }
+  ]
+}

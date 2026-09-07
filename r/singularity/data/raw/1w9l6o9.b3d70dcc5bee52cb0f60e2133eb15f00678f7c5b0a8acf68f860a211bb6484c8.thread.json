@@ -1,0 +1,26 @@
+{
+  "post_id": "1w9l6o9",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Areas where OpenAI researchers are spending AI tokens on. Probably indicative of how things will shape up in your office workspaces going ahead.",
+    "author": "No_Hovercraft6239",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788765618,
+    "selftext": "[https://openai.com/index/research-acceleration-view-inside-openai/](https://openai.com/index/research-acceleration-view-inside-openai/)",
+    "permalink": "/r/singularity/comments/1w9l6o9/areas_where_openai_researchers_are_spending_ai/"
+  },
+  "comments": []
+}
