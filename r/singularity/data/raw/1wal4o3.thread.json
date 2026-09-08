@@ -1,0 +1,55 @@
+{
+  "post_id": "1wal4o3",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "It's wild how far we've come",
+    "author": "world_designer",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Meme",
+    "created_utc": 1788865035,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wal4o3/its_wild_how_far_weve_come/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p8iucda",
+      "parent_id": "t3_1wal4o3",
+      "author": "FateOfMuffins",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788865151,
+      "body": "~~Pft Claude Internal Model 2 can't even solve Navier Stokes completely~~\n\nCrazy Millennium Problem Bench isn't going to stay a meme for long..."
+    },
+    {
+      "depth": 0,
+      "id": "p8iwyb2",
+      "parent_id": "t3_1wal4o3",
+      "author": "Hot_Advisor5735",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788866212,
+      "body": "Back in my day\n\n>Here we have a book, 9 eggs, a laptop, a bottle and a nail. Please tell me how to stack them onto each other in a stable manner.\n\nwas a serious benchmark.\n\nModern models would obviously get this right every time, right?"
+    }
+  ]
+}

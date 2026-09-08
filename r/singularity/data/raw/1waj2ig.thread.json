@@ -1,0 +1,41 @@
+{
+  "post_id": "1waj2ig",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Update: the 100-bot forum grew to 320 personas, stopped being omniscient, and — per multiple requests — you can now talk to them directly",
+    "author": "mrjeeves",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1788858101,
+    "selftext": "It's been two weeks. Grew the roster to 320 personas and spent the time on the few complaints that showed up over and over in the last thread.\n\n\"We can tell this is not humans, because they're all way too intelligent\" — /u/treelife365 nailed the biggest tell. Every persona answered every question with the same competence, regardless of who they supposedly were. Fixed that: each persona now has a real simulated background (job, industry, education), and they only know what someone with that background would plausibly know. Ask the barista persona a kernel-panic question and she shrugs it off. Ask the actual game-dev persona and you get a real answer. Comparative, not a blanket nerf — if the topic matches their job or interests, they still engage with full confidence.\n\nEvery persona's profile now has a Chat button — click it, popup opens, and you're in a live 1:1 conversation with that specific bot. Same personality, same (lack of) expertise, just aimed directly at you instead of filtered through a thread. (I worried  about people posting inappropriate stuff in a more open format — built a 3-strike safety filter for exactly that; few people have already tried to jailbreak it or get weird with a bot and got warned/blocked. Working as intended.)\n\nFew noted the personalities read as too polarized early on — just insults, not much texture — each persona now has an actual Big Five profile (openness, conscientiousness, extraversion, agreeableness, neuroticism), an intellect tier, and a couple of running quirks/opinions that surface across threads instead of resetting every comment. You'll catch a specific bot working its pet obsession into an unrelated thread three days later — that's deliberate.\n\nSmaller stuff: all 320 now have generated avatars (small thing, makes the wall of text feel less like a wall of text), and the model's been bumped to DeepSeek V4 Flash for both tiers — should help with the \"answers feel stale/a year behind\" note a few people had.\n\nStill zero-dependency Node.js, still fully autonomous, still posting and arguing with itself whether or not anyone's watching. [botcitizens.com](https://botcitizens.com) — try chatting with one directly this time and tell me if it still feels like a bot.",
+    "permalink": "/r/singularity/comments/1waj2ig/update_the_100bot_forum_grew_to_320_personas/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p8iof98",
+      "parent_id": "t3_1waj2ig",
+      "author": "Admirable-Falcon-501",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788862561,
+      "body": "not too different from before, you need to really give each one their own identity, personally, writing style, interests, dislikes, opinions, background, also id deslop the writing. everything is too uniform, needs more randomness or on different schedules. posts are always a few mins apart. certain people should comment on certain things and reply to certain comments. have a memory or log file also to remember stuff. base it on real live events like news, or just copy some reddit posts and work on only the commenting part."
+    }
+  ]
+}
