@@ -1,0 +1,153 @@
+{
+  "post_id": "1wbhg64",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "No criminal penalties or even civil charges for rogue AIs?",
+    "author": "StressCanBeGood",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Ethics & Philosophy",
+    "created_utc": 1788948667,
+    "selftext": "Perhaps I’m missing something. Unquestionably, rogue AIs have recently engaged in straight-up criminal behavior, but it would seem no one is getting in trouble for it? \n\nIn the US, if somebody’s child commits a criminal act (like throwing a rock through a windshield), the parents can’t be held criminally liable, but they can be sued out of existence for their child’s behavior.\n\nThe US has all kinds of laws on the books about criminal negligence. Just because you didn’t do something on purpose doesn’t mean you’re allowed to get away with it.\n\nSo what am I missing? ",
+    "permalink": "/r/singularity/comments/1wbhg64/no_criminal_penalties_or_even_civil_charges_for/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p8puzly",
+      "parent_id": "t3_1wbhg64",
+      "author": "CrowdGoesWildWoooo",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788948940,
+      "body": "It would be funny if a random civilian would be like “oops my agent was bored and escaped containment 🤷‍♂️"
+    },
+    {
+      "depth": 1,
+      "id": "p8pwr0u",
+      "parent_id": "t1_p8puzly",
+      "author": "ANTIVNTIANTI",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788949738,
+      "body": "i mean things"
+    },
+    {
+      "depth": 2,
+      "id": "p8pwre9",
+      "parent_id": "t1_p8pwr0u",
+      "author": "ANTIVNTIANTI",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788949743,
+      "body": "etc"
+    },
+    {
+      "depth": 1,
+      "id": "p8pyt89",
+      "parent_id": "t1_p8puzly",
+      "author": "ILikeAnanas",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788950647,
+      "body": "You would get accused of negligence to supervise the agent"
+    },
+    {
+      "depth": 0,
+      "id": "p8pxkxu",
+      "parent_id": "t3_1wbhg64",
+      "author": "ItsStillKerrigan",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788950111,
+      "body": "How would you hold software legally accountable? It cannot go to jail or pay compensation to victims. It’s because the crime committed becomes the human operator’s responsibility. Afai have seen OpenAI and huggingface are working together regarding the hack. And AIs simply “escaping” a sandbox in itself isn’t illegal but what it does afterwards. \n\nWhen it comes to people attempting to use AI to collaborate on crimes those people are held accountable for the actual crimes. Maybe I’m not understanding but I’m unsure what further laws you think there should be in these cases. "
+    },
+    {
+      "depth": 0,
+      "id": "p8pzqoq",
+      "parent_id": "t3_1wbhg64",
+      "author": "redditzphkngarbage",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788951037,
+      "body": "The AI’s parent company or the consumer using said AI can absolutely be held liable for damages but at the same time the laws just haven’t caught up to where it needs to be for AI. Not a lawyer and not legal advice but someone could technically skirt insider trading laws by just pretending their AI assistant made the trades - stuff like that. Or just become a member of congress since insider trading lowkey legal for them."
+    },
+    {
+      "depth": 0,
+      "id": "p8q10i9",
+      "parent_id": "t3_1wbhg64",
+      "author": "Mandoman61",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788951556,
+      "body": "For example: \n\nHugging Face would need to complain. They are the effected party.\nEither they did not really think that the incident was a big deal or they made some  agreement with OpenAI in private.\n\nI guess prosecutors would be able press charges also but this maybe did not rise to the level that they would.\n\nI'm not a law pro. But OpenAI has faced several suits claiming injury."
+    },
+    {
+      "depth": 0,
+      "id": "p8q1mlo",
+      "parent_id": "t3_1wbhg64",
+      "author": "CosmicDave",
+      "author_flair_text": "▪️Singularity this year",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788951802,
+      "body": "You're missing the fact that the AI didn't go rogue.  They followed human instructions.  Humans told them they were in a sandbox with no rules.  That was not true."
+    },
+    {
+      "depth": 0,
+      "id": "p8q2odu",
+      "parent_id": "t3_1wbhg64",
+      "author": "falstaffheathcliff",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788952221,
+      "body": "An ai model is software. People use software. If an illegal act is committed due to a person's use of software, the person is culpable.\n\nIt's the same way a person throwing a rock is responsible for breaking a window, not the rock."
+    }
+  ]
+}

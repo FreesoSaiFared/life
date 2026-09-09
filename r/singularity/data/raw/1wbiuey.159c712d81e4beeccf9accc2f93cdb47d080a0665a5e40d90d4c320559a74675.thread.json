@@ -1,0 +1,26 @@
+{
+  "post_id": "1wbiuey",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "OpenAI just did a series of runs on a set of near-impossible problems with swarms that dwarf the huggingface swarm and a model that's 2 generations smarter...",
+    "author": "wabawanga",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788953073,
+    "selftext": "Do we really trust they have sufficiently upgraded their monitoring and security?  Do we trust that they are combing their logs for misaligned behavior? Do we trust that they are forensically analyzing their infrastructure for signs of hacking?",
+    "permalink": "/r/singularity/comments/1wbiuey/openai_just_did_a_series_of_runs_on_a_set_of/"
+  },
+  "comments": []
+}

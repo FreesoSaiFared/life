@@ -1,0 +1,139 @@
+{
+  "post_id": "1wbaaz9",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Based on true events",
+    "author": "FalconsArentReal",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Meme",
+    "created_utc": 1788924885,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wbaaz9/based_on_true_events/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p8opbkq",
+      "parent_id": "t3_1wbaaz9",
+      "author": "OrbicularLotus",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788928616,
+      "body": "![gif](giphy|B34wyqAgvAheFgPTqy)"
+    },
+    {
+      "depth": 1,
+      "id": "p8oqs7l",
+      "parent_id": "t1_p8opbkq",
+      "author": "Internal_Research_72",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788929238,
+      "body": "How much"
+    },
+    {
+      "depth": 1,
+      "id": "p8or8lq",
+      "parent_id": "t1_p8opbkq",
+      "author": "Internal_Research_72",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788929432,
+      "body": "It’s spoofing [this trailer](https://m.youtube.com/watch?v=GGJSRFWALTI&pp=ygUeeW91IGNhbiBzZWUgZXZlcnl0aGluZyB0cmFpbGVy) that came out of nowhere. Uhh, but even that trailer has a shit ton of context you need to “get it” and I’m not really going to write a dissertation"
+    },
+    {
+      "depth": 1,
+      "id": "p8q1joz",
+      "parent_id": "t1_p8opbkq",
+      "author": "JoshAllentown",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788951771,
+      "body": "AI replaced Nathan Fielder and the Theranos lady, he made a documentary about her in the month leading up to her going to jail. The trailer is very strange, it's this but Nathan and Elizabeth instead"
+    },
+    {
+      "depth": 0,
+      "id": "p8ouinr",
+      "parent_id": "t3_1wbaaz9",
+      "author": "Frequent-Anything922",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788930883,
+      "body": "There's so much sexual tension. I love it"
+    },
+    {
+      "depth": 1,
+      "id": "p8ph2lk",
+      "parent_id": "t1_p8ouinr",
+      "author": "Poupulino",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788941874,
+      "body": "I don't see sexual tension, I see Dario being weirded as hell by Altman's sociopathic vibes. "
+    },
+    {
+      "depth": 2,
+      "id": "p8pxb2e",
+      "parent_id": "t1_p8ph2lk",
+      "author": "pporkpiehat",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788949988,
+      "body": "That's the joke."
+    },
+    {
+      "depth": 0,
+      "id": "p8p26yq",
+      "parent_id": "t3_1wbaaz9",
+      "author": "Aznwookie8",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788934466,
+      "body": "For the unaware, this is based on the new Elizabeth Holmes documentary coming out. "
+    }
+  ]
+}

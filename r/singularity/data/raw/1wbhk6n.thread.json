@@ -1,0 +1,69 @@
+{
+  "post_id": "1wbhk6n",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AGI and ASI have already been defined for us",
+    "author": "notsofaroff",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Shitposting",
+    "created_utc": 1788949016,
+    "selftext": " Alpha=AGI  \nZordon=ASI\n\nNo more definitions needed.",
+    "permalink": "/r/singularity/comments/1wbhk6n/agi_and_asi_have_already_been_defined_for_us/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p8pv7py",
+      "parent_id": "t3_1wbhk6n",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1788949043,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "p8pvrhp",
+      "parent_id": "t3_1wbhk6n",
+      "author": "notsofaroff",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788949292,
+      "body": "You know what, swap it. Zordon is a glorified chatbot. Alpha is the one that actually gets shit done."
+    },
+    {
+      "depth": 0,
+      "id": "p8pw5jg",
+      "parent_id": "t3_1wbhk6n",
+      "author": "IronPheasant",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788949470,
+      "body": "[That would be a little bit concerning.](http://www.youtube.com/watch?v=mJgC9LEBTuQ)\n\nAnd of course AGI in a datacenter isn't a little robot guy. It's a giant godlike machine that lives 50 million subjective years to our one."
+    }
+  ]
+}

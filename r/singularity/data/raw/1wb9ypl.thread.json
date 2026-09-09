@@ -1,0 +1,111 @@
+{
+  "post_id": "1wb9ypl",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "For non developers, AI is pretty much going to be understood as “wow computers can do so much these days”, and it’s unlikely to be seen as a threat as everything is getting computerised already.",
+    "author": "wild_crazy_ideas",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1788923907,
+    "selftext": "The real perception change is actually only going to come from robots being able to communicate and act.",
+    "permalink": "/r/singularity/comments/1wb9ypl/for_non_developers_ai_is_pretty_much_going_to_be/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p8ofhlk",
+      "parent_id": "t3_1wb9ypl",
+      "author": "Klutzy-Snow8016",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788924696,
+      "body": "Minds will be blown when OpenAI introduces GPT-8 by having a humanoid robot do a media tour on its own."
+    },
+    {
+      "depth": 0,
+      "id": "p8orrjh",
+      "parent_id": "t3_1wb9ypl",
+      "author": "Longjumping-Stay7151",
+      "author_flair_text": "Hope for UBI but keep saving to survive AGI",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788929658,
+      "body": "For knowledge workers it's just a matter of time until some competitor builds an agentic system wrapped around claude or codex cli."
+    },
+    {
+      "depth": 1,
+      "id": "p8pessq",
+      "parent_id": "t1_p8orrjh",
+      "author": "RelativeObligation88",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788940689,
+      "body": "Is a “matter of time” 1, 5, 10, 20 years?"
+    },
+    {
+      "depth": 2,
+      "id": "p8pji5o",
+      "parent_id": "t1_p8pessq",
+      "author": "WonderFactory",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788943161,
+      "body": "I'd guess we'll have a drop in replacement for a knowledge worker within 5 years and it could even be as soon 1 year"
+    },
+    {
+      "depth": 3,
+      "id": "p8pomxe",
+      "parent_id": "t1_p8pji5o",
+      "author": "RelativeObligation88",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788945835,
+      "body": "The thing is, even if it happens today, it will take 5-10 years for most businesses to adapt their model to support this change and smaller ones will not be able to afford it at all. Change takes a long time."
+    },
+    {
+      "depth": 0,
+      "id": "p8oypcc",
+      "parent_id": "t3_1wb9ypl",
+      "author": "Prudent-Sorbet-5202",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788932813,
+      "body": "For non developers computer use is the thing to watch out for. Once computer use benchmarks are saturated it's begining of the end to all white collar / desk jobs "
+    }
+  ]
+}

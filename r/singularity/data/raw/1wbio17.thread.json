@@ -1,0 +1,83 @@
+{
+  "post_id": "1wbio17",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Math is over as a field. Top Mathematician goes to work in AI safety at OpenAI",
+    "author": "Traditional-Chip8339",
+    "score": 0,
+    "upvote_ratio": 0.5,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1788952546,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wbio17/math_is_over_as_a_field_top_mathematician_goes_to/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p8q4auq",
+      "parent_id": "t3_1wbio17",
+      "author": "RutilantBossi12",
+      "author_flair_text": "Cultista dei Ferri Candidi",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788952851,
+      "body": "Too soon to call the shots imo, but yeah i wouldn't study math if i had to choose a major right now"
+    },
+    {
+      "depth": 0,
+      "id": "p8q4b4c",
+      "parent_id": "t3_1wbio17",
+      "author": "Comfortable-Shop8080",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788952854,
+      "body": "![gif](giphy|afLoVMHg3QoYPZHCGF)"
+    },
+    {
+      "depth": 0,
+      "id": "p8q4f49",
+      "parent_id": "t3_1wbio17",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1788952896,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "p8q4wbq",
+      "parent_id": "t3_1wbio17",
+      "author": "ProtoplanetaryNebula",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788953081,
+      "body": "Aside from anything else, this mathematician will be paid an enormous amount more than the traditional career path, so that probably plays a big part in his decision. "
+    }
+  ]
+}

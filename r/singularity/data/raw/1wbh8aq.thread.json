@@ -1,0 +1,69 @@
+{
+  "post_id": "1wbh8aq",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Corporate workers in your 30s, what's the finance plan for AI inevitably taking your job",
+    "author": "Sherlockworld",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Economics & Society",
+    "created_utc": 1788947938,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wbh8aq/corporate_workers_in_your_30s_whats_the_finance/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p8ptabt",
+      "parent_id": "t3_1wbh8aq",
+      "author": "tomvorlostriddle",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788948144,
+      "body": "Being DINKs due to infertility, being naturally frugal, being informed about the stockmarket and thus doing Fire by accident\n\nDidn't have a goal in mind for it, now we have one\n\nBeing born just early enough and not to the wrong parents turned out to be key"
+    },
+    {
+      "depth": 0,
+      "id": "p8ptrbb",
+      "parent_id": "t3_1wbh8aq",
+      "author": "misteramy",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788948366,
+      "body": "Work for slow adopters like government, safe money and own a house, wait."
+    },
+    {
+      "depth": 0,
+      "id": "p8q383c",
+      "parent_id": "t3_1wbh8aq",
+      "author": "Forgword",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788952434,
+      "body": "Go to where they make super yatchs and apply for an apprentice or helper position."
+    }
+  ]
+}

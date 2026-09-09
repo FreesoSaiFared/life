@@ -1,0 +1,41 @@
+{
+  "post_id": "1wbc5hr",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+    "author": "donutloop",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1788930509,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wbc5hr/how_gpt56_sol_helps_run_quantum_computing/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p8owcp8",
+      "parent_id": "t3_1wbc5hr",
+      "author": "badumtsssst",
+      "author_flair_text": "AGI 2027",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1788931719,
+      "body": "Why not use Astra? Or was this done before the release?"
+    }
+  ]
+}
