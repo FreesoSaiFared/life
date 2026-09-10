@@ -1,0 +1,83 @@
+{
+  "post_id": "1wc3vya",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~11h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Can someone in genomics explain what AlphaGenome Atlas actually changes? Genuine question, not a dig.",
+    "author": "Babayaga1664",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1789001259,
+    "selftext": "I'm not a geneticist.   \nRead the AlphaGenome Atlas preprint from DeepMind and spent a while digging into it. I understand what they built. I don't understand why it matters, and I'd like to.\n\nWhat I think it is: they took AlphaGenome, ran it over every possible single base change in the human genome (\\~9bn) plus \\~100m observed indels, and stored the results. So instead of running the model per variant you do a lookup. On top of that they trained a score (AVI) and derived a motif map.\n\nWhere I get stuck:  \nIt's a table of model predictions, not measurements. Nothing in it is observed. So how much weight does a lab actually put on it?\n\nThe headline clinical result is retrospective: 29.5% recall at top 50 on already-solved GREGoR cases vs 12.5% for CADD. Impressive sounding, but on cases where the answer was known. What happens prospectively?\n\nThe rare variant association work got a 22% lift in discoveries, but only 4 of 25 replicated nominally in All of Us and none at Bonferroni. Is that normal for the field or is that weak?\n\nThey say themselves it isn't sufficient evidence for diagnosis. So it's a shortlisting tool. Does that actually change outcomes for patients, or does it change how long a scientist spends staring at a list?\n\nThe DNM1 case in the paper is the one bit that landed for me. Deep intronic variant, brain specific cryptic splice acceptor, blood RNA-seq had been inconclusive because the exon isn't expressed in blood. \n\nMy question is whether that's representative or a cherry pick.  \nWhat I'm asking:  \n\t1.\tIf you work in clinical genomics or statistical genetics, would you use this?  \n\t2.\tIs precomputation genuinely the unlock, or is that just framing on top of an incremental accuracy gain?\n\nHappy to be told I'm missing the point. I'd rather understand it properly than write it off.",
+    "permalink": "/r/singularity/comments/1wc3vya/can_someone_in_genomics_explain_what_alphagenome/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p8v23vd",
+      "parent_id": "t3_1wc3vya",
+      "author": "DelphiTsar",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789002691,
+      "body": "What are the chances you get a geneticist that knows their stuff and know it well enough they can communicate it well....that happens to explain it better than one of the frontier AI's?"
+    },
+    {
+      "depth": 1,
+      "id": "p8v43hd",
+      "parent_id": "t1_p8v23vd",
+      "author": "Babayaga1664",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789003301,
+      "body": "My very long post is the equivalent of “so how does it actually help sick people?” I read the paper and ran it through the top models and none of them could provide me a practical example where this pre-calculated lookup table helps.\n\nIt feels like of the overall workflow it would be used in it would only provide a marginal gain."
+    },
+    {
+      "depth": 0,
+      "id": "p8vmyor",
+      "parent_id": "t3_1wc3vya",
+      "author": "Euphoric_Driver_7291",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789009264,
+      "body": "Absolutely I’ll use it.  \nThink of human biology as a jigsaw puzzle that we are assembling. Alpha genome isn’t the whole puzzle, but it fills in the edges of the puzzle so we can make progress faster on each individual piece."
+    },
+    {
+      "depth": 0,
+      "id": "p8vyzv1",
+      "parent_id": "t3_1wc3vya",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789013507,
+      "body": "[removed]"
+    }
+  ]
+}

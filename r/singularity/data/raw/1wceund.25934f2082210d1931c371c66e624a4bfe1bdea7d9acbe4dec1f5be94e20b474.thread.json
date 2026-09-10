@@ -1,0 +1,153 @@
+{
+  "post_id": "1wceund",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 4,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AI can create gene therapy delivery systems thousands of times better than human attempts or evolution's billions years of work on capsids. (Creating bottom-up RNA transfer vehicles from synthetic protein assemblies, Nature)",
+    "author": "Competitive_Travel16",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Biotech/Longevity",
+    "created_utc": 1789034650,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wceund/ai_can_create_gene_therapy_delivery_systems/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p8x7dww",
+      "parent_id": "t3_1wceund",
+      "author": "katoptronophile",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789034740,
+      "body": "It will eventually solve all illness."
+    },
+    {
+      "depth": 1,
+      "id": "p8x7k1q",
+      "parent_id": "t1_p8x7dww",
+      "author": "Human_Pollution2820",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789034822,
+      "body": "TAKE OFF THE BREAKS"
+    },
+    {
+      "depth": 1,
+      "id": "p8x9foh",
+      "parent_id": "t1_p8x7dww",
+      "author": "Competitive_Travel16",
+      "author_flair_text": "AGI 2027 ▪️ ASI 2029",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789035683,
+      "body": "I would not say all."
+    },
+    {
+      "depth": 2,
+      "id": "p8xa03k",
+      "parent_id": "t1_p8x9foh",
+      "author": "katoptronophile",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789035936,
+      "body": "Which do you think it won't solve?"
+    },
+    {
+      "depth": 3,
+      "id": "p8xacc1",
+      "parent_id": "t1_p8xa03k",
+      "author": "Competitive_Travel16",
+      "author_flair_text": "AGI 2027 ▪️ ASI 2029",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789036088,
+      "body": "Prion diseases and the common cold."
+    },
+    {
+      "depth": 4,
+      "id": "p8xft6o",
+      "parent_id": "t1_p8xacc1",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789038387,
+      "body": "[removed]"
+    },
+    {
+      "depth": 1,
+      "id": "p8xf91f",
+      "parent_id": "t1_p8x7dww",
+      "author": "anycept",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789038163,
+      "body": "Too slow."
+    },
+    {
+      "depth": 0,
+      "id": "p8x7pel",
+      "parent_id": "t3_1wceund",
+      "author": "New_Bonus_649",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789034893,
+      "body": "The singularity is nearer"
+    },
+    {
+      "depth": 0,
+      "id": "p8x91v5",
+      "parent_id": "t3_1wceund",
+      "author": "Competitive_Travel16",
+      "author_flair_text": "AGI 2027 ▪️ ASI 2029",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789035510,
+      "body": "Short summary: \n\nSummary in standard simplified technical English ASD-STE100:\n\n> Scientists use artificial intelligence to design new proteins. They use these synthetic proteins to make transport vehicles for RNA. The researchers combine the synthetic proteins with natural protein parts. These natural parts help the vehicles to connect to cells and to hold the RNA. This combination makes more than 100 new types of transport vehicles.\n> \n> These new transport vehicles have different shapes and sizes. One specific vehicle has the name STV-C8. STV-C8 moves RNA into cells much better than standard lipid nanoparticles. It operates much more efficiently than natural transport methods. The researchers test this vehicle with different types of RNA molecules.\n> \n> The STV-C8 vehicle can carry many useful tools. For example, it delivers CRISPR-Cas9 to change genes. It also moves materials that stop viruses. The scientists put these materials into different cells from animals and humans. The vehicles successfully release the materials inside the correct cells.\n> \n> The researchers do tests with the STV-C8 vehicle in mice. They monitor how the vehicle moves through the body of the mouse. The test results show the location of the vehicle in almost every cell. The test data also show that the vehicle is safe. The vehicle does not cause dangerous effects in the animals.\n> \n> The scientists use this new technology to treat a muscle disease. The name of this disease is Duchenne muscular dystrophy. They use the STV-C8 vehicle to send a tool that changes the genes. This tool removes a bad section of the DNA. The researchers do this procedure successfully in cells from human patients and in a pig."
+    }
+  ]
+}

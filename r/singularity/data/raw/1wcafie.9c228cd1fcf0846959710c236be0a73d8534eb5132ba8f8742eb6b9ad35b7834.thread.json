@@ -1,0 +1,111 @@
+{
+  "post_id": "1wcafie",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Look at this...this is all happened in last 7 days",
+    "author": "PraiseTheMonocle",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1789019722,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wcafie/look_at_thisthis_is_all_happened_in_last_7_days/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p8wddmu",
+      "parent_id": "t3_1wcafie",
+      "author": "PraiseTheMonocle",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789019775,
+      "body": "Note:- The numbers out of 100 is based on Significance "
+    },
+    {
+      "depth": 1,
+      "id": "p8wltdy",
+      "parent_id": "t1_p8wddmu",
+      "author": "verdant_tulip",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789023798,
+      "body": "Arbitrary as fuck"
+    },
+    {
+      "depth": 1,
+      "id": "p8ww7qg",
+      "parent_id": "t1_p8wddmu",
+      "author": "BOESNIK",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789029112,
+      "body": "Navier Stokes not even breaching the nineties. lol."
+    },
+    {
+      "depth": 0,
+      "id": "p8wdlq3",
+      "parent_id": "t3_1wcafie",
+      "author": "Admirable-Falcon-501",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789019880,
+      "body": "Link"
+    },
+    {
+      "depth": 1,
+      "id": "p8wdtg1",
+      "parent_id": "t1_p8wdlq3",
+      "author": "PraiseTheMonocle",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789019981,
+      "body": "https://vibemathed.com/"
+    },
+    {
+      "depth": 2,
+      "id": "p8wrhfm",
+      "parent_id": "t1_p8wdtg1",
+      "author": "Admirable-Falcon-501",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789026663,
+      "body": "Is this your site? Rankings are pretty fucked ngl but I like the idea of the site. Just needs to improve on that."
+    }
+  ]
+}
