@@ -1,0 +1,26 @@
+{
+  "post_id": "1wd6v27",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Do these visual understanding benchmarks exist",
+    "author": "JokeOfEverything",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Fiction & Creative Work",
+    "created_utc": 1789103630,
+    "selftext": "1. Ask it to describe an image, feed all the different outputs from different models into the same image model, which one is most faithful?\n\n2. Feed adifferent image models the same character reference and text prompt asking for that character to be in a different pose and angle, and situation - which looks most like the reference?",
+    "permalink": "/r/singularity/comments/1wd6v27/do_these_visual_understanding_benchmarks_exist/"
+  },
+  "comments": []
+}

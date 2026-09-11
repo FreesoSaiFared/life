@@ -1,0 +1,153 @@
+{
+  "post_id": "1wd650h",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "GPT-6 Astra can do in-context learning... in the physical world",
+    "author": "141_1337",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Singularity is Nearer",
+    "created_utc": 1789101306,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wd650h/gpt6_astra_can_do_incontext_learning_in_the/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p93fjd3",
+      "parent_id": "t3_1wd650h",
+      "author": "141_1337",
+      "author_flair_text": "▪️e/acc | AGI: ~2030 | ASI: ~2040 | FALSGC: ~2050 | :illuminati:",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789101336,
+      "body": "[https://x.com/ax\\_pey/status/2098216469012283681](https://x.com/ax_pey/status/2098216469012283681)\n\n![gif](giphy|SxB0S9MgHo4ZoNrDRk)"
+    },
+    {
+      "depth": 0,
+      "id": "p93gy91",
+      "parent_id": "t3_1wd650h",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789101939,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "p93kmlv",
+      "parent_id": "t3_1wd650h",
+      "author": "ZealousidealBus9271",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789103565,
+      "body": "Has Lecun said anything about this?"
+    },
+    {
+      "depth": 1,
+      "id": "p93kuaa",
+      "parent_id": "t1_p93kmlv",
+      "author": "141_1337",
+      "author_flair_text": "▪️e/acc | AGI: ~2030 | ASI: ~2040 | FALSGC: ~2050 | :illuminati:",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789103661,
+      "body": "LeCun has been real quiet since Astra dropped /jk\n\n\nBut no, he really hasn't. "
+    },
+    {
+      "depth": 2,
+      "id": "p94ec3t",
+      "parent_id": "t1_p93kuaa",
+      "author": "enilea",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789118222,
+      "body": "He did comment on Astra replying to someone's comment:\n\nhttps://preview.redd.it/y1bimbgoyuoh1.png?width=743&format=png&auto=webp&s=cf39275c33c807f5b5d09bcfe11306f1a302b6bf\n\nI agree Astra is still not quite there to do those things especially in real time, but given its robotics capabilities I think it can be extrapolated and we might very well get there in one or two years"
+    },
+    {
+      "depth": 3,
+      "id": "p94ry0p",
+      "parent_id": "t1_p94ec3t",
+      "author": "fictionwizard",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789124472,
+      "body": "Both LeCun’s and your follow up comment provide real insight that I think a lot of people here are missing.  I wish this comment could be higher up.  No we aren’t quite at AGI yet, but damn, we are definitely moving that direction and not too far off."
+    },
+    {
+      "depth": 1,
+      "id": "p949dzi",
+      "parent_id": "t1_p93kmlv",
+      "author": "233C",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789115685,
+      "body": "He'll be back soon, once he's rolled his goalpost a bit further.   \n\n(someone should suggest him to let an LLM powered Agent do that for him :)"
+    },
+    {
+      "depth": 0,
+      "id": "p93wa92",
+      "parent_id": "t3_1wd650h",
+      "author": "Stunning_Monk_6724",
+      "author_flair_text": "▪️Gigagi achieved externally",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789109077,
+      "body": "Just what I'd expect of real general intelligence. Just need infinite context + memory, we're so close now."
+    },
+    {
+      "depth": 0,
+      "id": "p94h6wc",
+      "parent_id": "t3_1wd650h",
+      "author": "pandi85",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789119668,
+      "body": "![gif](giphy|Fsn4WJcqwlbtS)"
+    }
+  ]
+}

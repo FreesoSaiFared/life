@@ -1,0 +1,26 @@
+{
+  "post_id": "1wdbhz4",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "A directory of LLM leaderboards, pricing tables, and comparison tools",
+    "author": "Last_Establishment_1",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1789119594,
+    "selftext": "Find where to compare LLMs, not which model to pick\n\n\\## Why\n\nModel rankings and price sheets live on dozens of sites. Searching for \"best coding model\" or \"Claude vs GPT price\" scatters you across bookmarks and tabs. This project indexes those sources in one place so you can find where to compare, not which model to pick.\n\n\\## How it works\n\n\\`collection.json\\` in git is the source of truth. CI runs on a schedule (and on push): it refreshes metadata and screenshots from each listed site, then builds and publishes the static directory to GitHub Pages.\n\n\\[metaory.github.io/awesome-llm-leaderboards\\](https://metaory.github.io/awesome-llm-leaderboards/)",
+    "permalink": "/r/singularity/comments/1wdbhz4/a_directory_of_llm_leaderboards_pricing_tables/"
+  },
+  "comments": []
+}

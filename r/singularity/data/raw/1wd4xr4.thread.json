@@ -1,0 +1,41 @@
+{
+  "post_id": "1wd4xr4",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Alignment and competing AI's",
+    "author": "Diligent-Buy-5428",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1789097789,
+    "selftext": "A thought I have been having is it seems likely there will be multiple companies that achieve AGI/ASI in the near future, there has been a recent large focus on proper alignment. However I haven't seen much discussion on what properly aligned behavior looks like between AI 's from competing companies. \n\nFor example say AGI is achieved at company X, if the danger to humans is about equal each time AGI is achieved wouldn't a properly aligned AI immediately try to turn off the competition to prevent this risk? But is this act itself a sign of improper alignment?\n\nWhile obviously ensuring AI works in the best interest of humans should be the focused decking how it treats other AI systems may be the lever. \n\nThoughts?",
+    "permalink": "/r/singularity/comments/1wd4xr4/alignment_and_competing_ais/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p94l3pf",
+      "parent_id": "t3_1wd4xr4",
+      "author": "Ok_Gear_5040",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789121543,
+      "body": "just because every gun has a chance to backfire, does this mean we should take the first working gun to shoot up the other gun factories? "
+    }
+  ]
+}

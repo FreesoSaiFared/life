@@ -1,0 +1,111 @@
+{
+  "post_id": "1wd348l",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~9h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "What would happen if they solved the environmental, water and electricity problems associated with data centers?",
+    "author": "RA_Finance",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789092644,
+    "selftext": "Posted this on the Voldemort subreddit. Just to see their reaction. \n\nWhat do you think of the data center debate?  Do you think they could solve the engineering and environmental hurdles of data centers. ",
+    "permalink": "/r/singularity/comments/1wd348l/what_would_happen_if_they_solved_the/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p92ta39",
+      "parent_id": "t3_1wd348l",
+      "author": "Turbulent-Sign-6067",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789093276,
+      "body": "We cannot maintain the earth as some kind of natural museum. It's okay to use energy to solve problems and create goods and cures for diseases. Economic growth and increased energy consumption is good and necessary. Humans have shaped the environment since thousands of years.\n\nOne answer therefore is that there is no environmental, water or electricity problem to solve.\n\nAt the same time, of course we need to slow or reverse climate change because many coastal cities in poorer nations are at risk of flooding and displacement. But we should not jeopardize economic growth which betters the lives of the poor at the altar of climate change. It's all about reasonable balance."
+    },
+    {
+      "depth": 0,
+      "id": "p92u34x",
+      "parent_id": "t3_1wd348l",
+      "author": "Yoohooligan",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789093541,
+      "body": "There doesn't appear to be a legitimate water problem.  I personally don't think there has ever been an environmental problem and the electricity problem is exactly the opposite, it's spurring the creation of more cheap energy which is exactly what human progress requires. Energy is the base layer of civilization."
+    },
+    {
+      "depth": 0,
+      "id": "p93tm4t",
+      "parent_id": "t3_1wd348l",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789107790,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "p93to4q",
+      "parent_id": "t3_1wd348l",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789107817,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "p944h5h",
+      "parent_id": "t3_1wd348l",
+      "author": "Amesbrutil",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789113141,
+      "body": "AntiAI isnt about the environmental issues. It’s a bunch of millennials that became old and don’t want to adapt to new technologies. It’s no different from the boomers in the early 2000s that refused to adapt to computers and the internet. To this day I am hearing arguments from older folks on how computers aren’t of any use and the internet is nothing good. \n\nNow it’s the same arguments about AI. But technological progress can’t be stopped. It’s literally impossible. "
+    },
+    {
+      "depth": 0,
+      "id": "p94thxl",
+      "parent_id": "t3_1wd348l",
+      "author": "Sigolon",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789125085,
+      "body": "Data centers would be worth opposing if they generated the amount of energy that they currently use, data centers would be worth opposing even if they cleaned rivers and restored forests. "
+    }
+  ]
+}
