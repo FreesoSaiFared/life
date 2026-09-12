@@ -1,0 +1,41 @@
+{
+  "post_id": "1wdtfy7",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Daniel Litt | Working with LLMs to do high quality math",
+    "author": "North-Junket-6883",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789162290,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wdtfy7/daniel_litt_working_with_llms_to_do_high_quality/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p98msfx",
+      "parent_id": "t3_1wdtfy7",
+      "author": "North-Junket-6883",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789163121,
+      "body": "first 10 mins is a great overview of what AI has achieved in last 6 years in maths"
+    }
+  ]
+}

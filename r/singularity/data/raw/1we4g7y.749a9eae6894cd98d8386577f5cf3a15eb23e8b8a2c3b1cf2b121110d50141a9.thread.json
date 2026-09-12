@@ -1,0 +1,41 @@
+{
+  "post_id": "1we4g7y",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
+    "author": "141_1337",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1789193140,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1we4g7y/nvidia_in_talks_to_invest_in_anthropics_mega_ipo/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9b3ujn",
+      "parent_id": "t3_1we4g7y",
+      "author": "intergalacticskyline",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789196867,
+      "body": "It would surprise me more if Nvidia didn't invest in the IPO"
+    }
+  ]
+}

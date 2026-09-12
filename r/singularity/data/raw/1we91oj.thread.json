@@ -1,0 +1,69 @@
+{
+  "post_id": "1we91oj",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "\"Recursive self improvement hasn't been proved\"",
+    "author": "Asleep-Supermarket91",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789208978,
+    "selftext": "It seems recursive self‑improvement has already been proven, or will be. Is that the only argument luddites have left? Do you think we’ll ever get an Ed Zitron apology tour?",
+    "permalink": "/r/singularity/comments/1we91oj/recursive_self_improvement_hasnt_been_proved/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9bs38p",
+      "parent_id": "t3_1we91oj",
+      "author": "AlbatrossNew3633",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789209243,
+      "body": "Wait it has been proven? Did I miss something? It's impossible to keep up with all the news lately"
+    },
+    {
+      "depth": 0,
+      "id": "p9bscjc",
+      "parent_id": "t3_1we91oj",
+      "author": "TheSuggi",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789209368,
+      "body": "Well it certainly seems like a very solvable problem. So sooner or later it will happen. Whether 3 months from now or in 5 years. It will happen eventually, there does not seem to exist any physical limitation that would prevent it. So why does it matter? Just enjoy the ride."
+    },
+    {
+      "depth": 1,
+      "id": "p9bt0et",
+      "parent_id": "t1_p9bscjc",
+      "author": "LetsLive97",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789209684,
+      "body": "It definitely doesn't seem like a \"very\" solveable problem. AI helping improve itself with human guidance? Sure, already happens. AI improving itself with very quick and clear verifies? Absolutely, basically the only way it works right now\n\nAI improving itself while having to decide what improvement actually looks like *and* having no quick way to verify that *and* not hit any ceilings that introduce humans back into it again?\n\nNothing like that has even remotely been shown yet. Humans have always been in the loop or the verifier has always been quick and easy to run (Like lean)"
+    }
+  ]
+}
