@@ -1,0 +1,41 @@
+{
+  "post_id": "1wf3l0p",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Philip K. Dick: We Live in a Simulation (Legendary Speech at Metz, 1977)",
+    "author": "Crafty-State-6154",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Video",
+    "created_utc": 1789293682,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wf3l0p/philip_k_dick_we_live_in_a_simulation_legendary/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9ipu6n",
+      "parent_id": "t3_1wf3l0p",
+      "author": "The_Scout1255",
+      "author_flair_text": "adult agi 2026 ASI <2030, prev agi 2024, ai personhood 2025 est",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789293965,
+      "body": "I thought this was news."
+    }
+  ]
+}

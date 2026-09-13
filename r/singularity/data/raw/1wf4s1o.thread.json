@@ -1,0 +1,41 @@
+{
+  "post_id": "1wf4s1o",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "The Singularity",
+    "author": "darnoux13",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Meme",
+    "created_utc": 1789297707,
+    "selftext": "according to this week’s news…",
+    "permalink": "/r/singularity/comments/1wf4s1o/the_singularity/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9izw8s",
+      "parent_id": "t3_1wf4s1o",
+      "author": "Most-Bookkeeper-950",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789298625,
+      "body": "Lmao there's some truth to this. METR cant find devs who will code without AI anymore"
+    }
+  ]
+}

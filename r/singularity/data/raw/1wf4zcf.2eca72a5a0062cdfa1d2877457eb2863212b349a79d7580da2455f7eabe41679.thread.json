@@ -1,0 +1,139 @@
+{
+  "post_id": "1wf4zcf",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "The pause will only accelerate economic impacts",
+    "author": "Mastac123",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1789298339,
+    "selftext": "Assuming the labs do pause the race to ASI/RSI (big if), the labor replacement curve will only accelerate. You don't need ASI, to replace 99% of jobs, AGI will do just fine. And now we'll have a bunch of the world's best engineers working on productizing the existing models instead working on ASI.",
+    "permalink": "/r/singularity/comments/1wf4zcf/the_pause_will_only_accelerate_economic_impacts/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9izqj8",
+      "parent_id": "t3_1wf4zcf",
+      "author": "dolo937",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789298558,
+      "body": "the navier stokes model is ready and if released its going to have a bigger impact than before"
+    },
+    {
+      "depth": 0,
+      "id": "p9izrqa",
+      "parent_id": "t3_1wf4zcf",
+      "author": "mario_ghadis",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789298572,
+      "body": "You tried to be smart. Just put the fries in the bag bro.."
+    },
+    {
+      "depth": 0,
+      "id": "p9j013i",
+      "parent_id": "t3_1wf4zcf",
+      "author": "No_Wishbone684",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789298682,
+      "body": "It’s possible that OpenAI and Anthropic will focus more on concrete automation tasks. But for anyone who doesn’t have data centers that’s been the goal for three years. Not saying you’re wrong but I think it’s a change at the margin. Of course if the frontier labs are able to make dramatic efficiency gains to the point you can run Astra or Mythos all day that really will have more impact on job displacement that another bigger badder model."
+    },
+    {
+      "depth": 0,
+      "id": "p9j08yi",
+      "parent_id": "t3_1wf4zcf",
+      "author": "DoubleGG123",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789298774,
+      "body": "I disagree with this. I think there are still lots of bottlenecks both in the digital and the physical space. Better, more capable models could speed up lots of the research and logistics needed to solve those problems faster to automate most jobs. I still think automation is coming, because the economic incentives are just too high. But I do think a pause/slower pace of AI progress will lead to a slowdown of the economic impacts, not an acceleration, especially in the long run."
+    },
+    {
+      "depth": 0,
+      "id": "p9j15vo",
+      "parent_id": "t3_1wf4zcf",
+      "author": "GlokzDNB",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789299165,
+      "body": "It's not a pause"
+    },
+    {
+      "depth": 0,
+      "id": "p9j1d0p",
+      "parent_id": "t3_1wf4zcf",
+      "author": "IronPheasant",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789299248,
+      "body": "> You don't need ASI, to replace 99% of jobs, AGI will do just fine.\n\nThere's no meaningful distinction when the substrate you're running the thing on is running at 2 Ghz and has the equivalent of ~170 bytes of RAM per synapse in a human brain.\n\n50 million years to our one, and being able to fit its curves far better and to far more problems than our brains can....\n\nPeople really don't understand computer hardware, or the numbers involved here, do they...\n\n> And now we'll have a bunch of the world's best engineers working on productizing the existing models instead working on ASI\n\nNobody in their right mind would waste the hours of their lives on garbage when an entire world filled with treasure is right behind a door.\n\nThe only differences that may happen, is longer periods of time between public releases, and some official with a badge looking over everyone's shoulder.\n\nOh, and that they're taking the old 'for the love of god, you gotta sandbox the thing, far far away from the internet' thought experiments a bit more seriously.\n\nSoon new datacenter models may be practically extinct, replaced by workboxes running NPU's at more animal-like speeds."
+    },
+    {
+      "depth": 0,
+      "id": "p9j1f86",
+      "parent_id": "t3_1wf4zcf",
+      "author": "CTBienAvant",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789299274,
+      "body": "It was all setup, the tweet, the reactions, all but why ?"
+    },
+    {
+      "depth": 0,
+      "id": "p9j3d1w",
+      "parent_id": "t3_1wf4zcf",
+      "author": "awesomeoh1234",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789300066,
+      "body": "They should focus on making the models near free from a token perspective "
+    }
+  ]
+}

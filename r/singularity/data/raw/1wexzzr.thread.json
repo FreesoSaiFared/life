@@ -1,0 +1,139 @@
+{
+  "post_id": "1wexzzr",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Mysterious AI system, \"Odin,\" is credited with discovering a proof of the Komlós conjecture",
+    "author": "badumtsssst",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789274420,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wexzzr/mysterious_ai_system_odin_is_credited_with/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9hlrv2",
+      "parent_id": "t3_1wexzzr",
+      "author": "Any_Economics6283",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789274657,
+      "body": "....just google it.  It's not mysterious at all"
+    },
+    {
+      "depth": 0,
+      "id": "p9hlz84",
+      "parent_id": "t3_1wexzzr",
+      "author": "One-Judge321",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789274745,
+      "body": "decel in shambles"
+    },
+    {
+      "depth": 0,
+      "id": "p9hmve2",
+      "parent_id": "t3_1wexzzr",
+      "author": "Jonbarvas",
+      "author_flair_text": "▪️AGI by 2029 / ASI by 2035",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789275130,
+      "body": "Here we go"
+    },
+    {
+      "depth": 0,
+      "id": "p9hneny",
+      "parent_id": "t3_1wexzzr",
+      "author": "MagneticWaves",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789275361,
+      "body": "Im more interested in where ai is unable to solve. Excited to see its limits. But i think we will have insane progress here shortly "
+    },
+    {
+      "depth": 1,
+      "id": "p9htdnt",
+      "parent_id": "t1_p9hneny",
+      "author": "SwePolygyny",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789278074,
+      "body": "Every other problem in existance?"
+    },
+    {
+      "depth": 2,
+      "id": "p9i2oky",
+      "parent_id": "t1_p9htdnt",
+      "author": "MagneticWaves",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789282485,
+      "body": "Will it solve PI?"
+    },
+    {
+      "depth": 1,
+      "id": "p9hwomt",
+      "parent_id": "t1_p9hneny",
+      "author": "varkarrus",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789279655,
+      "body": "I think it will have insufficient data for a meaningful response on how to reverse entropy"
+    },
+    {
+      "depth": 0,
+      "id": "p9i226a",
+      "parent_id": "t3_1wexzzr",
+      "author": "Standard-Song-8590",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789282188,
+      "body": "almost definitely solved with GPT-astra and the founders js made some slop ai product to sell. "
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "post_id": "1wf2g15",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Why AI couldn't actually take everyone's jobs and make them starve.",
+    "author": "EGarrett28",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Video",
+    "created_utc": 1789289607,
+    "selftext": "[https://youtu.be/defTDmgnZaw?t=381](https://youtu.be/defTDmgnZaw?t=381)  \n  \nJust saw another discussion where an economist and programmer were proposing this yesterday as though it's a new idea, haha. And I usually don't like sharing stuff, but this video from last year goes into exactly that at the linked timecode, talking about how barring people from working and buying AI products would just cause people to work for themselves and the AI people would be off on an island somewhere by themselves, and it describes many other scenarios. Like that excess demand means that companies could use AI to increase production with their existing workforce and make more money and not have to fire anyone. It's a pro-AI video.",
+    "permalink": "/r/singularity/comments/1wf2g15/why_ai_couldnt_actually_take_everyones_jobs_and/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9il7ix",
+      "parent_id": "t3_1wf2g15",
+      "author": "AntiqueFigure6",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789291658,
+      "body": "Yes it is probably the case that if people become excluded from the economy in large numbers they’ll start trading with each other and create a secondary economy in some sense. "
+    },
+    {
+      "depth": 1,
+      "id": "p9it6zf",
+      "parent_id": "t1_p9il7ix",
+      "author": "EGarrett28",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789295594,
+      "body": "Yes and if there's mass unemployment, that secondary economy will be the main economy. The people producing AI goods will not have a market for them and likely won't even be able to make a lot of money off of it if no one else has money to buy. Though the people who control the AI goods could consume them themselves."
+    },
+    {
+      "depth": 0,
+      "id": "p9ip834",
+      "parent_id": "t3_1wf2g15",
+      "author": "Techngro",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789293668,
+      "body": "AI: \"Challenge accepted, foolish mortals.\""
+    },
+    {
+      "depth": 1,
+      "id": "p9isq7z",
+      "parent_id": "t1_p9ip834",
+      "author": "EGarrett28",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789295366,
+      "body": "It would have to invent some physical method besides just automating out human jobs and then causing the people using the automation to charge more than everyday people can afford."
+    }
+  ]
+}

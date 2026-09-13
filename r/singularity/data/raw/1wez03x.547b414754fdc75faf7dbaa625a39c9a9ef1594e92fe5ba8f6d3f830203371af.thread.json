@@ -1,0 +1,41 @@
+{
+  "post_id": "1wez03x",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Multimodal Art Projection releases YuE2 · Open-weight Frontier Music generator with symbolic planning to better fine-tune the output.",
+    "author": "Profanion",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI Generated Media ",
+    "created_utc": 1789277668,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wez03x/multimodal_art_projection_releases_yue2/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9hxct0",
+      "parent_id": "t3_1wez03x",
+      "author": "Profanion",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789279967,
+      "body": "Also, training data is CC0 or synthetic."
+    }
+  ]
+}

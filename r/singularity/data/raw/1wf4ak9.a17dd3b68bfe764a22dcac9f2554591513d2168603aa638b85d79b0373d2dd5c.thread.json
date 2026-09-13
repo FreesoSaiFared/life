@@ -1,0 +1,111 @@
+{
+  "post_id": "1wf4ak9",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Recommendations for books",
+    "author": "Any_Effort8437",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Books & Research",
+    "created_utc": 1789296117,
+    "selftext": "I'm looking for book recommendations on futurism and the singularity/AI.\n\nI haven't actually read anything at all.\n\nWhat are the fundamental books for you? And can you tell me if they are more utopian/dystopian or just nutral philosophy.\n\nThank you. ",
+    "permalink": "/r/singularity/comments/1wf4ak9/recommendations_for_books/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9iuryy",
+      "parent_id": "t3_1wf4ak9",
+      "author": "TofuMeltatSunspot",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789296343,
+      "body": "Superintelligence by Nick Bostrom"
+    },
+    {
+      "depth": 1,
+      "id": "p9iv9ee",
+      "parent_id": "t1_p9iuryy",
+      "author": "Any_Effort8437",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789296566,
+      "body": "Heard that title. On it. Thanks. "
+    },
+    {
+      "depth": 0,
+      "id": "p9iv4yv",
+      "parent_id": "t3_1wf4ak9",
+      "author": "Traditional-Chip8339",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789296509,
+      "body": "The Coming Wave: AI, Power, and Our Future by Mustafa Suleyman who was one of the founders of deep mind.  A bit on the pessimistic side and now a bit dated in AI terms but I believe still a great read to think about exponential improvements ahead in the next decade.  "
+    },
+    {
+      "depth": 0,
+      "id": "p9ivndo",
+      "parent_id": "t3_1wf4ak9",
+      "author": "NoFaithlessness951",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789296744,
+      "body": "Life 3.0: Being Human in the Age of Artificial Intelligence by Max Tegmark\n\nBasically has all the possible scenarios, but tries to give guidance to achieve the positive outcomes."
+    },
+    {
+      "depth": 0,
+      "id": "p9iwmuf",
+      "parent_id": "t3_1wf4ak9",
+      "author": "phronesis77",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789297193,
+      "body": "From the guy who coined the term, updated: [https://en.wikipedia.org/wiki/The\\_Singularity\\_Is\\_Nearer](https://en.wikipedia.org/wiki/The_Singularity_Is_Nearer)\n\n"
+    },
+    {
+      "depth": 0,
+      "id": "p9j479m",
+      "parent_id": "t3_1wf4ak9",
+      "author": "ryan14mt",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789300397,
+      "body": "Just to clarify, both of these are fiction. They explore possible futures involving advanced AI and automation, with some added drama to turn the ideas into actual stories.\n\n**The Metamorphosis of Prime Intellect by Roger Williams**\n\nThis one directly explores an intelligence-explosion scenario. A supposedly benevolent AI becomes effectively omnipotent and creates what it considers a utopia, eliminating things such as death, disease and scarcity. However, what seems like utopia to some people becomes a dystopia for others.\n\nIt’s short enough to finish in a day or two. I’m deliberately keeping the description vague because it’s very easy to spoil, but a lot of readers strongly disagree with the main character’s reasoning and choices. Fair warning: despite being philosophical science fiction, it also contains some extremely graphic sexual violence, torture and body horror.\n\n**Manna by Marshall Brain**\n\nThis one isn’t quite an AI-singularity story in the same sense. It explores mass automation and technological unemployment, showing two very different ways society might respond.\n\nThe first is a capitalist dystopia in which most people are made economically useless by automation and confined to bleak government housing. The other is the Australia Project: a privately funded attempt to create a post-scarcity society where automation provides everyone with a comfortable life. The project raises money by selling shares and eventually purchases Australia, with early shareholders receiving the opportunity to live there.\n\nIt focuses much more heavily on describing the utopian alternative, although the dystopian society still exists for everyone left outside it. It’s extremely short, can be read in a couple of hours, and is available free on the author’s website."
+    }
+  ]
+}

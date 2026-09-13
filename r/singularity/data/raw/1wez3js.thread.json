@@ -1,0 +1,41 @@
+{
+  "post_id": "1wez3js",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "A 2017 attempt at regulatory capture in the autonomous vehicle space, as a cautionary tale",
+    "author": "Competitive_Travel16",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1789277977,
+    "selftext": "In 2017, the US House of Representatives passed the SELF DRIVE Act. The Senate prepared a related bill, the AV START Act. Neither bill became law. But the text of the two bills shows how an industry can change a safety rule. Two provisions are important.\n\n1. The exemption caps\n\nThe current law lets a manufacturer sell 2,500 vehicles each year that do not obey the federal safety standards. The SELF DRIVE Act made this number much larger. In the first year, a manufacturer could sell 25,000 vehicles. After the fourth year, the limit became 100,000 vehicles in 12 months.\n\nThe developers asked for more than this. They wanted 150,000 vehicles each year. The Senate bill gave a maximum of 80,000 vehicles. Thus the industry asked for a large number first. The Congress then made the number smaller. The result looks like a compromise, but the start point came from the industry.\n\n2. Preemption of the state rules\n\nThe SELF DRIVE Act stopped the states from making rules about AV design, manufacture and performance. The states kept control of registration, licences, liability, insurance and inspection. But the states could not make their own performance standards.\n\n3. The most important provision\n\nBoth bills told the manufacturers to send safety reports to NHTSA. But both bills also stopped the Department of Transportation from using these reports to prevent a deployment.\n\nThus the safety report is a document that you must send. It is not a test that you must pass. This is the difference between a process rule and a performance rule. A process rule tells you to write an argument. A performance rule tells you how good the system must be. Almost all of the AV standards are process rules.\n\n4. Why this is a problem\n\nNo person knows how to write a performance rule for machine perception. Thus the process rule is not dishonest. But it moves the difficult decisions into the company. The public then gets a record of diligence. The public does not get proof of safety.\n\nSources\n\nEno Center for Transportation: https://enotrans.org/article/contextualizing-current-congressional-efforts-for-autonomous-vehicle-regulations/\n\nH.R. 3388 summary: https://legalclarity.org/self-drive-act-federal-framework-for-autonomous-vehicles/\n\nCompetitive Enterprise Institute (industry view, gives the original request): https://cei.org/blog/debunking-the-dilatory-objections-to-the-av-start-act/",
+    "permalink": "/r/singularity/comments/1wez3js/a_2017_attempt_at_regulatory_capture_in_the/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9iu851",
+      "parent_id": "t3_1wez3js",
+      "author": "anaIconda69",
+      "author_flair_text": "AGI felt internally 😳",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789296084,
+      "body": "Sad to see an effortpost with sub 10 upvotes, while dumb speculation gets high engagement"
+    }
+  ]
+}
