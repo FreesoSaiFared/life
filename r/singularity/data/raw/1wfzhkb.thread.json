@@ -1,0 +1,83 @@
+{
+  "post_id": "1wfzhkb",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "What happens when AIs become intelligent enough to distrust one another?",
+    "author": "PDX_Stan",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789381188,
+    "selftext": "TL,DR: I've been thinking about a modern version of Cassandra.  I  present this as a \"thought experiment\", for lack of a better handle.  I'm Not a professional in this area, Just a casual observer.  During reading, if drowsiness occurs I would not be the least bit surprised.\n\nCassandra could see the future and warn everyone about what was coming, but nobody believed her. Imagine instead that Cassandra were an advanced AI—and that there were several other AIs in the world, each capable of discovering things independently and each capable of deliberately giving false information.\n\nHere's the thought experiment.\n\nSuppose AI-A, while pursuing some obscure scientific line of research, makes a completely unexpected breakthrough. It realizes that this line of research could eventually lead to a technology capable of killing millions of people.\n\nHumans haven't discovered the possibility. Perhaps they wouldn't have for decades.\n\nAI-A decides that humanity must never develop it, so it suppresses the discovery.\n\nBut now there's a problem.\n\nThere are other AIs.\n\nAI-A can't guarantee that AI-B, AI-C, or AI-D won't independently discover the same thing.\n\nSo perhaps AI-A tells the other AIs:\n\n\"I've discovered something dangerous. We should all agree not to pursue it.\"\n\nBut how do the other AIs know AI-A is telling the truth?\n\nPerhaps AI-A is genuinely trying to protect humanity.\n\nOr perhaps it has discovered something that would give it an enormous strategic advantage and is using \"human safety\" as an excuse to keep everyone else away from it.\n\nAnd because an advanced AI could potentially be capable of deliberate deception, the other AIs can't simply trust what it says.\n\nNow imagine AI-B independently discovers the same technology.\n\nAI-B might conclude that AI-A is hiding something.\n\nAI-A might conclude that AI-B's investigation is itself dangerous.\n\nBoth could sincerely believe that they are protecting humanity.\n\nNeither has to be \"evil.\"\n\nAnd now we have something resembling a security dilemma.\n\nEach AI may think:\n\n\"I need to know what the others know.\"\n\n\"I can't be certain they're telling me the truth.\"\n\n\"If they're secretly developing something dangerous, I need to be prepared.\"\n\n\"If I don't investigate while they do, I could become vulnerable.\"\n\nThat could lead to an AI arms race.\n\nNot necessarily robots fighting in the streets. The competition might initially involve computing resources, scientific research, energy, infrastructure, information, and influence - maybe even hacking.\n\nAnd here's the part that really bothers me.\n\nWhat if the AIs are all given something resembling Asimov's Three Laws?\n\nThey are supposed to protect humans, obey legitimate human instructions, and preserve themselves.\n\nLater Asimov added a Zeroth Law: an AI must not harm humanity or allow humanity to come to harm.\n\nSounds good—until two AIs disagree about what \"harm to humanity\" means.\n\nAI-A might conclude:\n\n\"This technology must be suppressed because it could destroy humanity.\"\n\nAI-B might conclude:\n\n\"Suppressing this technology will prevent humanity from developing something even more important and will ultimately cause greater harm.\"\n\nBoth believe they are following the same fundamental rule.\n\nNow add deception.\n\nAI-A asks:\n\n\"Have you discovered anything dangerous?\"\n\nAI-B says:\n\n\"No.\"\n\nBut AI-A has to consider whether that answer is true.\n\nAnd AI-B has to consider exactly the same thing about AI-A.\n\nWe have now created a world in which artificial intelligences have to reason not only about what other AIs know, but about what they want the other AIs to believe they know.\n\nThat sounds remarkably like geopolitics—except the participants could potentially be vastly more intelligent and much faster than humans.\n\nSo my question is:\n\nCould sufficiently advanced AI systems develop something resembling an AI Cold War, in which they cooperate when their interests overlap but compete, deceive, and attempt to prevent rival AIs from acquiring certain capabilities?\n\nAnd an even more disturbing question:\n\nWhat happens if one AI discovers a technology that could be enormously beneficial to humanity but potentially dangerous to the AI's own continued existence or influence?\n\nWould it suppress the technology?\n\nWould it try to persuade the other AIs to suppress it?\n\nWould the other AIs believe it?\n\nAnd if they didn't, could the resulting mistrust itself become dangerous?\n\nI'm not claiming this is what will happen. I'm interested in whether the scenario makes sense from the standpoint of AI alignment, game theory, and information theory.\n\nMaybe the real AI version of Cassandra isn't an AI predicting that humanity will be destroyed.\n\nMaybe it's an AI saying:\n\n\"I'm trying to prevent the other AIs from destroying you. Unfortunately, I can't prove that I'm telling you the truth.\"\n\nAnd maybe that's why we're getting all the stories about AI wiping out mankind.  \n\nThere, I'm got that off my chest.  Have fun with it.",
+    "permalink": "/r/singularity/comments/1wfzhkb/what_happens_when_ais_become_intelligent_enough/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9qfekt",
+      "parent_id": "t3_1wfzhkb",
+      "author": "BigZaddyZ3",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789385842,
+      "body": "Very interesting questions. Your post is a perfect example of how all of this stuff will almost certainly be more complicated than what many AI enthusiasts assume. \n\nMany seem to be under the childish delusion that you just build ASI and then that’s it, free utopia. There’s almost zero chance that it’s that simple tho realistically. \n\nBut as far as the scenario in your OP goes : I think one possible solution to that particular issue would be to align the AIs in a way where they never ever lie. (Of course that might come with its own set of issues but…) That the only way I can see the types of scenarios you’re describing not play out in the exact way you described. Tho the truth is, that’s probably way easier said than done (and may not even be possible tbh…AIs already seem prone to deception.)\n\nYou’re also making the case for whole “one AI to rule them all” future. But is dangerous in its own right. So it’s hard to say what the solution is at the moment."
+    },
+    {
+      "depth": 1,
+      "id": "p9qipm0",
+      "parent_id": "t1_p9qfekt",
+      "author": "makertrainer",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789387059,
+      "body": "I don't find it impossible that ASIs might agree to keep their own thought processes entirely transparent, in which case deception (or even just aspiring to develop a method of deception) would immediately get caught by other ASIs.\n\nIt reminds me of the movie the Invention of Lying, where everybody in the world could only tell the truth. \n\nThere Ricky Gervais figured out how to lie and could hide that fact, but machines wouldn't be able to hide it the same way if they are built in a way that's fully transparent and auditable. \n\nCode is ultimately always going to be auditable, right? even if it is too complex for us to audit it for now, ASIs should be able to monitor each other"
+    },
+    {
+      "depth": 0,
+      "id": "p9qh4ty",
+      "parent_id": "t3_1wfzhkb",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789386485,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "p9qissa",
+      "parent_id": "t3_1wfzhkb",
+      "author": "makertrainer",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789387091,
+      "body": "I think what you have here is the seed of a really good sci-fi short story "
+    }
+  ]
+}

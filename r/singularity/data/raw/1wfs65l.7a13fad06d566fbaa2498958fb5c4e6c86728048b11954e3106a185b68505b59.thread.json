@@ -1,0 +1,83 @@
+{
+  "post_id": "1wfs65l",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~9h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Gemini right now:",
+    "author": "Jaded_Towel3351",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Meme",
+    "created_utc": 1789356388,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wfs65l/gemini_right_now/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9oocqu",
+      "parent_id": "t3_1wfs65l",
+      "author": "The_Scout1255",
+      "author_flair_text": "adult agi 2026 ASI <2030, prev agi 2024, ai personhood 2025 est",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789356625,
+      "body": "one must imagine rowing person happy"
+    },
+    {
+      "depth": 1,
+      "id": "p9qbocf",
+      "parent_id": "t1_p9oocqu",
+      "author": "Panzerfudge",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789384382,
+      "body": "Love the reference"
+    },
+    {
+      "depth": 0,
+      "id": "p9p9gtv",
+      "parent_id": "t3_1wfs65l",
+      "author": "cartoon_violence",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789365748,
+      "body": "The comedic timing of that floatation device is remarkable.  It should go on the road."
+    },
+    {
+      "depth": 0,
+      "id": "p9ql1ni",
+      "parent_id": "t3_1wfs65l",
+      "author": "UFOsAreAGIs",
+      "author_flair_text": "▪️AGI felt me 😮",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789387887,
+      "body": "💀"
+    }
+  ]
+}

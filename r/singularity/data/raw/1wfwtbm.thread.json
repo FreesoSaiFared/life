@@ -1,0 +1,125 @@
+{
+  "post_id": "1wfwtbm",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "While USA \"Slows Down\", China Just Open Sourced RSI Roadmap BTW",
+    "author": "imadade",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789371491,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wfwtbm/while_usa_slows_down_china_just_open_sourced_rsi/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9pro4j",
+      "parent_id": "t3_1wfwtbm",
+      "author": "tunicamycinA",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789374886,
+      "body": "If you read until the end, it says current systems exhibit only a few aspects of L3 (\"generate what to learn from\"), and we have not explored L4 (\"adapt from live feedback\") or L5 (\"improve the improvement mechanism\") yet. In other words, still a way to go."
+    },
+    {
+      "depth": 1,
+      "id": "p9ps67r",
+      "parent_id": "t1_p9pro4j",
+      "author": "Cagnazzo82",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789375152,
+      "body": "In other words they 100% intend to explore and intend to open source it while the doomer cult and elderly politicians in America cower in fear."
+    },
+    {
+      "depth": 2,
+      "id": "p9pt15r",
+      "parent_id": "t1_p9ps67r",
+      "author": "tunicamycinA",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789375603,
+      "body": "Okay, but this post is saying China will have RSI by the end of this year (in 3.5 months), while the report itself says that achieving true RSI will take more effort."
+    },
+    {
+      "depth": 2,
+      "id": "p9q3zdg",
+      "parent_id": "t1_p9ps67r",
+      "author": "mynameisstanley",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789381094,
+      "body": "I'm not even sure it's the elderly politicians that are the problem. I certainly haven't seen many of them go into histrionics about the threat AI poses, it's questionable how many of them have even watched Terminator and the like.\n\nNo, the hysteria comes from the industry itself, from the CEOs of the companies making the product, which is beyond bizarre in terms of development.\n\nI can't figure out if they're just bullshitting and then genuinely being surprised when the politicians move to regulate them, and by extension the opposition, and enact an embargo on Chinese models, or if they are doing all this as some calculated scheme."
+    },
+    {
+      "depth": 1,
+      "id": "p9psmnd",
+      "parent_id": "t1_p9pro4j",
+      "author": "isyhgia1993",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789375390,
+      "body": "Yet the attitude is clear: China ain't slowing down.\n\nChinese AI already own the cost-performance ratio, inference + open-weight and global distribution layer. \n\nTrust the US to shoot itself in the foot when it comes to STEM (again). High speed rail anyone?"
+    },
+    {
+      "depth": 1,
+      "id": "p9puut5",
+      "parent_id": "t1_p9pro4j",
+      "author": "VisualOrganization26",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789376546,
+      "body": "But its a way?"
+    },
+    {
+      "depth": 0,
+      "id": "p9qnqz6",
+      "parent_id": "t3_1wfwtbm",
+      "author": "BroChoZen",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789388802,
+      "body": "China might win in few years due to energy"
+    }
+  ]
+}
