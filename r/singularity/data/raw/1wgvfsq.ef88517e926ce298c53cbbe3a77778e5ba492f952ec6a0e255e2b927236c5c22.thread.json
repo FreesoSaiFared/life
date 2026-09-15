@@ -1,0 +1,139 @@
+{
+  "post_id": "1wgvfsq",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "OM-1 : A fast embodied AI.",
+    "author": "RevolutionaryJob2409",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789464398,
+    "selftext": "Source: [https://www.youtube.com/watch?v=IJvyS2aPsnA](https://www.youtube.com/watch?v=IJvyS2aPsnA)  \nBlog Post: [https://www.rewardai.com/blog/OM-1/](https://www.rewardai.com/blog/OM-1/)",
+    "permalink": "/r/singularity/comments/1wgvfsq/om1_a_fast_embodied_ai/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9xc8sw",
+      "parent_id": "t3_1wgvfsq",
+      "author": "Fancy-Consequence216",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789465199,
+      "body": "What happens when it breaks in night where there are so many ppl asking fo drink??! Wtf robot everywhere like wtf and why? Cuz CEOs said so?"
+    },
+    {
+      "depth": 1,
+      "id": "p9xcpim",
+      "parent_id": "t1_p9xc8sw",
+      "author": "Szadbaverem69",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789465428,
+      "body": "Valid question but a human can get sick unexpectedly too so I don't think the CEOs care."
+    },
+    {
+      "depth": 2,
+      "id": "p9xe3mj",
+      "parent_id": "t1_p9xcpim",
+      "author": "Fancy-Consequence216",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789466106,
+      "body": "Easier to replace human with another human than to replace or fix robot with another robot…also humana will take care of colleague for sick leave, hmm robots will too but how fast depends on who sells them…"
+    },
+    {
+      "depth": 3,
+      "id": "p9xleb2",
+      "parent_id": "t1_p9xe3mj",
+      "author": "Ravier_",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789469355,
+      "body": "Incorrect. Human takes roughly 18 years to mature and train. Robots come off an assembly line ready to work."
+    },
+    {
+      "depth": 0,
+      "id": "p9xcjil",
+      "parent_id": "t3_1wgvfsq",
+      "author": "AMBNNJ",
+      "author_flair_text": "▪️",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789465346,
+      "body": "that is blazing fast"
+    },
+    {
+      "depth": 0,
+      "id": "p9xfkg2",
+      "parent_id": "t3_1wgvfsq",
+      "author": "sordimin",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789466796,
+      "body": "Looks nice. I'm waiting for more implementation in real world."
+    },
+    {
+      "depth": 0,
+      "id": "p9xhcwc",
+      "parent_id": "t3_1wgvfsq",
+      "author": "gnpwdr1",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789467609,
+      "body": "fast but looking super sloppy.."
+    },
+    {
+      "depth": 0,
+      "id": "p9xmaw2",
+      "parent_id": "t3_1wgvfsq",
+      "author": "Lvxurie",
+      "author_flair_text": "AGI xmas 2025",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789469723,
+      "body": "Robot making the drink, human cleaning the bar :("
+    }
+  ]
+}

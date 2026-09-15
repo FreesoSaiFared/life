@@ -1,0 +1,83 @@
+{
+  "post_id": "1wgj5yg",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "I think this passed a bit under the radar with everything that's happening",
+    "author": "krzonkalla",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1789427176,
+    "selftext": "https://preview.redd.it/d9dqjrpjhkph1.png?width=1005&format=png&auto=webp&s=7396ef47cadae4656a9ff0173170767434c82c27\n\nAstra is a beast at svg",
+    "permalink": "/r/singularity/comments/1wgj5yg/i_think_this_passed_a_bit_under_the_radar_with/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "p9uu6zh",
+      "parent_id": "t3_1wgj5yg",
+      "author": "intergalacticskyline",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789429257,
+      "body": "Ok "
+    },
+    {
+      "depth": 0,
+      "id": "p9uzy16",
+      "parent_id": "t3_1wgj5yg",
+      "author": "ismyfacedecent",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789431086,
+      "body": "How is gpt sol 5.6 medium higher then xhigh"
+    },
+    {
+      "depth": 0,
+      "id": "p9vhc3h",
+      "parent_id": "t3_1wgj5yg",
+      "author": "NotWantedForAnything",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789436448,
+      "body": "I work with vector artwork for print production. Astra has been a massive change. It's gone from the clumsy and sometimes useful assistant to an illustration and typography professional. I previously paid people to do a lesser job than what Astra does."
+    },
+    {
+      "depth": 0,
+      "id": "p9vkewq",
+      "parent_id": "t3_1wgj5yg",
+      "author": "amp1212",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789437413,
+      "body": "There's a lot of discussion of the Blender and Sketchup integrations. The sketch functionality is really useful in the image generator, and it connects into 3D really well.  its a suprising degree of improvment, and for a change they didn't overpromise, just \"one day its here\" and it turns out to be really helpful. "
+    }
+  ]
+}

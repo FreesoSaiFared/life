@@ -1,0 +1,26 @@
+{
+  "post_id": "1wgxi99",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Introducing Digit 5",
+    "author": "XxSpookxX",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1789471086,
+    "selftext": "Agility's first humanoid robot engineered for cooperatively safe work at scale, allowing it to work in close proximity to people without the physical safety barriers required by traditional automation.  \n  \n",
+    "permalink": "/r/singularity/comments/1wgxi99/introducing_digit_5/"
+  },
+  "comments": []
+}
