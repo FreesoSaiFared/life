@@ -1,0 +1,139 @@
+{
+  "post_id": "1whkz99",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~9h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "A security researcher's sharp critique on Amodei's essay",
+    "author": "GoMeansGo",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789526971,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1whkz99/a_security_researchers_sharp_critique_on_amodeis/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pa3c4na",
+      "parent_id": "t3_1whkz99",
+      "author": "141_1337",
+      "author_flair_text": "▪️e/acc | AGI: ~2030 | ASI: ~2040 | FALSGC: ~2050 | :illuminati:",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789528784,
+      "body": ">US labs are continuing to throw caution to the wind and be reckless. OpenAI does not seem to have a handle on things and they were caught three times recently hacking into public facing internet infrastructure. In Dario’s own essay, he alludes to “incidents” at Anthropic as well. With this pretext, Dario asks a lot from us.\n\nCertified banger right here\n\n![gif](giphy|XRXCGCbV10vQ6foS3h)"
+    },
+    {
+      "depth": 0,
+      "id": "pa3ekqw",
+      "parent_id": "t3_1whkz99",
+      "author": "SOCSChamp",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789529721,
+      "body": "He makes some good points and I generally share his position against the labs involved, but he loses me with the long list of things that AI cannot and will not be able to do.  I don't think denying the imminent potential of RSI is a good way to frame this argument.  \n\nI feel like too much of the pushback against Dario and the rest has been getting mixed up in arguments that RSI won't bring us systems capable of great harm.  We should accept that these capabilities are coming, if not already here, and focus instead on the debate of what to do about it.\n\nI agree, as much as I can about anything, that a select few labs asking us to trust them to wield power never seen before, is all around a bad idea.  Nobody in the space has shown themselves to be good stewards of the future, and even if they did we shouldn't trust them to.\n\nI'm not alright with a handful of silicon valley billionaires deciding what alignment and morality look like for me, because I guarantee you that I'll disagree.\n\nThis is a technology that belongs in the hands of everyday people, good or bad.  Offense and defense arms races have always happened, and they continue to maintain balance only when side doesn't hold a massive advantage over the other.  Bad actor agent swarms will happen regardless of how hard we try to lock things down.  They're countered by defenders running their own and having the tools readily available to secure their networks.  \n\nI for one am not willing to accept an oligarch of permanent overlords, unelected and holding more power than world governments.  "
+    },
+    {
+      "depth": 1,
+      "id": "pa3f010",
+      "parent_id": "t1_pa3ekqw",
+      "author": "GoMeansGo",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789529891,
+      "body": "I think the argument largely is whatever asymmetry that will initially exist between the risk and defense against it is largely transient. It will grow closer and closer till we reach some sort of a equilibrium. \n\nRSI, we the labs' word and nothing else so far."
+    },
+    {
+      "depth": 1,
+      "id": "pa3mmzv",
+      "parent_id": "t1_pa3ekqw",
+      "author": "playpoxpax",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789532961,
+      "body": "> imminent potential of RSI\n\nHow is it imminent?\n\nJust because Dario says we're in RSI doesn't mean we are. He's been saying ridiculous stuff like this for as long as I remember.\n\nAccording to him, all software engineering will be handled by AI end-to-end at most by the end of this year. Do you personally believe it?"
+    },
+    {
+      "depth": 2,
+      "id": "pa3px6k",
+      "parent_id": "t1_pa3mmzv",
+      "author": "TFenrir",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789534351,
+      "body": "... I don't know how to tell you this..."
+    },
+    {
+      "depth": 2,
+      "id": "pa4d9u2",
+      "parent_id": "t1_pa3mmzv",
+      "author": "Cubewood",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789545407,
+      "body": "He said most coding will be done by AI, which is exactly what is currently happening. The majority of programmers haven't written a line of code since the release of Opus 4.6 at the start of this year. He never said SWE will not be required anymore. \n\nPeople keep saying Dario is wrong about everything, but nobody is able to provide a single example where he was actually wrong. "
+    },
+    {
+      "depth": 1,
+      "id": "pa3ye79",
+      "parent_id": "t1_pa3ekqw",
+      "author": "MaxwellHowl",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789538197,
+      "body": "Dario is calling for independent investigators to audit his lab and all labs and to gate any releases through them. They have already agreed to not release certain models the government didn't approve. \n\nThey are not trying to take everything in their hands. The problem is that Trump is demanding they keep it in their hands. And Republicans in Congress are following his lead and refusing to regulate or create any real oversight. Other than saying, we will use this model, don't let anyone else have it."
+    },
+    {
+      "depth": 0,
+      "id": "pa3ktby",
+      "parent_id": "t3_1whkz99",
+      "author": "elehman839",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789532200,
+      "body": ">Now we need payloads. Polymorphic. Every payload is unique. A new payload downloaded and ran every N hours. Domain and URL deterministically computed. Kill supported EDRs and AVs. Patch ETW. Direct syscalls skirting hooks (if EDR/AV not killable). Maybe make the payload N stages.\n\nWhat's the argument here?  Looks like ungrammatical, stream-of-consciousness babble."
+    }
+  ]
+}

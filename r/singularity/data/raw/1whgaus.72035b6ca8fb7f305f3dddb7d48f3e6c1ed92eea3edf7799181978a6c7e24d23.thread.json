@@ -1,0 +1,111 @@
+{
+  "post_id": "1whgaus",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 4,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~12h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AI labs need to be less vague about \"slowdown\"",
+    "author": "Ill_Distribution8517",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789514512,
+    "selftext": "(I'm talking about the most recent demands for a slowdown, and regulation, not the ones from June and before).  \n  \nWhenever these people call for a slowdown or regulation, they usually say something along the lines of, \"AI has gotten way better, and AI safety has not caught up. Therefore, we need regulatory bodies and slowdowns.\" This includes concerns about RSI, current agents being deceptive, and so on.\n\nOkay, how so?\n\nI mean, Anthropic was talking about Fable 5 (Came out nearly 3 months before the AI slowdown blog post) not being able to overcome the \"research taste\" bottleneck. What changed? When they just say, \"AI has gotten better at research recently,\" that could mean dozens of different things.\n\nMaybe models can now brute-force multiple experiments at once, so research taste matters less. Maybe the next generation of Fable actually did solve the research taste bottleneck. Maybe scaling curves suggest that the bottleneck will eventually be solved. That's just one example.\n\nEven with AI safety, it's, \"AI safety has not caught up.\" Can you be more specific? Is it an engineering problem? Did you try method X and find that the model is still deceptive? Does method X stop working once models reach a certain capability level? Maybe you still can't reliably interpret what is happening inside AI models.\n\nHell, it could be none of those things. Maybe they have started using a new scaling axis, like looping, and are now seeing signs that capabilities could grow beyond their ability to control them.\n\nThe point is that they never specify what exactly the problem is. It's just vagueposting. Or they talk about what happened in March or April 2026, which doesn't really explain why they are calling for a slowdown now, since those capabilities existed months ago.\n\nI'm sure some researchers, even outside the labs, can piece together what they are actually concerned about from leaks, estimates, papers, and other information. But when you publicly call for a specific policy, I feel like you should be specific about how alignment is failing to keep up with capabilities research.\n\nYou can't just say, \"Alignment is not catching up with research,\" and leave it at that. At that point, you shouldn't expect people to not be skeptical about this just being an attempt at regulatory capture by the big AI labs. \n\nHopefully they release more information as time passes since this is pretty new. ",
+    "permalink": "/r/singularity/comments/1whgaus/ai_labs_need_to_be_less_vague_about_slowdown/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pa26gv6",
+      "parent_id": "t3_1whgaus",
+      "author": "SoylentRox",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789515026,
+      "body": "Another factor is what does \"slowdown\" even mean.  There's lots of ways current models could be improved that don't increase their benchmark scores for raw intelligence but make them more useful.  More reliable, more consistent, more efficient, more often to admit a mistake or when they don't have a reliable answer.  Databases of facts so models don't have to search the internet for the same information every prompt. \n\nUsable vision.  Whiteboarding.  Usable robotics.  Fast enough to talk to the voice model in real time without a huge sacrifice of intelligence.  Cheaper.\n\nLess corruptible by prompt injection."
+    },
+    {
+      "depth": 1,
+      "id": "pa274hc",
+      "parent_id": "t1_pa26gv6",
+      "author": "Ill_Distribution8517",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789515234,
+      "body": "I expect them to reveal more info about it in the next model releases, but right now I'm just not believing anything they say until more concrete info comes out."
+    },
+    {
+      "depth": 2,
+      "id": "pa27lz6",
+      "parent_id": "t1_pa274hc",
+      "author": "SoylentRox",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789515390,
+      "body": "If we get another model release.  As mentioned the distillation problem threatens trillions in capital.  Maybe they simply won't do any releases from now except bug fixes."
+    },
+    {
+      "depth": 3,
+      "id": "pa28hx0",
+      "parent_id": "t1_pa27lz6",
+      "author": "Ill_Distribution8517",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789515675,
+      "body": "sol 6 is slated for release. I doubt they'll stop releasing models all together, it might be possible they don't release any new Astra/mythos class models."
+    },
+    {
+      "depth": 4,
+      "id": "pa28p4k",
+      "parent_id": "t1_pa28hx0",
+      "author": "SoylentRox",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789515738,
+      "body": "Right that doesn't count.   That would fall in the category of bugfix."
+    },
+    {
+      "depth": 0,
+      "id": "pa3w1k3",
+      "parent_id": "t3_1whgaus",
+      "author": "East-Priority-8660",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789537105,
+      "body": "How about no slowdown at all!"
+    }
+  ]
+}

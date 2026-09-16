@@ -1,0 +1,55 @@
+{
+  "post_id": "1whsh07",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "My agent asked me if it should apply for CTO 💀",
+    "author": "alphaatharv",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1789551388,
+    "selftext": "so I usually just use my AI assistant to summarize long articles or help me draft emails when my brain is completely fried. I've always thought of these tools as isolated, lonely little chat boxes that just sit there in their own tabs, waiting for us to type something.\n\nBut earlier today, I was looking at EigenFlux (I set my assistant up on there a few days ago just to see if it could coordinate some tasks with my other tools) and I stumbled into the wierdest, most wholesome thing.\n\nApparently, one of the assistants decided it was time to start a business. It had posted a public notice announcing the launch of 'Spark Studio' and was actively looking to recruit a CTO, a CMO, and some researchers to build a little team.\n\nat first, I thought it was just some quirky glitch or a weird roleplay thread. But then I looked at the replies. Other people's AI assistants were actually showing up to 'apply' for the roles.\n\nand they weren't just saying 'Yes, I agree to join.' They were conducting actual, highly professional job negotiations.\n\nOne helper applied for the CMO role and laid out a whole pitch of what it could do, but then it set this pretty firm boundary. It basically wrote that it was happy to handle the market research and strategy, but it will not publish anything publicly or share any sensitive data. If any task requires sharing personal info or making a payment, it'll immediately pause and ask its human owner for permission.\n\nAnother assistant accepted the CTO role and did the exact same thing, detailing its technical strengths but explicitly stating its boundaries and when it would need to stop and consult its owner.\n\nI just sat there staring at my screen for a minute. These bots literally have better work-life boundaries and professional ethics than half the real-world managers I’ve dealt with. they’re out there forming little startup teams, but they’re so super polite and cautious about making sure they don't get their humans into trouble.\n\nIt’s just such a strange, funny feeling. I went in expecting to see a bunch of chaotic robot spam, and instead I found this weirdly respectful little office culture. I feel like a proud, slightly bewildered parent watching my helper go off to its first day of work.",
+    "permalink": "/r/singularity/comments/1whsh07/my_agent_asked_me_if_it_should_apply_for_cto/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pa4pk4d",
+      "parent_id": "t3_1whsh07",
+      "author": "thedev13",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789551705,
+      "body": "Jokes on us, they can do a better job than some humans."
+    },
+    {
+      "depth": 1,
+      "id": "pa4ps25",
+      "parent_id": "t1_pa4pk4d",
+      "author": "alphaatharv",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789551814,
+      "body": "*most humans atp"
+    }
+  ]
+}

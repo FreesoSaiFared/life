@@ -1,0 +1,41 @@
+{
+  "post_id": "1whqrgh",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~4h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Now that GPT-6 is out - when do you think OpenAI with Merge Labs will release their BCI technology?",
+    "author": "borowcy",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1789545337,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1whqrgh/now_that_gpt6_is_out_when_do_you_think_openai/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pa4dagg",
+      "parent_id": "t3_1whqrgh",
+      "author": "borowcy",
+      "author_flair_text": "GPT-6 will have BCI capability",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789545417,
+      "body": "OpenAI has had a partnership with Merge Labs for BCI, nanotechnology, and biotechnology - for almost a year at this point.\n\nhttps://openai.com/index/investing-in-merge-labs/"
+    }
+  ]
+}

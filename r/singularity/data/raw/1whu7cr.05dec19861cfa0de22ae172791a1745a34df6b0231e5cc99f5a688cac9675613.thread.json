@@ -1,0 +1,97 @@
+{
+  "post_id": "1whu7cr",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Jev plays StarCraft",
+    "author": "Ashamed_Ability_6649",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789557074,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1whu7cr/jev_plays_starcraft/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pa532dw",
+      "parent_id": "t3_1whu7cr",
+      "author": "Amazonrazer",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789557536,
+      "body": "I'm excited to see a muslim play it"
+    },
+    {
+      "depth": 1,
+      "id": "pa537e3",
+      "parent_id": "t1_pa532dw",
+      "author": "WoodpeckerNational29",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789557589,
+      "body": "![gif](giphy|5gw0VWGbgNm8w)\n\n"
+    },
+    {
+      "depth": 1,
+      "id": "pa54c2p",
+      "parent_id": "t1_pa532dw",
+      "author": "Individual_Ice_6825",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789558007,
+      "body": "I don’t get it"
+    },
+    {
+      "depth": 2,
+      "id": "pa54nd5",
+      "parent_id": "t1_pa54c2p",
+      "author": "IcelandicMammoth",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789558123,
+      "body": "Jev 😭"
+    },
+    {
+      "depth": 2,
+      "id": "pa55shp",
+      "parent_id": "t1_pa54c2p",
+      "author": "Journeyj012",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789558542,
+      "body": "Peter Griffin here to explain the joke. The joke is that \"Jev\" looks like \"Jew\", so he wanted to see a Muslim try it next. "
+    }
+  ]
+}

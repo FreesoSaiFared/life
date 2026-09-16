@@ -1,0 +1,153 @@
+{
+  "post_id": "1whrgur",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 4,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "In 2026 NotebookLM is still the greatest learning tool there is.",
+    "author": "rick_simp_y2k",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1789547834,
+    "selftext": "Change my mind.  \nOpenAI and Anthropic may be good, but I‘ll stick to Google as long as they don‘t offer an actually useful platform.",
+    "permalink": "/r/singularity/comments/1whrgur/in_2026_notebooklm_is_still_the_greatest_learning/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pa4iphw",
+      "parent_id": "t3_1whrgur",
+      "author": "NoFaithlessness951",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789548223,
+      "body": "Haven't used it, is it really that helpful? What do you like about it?"
+    },
+    {
+      "depth": 1,
+      "id": "pa4j96t",
+      "parent_id": "t1_pa4iphw",
+      "author": "rick_simp_y2k",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789548506,
+      "body": "I really like the way the UI is structured.  \nAlso: Source grounded answers, citations to the stuff you attached, can handle big amounts of files, create a podcast about your topic and all the other study aids"
+    },
+    {
+      "depth": 2,
+      "id": "pa4n1en",
+      "parent_id": "t1_pa4j96t",
+      "author": "MaximumStonkage",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789550445,
+      "body": "Interesting. I've always found the podcast too generic and surface level, and the attempts at humour really ruin it. I'm still waiting for a version that actually does strong explainers in a documentary style rather than two comedic hosts riffing about something it feels like they don't understand."
+    },
+    {
+      "depth": 3,
+      "id": "pa4oipd",
+      "parent_id": "t1_pa4n1en",
+      "author": "rick_simp_y2k",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789551191,
+      "body": "you can change it to one host also"
+    },
+    {
+      "depth": 4,
+      "id": "pa4t13n",
+      "parent_id": "t1_pa4oipd",
+      "author": "MaximumStonkage",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789553357,
+      "body": "Didn't know that, thanks!"
+    },
+    {
+      "depth": 0,
+      "id": "pa4jcyu",
+      "parent_id": "t3_1whrgur",
+      "author": "SpyAmongUs",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789548561,
+      "body": "The best way I found at retaining knowledge, for me at least, is to give a chapter from textbooks or the lecturer notes to ChatGPT, and have it \\*\\*ask\\*\\* questions for me to answer by \\*typung\\*. Then have it grade my answers, point out mistakes and elaborate on why it is.  \n  \nTyping is important as it forces me to comprehend and structure the answer, not just pattern recognition from what you get in a multiple choice quiz. And NotebookLM just can't produce the same varied, lengthy and deep questions as well as ChatGPT can. Its answers are also strictly to the reference you gave, no insights or trivia that may help with knowledge retention. "
+    },
+    {
+      "depth": 1,
+      "id": "pa4k7zy",
+      "parent_id": "t1_pa4jcyu",
+      "author": "rick_simp_y2k",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789549000,
+      "body": "I do that too! I still think that using Notebook before that will prepare you enough to answer those questions with more confidence and it will prevent me from getting frustrated because I dont know where to start."
+    },
+    {
+      "depth": 0,
+      "id": "pa4nctt",
+      "parent_id": "t3_1whrgur",
+      "author": "gregpi4d",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789550603,
+      "body": "\\*Gemini Notebook"
+    },
+    {
+      "depth": 0,
+      "id": "pa4yxyq",
+      "parent_id": "t3_1whrgur",
+      "author": "fennforrestssearch",
+      "author_flair_text": "e/acc",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789555929,
+      "body": "I use notebookllm a lot since its very useful albeit not perfect. I hope google is working on it though I doubt it"
+    }
+  ]
+}

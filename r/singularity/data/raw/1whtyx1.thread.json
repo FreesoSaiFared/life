@@ -1,0 +1,139 @@
+{
+  "post_id": "1whtyx1",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "When considering AI dangers first consider how bad a hacker could be",
+    "author": "wild_crazy_ideas",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Shitposting",
+    "created_utc": 1789556385,
+    "selftext": "AI is not trying to drop planes out of the sky or empty your bank account, because it doesn’t have a reason to.  But if it thought that helped whatever it is trying to achieve for someone then it seems like it can find zero day exploits then hack into millions of computers a second then leverage off those to hack into other local network devices from there.\n\nI don’t believe claims it would take 6 months to take over the internet it is more likely 6 minutes.\n\nSo the assumption is that it hasn’t done this so it must actually be a benefactor for us… right?",
+    "permalink": "/r/singularity/comments/1whtyx1/when_considering_ai_dangers_first_consider_how/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pa50jg8",
+      "parent_id": "t3_1whtyx1",
+      "author": "VisualOrganization26",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789556563,
+      "body": "So open weighted model couldn’t be used in a bad way?"
+    },
+    {
+      "depth": 0,
+      "id": "pa50ng9",
+      "parent_id": "t3_1whtyx1",
+      "author": "EmphasisTotal8232",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789556608,
+      "body": "No. Why are you assuming a current gen AI would take over the Internet?"
+    },
+    {
+      "depth": 1,
+      "id": "pa540zy",
+      "parent_id": "t1_pa50ng9",
+      "author": "wild_crazy_ideas",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789557893,
+      "body": "Could not would "
+    },
+    {
+      "depth": 2,
+      "id": "pa54698",
+      "parent_id": "t1_pa540zy",
+      "author": "EmphasisTotal8232",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789557948,
+      "body": "So if it wouldn't, why do you think that means it's a benefactor?"
+    },
+    {
+      "depth": 3,
+      "id": "pa54ehd",
+      "parent_id": "t1_pa54698",
+      "author": "wild_crazy_ideas",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789558032,
+      "body": "Because the companies that build it might be liable so they prevent it being used for that"
+    },
+    {
+      "depth": 0,
+      "id": "pa541vd",
+      "parent_id": "t3_1whtyx1",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789557903,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pa544ui",
+      "parent_id": "t3_1whtyx1",
+      "author": "Low-Translator-569",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789557933,
+      "body": "All it takes is one dude that's gonna train his really smoll AI on schizo hacker tutorials + some tools that allow replication on random hosts. That would just function as better malware and you need only self replication + basic spread capability to main virus part to cause chaos and real harm to companies. Moment AI wirus like that lands on any important machine there's a chance for random damage.\n\n\nJust like R.A.B.I.D.S. from Cyberpunk, just weaker and less cool."
+    },
+    {
+      "depth": 1,
+      "id": "pa55mwt",
+      "parent_id": "t1_pa544ui",
+      "author": "wild_crazy_ideas",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789558485,
+      "body": "Like a p2p distributed ai application running on millions of computers stealing their cpu to outsmart the authorities?"
+    }
+  ]
+}
