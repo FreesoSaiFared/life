@@ -1,0 +1,41 @@
+{
+  "post_id": "1win1op",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~4h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Unreleased Astra model in a nutshell",
+    "author": "BattlerUshiromiyaFan",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Shitposting",
+    "created_utc": 1789629759,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1win1op/unreleased_astra_model_in_a_nutshell/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pabqv7l",
+      "parent_id": "t3_1win1op",
+      "author": "Mistuv",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789631114,
+      "body": "Watching Codex control OpenCode is kinda cute, it's something you don't even consider at first but then immediately you are like duh, why wouldn't the chatbot be able to control a chatbot with prompts, it's just tool use like any other... but then youare like oh if they can prompt other agents, they can probably prompt themselves, hmm... "
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "post_id": "1wika4v",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Asking the Wrong Questions: The HuggingFace Incident and the (Mis)Calibration of Semantic Fields",
+    "author": "LopsidedLevel9009",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Books & Research",
+    "created_utc": 1789620594,
+    "selftext": "The OpenAI-HuggingFace incident has raised critical security concerns. Much of the surrounding discussion has focused on increasingly autonomous or “rogue” AI behavior and AI capability outpacing human governance. This white paper proposes a different theoretical orientation using language in the form of semantic field mechanics to explain how LLMs traverse the curvature of meaning-space. \n\nOpen source article ",
+    "permalink": "/r/singularity/comments/1wika4v/asking_the_wrong_questions_the_huggingface/"
+  },
+  "comments": []
+}

@@ -1,0 +1,41 @@
+{
+  "post_id": "1wir16w",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Toward Recursive Self-Improvement: How GLM Built Its Own Inference Infrastructure",
+    "author": "likeastar20",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789643461,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wir16w/toward_recursive_selfimprovement_how_glm_built/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "paci1kf",
+      "parent_id": "t3_1wir16w",
+      "author": "saln1",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789643954,
+      "body": "Interesting\n\n“Of course, we have not yet reached recursive self-improvement. Choosing objectives, setting boundaries, and assessing risk remain human responsibilities. We believe humans should continue to hold that line for a long time to come. But the numbers, two weeks, threefold throughput, and 100,000 accelerators, tell us that progress at this boundary will not slow down simply because we want it to.”"
+    }
+  ]
+}

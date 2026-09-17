@@ -1,0 +1,26 @@
+{
+  "post_id": "1wik4pn",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Gemini 4's new checkpoint is out and it's so much better than the last one.",
+    "author": "Last_Conclusion_8984",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1789620112,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wik4pn/gemini_4s_new_checkpoint_is_out_and_its_so_much/"
+  },
+  "comments": []
+}

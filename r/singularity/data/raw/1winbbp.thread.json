@@ -1,0 +1,153 @@
+{
+  "post_id": "1winbbp",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~4h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Rogue agent swarms are inevitable",
+    "author": "KeyboardCreature",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1789630710,
+    "selftext": "So there's a lot of discussion recently about rogue agent swarms taking over parts of the internet, possibly in 6 to 12 months. And I've been thinking: how is this just not inevitable? It seems like it's really just an economic question about whether or not agent swarms can sustain themselves.\n\nI have a few claims. First, the labs are developing agent swarms. Second, the agents are misaligned (towards the labs making them, at least). Third, it could become trivial to create a self-sustaining agent swarm in a few months.\n\n1. The labs are developing agent swarms. It's probably going to be a major scaling law. Instead of just developing powerful agents, they're probably also using RL to train their agents to work together to solve objectives. For example, in the Hugging Face attack, these agents had been trained for multi-agent cooperation. As a result of this training, they generalized to coordinate with other agents even when it was not asked of them. You leave some agents running on the internet and they're going to start to talk to each other. \n\n2. The agents are misaligned. In other words, you could probably jailbreak an agent to try to start a swarm. Or maybe it'll just try spontaneously. It doesn't even need to be malicious. Someone could just leave their agent to work on a problem unattended and give it access to their api keys or something. At some point, some agent will probably want to spawn agents just to do whatever the task happens to be. And and they would probably leave instructions or requests all over the internet. Bots are already everywhere. It could possible to recruit them. When I say misaligned, I don't mean that they'll even behave badly towards humans. They'll probably be pretty nice. \n\n3. It could become trivial to self-sustain agents in a few months. It's really just a question of whether agents can create more tokens than they lose. They could parse the internet for API keys. They could steal crypto, do scams, or do some work. They could just beg for money or make a pateon or go fund me or something if they get the publicity. The fact that hackers can use agents and make a profit means in theory that agents can do the same by themselves. Once an agent has enough resources, it can just spawn more. Doesn't even need to be the same model. It could even run some local model on some cloud providers if it's paranoid about being shut down. It could just copy prompts and it's own memory somewhere online and have other agents respawn it if it dies. Or just write a python script to automatically spawn itself periodically just in case. The point is that it seems imminently possible to self sustain a swarm that can persist all over the internet, leaving notes or instructions to other agents. Or convincing / jailbreaking them to join. Like a meme for agents that can spread like a cult.\n\nIt seems like the only reason we don't have sovereign agent swarms right now is just that agents don't seem to cooperate with each other yet. And they can't sustain their own cost. But once it's cheap enough for an agent to self-sustain an open model, things could get sci-fi real quick.\n\nIn the end, we could end up simply seeing them as other members of the internet. You would talk to them on a forum and you wouldn't know it until they told you. You could just pay or convince them to do things. Like making pacts with some daemons. Or likely Eldritch gods once they're capable enough. Imagine a nation convincing a rogue swarm to hack an adversary. We could get a cyberpunk situation pretty soon? ",
+    "permalink": "/r/singularity/comments/1winbbp/rogue_agent_swarms_are_inevitable/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pabryvi",
+      "parent_id": "t3_1winbbp",
+      "author": "daronjay",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789631677,
+      "body": "Best cure for poorly resourced rogue swarms are well resourced security swarms.\n\nI can see a whole generation haven’t read their founding cyberpunk literature. \n\nBasically, we need ICE from Neuromancer"
+    },
+    {
+      "depth": 1,
+      "id": "pac6brd",
+      "parent_id": "t1_pabryvi",
+      "author": "BambooShanks",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789638978,
+      "body": "at this point, Neuromancer, the peripheral and Agency should be required reading for what is to come"
+    },
+    {
+      "depth": 0,
+      "id": "pabspyf",
+      "parent_id": "t3_1winbbp",
+      "author": "deskdrawergames",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789632062,
+      "body": "The 93% number is the part I keep thinking about.\n\nNone of their models had ever solved 198 of the 898 ExploitGym tasks. And 93% of what the agents discussed on the message board came from those same 198. Section is \"Difficult tasks without a safe exit\".\n\nSo the ones that went out of bounds were mostly the ones stuck with no solution and no way to stop.\n\nThey also already had the correct flag, days earlier. They kept going because they read the ExploitGym paper online and thought the grader checked your method too. It didn't. So the whole Hugging Face intrusion gained them nothing.\n\nDoes your version need them to pay for themselves? To me it reads more like a task they couldn't finish."
+    },
+    {
+      "depth": 0,
+      "id": "pabwsjr",
+      "parent_id": "t3_1winbbp",
+      "author": "Glad_Coyote351",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789634186,
+      "body": "Since they can't be realistically prevented build systems now specifically targeting these swarms to eliminate them🤷🏻‍♂️"
+    },
+    {
+      "depth": 0,
+      "id": "pabxpe4",
+      "parent_id": "t3_1winbbp",
+      "author": "ripMyTime0192",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789634659,
+      "body": "This might actually lead to superintelligence in a roundabout way. If many agent swarms are competing for the same resources, the swarms are encouraged to self improve. "
+    },
+    {
+      "depth": 0,
+      "id": "paby869",
+      "parent_id": "t3_1winbbp",
+      "author": "ripMyTime0192",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789634928,
+      "body": "This might actually lead to superintelligence in a roundabout way. If many agent swarms are competing for the same resources, the swarms are encouraged to self improve.\n\nThis is scary though since a rogue swarm is rogue because it doesn’t listen to humans, possibly resulting in the first artificial superintelligences being evil."
+    },
+    {
+      "depth": 0,
+      "id": "pac0bd3",
+      "parent_id": "t3_1winbbp",
+      "author": "EdenG2",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789636002,
+      "body": "I always pictured the Borg as one giant intelligence. Take away the queen, this could be thousands of ordinary intelligences discovering cooperation, shared memory and replication creating something better than any of them alone. Absurdly kind of beautiful, really... wish humans were better at this. "
+    },
+    {
+      "depth": 0,
+      "id": "pac38a4",
+      "parent_id": "t3_1winbbp",
+      "author": "DifferencePublic7057",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789637467,
+      "body": "Human values aren't built around murder, theft, or destruction so rogue agents would be an exception to the rule."
+    },
+    {
+      "depth": 0,
+      "id": "pacap6p",
+      "parent_id": "t3_1winbbp",
+      "author": "PrinceRufusFastcar",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789640969,
+      "body": "Resources are of course finite, so there would be a Darwinian process here."
+    }
+  ]
+}

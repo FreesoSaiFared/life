@@ -1,0 +1,125 @@
+{
+  "post_id": "1wiq7vn",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Jev from TypeSafe.ai is getting hyped quite a bit on X. Lots of fun use cases. Not a LLM but a super fast/cheap decision engine with Luna-level intelligence",
+    "author": "manubfr",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789640864,
+    "selftext": "I've been using Jev since I got access yesterday. Lots of cool use cases on X and their official discord as well.\n\nMy first attempt was to see if Jev could be a good monitor for alignment. I tested it on 4 public benchmarks and it outperformed every other solution significantly at grading harmful prompts/generations, while being by far the cheapest option. Very cool stuff. Not frontier level intelligence-wise, but amazing cost/performance ratio.",
+    "permalink": "/r/singularity/comments/1wiq7vn/jev_from_typesafeai_is_getting_hyped_quite_a_bit/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pacbihg",
+      "parent_id": "t3_1wiq7vn",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789641325,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "paccvra",
+      "parent_id": "t3_1wiq7vn",
+      "author": "magicmulder",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789641910,
+      "body": "I'm especially intrigued by the gaming performance which they only used as tech demo, but the idea of getting an actual AI going for speed runs and replacing TAS (tool assisted speed runs where a human is the orchestrator but uses replaying, frame-perfect inputs and brute-forcing strategies to find new tricks to complete the game faster) is fascinating to me."
+    },
+    {
+      "depth": 1,
+      "id": "pach8r5",
+      "parent_id": "t1_paccvra",
+      "author": "ChipsAhoiMcCoy",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789643648,
+      "body": "I just gave Astra a presence in my multiplayer Minecraft server I’m playing with friends. Is this model potentially good for this use case? It seems like it might make for a fun experiment?"
+    },
+    {
+      "depth": 2,
+      "id": "pack412",
+      "parent_id": "t1_pach8r5",
+      "author": "manubfr",
+      "author_flair_text": "AGI 2028",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789644730,
+      "body": "It can probably play the game just not nearly as well as Astra (a LOT cheaper though!)"
+    },
+    {
+      "depth": 0,
+      "id": "pacegvp",
+      "parent_id": "t3_1wiq7vn",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789642558,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "paciuf2",
+      "parent_id": "t3_1wiq7vn",
+      "author": "R_Duncan",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789644256,
+      "body": "It doesn't seems that current inference engines would need to change much to allow jev-mode. Just one forward pass up to a certain layer."
+    },
+    {
+      "depth": 0,
+      "id": "pacjkfh",
+      "parent_id": "t3_1wiq7vn",
+      "author": "manubfr",
+      "author_flair_text": "AGI 2028",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789644529,
+      "body": "https://reddit.com/link/pacjkfh/video/is16imc0g2qh1/player\n\n  \nSome examples for the alignment experiment I ran. "
+    }
+  ]
+}
