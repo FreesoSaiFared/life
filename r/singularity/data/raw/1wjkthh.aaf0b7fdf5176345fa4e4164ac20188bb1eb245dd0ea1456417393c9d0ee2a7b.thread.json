@@ -1,0 +1,41 @@
+{
+  "post_id": "1wjkthh",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "\"We are at the cusp of the Physical Intelligence age\"",
+    "author": "curiousinquirer007",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1789721519,
+    "selftext": "  \nFigure AI releases Helix 2.5, a vision language neural model powering a robot and demonstrates generalized performance across various unseen home environments.  \n  \nAdditional: [4-hour footage](https://x.com/adcock_brett/status/2100657393923445017) of the Robots powered by helix 2.5 doing tasks across homes.\n\nLadies and gentlement, the robots are (almost) here.\n\nCourtesy [https://www.figure.ai/](https://www.figure.ai/)\n\nTitle quote credit @ beffjezos\n\n",
+    "permalink": "/r/singularity/comments/1wjkthh/we_are_at_the_cusp_of_the_physical_intelligence/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pajb2z2",
+      "parent_id": "t3_1wjkthh",
+      "author": "curiousinquirer007",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789721760,
+      "body": "https://preview.redd.it/cz7ejfjmt8qh1.png?width=5060&format=png&auto=webp&s=fd755db7f6a1b16d7ffff1330d1b721b9c8e408e\n\nHigh-Level architecture of the system."
+    }
+  ]
+}

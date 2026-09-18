@@ -1,0 +1,69 @@
+{
+  "post_id": "1wjbjlb",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~11h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "ChatGPT for Word (Clippy is back)",
+    "author": "mahamara",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1789692293,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wjbjlb/chatgpt_for_word_clippy_is_back/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pahj3n4",
+      "parent_id": "t3_1wjbjlb",
+      "author": "IReportLuddites",
+      "author_flair_text": "▪️Justified and Ancient",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789694777,
+      "body": "![gif](giphy|3oKIPAGZzx2PY1wYjC)\n\n"
+    },
+    {
+      "depth": 0,
+      "id": "paip542",
+      "parent_id": "t3_1wjbjlb",
+      "author": "callmebatman14",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789710572,
+      "body": "I've used Claude few times in word ppt and Excel. Copilot is trash compared to Claude. "
+    },
+    {
+      "depth": 0,
+      "id": "pajegy9",
+      "parent_id": "t3_1wjbjlb",
+      "author": "Lord_Skellig",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789723493,
+      "body": "Isn't Copilot already highly integrated with Word, which is ChatGPT under the hood? What's the difference here?"
+    }
+  ]
+}

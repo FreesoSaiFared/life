@@ -1,0 +1,69 @@
+{
+  "post_id": "1wjbomb",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~10h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "An interesting paper on Continuous (Live) Learning: \"Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data\"",
+    "author": "playpoxpax",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789692688,
+    "selftext": "**Arxiv Link:**\n\n[Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data](https://arxiv.org/pdf/2609.18842)\n\nThe paper builds on the previous TTT (test-time training) research works (e.g. Titans), but more closely on the recent Dynamic LoRA adapters. The idea is similar (SHINE), but it does away with the actual LoRA entirely, instead generating an adapter which is directly applied on top of the existing weights on-the-fly.\n\nI'm not sure why they call it Infinite-Parameter LLMs, because the method doesn't add any parameters to the model at all. It just adds an evolving delta filter (low-rank delta) to the weights to steer the model. \n\nSo, for example: if a model makes a mistake and you correct it, the filter will 'remember' it and steer the model to not make the same mistake again, even if you clear the context. The same if you supply it with a large document, it will then steer it according to the information absorbed from this document.\n\n**What's interesting:**\n\n\\- The filter evolves constantly. It's not static / frozen like a LoRA. It keeps absorbing info from the context as it generates. So it will keep continuously improving itself over time.\n\n\\- No catastrophic forgetting, since the approach doesn't modify the underlying model weights at all. It simply adds a layer on top of them.\n\n\\- As the direct benefit of the above, you can get rid of or change the filter at any moment, reverting the model to its base behavior at no additional cost.\n\n\\- The filter itself *can* forget information, but it doesn't do so haphazardly. It only modifies itself when it encounters information that it's uncertain about (surprising information). Where it's certain, it locks down those connections so that they aren't disrupted.\n\n\\- The approach proposed in the paper is categorical. So if you, for example, supply it with 10 documents, it will create 10 separate adapters and then will have to pick only the single best adapter based on your current request (e.g. if you ask a question about the first document, it will switch to the first adapter, etc). Like a MoE, it itself decides what's best at any given moment.\n\n\\- *However*, that is only because the authors use a rigorous Bayesian belief for uncertainty. The method can be extended to its continuous version (global adapter) if you just… get rid of it, and use standard ML techniques for this sort of stuff. I'm not a math expert, so I'm not sure if that's correct.",
+    "permalink": "/r/singularity/comments/1wjbomb/an_interesting_paper_on_continuous_live_learning/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "paixtzj",
+      "parent_id": "t3_1wjbomb",
+      "author": "fictionwizard",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789714939,
+      "body": "I love reading this stuff, thanks for the post"
+    },
+    {
+      "depth": 0,
+      "id": "paj079p",
+      "parent_id": "t3_1wjbomb",
+      "author": "WhatIsHam",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789716119,
+      "body": "would this not mean it runs slower every time you run it"
+    },
+    {
+      "depth": 1,
+      "id": "pajdog9",
+      "parent_id": "t1_paj079p",
+      "author": "AnaYuma",
+      "author_flair_text": "AGI 2027-2029",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789723094,
+      "body": "Not if it's a mixture of experts type model... The newly learned parameters don't necessarily need to be activated every time.... I think..."
+    }
+  ]
+}

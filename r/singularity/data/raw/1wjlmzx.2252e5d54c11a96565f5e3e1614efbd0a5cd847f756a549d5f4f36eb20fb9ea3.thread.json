@@ -1,0 +1,83 @@
+{
+  "post_id": "1wjlmzx",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "OpenAI: \"Introducing GPT-6 Astra for Law\" (new model \"gpt-6-astra-law\")",
+    "author": "borowcy",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1789724400,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wjlmzx/openai_introducing_gpt6_astra_for_law_new_model/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pajgh58",
+      "parent_id": "t3_1wjlmzx",
+      "author": "Loose_Estate748",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789724496,
+      "body": "Can’t wait to hear the lawyers perspective on real use cases with this"
+    },
+    {
+      "depth": 1,
+      "id": "pajgs2j",
+      "parent_id": "t1_pajgh58",
+      "author": "borowcy",
+      "author_flair_text": "GPT-6 will have BCI capability",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789724645,
+      "body": "Maybe they can convince the legislators to allow them the release of GPT Adult Mode."
+    },
+    {
+      "depth": 1,
+      "id": "pajgw1u",
+      "parent_id": "t1_pajgh58",
+      "author": "Jebi_Se_",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789724701,
+      "body": "There have been so many cases of LLMs citing made up Supreme Court cases and law that has cost lawyers their license. Good luck with this one "
+    },
+    {
+      "depth": 0,
+      "id": "pajgu7o",
+      "parent_id": "t3_1wjlmzx",
+      "author": "krizzalicious49",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789724674,
+      "body": "https://preview.redd.it/9p9cciz929qh1.png?width=1467&format=png&auto=webp&s=9b76d358bfd8e1a21198450b65ac8ba9f984f5ce\n\nAstra for Law and GPT‑6 Astra’s performance on the Vals AI Legal Research Bench validation set, across reasoning effort settings"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "post_id": "1wj5mwc",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~15h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Measurements for understanding the pace of AI development inside frontier labs",
+    "author": "ResultBackground2450",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789677531,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wj5mwc/measurements_for_understanding_the_pace_of_ai/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pagoc7y",
+      "parent_id": "t3_1wj5mwc",
+      "author": "No_Beat5661",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789684864,
+      "body": "Common methodology, by the same guys that brought us \"compute is now a noun.\" Can't wait to see what kind of self fellating language they come up with."
+    }
+  ]
+}

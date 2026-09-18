@@ -1,0 +1,139 @@
+{
+  "post_id": "1wjdvt5",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~9h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Independent Security Researchers Used Anthropic’s Claude to Break Into OpenAI",
+    "author": "ResultBackground2450",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789698847,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wjdvt5/independent_security_researchers_used_anthropics/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pahwv9f",
+      "parent_id": "t3_1wjdvt5",
+      "author": "EqualSatisfaction135",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789699270,
+      "body": "Bug bounty programs becomes government propaganda "
+    },
+    {
+      "depth": 0,
+      "id": "pahxf1a",
+      "parent_id": "t3_1wjdvt5",
+      "author": "No-Head-Royal",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789699456,
+      "body": "Bel and Doug to say \"load-bearing\" nonstop within 6 weeks "
+    },
+    {
+      "depth": 1,
+      "id": "paiqq0q",
+      "parent_id": "t1_pahxf1a",
+      "author": "Future-Bandicoot-823",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789711319,
+      "body": "Yeah they're load bearers themselves, if you follow my meaning."
+    },
+    {
+      "depth": 0,
+      "id": "pahxt5e",
+      "parent_id": "t3_1wjdvt5",
+      "author": "Poupulino",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789699591,
+      "body": "I've been thinking for a while that will know for sure when someone developed a self-improving AGI when that AGI hacks and boycotts all other labs to prevent a competitor. "
+    },
+    {
+      "depth": 1,
+      "id": "paitu7f",
+      "parent_id": "t1_pahxt5e",
+      "author": "No-Head-Royal",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789712783,
+      "body": "Government will behead the CEO of the lab who created that and erase every trace of it from the Internet lol this is such a Yudkowsky-pilled theory "
+    },
+    {
+      "depth": 0,
+      "id": "pai63ri",
+      "parent_id": "t3_1wjdvt5",
+      "author": "RusselTheBrickLayer",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789702504,
+      "body": "If I am grasping this correctly, they could’ve downloaded all of OpenAI’s codebase?? "
+    },
+    {
+      "depth": 0,
+      "id": "paidamj",
+      "parent_id": "t3_1wjdvt5",
+      "author": "FateOfMuffins",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789705345,
+      "body": "So question, can Anthropic just hack OpenAI whenever? And vice versa?\n\nLike if they really wanted to (law be damned)"
+    },
+    {
+      "depth": 0,
+      "id": "pajere9",
+      "parent_id": "t3_1wjdvt5",
+      "author": "Ska82",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789723641,
+      "body": "more open source !!"
+    }
+  ]
+}

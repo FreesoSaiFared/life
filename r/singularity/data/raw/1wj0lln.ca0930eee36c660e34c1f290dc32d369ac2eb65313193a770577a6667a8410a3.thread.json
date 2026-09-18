@@ -1,0 +1,55 @@
+{
+  "post_id": "1wj0lln",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Noam Brown On Agent Swarms and RSI | Dwarkesh Patel Podcast Interview",
+    "author": "141_1337",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Video",
+    "created_utc": 1789666423,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wj0lln/noam_brown_on_agent_swarms_and_rsi_dwarkesh_patel/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "paggoqn",
+      "parent_id": "t3_1wj0lln",
+      "author": "Environmental-Pea37",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789682457,
+      "body": "This guy seems honest and believable. Of course I could be wrong but he should be the one always speaking on behalf of ChatGPT "
+    },
+    {
+      "depth": 0,
+      "id": "pagvrx3",
+      "parent_id": "t3_1wj0lln",
+      "author": "Healthy_Razzmatazz38",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789687258,
+      "body": "The point of most of their communication isn’t honestly so that would be pointless. \n\nNoam’s legit though he’s got a good claim on being correct the longest about reasoning "
+    }
+  ]
+}

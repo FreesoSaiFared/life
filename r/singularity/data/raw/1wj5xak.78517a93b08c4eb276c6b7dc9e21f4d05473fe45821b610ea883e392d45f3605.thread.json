@@ -1,0 +1,69 @@
+{
+  "post_id": "1wj5xak",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Meet REBCO, the High-Temperature Superconducting Tape making Fusion possible, suitable for Magnets at 50 Teslas with a current density of 7 million amps per square centimeter -- and it relies on rare earth metals.",
+    "author": "Anen-o-me",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Energy",
+    "created_utc": 1789678182,
+    "selftext": "Oil? Pshah. Rare earths drive AI, solar cells, robotics, and now fusion. ",
+    "permalink": "/r/singularity/comments/1wj5xak/meet_rebco_the_hightemperature_superconducting/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pag85sf",
+      "parent_id": "t3_1wj5xak",
+      "author": "SoylentRox",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789679974,
+      "body": "Rare earths aren't rare and the USA has deposits of some of the most concentrated ores on earth.  The reason China dominates here is their government made up the rules in a way that makes it cheap to mine.  Rare earth mine tailings are radioactive and this makes them exorbitantly expensive to handle in a Western country.\n\nHopeful robots will fix all this - heavy duty mining robots, driven by AI models and built and maintained by other robots, will not care about mildly radioactive waste and will handle it for us cheaply."
+    },
+    {
+      "depth": 1,
+      "id": "pagey62",
+      "parent_id": "t1_pag85sf",
+      "author": "Anen-o-me",
+      "author_flair_text": "▪️It's here!",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789681938,
+      "body": "Rare earths are rare in the sense that they're not concentrated in ore. \n\nThe USA's best mine in California has about 10% concentration of RE's in the ore. And that's considered the highest concentration in the world discovered so far. \n\nThe California mine has recently been restarted. "
+    },
+    {
+      "depth": 0,
+      "id": "pagbdl6",
+      "parent_id": "t3_1wj5xak",
+      "author": "filbertsgaming1",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789680894,
+      "body": "rebco has been around for years."
+    }
+  ]
+}
