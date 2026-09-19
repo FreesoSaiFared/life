@@ -1,0 +1,83 @@
+{
+  "post_id": "1wkd8hx",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "StepFun joins the frontier: a previously non-frontier Chinese lab (StepFun) released a Kimi K3-level model, 3 times cheaper per Artificial Analysis",
+    "author": "No-Head-Royal",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789795125,
+    "selftext": "So the race, despite everything, continues. StepFun releases Step 5 Preview, scoring equally to Kimi K3 (max) (44), at 1/3 the price, and stands firmly on the Pareto line of cost/intelligence. \n\n[Scoring and pricing.](https://preview.redd.it/k3l17y2kueqh1.png?width=1797&format=png&auto=webp&s=77045ded2b62d61a88c20baa92b5f8aab6b78599)\n\n[Pareto line appearance.](https://preview.redd.it/2mht2feuueqh1.png?width=1452&format=png&auto=webp&s=c1b3d1efd655bc19f6f85f9dd0c186ad3c4659f7)\n\nHowever, as a closed-source model, it remains to be seen how competitive this will be against other Chinese labs. Nonetheless, it seems that another Chinese lab has reached the frontier and shows that China has not stopped progressing in the meantime. It remains to be seen if they'll stay there in the coming months. \n\nOn another note, Google fell from #7 lab in the world to #8 lol get rekt   ",
+    "permalink": "/r/singularity/comments/1wkd8hx/stepfun_joins_the_frontier_a_previously/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "papv7c7",
+      "parent_id": "t3_1wkd8hx",
+      "author": "Good-Age-8339",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789797843,
+      "body": "Let's hope Mistral will reach this level by the end of this year...  other labs will move by that time, but even score around kimi k3 and grok 4.6 will make it usefull again."
+    },
+    {
+      "depth": 0,
+      "id": "papy5yy",
+      "parent_id": "t3_1wkd8hx",
+      "author": "Ill_Distribution8517",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789799289,
+      "body": "Usually when no name competitors start catching up to the frontier models it's a sign that the companies behind the frontier are about to release again. It happened with sol, Fable, etc. I expect a new kimi to drop soon. "
+    },
+    {
+      "depth": 1,
+      "id": "papzv6s",
+      "parent_id": "t1_papy5yy",
+      "author": "Fit-Produce420",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789800133,
+      "body": "Not a no name, 3.7 is a really strong coder."
+    },
+    {
+      "depth": 0,
+      "id": "paqhebs",
+      "parent_id": "t3_1wkd8hx",
+      "author": "Jabulon",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789809159,
+      "body": "[qwen](https://qwen.ai/) is interesting, I say the more the merrier."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "post_id": "1wkbbal",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "The real felony bench",
+    "author": "kvothe5688",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1789789217,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wkbbal/the_real_felony_bench/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "papc6kt",
+      "parent_id": "t3_1wkbbal",
+      "author": "kvothe5688",
+      "author_flair_text": "▪️",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789789344,
+      "body": "[The cyber security firm that is behind all of these security incidences by different AI models](https://therecord.media/irregular-ai-security-company-incidents)"
+    },
+    {
+      "depth": 0,
+      "id": "papcap4",
+      "parent_id": "t3_1wkbbal",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789789392,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "papm1am",
+      "parent_id": "t3_1wkbbal",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789793516,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "paptdkg",
+      "parent_id": "t3_1wkbbal",
+      "author": "Sinogularity",
+      "author_flair_text": "Shenzhen: Become Human (2030)",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789796941,
+      "body": "They send them to this firm for marketing, and it's working."
+    },
+    {
+      "depth": 0,
+      "id": "papzck8",
+      "parent_id": "t3_1wkbbal",
+      "author": "Piethecat",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789799876,
+      "body": "Thank you! It’s absolute rubbish they’re still being taken seriously here with the whole ‘Gemini is so back@ etc. \n\n"
+    },
+    {
+      "depth": 0,
+      "id": "paq6lir",
+      "parent_id": "t3_1wkbbal",
+      "author": "Zermelane",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789803495,
+      "body": "You got fooled, man. You want to live in a comfortable, safe world, where the OpenAI Artifactory and Hugging Face hacks didn't happen, and Irregular gave you just the right excuse by spamming the airwaves with unrelated incidents.\n\nIt's so nice to pretend that just because someone else had a fake breach, the actual breaches that we've spent a month talking about now just never happened either, isn't it?"
+    }
+  ]
+}

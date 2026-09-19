@@ -1,0 +1,111 @@
+{
+  "post_id": "1wkgc9u",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 4,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Post from Cybernews",
+    "author": "_KryptonytE_",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789805493,
+    "selftext": "Does this mean they'll no longer slow down the AI race anymore? ",
+    "permalink": "/r/singularity/comments/1wkgc9u/post_from_cybernews/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "paqbmnn",
+      "parent_id": "t3_1wkgc9u",
+      "author": "jhonpixel",
+      "author_flair_text": "▪️AGI in first half 2027 - ASI in the 2030s-",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789806100,
+      "body": "It's pretty simple in my humble opinion.\n\nUS is trying to quietely tell China that it has got to some AI breakthrough and maybe Trump admin could use it to force/induce negotiations on other topics (e.g: Iran, Hormuz, Bab el Mandab, Taiwan, Russia).\n\nSo more than a meeting this is a negotiating table from a point of force. \n\nRemember that Xi is going to Washington, not viceversa. "
+    },
+    {
+      "depth": 1,
+      "id": "paqc0mf",
+      "parent_id": "t1_paqbmnn",
+      "author": "_KryptonytE_",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789806305,
+      "body": "But I thought that the east and west would not agree to the regulations and sanctioned policies especially with technology. Isn't China seeming like the good side with open mindset here? "
+    },
+    {
+      "depth": 2,
+      "id": "paqce0x",
+      "parent_id": "t1_paqc0mf",
+      "author": "jhonpixel",
+      "author_flair_text": "▪️AGI in first half 2027 - ASI in the 2030s-",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789806503,
+      "body": "Mind that China and US know VERY WELL that whoever get first at AGI race, literally wins the world.\n\nThere is no good and bad in superpowers, those are always racing for world-supremacy. Beware of that. \n\nSo if a meeting is scheduled at the \"home\" of your adversary, probably that's an act of negotiation from a point of force. (Maybe in OpenAi they already have found a short-cut to AGI)"
+    },
+    {
+      "depth": 3,
+      "id": "paqdeef",
+      "parent_id": "t1_paqce0x",
+      "author": "GnaggGnagg",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789807038,
+      "body": "To get first to AGI without solving the alignment problem doesn't mean that you win the world. It means that the AI wins the world. Without solving alignment, everybody (including the nation that gets AGI first) dies and or gets an AI dystopia."
+    },
+    {
+      "depth": 4,
+      "id": "paqdi6a",
+      "parent_id": "t1_paqdeef",
+      "author": "jhonpixel",
+      "author_flair_text": "▪️AGI in first half 2027 - ASI in the 2030s-",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789807093,
+      "body": "Someone could say: \"a risk worth more than seeing the adversary get there first\"\n\nHumans are crazy, i know."
+    },
+    {
+      "depth": 3,
+      "id": "paqlxb5",
+      "parent_id": "t1_paqce0x",
+      "author": "_KryptonytE_",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789811523,
+      "body": "Could be right. With the East leaning towards open source and open community based progressive mindset, not sure if the profit making West will come to any kind of agreement. There are lots of differences in the way these populi think and work. "
+    }
+  ]
+}

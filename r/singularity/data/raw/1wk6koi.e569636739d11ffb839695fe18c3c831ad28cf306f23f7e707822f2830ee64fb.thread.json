@@ -1,0 +1,97 @@
+{
+  "post_id": "1wk6koi",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~11h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Toyota to deploy 400,000 robots to work alongside factory staff - Nikkei Asia",
+    "author": "Recoil42",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1789775832,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wk6koi/toyota_to_deploy_400000_robots_to_work_alongside/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "paoei2h",
+      "parent_id": "t3_1wk6koi",
+      "author": "Main-Company-5946",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789776945,
+      "body": "Heh. “Alongside”"
+    },
+    {
+      "depth": 0,
+      "id": "pap7rtj",
+      "parent_id": "t3_1wk6koi",
+      "author": "Large_Shame578",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789787614,
+      "body": "But why do it look like an Unggoy"
+    },
+    {
+      "depth": 1,
+      "id": "pap88dc",
+      "parent_id": "t1_pap7rtj",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789787792,
+      "body": "[deleted]"
+    },
+    {
+      "depth": 1,
+      "id": "papdw4b",
+      "parent_id": "t1_pap7rtj",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789790043,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "paqlc06",
+      "parent_id": "t3_1wk6koi",
+      "author": "BoredGuy_v2",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789811215,
+      "body": "Reminds me of The Jetsons"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "post_id": "1wk6fwf",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~11h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Technically correct is the best kind of correct, I guess?",
+    "author": "YaAbsolyutnoNikto",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Shitposting",
+    "created_utc": 1789775481,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wk6fwf/technically_correct_is_the_best_kind_of_correct_i/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "paodall",
+      "parent_id": "t3_1wk6fwf",
+      "author": "YaAbsolyutnoNikto",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789776526,
+      "body": "I loled"
+    },
+    {
+      "depth": 0,
+      "id": "paodk4x",
+      "parent_id": "t3_1wk6fwf",
+      "author": "Dragonbonded",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789776617,
+      "body": "is that an hour 50 minutes, or a minute 50 seconds?"
+    },
+    {
+      "depth": 1,
+      "id": "paoe7gm",
+      "parent_id": "t1_paodk4x",
+      "author": "YaAbsolyutnoNikto",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789776842,
+      "body": "1h50min"
+    },
+    {
+      "depth": 0,
+      "id": "papy1xw",
+      "parent_id": "t3_1wk6fwf",
+      "author": "SnooPaintings8639",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789799236,
+      "body": "Is that Gemini? I mean, their selling point is speed, not accuracy... Ans I hope, its answer was at least fast. "
+    }
+  ]
+}

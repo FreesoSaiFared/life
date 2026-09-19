@@ -1,0 +1,83 @@
+{
+  "post_id": "1wkghdu",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Anthropic: “We’re partnering with Accenture”",
+    "author": "borowcy",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1789806000,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wkghdu/anthropic_were_partnering_with_accenture/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "paqe6tv",
+      "parent_id": "t3_1wkghdu",
+      "author": "Professional_Dot2761",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789807455,
+      "body": "Swallowing Accenture..."
+    },
+    {
+      "depth": 0,
+      "id": "paqezsg",
+      "parent_id": "t3_1wkghdu",
+      "author": "TorturedPoet30",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789807878,
+      "body": "\"We’re partnering with Accenture on independent evaluation of frontier AI\" just 10 months after announcing commercial partnership with Accenture"
+    },
+    {
+      "depth": 1,
+      "id": "paqkl96",
+      "parent_id": "t1_paqezsg",
+      "author": "SquareQuit1741",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789810832,
+      "body": "And many of the 'Independent' AI evaluators they hired are intertwined with Anthropic, [according to David Sacks.](https://x.com/DavidSacks/status/2098973625252708460)\n\nJeez, this company is shameless."
+    },
+    {
+      "depth": 0,
+      "id": "paqq66c",
+      "parent_id": "t3_1wkghdu",
+      "author": "roodammy44",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789813600,
+      "body": "Considering Accenture’s reputation for bloated and barely working large scale projects that cost multiple times an in-house solution - why on earth would they do this?"
+    }
+  ]
+}

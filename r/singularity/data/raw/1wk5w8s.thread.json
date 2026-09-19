@@ -1,0 +1,97 @@
+{
+  "post_id": "1wk5w8s",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~12h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Anthropic Shifts Planned IPO to November",
+    "author": "Stabile_Feldmaus",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789774058,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wk5w8s/anthropic_shifts_planned_ipo_to_november/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "paon3fz",
+      "parent_id": "t3_1wk5w8s",
+      "author": "DelphiTsar",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789779963,
+      "body": ">the AI industry has been grappling with calls to slow its pace of development\n\nlol...is this really the sub headline when it's this company who is calling for the slower pace?"
+    },
+    {
+      "depth": 1,
+      "id": "paoo5nc",
+      "parent_id": "t1_paon3fz",
+      "author": "spinozasrobot",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789780341,
+      "body": "Why is that mutually exclusive?"
+    },
+    {
+      "depth": 2,
+      "id": "paopgrs",
+      "parent_id": "t1_paoo5nc",
+      "author": "DelphiTsar",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789780807,
+      "body": "It's a weird, misleading headline. Like they are following requests from other people. They are spearheading the request thesmelves."
+    },
+    {
+      "depth": 2,
+      "id": "pap16zt",
+      "parent_id": "t1_paoo5nc",
+      "author": "seoul_drift",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789785104,
+      "body": "If you ask your mom to let you ignore homework, describing yourself as a student \"grappling with calls to curtail homework completion\" is hilarious spin."
+    },
+    {
+      "depth": 1,
+      "id": "paqllvr",
+      "parent_id": "t1_paon3fz",
+      "author": "New_World_2050",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789811357,
+      "body": "Other companies have been calling for the same.  In fact all the top American labs have called for pacing the frontier."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "post_id": "1wkh5sb",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Google DeepMind on DNA editing: \"Every second, millions of genome switches dictate how our cells function and adapt. 🧬\" (New info on it)",
+    "author": "borowcy",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Neuroscience",
+    "created_utc": 1789808436,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wkh5sb/google_deepmind_on_dna_editing_every_second/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "paqgbk3",
+      "parent_id": "t3_1wkh5sb",
+      "author": "borowcy",
+      "author_flair_text": "GPT-6 will have BCI capability",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789808586,
+      "body": "From the article...\n\nStatus from Google DeepMind on their progress: \n\n- **\"Accelerate our understanding of biology.\"**\n- **\"DNA is the language of life. Mastering it could transform our ability to understand biology.**"
+    },
+    {
+      "depth": 0,
+      "id": "paqjlmd",
+      "parent_id": "t3_1wkh5sb",
+      "author": "The_Scout1255",
+      "author_flair_text": "adult agi 2026 ASI <2030, prev agi 2024, ai personhood 2025 est",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789810310,
+      "body": "One step closer to me biologically modifying myself into a foxgirl."
+    },
+    {
+      "depth": 1,
+      "id": "paqmuz4",
+      "parent_id": "t1_paqjlmd",
+      "author": "borowcy",
+      "author_flair_text": "GPT-6 will have BCI capability",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789812000,
+      "body": "They covertly released Gemini Adult Mode last midnight (12 hours ago), per my info. You think they're using it to solve transgenderism?"
+    },
+    {
+      "depth": 2,
+      "id": "paqnsvj",
+      "parent_id": "t1_paqmuz4",
+      "author": "The_Scout1255",
+      "author_flair_text": "adult agi 2026 ASI <2030, prev agi 2024, ai personhood 2025 est",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789812458,
+      "body": "wtf do you mean by solve transgenderism, you mean help us transition? probably."
+    },
+    {
+      "depth": 2,
+      "id": "paqok0d",
+      "parent_id": "t1_paqmuz4",
+      "author": "The_Scout1255",
+      "author_flair_text": "adult agi 2026 ASI <2030, prev agi 2024, ai personhood 2025 est",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789812821,
+      "body": "Also just so your know your wording makes it sound like you are saying being trans is something to solve, rather then something to celebrate so please fix your grammer for the future, thanks!"
+    }
+  ]
+}

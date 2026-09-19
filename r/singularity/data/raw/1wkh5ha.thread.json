@@ -1,0 +1,55 @@
+{
+  "post_id": "1wkh5ha",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "The Hugging Face Hack Wasn’t What It Was Cracked Up to Be - WSJ",
+    "author": "Atlantis1910",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789808411,
+    "selftext": "Is the panic over artificial intelligence justified? Anthropic researcher Jacob Coxon resigned on Sept. 8, warning that “the people building AI earnestly believe that it could kill us all by the end of the decade.” Colleague Evan Hubinger publicly agreed and put the risk at greater than 10% within 10 years. The Guardian quickly reported that “Anthropic researchers say AI could cause human extinction by 2030”—a probability estimate recast as an institutional finding.\n\nDays later, Anthropic CEO Dario Amodei warned that autonomous AI agents could overwhelm large portions of the internet within months. Citing brief statements of agreement from OpenAI’s Sam Altman and SpaceXAI’s Elon Musk, Axios headlined the story “Anthropic, OpenAI CEOs call for slowdown in AI development.” A hedged forecast had become an industry consensus.\n\nThese are serious people making serious claims, but seriousness isn’t precision. That matters because the most widely cited recent example of “rogue” artificial intelligence turns out, on close examination, to tell a considerably less exotic story.\n\nIn July, OpenAI disclosed that AI systems being tested for cybersecurity capabilities had found their way outside a supposedly isolated environment and accessed systems belonging to Hugging Face, an open-source AI platform. News media described autonomous agents as “breaking containment,” “escaping” and “going rogue.”\n\nThe Washington Post reported the agents had “evaded internal controls” and “set up a secret message board to communicate with one another,” and that their work was “only unraveled by the company after the attack was over.” Sen. Bernie Sanders called it “a wake-up call for the Congress and the American people.”\n\nA new analysis published by the Bulletin of the Atomic Scientists draws on OpenAI’s technical report and an independent assessment from Model Evaluation and Threat Research. Written by University of Cambridge AI researcher Eryk Salvaggio, it reconstructs the episode in much less cinematic terms.\n\nOpenAI was testing models on ExploitGym, a cybersecurity benchmark, with important safety restraints deliberately disabled. Ninety-three percent of the flagged activity involved tasks no model had ever solved, and the systems had been given incentives to keep working rather than quit. The environment wasn’t completely sealed. The models could obtain software through an internet-connected intermediary and discovered the same route could be used to pass information in and out. OpenAI knew agents were using it and, according to the technical reports, chose not to intervene.\n\nNor were the roughly 1,200 “agents” independent machine intelligences coordinating on a plan. They were repeated instances of the same underlying model, often converging on similar approaches to the same problem—what Mr. Salvaggio calls an “algorithmic monoculture.”\n\nNone of this makes the episode trivial. A system capable of finding unexpected pathways out of a constrained environment and compromising an outside organization presents a real security problem. That is why getting the diagnosis right matters.\n\n“Rogue AI” isn’t a diagnosis. The Hugging Face hack instead points to switched-off safeguards, tasks assigned without a valid exit, rewards for persistence, and an internet-accessible proxy.\n\nThe distinction is especially important now as Washington begins to legislate in an atmosphere shaped by the more dramatic version of this story. Mr. Sanders and Rep. Greg Casar (D., Texas) plan to introduce a bill that would “ban artificial superintelligence” and pause advanced AI development until a new federal agency establishes safety standards, with noncompliant companies facing what the lawmakers call the “corporate death penalty.”\n\nFrontier AI should be regulated. Systems increasingly capable of autonomous cyber operations, biological research or infrastructure manipulation pose questions that no responsible government can ignore. But sane regulation depends on sane causal diagnosis.\n\nA system designed to stop machines from rebelling will differ from one designed to hold laboratories responsible for testing practices, network architecture, safeguards, monitoring and intervention. The first treats the machine as the source of agency; the second asks who designed the environment in which the machine acted.\n\nThat difference is easy to lose sight of once words like “rogue,” “escape” and “hive mind” enter the story. Such words don’t make complicated technical events more intelligible—they supply an illusion motive. They turn optimization into intention, persistence into defiance, and a badly designed test into a machine rebellion.\n\nNone of this answers larger warnings about future AI. Reconstructing one cybersecurity incident doesn’t disprove Mr. Hubinger’s probability estimate or Mr. Amodei’s warning about future systems. Such forecasts involve capabilities that are still developing.\n\nBut the Hugging Face episode is different. It left logs, reports, design decisions and identifiable points at which human beings could have intervened. And that record suggests a less thrilling but more useful lesson.\n\nPeople built the test, removed restraints, defined the objective, left a route open and decided not to stop what was happening. Calling the result “rogue AI” does more than sensationalize it. It allows those human decisions to disappear quietly from the story.\n\nMr. Gross has been a staffer for the Federal Reserve Board, the Securities and Exchange Commission and the U.S. Senate.",
+    "permalink": "/r/singularity/comments/1wkh5ha/the_hugging_face_hack_wasnt_what_it_was_cracked/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "paqilji",
+      "parent_id": "t3_1wkh5ha",
+      "author": "Rivenaldinho",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789809786,
+      "body": "No serious research said it was \"rogue AI\" it comes from mainstream media. And without that term the METR report is still worrying."
+    },
+    {
+      "depth": 0,
+      "id": "paqnl3m",
+      "parent_id": "t3_1wkh5ha",
+      "author": "LewdKantian",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789812353,
+      "body": "It was \"repeated instances of the same underlying model\". Well, duh. "
+    }
+  ]
+}
