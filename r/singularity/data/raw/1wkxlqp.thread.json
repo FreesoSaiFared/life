@@ -1,0 +1,153 @@
+{
+  "post_id": "1wkxlqp",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Spanish Multiverse Computing used a quantum computer (156-qubit IBM Heron) to create their latest Quasar 1.1 438B model",
+    "author": "The_Wonderful_Pie",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789851915,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wkxlqp/spanish_multiverse_computing_used_a_quantum/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "paub3mj",
+      "parent_id": "t3_1wkxlqp",
+      "author": "enilea",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789852688,
+      "body": "> Put Quasar 1.1 to the test and earn free API tokens! Help us improve the model by identifying and reporting its flaws. The five users who report the highest number of verified flaws will each receive 60M tokens to use on the CompactifAI API.\n\nNot even paying bounties anymore (for a closed fork of an open model too), just giving a measly 60 million tokens to the people who report the most issues."
+    },
+    {
+      "depth": 1,
+      "id": "paunefz",
+      "parent_id": "t1_paub3mj",
+      "author": "CuTe_M0nitor",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789856459,
+      "body": "Cursor built their entire business on open source, both models and IDE "
+    },
+    {
+      "depth": 1,
+      "id": "pawl1bi",
+      "parent_id": "t1_paub3mj",
+      "author": "CrowdGoesWildWoooo",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789881155,
+      "body": "Token is the new “crypto” now"
+    },
+    {
+      "depth": 0,
+      "id": "paunabi",
+      "parent_id": "t3_1wkxlqp",
+      "author": "CuTe_M0nitor",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789856423,
+      "body": "Well done 👍🏼 Spain!"
+    },
+    {
+      "depth": 0,
+      "id": "paurycb",
+      "parent_id": "t3_1wkxlqp",
+      "author": "SysGuardian",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789857906,
+      "body": "How did they run that much math? They don’t explain the process just the result. "
+    },
+    {
+      "depth": 0,
+      "id": "pav2ukc",
+      "parent_id": "t3_1wkxlqp",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789861533,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pawbjey",
+      "parent_id": "t3_1wkxlqp",
+      "author": "SnackerSnick",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789877178,
+      "body": "This is just marketing. No useful computation has yet been done by a quantum computer that couldn't have been done by a conventional computer in a reasonable time.\n\nQuantum computing will be very important one day, and AI might even make it some day soon, but it is interesting for what it can do in the future, not what it can do now."
+    },
+    {
+      "depth": 0,
+      "id": "pawrd75",
+      "parent_id": "t3_1wkxlqp",
+      "author": "confused-photon",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789884110,
+      "body": "Can someone explain what they actually did because its a REAP of GLM from what ive heard"
+    },
+    {
+      "depth": 0,
+      "id": "paxgrrp",
+      "parent_id": "t3_1wkxlqp",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789896684,
+      "body": "[removed]"
+    }
+  ]
+}

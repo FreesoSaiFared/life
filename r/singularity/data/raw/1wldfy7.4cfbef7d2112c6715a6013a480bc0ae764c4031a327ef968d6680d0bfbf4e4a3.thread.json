@@ -1,0 +1,41 @@
+{
+  "post_id": "1wldfy7",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Demis Hassabis in a safety meeting from King Charles: \"I'm very confident and optimistic that we can collectively address these risks.\"",
+    "author": "borowcy",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1789899876,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wldfy7/demis_hassabis_in_a_safety_meeting_from_king/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "paxrtso",
+      "parent_id": "t3_1wldfy7",
+      "author": "TorturedPoet30",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789902049,
+      "body": "Demis has really stepped into the role of Google’s statesman. I still think he's the most balanced AI leader and takes some of the risks seriously while being optimistic which is good, but he’s becoming very repetitive with the \\*\\*I’m a huge believer in human ingenuity\\*\\* line. I wish we could hear more about Isomorphic Labs’ work instead of these same talking points. "
+    }
+  ]
+}

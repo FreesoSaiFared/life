@@ -1,0 +1,69 @@
+{
+  "post_id": "1wl8nc4",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Speaking With The Mind | Neuralink (7 minutes, Sept. 18)",
+    "author": "Competitive_Travel16",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Neuroscience",
+    "created_utc": 1789883557,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wl8nc4/speaking_with_the_mind_neuralink_7_minutes_sept_18/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pawrypo",
+      "parent_id": "t3_1wl8nc4",
+      "author": "ight-bet",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789884395,
+      "body": "Okay maybe train the voice on his old voice…? lol.\n\nAnd also make a speaker device with a good battery for the dude to wear."
+    },
+    {
+      "depth": 0,
+      "id": "pax8u6y",
+      "parent_id": "t3_1wl8nc4",
+      "author": "sumane12",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789892627,
+      "body": "Im not crying, you're crying!"
+    },
+    {
+      "depth": 0,
+      "id": "paxgrz2",
+      "parent_id": "t3_1wl8nc4",
+      "author": "martin87i",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789896688,
+      "body": "I have so many questions! Are the words encoded in the brain different for each word or more like a syllable by syllable thing? Can the model generalize words he hasn't recorded yet from other data? "
+    }
+  ]
+}

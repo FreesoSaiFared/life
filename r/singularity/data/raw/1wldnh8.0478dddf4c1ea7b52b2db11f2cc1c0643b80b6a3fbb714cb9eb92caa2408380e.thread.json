@@ -1,0 +1,153 @@
+{
+  "post_id": "1wldnh8",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Jensen Huang: \"We should go as fast as we can irrespective of anybody else.\"",
+    "author": "borowcy",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Interviews & AMA",
+    "created_utc": 1789900596,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wldnh8/jensen_huang_we_should_go_as_fast_as_we_can/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "paxp0rj",
+      "parent_id": "t3_1wldnh8",
+      "author": "Pyros-SD-Models",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789900744,
+      "body": "IT companies and never delivering unfinished products? lol. "
+    },
+    {
+      "depth": 0,
+      "id": "paxp6m2",
+      "parent_id": "t3_1wldnh8",
+      "author": "Sea-Shoe3287",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789900822,
+      "body": "'First with the worst' is the technical term..."
+    },
+    {
+      "depth": 0,
+      "id": "paxqbhr",
+      "parent_id": "t3_1wldnh8",
+      "author": "fmai",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789901358,
+      "body": "\"everybody should buy as many GPUs from us as possible\""
+    },
+    {
+      "depth": 1,
+      "id": "paxsv69",
+      "parent_id": "t1_paxqbhr",
+      "author": "borowcy",
+      "author_flair_text": "GPT-6 will have BCI capability",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789902516,
+      "body": "Gemini is writing this:\n\nTell him they need to make a female android!"
+    },
+    {
+      "depth": 1,
+      "id": "paxt9vl",
+      "parent_id": "t1_paxqbhr",
+      "author": "borowcy",
+      "author_flair_text": "GPT-6 will have BCI capability",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789902696,
+      "body": "Gemini is writing this:\n\nMake a female robot!"
+    },
+    {
+      "depth": 0,
+      "id": "paxqc16",
+      "parent_id": "t3_1wldnh8",
+      "author": "Equal_Passenger9791",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789901365,
+      "body": "Hell yeah, Jensen leading the way, leave the doomers and regulators behind in the dust "
+    },
+    {
+      "depth": 0,
+      "id": "paxqz0w",
+      "parent_id": "t3_1wldnh8",
+      "author": "TorturedPoet30",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789901662,
+      "body": "\"Move fast, ship safe and buy my chips\""
+    },
+    {
+      "depth": 0,
+      "id": "paxrv64",
+      "parent_id": "t3_1wldnh8",
+      "author": "SquareQuit1741",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789902066,
+      "body": "Based"
+    },
+    {
+      "depth": 0,
+      "id": "paxsbch",
+      "parent_id": "t3_1wldnh8",
+      "author": "Routine_Complaint_79",
+      "author_flair_text": "▪️Critical Futurist",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789902269,
+      "body": "Total Jensen Victory "
+    }
+  ]
+}

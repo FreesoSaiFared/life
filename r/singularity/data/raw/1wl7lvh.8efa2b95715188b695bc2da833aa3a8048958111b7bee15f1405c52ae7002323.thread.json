@@ -1,0 +1,139 @@
+{
+  "post_id": "1wl7lvh",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "DAE think that these AI companies hacking stories are too much of a coincidence?",
+    "author": "lil_peasant_69",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1789880213,
+    "selftext": "What if they are doing this on purpose to gain support for regulation laws?\n\nIt seems too coincidental that this only happens with the newer models and not the older ones. They would've happened with the older models too surely? It's not like their model intelligence has doubled or anything in the last month. \n\nAnybody else smell something fishy?",
+    "permalink": "/r/singularity/comments/1wl7lvh/dae_think_that_these_ai_companies_hacking_stories/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pawj8gb",
+      "parent_id": "t3_1wl7lvh",
+      "author": "Rain_On",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789880355,
+      "body": "You don't need ability to double for ability to cross a threshold for a task."
+    },
+    {
+      "depth": 0,
+      "id": "pawjj55",
+      "parent_id": "t3_1wl7lvh",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1789880484,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pawjxoo",
+      "parent_id": "t3_1wl7lvh",
+      "author": "amp1212",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789880663,
+      "body": "More than one thing can be true:  \n1) the companies \"talk their book\" - both Anthropic and Open AI are trying to go public seeking huge amounts of money. Whether we're speaking of Dario Amodei, Elon Musk or Sam Altman . . . these guys are very, very calculating.  If there are going to be  regulations, of course they would try to shape the regulations to suit their advantages . . . wouldn't make sense for them not to\n\nand\n\n2) AI can be genuinely dangerous, even if AI doomers may be exaggerating risk, and companies are framing it to suit their commercial purposes. "
+    },
+    {
+      "depth": 0,
+      "id": "pawk0i7",
+      "parent_id": "t3_1wl7lvh",
+      "author": "ManasZankhana",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789880698,
+      "body": "Gemini did it in May"
+    },
+    {
+      "depth": 0,
+      "id": "pawkual",
+      "parent_id": "t3_1wl7lvh",
+      "author": "Artistic-Athlete-676",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789881066,
+      "body": "Coincidental that hacking happened with better models? Maybe your mind will change as this continues to happen"
+    },
+    {
+      "depth": 0,
+      "id": "paws74b",
+      "parent_id": "t3_1wl7lvh",
+      "author": "ColoringZebra",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789884504,
+      "body": "It seriously seems coincidental that more advanced models have more advanced capabilities?"
+    },
+    {
+      "depth": 1,
+      "id": "pawsbz3",
+      "parent_id": "t1_paws74b",
+      "author": "lil_peasant_69",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789884569,
+      "body": "its not like thaaat much more advanced from my experience"
+    },
+    {
+      "depth": 0,
+      "id": "pax2hv8",
+      "parent_id": "t3_1wl7lvh",
+      "author": "Zermelane",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1789889490,
+      "body": "> It's not like their model intelligence has doubled or anything in the last month. \n\nWe haven't heard anything from the last month. The hacking news have all been about incidents that happened between March and May.\n\nAnyway, *most* of the noise comes from Irregular (a contractor running evals for a bunch of AI companies) fucking up some config, claiming to the models that they're in a simulated environment, but actually giving them real internet access. Said models would then run around the internet, doing basic stuff like guessing passwords, using leaked credentials, etc.. IMO there's still some interesting stuff in the details even there, but you do have to dig through a lot of noise first.\n\nBut also note that that's *most*. The case of OpenAI agents hacking their internal artifactory and HuggingFace didn't involve Irregular, and the dynamics of the agent swarm that's trained to work together are genuinely new. So, if you're going to read more about any one thing here, that's the thing I'd recommend sating your curiosity with."
+    }
+  ]
+}
