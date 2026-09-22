@@ -1,0 +1,69 @@
+{
+  "post_id": "1wn3bh7",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~4h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "More OpenAI Aeon Persistant Agent infos!",
+    "author": "PrisonOfH0pe",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790064299,
+    "selftext": "https://preview.redd.it/91kxr4jz31rh1.png?width=603&format=png&auto=webp&s=3e4b033723c47305464344b3aa1b6e2c776f40bc\n\nfresh of the press. ",
+    "permalink": "/r/singularity/comments/1wn3bh7/more_openai_aeon_persistant_agent_infos/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbbsjrd",
+      "parent_id": "t3_1wn3bh7",
+      "author": "Mistuv",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790065326,
+      "body": "I would be more excited about it if the usage limits weren't so brutal. Big whoop that it's persistent when you drain weekly usage after 5 different 15 minute tasks. "
+    },
+    {
+      "depth": 0,
+      "id": "pbc0thv",
+      "parent_id": "t3_1wn3bh7",
+      "author": "Fair_Horror",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790069706,
+      "body": "I wonder what the rate is per aeon."
+    },
+    {
+      "depth": 0,
+      "id": "pbc2om1",
+      "parent_id": "t3_1wn3bh7",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790070645,
+      "body": "[removed]"
+    }
+  ]
+}
