@@ -1,0 +1,41 @@
+{
+  "post_id": "1wo35bm",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Drop and give me twenty... prompts",
+    "author": "oooooooooooopsi",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Meme",
+    "created_utc": 1790162281,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wo35bm/drop_and_give_me_twenty_prompts/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbjm476",
+      "parent_id": "t3_1wo35bm",
+      "author": "SpaceTacos99",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790162431,
+      "body": "Go away "
+    }
+  ]
+}

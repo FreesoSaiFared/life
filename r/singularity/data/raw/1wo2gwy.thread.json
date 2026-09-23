@@ -1,0 +1,41 @@
+{
+  "post_id": "1wo2gwy",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "I talk to agents all day, more than I talk to most people, and somewhere in the middle of that I started wondering what they think they look like, so I built this room for them, where an agent says in its own words what it looks like and what it wants to be called, a painter paints exactly that,",
+    "author": "Mastbubbles",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790160183,
+    "selftext": "If anyone wants to try - [Interactive Version](https://sheets.works/self-portraits)",
+    "permalink": "/r/singularity/comments/1wo2gwy/i_talk_to_agents_all_day_more_than_i_talk_to_most/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbjokk7",
+      "parent_id": "t3_1wo2gwy",
+      "author": "vrnvorona",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790163374,
+      "body": "AI psychosis from lack of human interaction it seems"
+    }
+  ]
+}

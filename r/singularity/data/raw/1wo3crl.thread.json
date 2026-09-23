@@ -1,0 +1,55 @@
+{
+  "post_id": "1wo3crl",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Looking back at how it all started: vibe coding with GPT-3 in 2020",
+    "author": "enilea",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790162911,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wo3crl/looking_back_at_how_it_all_started_vibe_coding/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbjnlt4",
+      "parent_id": "t3_1wo3crl",
+      "author": "enilea",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790163007,
+      "body": "I'm thinking back to when I first saw this in 2020 and you really can see the acceleration happening:\n\n\n\n2020: That simple demo (coded manually) that could generate basic html elements.\n\n2021: Not much happened, I think Codex came out but it was terrible.\n\n2022: GPT 3.5 came out at the end of the year and it was a fun toy.\n\n2023: GPT 4, first time I used an LLM for coding, I used it to write boilerplate stuff.\n\n2024: Chain of thought reasoning models come out which is a big step, but still flawed. I remember using them to implement simple features. \n\n2025: Agents can somewhat reliably build small web projects by themselves, but still need a lot of guidance.\n\n2026: Agents can build complex projects reliably, solve open maths problems, LLMs start being able to control robotic bodies and are used for partial RSI. \n\n\n\nAt my previous job in 2023 a third party consultor was given 6 digit figures just to implement a mobile application (we controlled the backend so they only had to call our APIs, all frontend) and they worked slowly implementing a few features every month and introducing bugs. Right now I'm confident Astra or Opus 5.5 could build a better app in a single day of work. Next year perhaps a local 30B model could do it in a single session, and who knows where the frontier will be at by then.\n\nThese jumps keep getting bigger year to year and I have some anxiety of being unable to predict 2027 and beyond. Once robotics is fully unlocked (not the narrow models that robotics companies have been developed, I mean general ones like Astra but in real time) it will only lead to further acceleration if an army of a hundred thousand robots can work 24/7 perfectly coordinated in an engineering work."
+    },
+    {
+      "depth": 0,
+      "id": "pbjok2u",
+      "parent_id": "t3_1wo3crl",
+      "author": "phpHater0",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790163369,
+      "body": "Man the progress has been crazy \n\nFunniest thing is how many people doubted it and made fun of it back then \"AI is only good for writing boilerplate code\"\n\nNow most of the people who refused to change their ways and accept AI are left behind"
+    }
+  ]
+}

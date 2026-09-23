@@ -1,0 +1,69 @@
+{
+  "post_id": "1wnmuia",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "GPT-6-Luna takes the 2x crowns on ObviousBench!",
+    "author": "adamallcock",
+    "score": 1,
+    "upvote_ratio": 0.67,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1790113069,
+    "selftext": "ObviousBench is a little different from others in that 100% is very possible, as every question is trivial for a human but difficult for LLMs. Therefore, the intent is to spend as little money/tokens on getting a result within a given category (ie 90%+, 95%+, 99%+).\n\nIn two categories, GPT-5.6-Luna (Max and Medium) come first, and in the third (Low) comes third. \n\nLeaderboard: [https://obviousbench.com/](https://obviousbench.com/)\n\nPaper: [https://doi.org/10.5281/zenodo.21781601](https://doi.org/10.5281/zenodo.21781601)\n\n",
+    "permalink": "/r/singularity/comments/1wnmuia/gpt6luna_takes_the_2x_crowns_on_obviousbench/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbg6z2q",
+      "parent_id": "t3_1wnmuia",
+      "author": "MiRC_ZoMBiE",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790113238,
+      "body": "Alguém poderia colocar os links dos sites de Benchmark aqui?"
+    },
+    {
+      "depth": 1,
+      "id": "pbg9s8v",
+      "parent_id": "t1_pbg6z2q",
+      "author": "adamallcock",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790114062,
+      "body": "[https://obviousbench.com/](https://obviousbench.com/)"
+    },
+    {
+      "depth": 0,
+      "id": "pbgeriv",
+      "parent_id": "t3_1wnmuia",
+      "author": "AsianPotatos",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790115561,
+      "body": "https://i.ibb.co/Nn9Q8YDQ/image.png\n\nAstra low only using 1.4k tokens is very impressive."
+    }
+  ]
+}

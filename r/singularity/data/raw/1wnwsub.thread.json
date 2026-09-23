@@ -1,0 +1,97 @@
+{
+  "post_id": "1wnwsub",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "RAND publishes a U.S. strategy for the path to superintelligence: keep every major option open until the evidence forces a choice",
+    "author": "141_1337",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1790140379,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wnwsub/rand_publishes_a_us_strategy_for_the_path_to/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbigtug",
+      "parent_id": "t3_1wnwsub",
+      "author": "SeanTayla21",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790142103,
+      "body": "\"They therefore recommend a Freedom of Action strategy to build and preserve the ability to secure geopolitical advantage and ensure humanity’s survival with agency through the transition to superintelligence.\"\n\nAt least they are considering the fact that it could wipe us out in the process of advancement."
+    },
+    {
+      "depth": 1,
+      "id": "pbjmrw1",
+      "parent_id": "t1_pbigtug",
+      "author": "SeismicFrog",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790162688,
+      "body": "But you have to love RAND…\n\n“to secure geopolitical advantage AND ensure humanity’s survival”\n\nThe order of words matter."
+    },
+    {
+      "depth": 0,
+      "id": "pbiidyq",
+      "parent_id": "t3_1wnwsub",
+      "author": "Sixhaunt",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790142849,
+      "body": "all AI is super Intelligence according to the US government now"
+    },
+    {
+      "depth": 0,
+      "id": "pbjd7id",
+      "parent_id": "t3_1wnwsub",
+      "author": "LaggedOnUser",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790158652,
+      "body": "Here's a summary and analysis by chatbots if anyone is interested.\n\n# RAND's \"Freedom of Action\" Strategy for Superintelligence: What It Says and Where It Strains\n\nA September 2026 RAND paper by Joel Predd and colleagues tackles one of the most consequential open questions in strategy: what should the U.S. do as AI approaches superintelligence? The paper's answer is that we shouldn't pick yet. It maps seven archetypal strategies, identifies five unresolved uncertainties that decide between them, and recommends a \"Freedom of Action\" posture — build the shared foundations now, commit when the evidence forces the issue. The analysis below covers the strategies, the core argument, and the weaknesses.\n\n## The Seven Strategies\n\nThe paper organizes the debate into three families.\n\n**Coexistence strategies** assume humans and superintelligence can coexist and try to get there deliberately. *Dominance* (Aschenbrenner's \"The Project\") races first and suppresses rivals through export controls and cyber operations; its pathology is that whoever wins locks in their values as the world's default. *Co-Development* (the \"CERN for AI\" proposal) pools compute across rivals, including China, under shared governance; its pathology is that the founders' compromises become permanent, and the consortium still becomes an arena for covert competition. *Preparedness* — responsible scaling policies, defensive acceleration, staged deployment — rejects both monopoly and treaty, betting on informal coordination and resilience; its pathology is that it normalizes gradual drift and accumulating low-level harm.\n\n**Denial strategies** assume coexistence is currently infeasible and seek to halt, suppress, or outlast the technology. *Moratorium* calls for a verified global pause above capability thresholds to buy time for alignment research; its pathology is forgone benefits and an enforcement regime that hardens into surveillance. *Deterrence* (Hendrycks, Schmidt, and Wang's \"Mutually Assured AI Malfunction\") freezes domestic programs while using national power to destroy rivals' dangerous ones; its pathology is a permanent hair-trigger standoff. *Continuity of Society* (Ord's refuges) is the last resort: build hardened settlements that survive whatever happens. Survival, but as relics with little power over the future.\n\n**Acceleration** (e/acc, Andreessen) holds that constraining development is worse than developing it, that markets and competition will produce safety as a byproduct. Its pathology is that markets don't price catastrophic externalities.\n\n## The Core Argument\n\nNone of these strategies can be objectively ranked today because five empirical questions remain unresolved: how close the danger is, whether coexistence is feasible, whether rivals can be induced to restrain themselves, whether anyone can achieve a decisive durable lead, and whether a state can actually suppress a rival's program if it wants to. The paper emphasizes that evidence resolves these *asymmetrically*: you can prove danger is close but never prove it's far; you can prove coexistence works but never prove it's impossible forever. Waiting for conclusive proof is waiting for something that never arrives.\n\nHere's the key move: both extremes fail. **Premature commitment** forecloses options by action — a dominance race starves the diplomatic channels and verification regimes that co-development needs. **Deferral** forecloses options by inaction — verification tools rot unbuilt, deployment lock-in deepens, and you're executing acceleration by default. The paper catalogs five foreclosure channels: institutional decay, deployment lock-in, a rival's fait accompli, erosion of human decision-making capacity, and irreversible knowledge diffusion.\n\nThe recommendation follows. Freedom of Action means front-loading four investment objectives (the human-AI ecosystem, an AI security architecture, adapted legacy national security institutions, and societal readiness) plus three operational ones (monitoring indications and warnings, guarding against catastrophe and lock-in, and seizing advantage while signaling deliberately). Commit when pivot evidence becomes compelling, or when a capability's \"latest decision date\" arrives and forcing an intentional choice beats losing the option silently.\n\n## Where the Critique Lands\n\nThe strongest criticism is the **paradox of incompatible signals**. The strategy claims to hold deterrence and cooperation open simultaneously, but building offensive counter-AI capabilities and compute tracking doesn't look like \"benign optionality\" to Beijing. It looks like preparation for dominance or preemptive destruction, the exact security-dilemma trigger that collapses the cooperative strategies the apparatus is supposed to preserve. Signal management may be less tractable than the paper assumes.\n\nSecond, the framework **understates the principal-agent problem** with frontier labs. Much of the security architecture lives inside OpenAI, Anthropic, and Google — firms whose incentives point toward shipping, not verification. The paper invokes defense-industrial integration but current AI governance is fragmented, politicized, and technically outpaced. Standing cleared-industry forums and compute kill-switches are a Manhattan Project-level ambition wearing a RAND memo's clothes.\n\nThird, there's **political-economy realism** missing. The historical analogies — the National Security Act, NSC-68, post-9/11 — all followed acute visible shocks. Freedom of Action asks Congress and successive administrations to sustain a decades-long meta-strategy against a hypothetical threat with no Pearl Harbor. In a polarized democracy oscillating every four to eight years, \"deliberate hedging\" is more likely to become erratic swings between deregulation and freeze than the stable posture the paper describes.\n\nFourth, the **\"latest decision date\" mechanism is more elegant than operable.** ML progress is jagged and nonlinear; breakthroughs can collapse multi-year lead times into months. The monitoring apparatus may recognize an inflection after the clock has already run out.\n\nFinally, the authors concede but underweight their own pathology: the optionality apparatus acquires a constituency. Regulatory bodies, licensing agencies, compute bureaus expand their own mandates. The Leviathan built to keep seven doors open risks blocking all of them.\n\n## Bottom Line\n\nThis is the most structured statement yet of the \"build foundations, commit when forced\" position, and its foreclosure analysis is genuinely useful. But its central mechanism — that a government can credibly maintain incompatible postures while signaling neither war nor peace — is the softest part of the paper, and the private-sector dependency is the second."
+    },
+    {
+      "depth": 0,
+      "id": "pbjneym",
+      "parent_id": "t3_1wnwsub",
+      "author": "SeismicFrog",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790162934,
+      "body": "A very Cold War look at an issue that if left to governance using traditional methods, will work millions of times faster than any governing body could react. Especially when the homework to understand how to govern such risks would be so abstract to lawmakers, while dripping with riches, the realization is…\n\nI welcome our new AI overlords. "
+    }
+  ]
+}

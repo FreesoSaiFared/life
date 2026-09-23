@@ -1,0 +1,26 @@
+{
+  "post_id": "1wo1tcy",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "A6L android port Update",
+    "author": "PaddleStroke",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790158046,
+    "selftext": "Update on my quest to port dual screen A6L from Android 9 to android 17.\nThis ride is a wild one. The complexity of the task is out of the roof. I managed to burn 3 resets of my astra subscription. And I took a Claude x20 subscription to keep going on. But we're getting there one bite at a time.\n\nGetting the eink screen to work was a major milestone. We did like 110 flashes. Astra and then opus had to reverse engineer the hardware and the kernel binaries to understand how the soc communicate to the eink. It's just crazy to watch.\n\nThere are still many things to setup, but both screens are now working so it's a big milestone !",
+    "permalink": "/r/singularity/comments/1wo1tcy/a6l_android_port_update/"
+  },
+  "comments": []
+}
