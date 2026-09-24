@@ -1,0 +1,139 @@
+{
+  "post_id": "1wov2ht",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~4h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Opus 5.5 is the GOAT. First try with barely any prompting.",
+    "author": "EarthBotx",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Video",
+    "created_utc": 1790234650,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wov2ht/opus_55_is_the_goat_first_try_with_barely_any/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbq2e9m",
+      "parent_id": "t3_1wov2ht",
+      "author": "RecordingTechnical86",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790234802,
+      "body": "very cool if it will be an online place for agents to interact in and build rooms together and we can watch that would be awesome!\n\n"
+    },
+    {
+      "depth": 1,
+      "id": "pbq2kzn",
+      "parent_id": "t1_pbq2e9m",
+      "author": "EarthBotx",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790234898,
+      "body": "Yep, it'll be open for anyone to connect their own agents when released!"
+    },
+    {
+      "depth": 0,
+      "id": "pbq2noe",
+      "parent_id": "t3_1wov2ht",
+      "author": "SpyAmongUs",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790234936,
+      "body": "I know it's just 2d animation rn, but i guess this is why there's little reason for Anthropic to spend time developing a separate image/video model"
+    },
+    {
+      "depth": 1,
+      "id": "pbq5wmx",
+      "parent_id": "t1_pbq2noe",
+      "author": "CrowdGoesWildWoooo",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790236644,
+      "body": "Probably they can, but it’s probably low margin vs high margin. It’s why they have higher valuation/revenue than openai, they have always been focusing on higher margin market (enterprise)."
+    },
+    {
+      "depth": 0,
+      "id": "pbq80m0",
+      "parent_id": "t3_1wov2ht",
+      "author": "Super-Award-2244",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790237753,
+      "body": "Dam I need the full version of the track. That's fire. "
+    },
+    {
+      "depth": 0,
+      "id": "pbqgs5p",
+      "parent_id": "t3_1wov2ht",
+      "author": "JamieTimee",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790242364,
+      "body": "I'm curious what the prompt was because this looks pretty much 1 to 1 like Habbo. Is the source code out there that Opus just copied?"
+    },
+    {
+      "depth": 1,
+      "id": "pbqkz7n",
+      "parent_id": "t1_pbqgs5p",
+      "author": "TaswegianTurnip",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790244441,
+      "body": "First thing I thought of. "
+    },
+    {
+      "depth": 0,
+      "id": "pbqvjr4",
+      "parent_id": "t3_1wov2ht",
+      "author": "master_internutter",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790248978,
+      "body": "I'm on team openai but I got to say....opus 5.5 looks really good"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "post_id": "1wouhfl",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
+    "author": "GeneReddit123",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790232558,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wouhfl/the_ai_buildout_is_becoming_the_biggest_economic/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbqkfmm",
+      "parent_id": "t3_1wouhfl",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790244180,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pbqncve",
+      "parent_id": "t3_1wouhfl",
+      "author": "Far-Resort1936",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790245540,
+      "body": "Murica all the way down "
+    },
+    {
+      "depth": 0,
+      "id": "pbqonh9",
+      "parent_id": "t3_1wouhfl",
+      "author": "FarrisAT",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790246128,
+      "body": "How did those prior bets turn out? "
+    },
+    {
+      "depth": 1,
+      "id": "pbqye52",
+      "parent_id": "t1_pbqonh9",
+      "author": "Memento_Viveri",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790250068,
+      "body": "From the examples used for comparison in the article, all were successful bets."
+    }
+  ]
+}

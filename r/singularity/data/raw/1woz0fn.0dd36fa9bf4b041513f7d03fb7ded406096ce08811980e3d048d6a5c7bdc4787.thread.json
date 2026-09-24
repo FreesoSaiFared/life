@@ -1,0 +1,55 @@
+{
+  "post_id": "1woz0fn",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Japanese Animator Breaks Down How He Made an Anime MV Using Seedance",
+    "author": "PointmanW",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Video",
+    "created_utc": 1790249053,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1woz0fn/japanese_animator_breaks_down_how_he_made_an/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbqvxex",
+      "parent_id": "t3_1woz0fn",
+      "author": "PointmanW",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790249124,
+      "body": "This was created by [Tetsurou](https://x.com/craftcapitallab), an 3D animator who has worked in the anime industry for over 10 years, the most recent notable anime he worked on was Trigun Stampede and Trigun Stargaze.\n\nyou might remember him from the previous animation he made that I also posted [here](https://redd.it/1ue6yoh).\n\nyou can view the MV at full resolution [here](https://x.com/craftcapitallab/status/2101778424788652213).\n\nhis message on this breakdown video:\n\n>I put together a summary of how I made this!\n\n>Above all, I hope this conveys just how much fun AI can be!!\n\n\n\nagain, do you think this have enough \"intentionality\", \"creative input\" and \"effort\" for it to be considered \"art\" to you?"
+    },
+    {
+      "depth": 1,
+      "id": "pbqxw2k",
+      "parent_id": "t1_pbqvxex",
+      "author": "Super-Award-2244",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790249879,
+      "body": "The animator made exactly what he had in mind, minus the traditional struggle to actually animate it frame by frame. Imo this is perfectly legit "
+    }
+  ]
+}

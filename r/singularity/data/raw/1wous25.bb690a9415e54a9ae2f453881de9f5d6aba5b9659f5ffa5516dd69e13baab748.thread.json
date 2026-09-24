@@ -1,0 +1,55 @@
+{
+  "post_id": "1wous25",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Opus 5.5 made a self explained music video",
+    "author": "Youknowwhyimherexxx",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI Generated Media ",
+    "created_utc": 1790233594,
+    "selftext": "A.J. (@aj\\_dev\\_smith) used opus 5.5 to make an incredibly catchy song that explains itself",
+    "permalink": "/r/singularity/comments/1wous25/opus_55_made_a_self_explained_music_video/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbq128x",
+      "parent_id": "t3_1wous25",
+      "author": "EidolonLives",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790234128,
+      "body": "Sorry, but I'm not going to visit Xitter."
+    },
+    {
+      "depth": 1,
+      "id": "pbq1u0v",
+      "parent_id": "t1_pbq128x",
+      "author": "ScaryGoofy",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790234517,
+      "body": "Thank you for your resilience"
+    }
+  ]
+}

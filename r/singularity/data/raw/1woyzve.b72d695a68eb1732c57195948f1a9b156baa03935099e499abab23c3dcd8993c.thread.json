@@ -1,0 +1,153 @@
+{
+  "post_id": "1woyzve",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Jev using my computer to make a linkedin post",
+    "author": "bGivenb",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790249003,
+    "selftext": "This is Flick using my actual Chrome profile. It:  \nopens LinkedIn  \ngets to my account  \nenters a post linking its own GitHub repo  \nschedules it for 6 a.m  \nand checks that the post is in the scheduled queue. \n\nIt took \\~7 seconds in total. \n\nI’m using it with ChatGPT and Astra here, but it should work with almost any agent. The agent handles the overall task; Flick and Jev handle the computer use. The speed feels very sci-fi and it's kind of just down to how fast the orchestrating agent can give it tasks. \n\nIf you want to try it out, it’s [open source](https://github.com/bgivenb/flick-computer-use), feel free to clone it or contribute to it. ",
+    "permalink": "/r/singularity/comments/1woyzve/jev_using_my_computer_to_make_a_linkedin_post/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbqwlhb",
+      "parent_id": "t3_1woyzve",
+      "author": "block_wallet",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790249383,
+      "body": "congrats this is the first example of jev ive seen that showcases its real value, so this could play games in real time right? im guessing its either the speed of processing tokens or that the model is small enough to run locally that allows jev to do this in real time right? I know that astra can play games but its super slow as it has to do api calls so this is the bridge? full device automation is very cool"
+    },
+    {
+      "depth": 1,
+      "id": "pbqyg4q",
+      "parent_id": "t1_pbqwlhb",
+      "author": "anycept",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790250088,
+      "body": "Jev is an ML classifier and doesn't generate any tokens. It's orders of magnitude more efficient than any LLM."
+    },
+    {
+      "depth": 1,
+      "id": "pbqyrwu",
+      "parent_id": "t1_pbqwlhb",
+      "author": "Rainbows4Blood",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790250210,
+      "body": "Jev can only process text. This tool essentially operates on Browser HTML and macOS UI automation frameworks. Those are used to deconstruct websites and the system UI into text that JEV can then make decisions on. This does not solve the hard part of translating video games into structured data, which would be an additional ML bridge needed.\n\nAnd JEV is this fast even through the API. AI is dominated by processing latency, not networking latency usually. (Although, of course, eliminating networking latency makes it even faster)."
+    },
+    {
+      "depth": 2,
+      "id": "pbqzebb",
+      "parent_id": "t1_pbqyrwu",
+      "author": "block_wallet",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790250436,
+      "body": "ok i know theres some work with the super big models of just converting video data into text pixel by pixel or something and it kind of works just because of the scale of the models but probably massively inefficient and still doesnt produce amazing results. I'm going to need to learn how this structured ML is different to language models"
+    },
+    {
+      "depth": 0,
+      "id": "pbqwohl",
+      "parent_id": "t3_1woyzve",
+      "author": "Far-Resort1936",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790249416,
+      "body": "Save your time, no one wants to read linkedin \"trash\" anymore. If you don't want to spend time to write it don't even bother. No one wants to read it either "
+    },
+    {
+      "depth": 1,
+      "id": "pbqxept",
+      "parent_id": "t1_pbqwohl",
+      "author": "whoknowsknowone",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790249696,
+      "body": "News flash LinkedIn IS trash buddy "
+    },
+    {
+      "depth": 1,
+      "id": "pbqyzdg",
+      "parent_id": "t1_pbqwohl",
+      "author": "bGivenb",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790250284,
+      "body": "Yeah why do you think I automated a LinkedIn post instead of a reddit post. LinkedIn is all AI bots these days anyway "
+    },
+    {
+      "depth": 0,
+      "id": "pbqwx81",
+      "parent_id": "t3_1woyzve",
+      "author": "Putrid_Berry_5008",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790249510,
+      "body": "Think this is sped up a bit"
+    },
+    {
+      "depth": 1,
+      "id": "pbqyr9t",
+      "parent_id": "t1_pbqwx81",
+      "author": "bGivenb",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790250203,
+      "body": "It’s not, it’s actually crazy to see it work in real time, like it’s done before you even register what it’s doing "
+    }
+  ]
+}

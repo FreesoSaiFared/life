@@ -1,0 +1,69 @@
+{
+  "post_id": "1wondv0",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~11h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "New DeepThink",
+    "author": "krzonkalla",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1790210658,
+    "selftext": "Source: [https://rogueon.ai/blog/rogue-deep-think-preview/tecnica](https://rogueon.ai/blog/rogue-deep-think-preview/tecnica)",
+    "permalink": "/r/singularity/comments/1wondv0/new_deepthink/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbokmxy",
+      "parent_id": "t3_1wondv0",
+      "author": "Own_Satisfaction2736",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790212823,
+      "body": "what is deepthink? \n\n"
+    },
+    {
+      "depth": 1,
+      "id": "pbokypt",
+      "parent_id": "t1_pbokmxy",
+      "author": "krzonkalla",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790212934,
+      "body": "pretty sure it must be like Gemini's, so, it thinks more (apparently in parallel) to squeeze out more performance: [https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/)"
+    },
+    {
+      "depth": 1,
+      "id": "pboma0l",
+      "parent_id": "t1_pbokmxy",
+      "author": "CallMePyro",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790213375,
+      "body": "It's a harness that they put GLM in and got a few % better for quintuple the money "
+    }
+  ]
+}
