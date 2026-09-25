@@ -1,0 +1,97 @@
+{
+  "post_id": "1wpckgb",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~16h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AI developers need to think about war before it decides their role for them",
+    "author": "Hambr",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1790281431,
+    "selftext": "Someone can spend years developing technology to improve human life and end up facing a choice they never wanted to make: authorize its use for destruction, or refuse and be told that their refusal will leave their own country defenseless.\n\nEveryone involved in developing artificial intelligence should be considering that possibility now.\n\nThe more governments integrate AI into their military infrastructure, the more dependent they may become on the people who build and maintain it. In a world war, researchers, engineers, and company leaders could become central figures in the conflict. An update, a removed safeguard, or a newly available capability could influence operations that determine the fate of thousands of people.\n\nAt that point, the original intention to benefit humanity will not be enough to shield them from responsibility for what they help make possible.\n\nImagine receiving a government request backed by this argument: “We need this technology to stop our cities from being attacked.” Now imagine knowing that fulfilling the request will also enable attacks on cities on the other side.\n\nDefense can involve offensive action. And when a country’s survival appears to be at stake, boundaries once considered nonnegotiable can begin to shift. Each concession may seem necessary, until the people making them find themselves participating in something they would never have accepted in peacetime.\n\n**The danger is discovering too late that building powerful technology can also put its creators in a position they cannot easily escape.**\n\nThe history of the nuclear age should serve as a warning. The ability to develop a technology does not guarantee control over its future. Once it becomes part of a struggle between states, its creators’ convictions face political and military forces that may overwhelm them.\n\nAnyone who wants to avoid carrying that kind of responsibility needs to act before conflict turns their options into a choice between tragedies.\n\nIf AI is being developed to benefit humanity, preventing war should be a concrete part of that mission. That means devoting technical capabilities and influence to reducing tensions, verifying agreements, supporting communication between countries, and identifying mistakes that could trigger escalation. It also means examining which partnerships and applications are making that scenario more likely.\n\nNo company can guarantee peace. But every company can examine whether its decisions are helping preserve it or building a military dependency that will later be used to demand its participation.\n\nThere is still an enormous difference between choosing boundaries during peacetime and trying to uphold them while people are dying and a government is demanding an answer.\n\n**Anyone building technology capable of shaping a war should not wait for war to arrive before working out how to prevent it.**\n\nThe time to use that capability to push such a scenario further away is now. Later, those same people may already be playing roles they never wanted.",
+    "permalink": "/r/singularity/comments/1wpckgb/ai_developers_need_to_think_about_war_before_it/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbucsnl",
+      "parent_id": "t3_1wpckgb",
+      "author": "vibrance9460",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790282829,
+      "body": "Ooof feel like this ship sailed *years* ago"
+    },
+    {
+      "depth": 0,
+      "id": "pbuhjd5",
+      "parent_id": "t3_1wpckgb",
+      "author": "CosmicDave",
+      "author_flair_text": "▪️Singularity this year",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790284104,
+      "body": "Pray for Peace.  Code for War."
+    },
+    {
+      "depth": 0,
+      "id": "pbum25x",
+      "parent_id": "t3_1wpckgb",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790285370,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pbx2wy8",
+      "parent_id": "t3_1wpckgb",
+      "author": "sipos542",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790315651,
+      "body": "Yeah life is brutal. I realized this when the US government shut down Fable by Anthropic what seemed like out of spite because Dario was not choosing to fully cooperate with the US government. Now the US probably has full access to all their latest technology. "
+    },
+    {
+      "depth": 0,
+      "id": "pbyceqx",
+      "parent_id": "t3_1wpckgb",
+      "author": "anycept",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790336890,
+      "body": "Like Karp said \"if you don't think like us, don't come working for us\". That's the basic idea behind how things are kept under control. There's almost no one there that would even want to say \"no\"."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "post_id": "1wpjlae",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~10h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "How coding feels in 2026",
+    "author": "TenaciousWeen",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Shitposting",
+    "created_utc": 1790300195,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wpjlae/how_coding_feels_in_2026/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbvy3uq",
+      "parent_id": "t3_1wpjlae",
+      "author": "JackJeckyl",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790300410,
+      "body": "722 florp? rly? ok.. "
+    },
+    {
+      "depth": 0,
+      "id": "pbvz1fd",
+      "parent_id": "t3_1wpjlae",
+      "author": "portfoliocrow",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790300702,
+      "body": "Yes, claude speak at this point is literally unintelligible"
+    },
+    {
+      "depth": 1,
+      "id": "pby0o75",
+      "parent_id": "t1_pbvz1fd",
+      "author": "siberianmi",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790332320,
+      "body": "Opus 5.5 has done a lot to improve this."
+    },
+    {
+      "depth": 0,
+      "id": "pbw4dw1",
+      "parent_id": "t3_1wpjlae",
+      "author": "Ormusn2o",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790302410,
+      "body": "I thought it was an actual chain of thought until I saw it running rm -rf"
+    },
+    {
+      "depth": 0,
+      "id": "pbw4fus",
+      "parent_id": "t3_1wpjlae",
+      "author": "LexGlad",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790302428,
+      "body": "[TJO Syndrome](https://www.youtube.com/watch?v=aW2LvQUcwqc) but I think jargonization sounds better."
+    },
+    {
+      "depth": 0,
+      "id": "pbw4txg",
+      "parent_id": "t3_1wpjlae",
+      "author": "Recoil42",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790302554,
+      "body": "this guy has 722 mismatched flops lmao"
+    },
+    {
+      "depth": 0,
+      "id": "pbwd3at",
+      "parent_id": "t3_1wpjlae",
+      "author": "agenttc89",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790305284,
+      "body": "![gif](giphy|26FPnj46RYsIWgYLe)"
+    },
+    {
+      "depth": 0,
+      "id": "pbwhuwo",
+      "parent_id": "t3_1wpjlae",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790306948,
+      "body": "[removed]"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "post_id": "1wpe2o2",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~15h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "How did they do it?",
+    "author": "DynaBeast",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1790285038,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wpe2o2/how_did_they_do_it/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pburpcf",
+      "parent_id": "t3_1wpe2o2",
+      "author": "DelphiTsar",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790286999,
+      "body": ">and all openai could do is make their own models cheaper\n\nAstra's pretty good too though. The intelligence it gets out of tokens has real potential. I'm curious to see what the next iterations are like.\n\n-------------\n\nI think the biggest thing is Anthropic doesn't try to do other things. They have one lane and they put all their energy in it."
+    },
+    {
+      "depth": 0,
+      "id": "pbvm0dp",
+      "parent_id": "t3_1wpe2o2",
+      "author": "tcastil",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790296622,
+      "body": "The jump Anthropic saw in intelligence is actually less of a jump than OpenAi achieved in efficiency. \n\nWhile getting up to 30% better at some things, Openai managed to achieve 50% lower running cost + models that spend much less tokens per tasks than Opus, around 4 times less.\n\nSo how did they do it? \nBy focusing only in intelligence and barely anything else, while OpenAi focused on optimization and barely anything else\n\nTheir next iterations are probably going to converge somewhat"
+    },
+    {
+      "depth": 1,
+      "id": "pbw99o7",
+      "parent_id": "t1_pbvm0dp",
+      "author": "Illustrious_Job1951",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790303991,
+      "body": "They might also be subsidizing  token cost to get more market share in the short term"
+    },
+    {
+      "depth": 0,
+      "id": "pbxc21g",
+      "parent_id": "t3_1wpe2o2",
+      "author": "Specialist_Dark_3668",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790319991,
+      "body": "They literally just distill the big expensive model. Like what the fuck. AI labs have been following the \"scaling\" pathway for a long time now."
+    }
+  ]
+}

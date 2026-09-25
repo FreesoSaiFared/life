@@ -1,0 +1,55 @@
+{
+  "post_id": "1wpg6iy",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Doctors Using ChatGPT With Patient Records Face HIPAA Privacy Rules",
+    "author": "SnoozeDoggyDog",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790290420,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wpg6iy/doctors_using_chatgpt_with_patient_records_face/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbv3hae",
+      "parent_id": "t3_1wpg6iy",
+      "author": "CannyGardener",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790290646,
+      "body": "If the agent being used has a ZDR agreement in place, that makes this moot right?"
+    },
+    {
+      "depth": 0,
+      "id": "pbvfjqj",
+      "parent_id": "t3_1wpg6iy",
+      "author": "Lower-Hedgehog-9835",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790294554,
+      "body": "The use of non Phi is a bigger question mark. Especially given how our records can connect folks and assign information based on probable matches even without PHI"
+    }
+  ]
+}

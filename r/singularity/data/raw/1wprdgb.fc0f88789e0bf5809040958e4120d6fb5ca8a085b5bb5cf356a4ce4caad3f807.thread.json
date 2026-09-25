@@ -1,0 +1,55 @@
+{
+  "post_id": "1wprdgb",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Jev + Reasoning offloading/N-gram augmentation",
+    "author": "ProposalOrganic1043",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1790326970,
+    "selftext": "Everyone dismissing as Jev being just a Language augmented classifier, i feel the team is just getting started. At the moment the model is pretty good for the pricing, definitely lacks intelligence as compared to SOTA and is obviously more than a fine tuned BERT.\n\nCouldn't the model also have a sync approach to escalate a difficult questions to a stronger reasoning model. Similar to GPT-Live and Thinking Machines' interaction models, but focused on RLCD kind of decisions.\n\nOr maybe it could be augmented with an N-Gram like embeddings similar to Gemma models and Qwen3.8-Flash-Next. This could also to scale the intelligence while keeping the latency low\n\nI feel like this was a preview of what could happen when we drop the standard RLHF behaviour and there is a lot of room for innovations.",
+    "permalink": "/r/singularity/comments/1wprdgb/jev_reasoning_offloadingngram_augmentation/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pbxsoil",
+      "parent_id": "t3_1wprdgb",
+      "author": "DeGreiff",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790328528,
+      "body": "Almost nobody is dismissing Jev. It's been hugely successful and imitated."
+    },
+    {
+      "depth": 0,
+      "id": "pbxvnqd",
+      "parent_id": "t3_1wprdgb",
+      "author": "DrinkAgreeable962",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790330012,
+      "body": "Aside of some marketing critic they got I don't think anyone building anything serious dismiss Jev. There is some problem with copyrights though as it seems someone came up with this idea before them. It will be a common problem nowdays though."
+    }
+  ]
+}
