@@ -1,0 +1,111 @@
+{
+  "post_id": "1wqj7mu",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Astra leads in IKEA furniture assembly",
+    "author": "Proper_Actuary2907",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790403752,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wqj7mu/astra_leads_in_ikea_furniture_assembly/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pc4lvz4",
+      "parent_id": "t3_1wqj7mu",
+      "author": "BaconShadow",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790406705,
+      "body": "So does it means due to recent frontier spatial reasoning capabilities that uses even a normal IKEA instruction manuals designed for humans to read, then what if it even extends to AI friendly instruction manual for an AI to have a better semantic and rules like a markdown instruction (./skills.md) equivalent but for following physical real world troubleshooting to spot mistakes.\n\nIt's only just getting significantly better at this point, when we crossover this technology between not only on software which is already  heavily adopted but also for industries not into tech like construction, HVAC, woodworking, and all those areas that the recent capable model with enough spacial capability and reasoning to be useful at baseline level where it becomes industry standard.\n\nAt this point we really can't just call them an LLM next word probability prediction model at this growing rate of progress that we can't even recognize how far this technology has come since the first release of GPT in 2022. At this point I'm not even surprised when it comes to the point OpenAI and Anthropic competes on creating new multimodal capabilities for each releases.\n\n\n\n"
+    },
+    {
+      "depth": 0,
+      "id": "pc4mw05",
+      "parent_id": "t3_1wqj7mu",
+      "author": "chlebseby",
+      "author_flair_text": "ASI 2030s",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790407169,
+      "body": "https://preview.redd.it/qxzuiojeftrh1.jpeg?width=535&format=pjpg&auto=webp&s=84de577d4a9412aee9a908229ed6ea1149292a7c\n\n"
+    },
+    {
+      "depth": 1,
+      "id": "pc59dbk",
+      "parent_id": "t1_pc4mw05",
+      "author": "enilea",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790418629,
+      "body": "It was part of my AGI test and I kept saying 2030 until recently because I thought LLMs lacked proper 3D reasoning and intuition for controlling a robot in real life. But the latest developments are making me adjust to 2027 -2028, it just needs lower latency and perhaps being coupled with a system 1 model."
+    },
+    {
+      "depth": 0,
+      "id": "pc4rc80",
+      "parent_id": "t3_1wqj7mu",
+      "author": "allesfliesst",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790409377,
+      "body": "I was here before Opus 5.5 saturates the benchmark 🫠"
+    },
+    {
+      "depth": 0,
+      "id": "pc50axf",
+      "parent_id": "t3_1wqj7mu",
+      "author": "Fair_Horror",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790414026,
+      "body": "Able to assemble IKEA furniture = super intelligence. "
+    },
+    {
+      "depth": 0,
+      "id": "pc54zbm",
+      "parent_id": "t3_1wqj7mu",
+      "author": "Eyelbee",
+      "author_flair_text": "▪️We have AGI it's just blind",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790416449,
+      "body": "Opus 5.5 wasn't tested"
+    }
+  ]
+}

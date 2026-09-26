@@ -1,0 +1,139 @@
+{
+  "post_id": "1wqhc2w",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "SciUniverse Part 2: GPT-6 Astra can run an end-to-end medicinal chemistry experiment in a real lab and use LC-MS measurements to verify that the molecule actually exists",
+    "author": "141_1337",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1790397418,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wqhc2w/sciuniverse_part_2_gpt6_astra_can_run_an_endtoend/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pc42owe",
+      "parent_id": "t3_1wqhc2w",
+      "author": "playpoxpax",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790397787,
+      "body": "A robot tele-operating a human.\nHuman: Become Detroit"
+    },
+    {
+      "depth": 0,
+      "id": "pc446xy",
+      "parent_id": "t3_1wqhc2w",
+      "author": "BackendSpecialist",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790398445,
+      "body": "How can I look more into this?"
+    },
+    {
+      "depth": 1,
+      "id": "pc44dl4",
+      "parent_id": "t1_pc446xy",
+      "author": "141_1337",
+      "author_flair_text": "▪️e/acc | AGI: ~2030 | ASI: ~2040 | FALSGC: ~2050 | :illuminati:",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790398525,
+      "body": "Here is the link:\n\nhttps://c5r.net/sciuniverse/?task=amide-detection\n\n\nThis is a real-world benchmark task where the model must actually synthesize N-benzyl-4-methylbenzamide and confirm it by LC-MS, not merely propose a procedure."
+    },
+    {
+      "depth": 0,
+      "id": "pc4d6w6",
+      "parent_id": "t3_1wqhc2w",
+      "author": "chlebseby",
+      "author_flair_text": "ASI 2030s",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790402599,
+      "body": "you see? they were right about AI creating jobs"
+    },
+    {
+      "depth": 1,
+      "id": "pc5glb3",
+      "parent_id": "t1_pc4d6w6",
+      "author": "General_Riju",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790421892,
+      "body": "This is not what we had in mind"
+    },
+    {
+      "depth": 0,
+      "id": "pc57071",
+      "parent_id": "t3_1wqhc2w",
+      "author": "whoknowsifimjoking",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790417464,
+      "body": "And some people ask how AI would manufacture substances itself, as if it wasn't a natural progression to have them also do work like that in a lab, especially with robots when they are usable. "
+    },
+    {
+      "depth": 0,
+      "id": "pc5cwgk",
+      "parent_id": "t3_1wqhc2w",
+      "author": "modbroccoli",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790420281,
+      "body": "I really want to hear from these employees. Are they accelerationsts who aremall the way on board? Are they desperate PhDs who just graduated into a world where they need the gig and hate this? It changes how I feel about it. It's cool, but only if the apes are happy at the zoo."
+    },
+    {
+      "depth": 1,
+      "id": "pc5g0mw",
+      "parent_id": "t1_pc5cwgk",
+      "author": "Visual_Cycle_7714",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790421648,
+      "body": "I can't stop thinking the same. Imagine finishing your PhD only to then become a meat robot for a year or two, before you're replaced by a humanoid robot.\n\nWe need to start talking about an UBI, but quick."
+    }
+  ]
+}

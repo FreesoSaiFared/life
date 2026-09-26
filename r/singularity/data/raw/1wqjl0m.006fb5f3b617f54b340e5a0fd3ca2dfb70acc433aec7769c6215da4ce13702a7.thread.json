@@ -1,0 +1,26 @@
+{
+  "post_id": "1wqjl0m",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "DOE releases national quantum computing roadmap following field-wide effort led by SCAC subcommittee",
+    "author": "donutloop",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Compute",
+    "created_utc": 1790405078,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wqjl0m/doe_releases_national_quantum_computing_roadmap/"
+  },
+  "comments": []
+}

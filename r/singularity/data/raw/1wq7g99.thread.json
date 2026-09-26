@@ -1,0 +1,97 @@
+{
+  "post_id": "1wq7g99",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~15h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Built this explorable interactive ASCII universe in scale with AI",
+    "author": "callme_e",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Fiction & Creative Work",
+    "created_utc": 1790369191,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wq7g99/built_this_explorable_interactive_ascii_universe/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pc2chhy",
+      "parent_id": "t3_1wq7g99",
+      "author": "IronDrop",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790376023,
+      "body": "Whether you did this with GPT or Opus or whatever, it's awesome !  \nI've played a bit with it and navigated to a lot of different objects, really cool !"
+    },
+    {
+      "depth": 1,
+      "id": "pc2ybys",
+      "parent_id": "t1_pc2chhy",
+      "author": "matsu-morak",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790382812,
+      "body": "It seems Claude only by his repo, probably opus 5.5\n\nAnd only using JavaScript. Fk"
+    },
+    {
+      "depth": 0,
+      "id": "pc39ggi",
+      "parent_id": "t3_1wq7g99",
+      "author": "Spunge14",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790386531,
+      "body": "Beautiful.\n\nFor some reason I can't I explain I wish this had a live chat."
+    },
+    {
+      "depth": 0,
+      "id": "pc3eeou",
+      "parent_id": "t3_1wq7g99",
+      "author": "OriginalScrubLord",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790388308,
+      "body": "This is crazy. what models did you use to build this?"
+    },
+    {
+      "depth": 0,
+      "id": "pc58k6a",
+      "parent_id": "t3_1wq7g99",
+      "author": "DynamicProxy",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790418229,
+      "body": "I click on a lot of these, and I’m usually unimpressed. But this is fucking impressive! \n\nWould love to hear about your process."
+    }
+  ]
+}
