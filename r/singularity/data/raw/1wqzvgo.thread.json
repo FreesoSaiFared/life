@@ -1,0 +1,125 @@
+{
+  "post_id": "1wqzvgo",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~16h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "I ran GPT-6 Luna Max on MathArena's harness",
+    "author": "Bellyfeel26",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790452359,
+    "selftext": "I still find GPT-6 Luna Max to be one of the more underrated models. It also did quite well on Riemann Bench. I was originally testing xhigh, but as soon as it got two more wrong than Max, I decided to abandon it. \n\nI forgot that MathArena does theirs on batch, so you would probably see roughly 40-50% decrease in cost per problem. \n\nIf anyone is interested in seeing the results, I can put it in a repo. Otherwise, it matched 16/19 finite or discrete answers, 14/20 analysis and probability answers, and 9/18 geometry, algebra, and topology answers. ",
+    "permalink": "/r/singularity/comments/1wqzvgo/i_ran_gpt6_luna_max_on_matharenas_harness/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pc8edpf",
+      "parent_id": "t3_1wqzvgo",
+      "author": "IceThese6264",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790452539,
+      "body": "Why no Claude max? "
+    },
+    {
+      "depth": 1,
+      "id": "pc8f99m",
+      "parent_id": "t1_pc8edpf",
+      "author": "Bellyfeel26",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790452783,
+      "body": "Looks like MathArena chose not to run Max or xhigh. If they don't end up releasing it any time soon, maybe I'll run it, but the cost scares me across 57 problems. "
+    },
+    {
+      "depth": 0,
+      "id": "pc8hd50",
+      "parent_id": "t3_1wqzvgo",
+      "author": "Radiant-Mountain-257",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790453361,
+      "body": "Thanks, GPT 6 Luna is indeed really good for the price"
+    },
+    {
+      "depth": 0,
+      "id": "pc8olxm",
+      "parent_id": "t3_1wqzvgo",
+      "author": "AsianPotatos",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790455356,
+      "body": "Astra output token count is beautiful. It's interesting that sol isn't anywhere as efficient.\n\nAstra and Opus 5.5 seem like a different class of models."
+    },
+    {
+      "depth": 0,
+      "id": "pc8qwtr",
+      "parent_id": "t3_1wqzvgo",
+      "author": "lquinta",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790455981,
+      "body": "Astra low is the standout"
+    },
+    {
+      "depth": 0,
+      "id": "pc8yts5",
+      "parent_id": "t3_1wqzvgo",
+      "author": "Asteroid_picks_you",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790458172,
+      "body": "It's kind of crazy that the cheap \"frontier\" models like qwen and grok actually cost so much compared to their accuracy"
+    },
+    {
+      "depth": 0,
+      "id": "pc9dsze",
+      "parent_id": "t3_1wqzvgo",
+      "author": "Aldarund",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790462658,
+      "body": "Now do same with 5.6 Luna "
+    }
+  ]
+}
