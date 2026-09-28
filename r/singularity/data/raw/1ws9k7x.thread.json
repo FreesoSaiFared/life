@@ -1,0 +1,153 @@
+{
+  "post_id": "1ws9k7x",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "We are not living the AI to AI workplace 🤣",
+    "author": "Hasinpearl",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790586237,
+    "selftext": "Here is the funny story in short: I saw 3 emails. 1 is a colleague sharing an AI generated report with clearly no human revision whatsoever. Email 2 is the manager replying back with an AI-generated document containing the notes, all of which are AI feedback (obvious with that pristine and must find errors bs), email 3 is from the colleague with an AI generated email response defending his work (which isn't his to begin with) ☠️\n\nWtf are we doing guys? 🤣🤣🤣",
+    "permalink": "/r/singularity/comments/1ws9k7x/we_are_not_living_the_ai_to_ai_workplace/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pcji9r1",
+      "parent_id": "t3_1ws9k7x",
+      "author": "ryan14mt",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790587185,
+      "body": "Meat proxies"
+    },
+    {
+      "depth": 0,
+      "id": "pcjiub7",
+      "parent_id": "t3_1ws9k7x",
+      "author": "Both-Move-8418",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790587471,
+      "body": "I'd be interested to know though if between the AI's, did things conclude at a useful consensus or just mushy noise?"
+    },
+    {
+      "depth": 1,
+      "id": "pcjpx8s",
+      "parent_id": "t1_pcjiub7",
+      "author": "Aldarund",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790590861,
+      "body": "Depends on prompt. If user prompt them to be objective and verify feedback they will"
+    },
+    {
+      "depth": 0,
+      "id": "pcjp70j",
+      "parent_id": "t3_1ws9k7x",
+      "author": "CommandObjective",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790590529,
+      "body": "Dead workplace theory."
+    },
+    {
+      "depth": 1,
+      "id": "pcjzb02",
+      "parent_id": "t1_pcjp70j",
+      "author": "03263",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790594742,
+      "body": "Where's the substack essay on this"
+    },
+    {
+      "depth": 0,
+      "id": "pcjt0q0",
+      "parent_id": "t3_1ws9k7x",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790592220,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pck0106",
+      "parent_id": "t3_1ws9k7x",
+      "author": "Railander",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790595017,
+      "body": "the most annoying part of dealing with AI e-mail is how verbose it is.\n\nhumans naturally develop a way to write short messages that save them time, and therefore also saves the reader's time."
+    },
+    {
+      "depth": 1,
+      "id": "pck7um7",
+      "parent_id": "t1_pck0106",
+      "author": "Honest_Bee_9549",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790597782,
+      "body": "It's because people are bad at prompting"
+    },
+    {
+      "depth": 0,
+      "id": "pcke6o5",
+      "parent_id": "t3_1ws9k7x",
+      "author": "Every-Prize4720",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790599756,
+      "body": "hell yeah!"
+    }
+  ]
+}

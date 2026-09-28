@@ -1,0 +1,111 @@
+{
+  "post_id": "1ws97pn",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "GPT-6 Astra can now turn a video of a real room into an interactive 3D world that robots can train in and AI video models can render from new viewpoints",
+    "author": "141_1337",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1790584950,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1ws97pn/gpt6_astra_can_now_turn_a_video_of_a_real_room/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pcjdwtr",
+      "parent_id": "t3_1ws97pn",
+      "author": "141_1337",
+      "author_flair_text": "▪️e/acc | AGI: ~2030 | ASI: ~2040 | FALSGC: ~2050 | :illuminati:",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790584990,
+      "body": "Source:\n\nhttps://x.com/siyuan_bian/status/2104359501394485262\n\n"
+    },
+    {
+      "depth": 0,
+      "id": "pcjeuqu",
+      "parent_id": "t3_1ws97pn",
+      "author": "kamize",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790585469,
+      "body": "Digital twin "
+    },
+    {
+      "depth": 0,
+      "id": "pcjgtat",
+      "parent_id": "t3_1ws97pn",
+      "author": "Mundane_Scientist_88",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790586456,
+      "body": "Don't you think this totally replaces actors."
+    },
+    {
+      "depth": 0,
+      "id": "pcjivfz",
+      "parent_id": "t3_1ws97pn",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790587486,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pcjivz7",
+      "parent_id": "t3_1ws97pn",
+      "author": "samurottt",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790587494,
+      "body": "i always wanted to knock over digital cups in my own simulated room"
+    },
+    {
+      "depth": 1,
+      "id": "pck0azp",
+      "parent_id": "t1_pcjivz7",
+      "author": "03263",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790595122,
+      "body": "I'm holding out for simulated baths"
+    }
+  ]
+}

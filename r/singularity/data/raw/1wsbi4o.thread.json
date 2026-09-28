@@ -1,0 +1,83 @@
+{
+  "post_id": "1wsbi4o",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "FT: Corporate America rejects overpriced frontier, embraces open models",
+    "author": "chocolateUI",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1790593173,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wsbi4o/ft_corporate_america_rejects_overpriced_frontier/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pcjy6v8",
+      "parent_id": "t3_1wsbi4o",
+      "author": "Separate_Lock_9005",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790594312,
+      "body": "openai and anthropic revenue says otherwise\n\nopen source is booming sure, but so is the closed frontier"
+    },
+    {
+      "depth": 1,
+      "id": "pck3fl0",
+      "parent_id": "t1_pcjy6v8",
+      "author": "superlip2003",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790596266,
+      "body": "Revenue is looking backward, the forecast is bad because in the last month or two, Chinese models really shined. My team, and Even for my personal usage I switched over to much cheaper Chinese models lately and really liking what we see"
+    },
+    {
+      "depth": 1,
+      "id": "pckbaq1",
+      "parent_id": "t1_pcjy6v8",
+      "author": "ZhugeLiangPL",
+      "author_flair_text": "▪️AGI 2027-30",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790598877,
+      "body": "Why is that company named \"OpenAI\" if its models aren't open? \n\nIt should be called ClosedAI or AltmanAI."
+    },
+    {
+      "depth": 0,
+      "id": "pckkv13",
+      "parent_id": "t3_1wsbi4o",
+      "author": "waggawag",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790601636,
+      "body": "frontier models are far better at a lot of stuff than the cheaper ones. that might not be true for writing your emails or doing basic things, but anything where precision and correctness are really important anything behind a really well setup opus 4.8 has been bad, and none of the open weight models are as good as 4.8 was. \n\nfable, opus 5.5, astra all just crush the rest of the competition in pretty much everything that isn't price. glm 5.3 or luna for anything else imo, "
+    }
+  ]
+}

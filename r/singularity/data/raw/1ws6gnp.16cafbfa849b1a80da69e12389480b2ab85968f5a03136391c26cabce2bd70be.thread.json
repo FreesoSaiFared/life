@@ -1,0 +1,69 @@
+{
+  "post_id": "1ws6gnp",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "IonQ Superion 256 to Power NVIDIA Quantum Research Center",
+    "author": "donutloop",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Compute",
+    "created_utc": 1790574810,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1ws6gnp/ionq_superion_256_to_power_nvidia_quantum/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pcitl0t",
+      "parent_id": "t3_1ws6gnp",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790574952,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pciwr5o",
+      "parent_id": "t3_1ws6gnp",
+      "author": "fireboy266",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790576454,
+      "body": "Good to see I guess, but a lot of quantum is still vaporware, especially this QML shit. "
+    },
+    {
+      "depth": 0,
+      "id": "pcj7mhp",
+      "parent_id": "t3_1ws6gnp",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790581788,
+      "body": "[removed]"
+    }
+  ]
+}

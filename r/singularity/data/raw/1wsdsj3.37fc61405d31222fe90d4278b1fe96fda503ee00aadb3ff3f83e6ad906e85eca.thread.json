@@ -1,0 +1,55 @@
+{
+  "post_id": "1wsdsj3",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "The world's largest humanoid robot livestream performance before an audience of more than 10,000 people.",
+    "author": "kernelangus420",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1790599980,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wsdsj3/the_worlds_largest_humanoid_robot_livestream/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pcki92m",
+      "parent_id": "t3_1wsdsj3",
+      "author": "Jargonicles",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790600912,
+      "body": "Yep, definitely not happy with the direction of civilization. "
+    },
+    {
+      "depth": 0,
+      "id": "pcks05o",
+      "parent_id": "t3_1wsdsj3",
+      "author": "Random_182f2565",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790603573,
+      "body": "Cool "
+    }
+  ]
+}
