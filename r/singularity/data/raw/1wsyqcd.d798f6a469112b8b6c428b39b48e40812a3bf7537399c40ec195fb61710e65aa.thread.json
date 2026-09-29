@@ -1,0 +1,97 @@
+{
+  "post_id": "1wsyqcd",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~10h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Pushing models to their limits: The \"Bad Apple\" benchmark",
+    "author": "Acclynn",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Shitposting",
+    "created_utc": 1790650404,
+    "selftext": "I first wanted to do something with GPT-6 Astra, but every time it completely missed what I wanted and constantly tried to cheat, it just couldn't get it right.\n\nSo, I started from scratch with Opus 5.5, it succeeded surprisingly well, it immediately got what I was looking for, however I had to give few feedbacks because it often misinterpreted what the characters were doing. I didn't corrected every detail, but more the striking things only. So, you might say the experiment could be biased with human intervention instead of one-shotting it, but really, I didn't have to do that much.\n\nIt built very good methodology and tooling, it defined its scoring and measurement/comparison systems unprompted, however what it lacked really was vision, and that showed more and more around Remilia, it was hallucinated stuff.\n\nThat's when I brought GPT-6 Astra, something surprising is that it immediately one-shotted good portions with zero need for feedback (most striking example is 00:41-00:55), despite that it couldn't do something proper when starting from zero, but continuing on the existing work by Opus 5.5 turned it into a beast and it was also very good at figuring out transition, I'm impressed how well the Flandre-Youmu transition is done.\n\nI tried again GPT-6 Astra alone and it still did terrible a job, so, this could only be achieved by both models working together...\n\nMaybe one day we'll see 0.999 accuracy ?",
+    "permalink": "/r/singularity/comments/1wsyqcd/pushing_models_to_their_limits_the_bad_apple/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pcpypj9",
+      "parent_id": "t3_1wsyqcd",
+      "author": "meenie",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790653737,
+      "body": "Great experiment and great insight! I've noticed that GPT-6 Astra's code is extremely terse and hard to follow. I used Opus 5.5 to go through a personal project I built out fully with Astra. Opus 5.5 immediately understood the project, fixed a bunch of issues, and had very thoughtful ideas on how to take it further. I've been using Codex since the desktop app came out and hadn't opened up Claude Code once, until the Opus 5.5 release. The Claude desktop app has gotten really good! Setting up a remote ssh connection to my devbox, that didn't have claude installed on it, was super easy! It installed the remote client automatically and it just started working away. Super impressed with Sonnet 5.5 as well! Working directly with Opus 5.5 and having it delegate work to Sonnet 5.5 has worked super well! I'm very impressed with Anthropic!"
+    },
+    {
+      "depth": 0,
+      "id": "pcqcci2",
+      "parent_id": "t3_1wsyqcd",
+      "author": "A_Seiv_For_Kale",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790659258,
+      "body": "Honestly seems like a good benchmark. Building an accurate 3D space with complex movement based on a literal 1bit video requires a level of spacial understanding that would be difficult even for humans."
+    },
+    {
+      "depth": 0,
+      "id": "pcr17j8",
+      "parent_id": "t3_1wsyqcd",
+      "author": "Ill_Philosopher_7030",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790671205,
+      "body": "https://i.imgur.com/3U9ShTp.png \n\nreimu gotta mew she's looking like that bad drawing of sasuke"
+    },
+    {
+      "depth": 0,
+      "id": "pcrkiu9",
+      "parent_id": "t3_1wsyqcd",
+      "author": "suamai",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790680125,
+      "body": "I like the idea! Would love to see how other models compare on this. \n\nOn another note, this is the best argument for the \"AI is soulless\" crowd I've seen in a while, it may get close to the content but has none of the vibe. Curious if some model can close this gap soon. "
+    },
+    {
+      "depth": 0,
+      "id": "pcs3and",
+      "parent_id": "t3_1wsyqcd",
+      "author": "sebzim4500",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790686459,
+      "body": "One problem with the benchmark as presented is that it would be very easy to game. E.g. completely ignore the 3d nature of the scene and create 'pixels' in front of the camera in exactly the places every frame. Maybe if we had some 'budget' of object/motion complexity?"
+    }
+  ]
+}

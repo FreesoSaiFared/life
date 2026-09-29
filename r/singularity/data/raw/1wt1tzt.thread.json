@@ -1,0 +1,69 @@
+{
+  "post_id": "1wt1tzt",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Sonnet 5.5, 410M Output tokens from Intelligence Index making it the most verbose model. still worth it?",
+    "author": "Roflxd88",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790660326,
+    "selftext": "anyone tried it already? hows it feel compared to LunaMax?\n\nhttps://preview.redd.it/rpyuruo2cesh1.png?width=1377&format=png&auto=webp&s=36ac775bc864d6da5630af2f4727dc5407f306d1\n\n",
+    "permalink": "/r/singularity/comments/1wt1tzt/sonnet_55_410m_output_tokens_from_intelligence/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pcqlrcp",
+      "parent_id": "t3_1wt1tzt",
+      "author": "Alpacabro21",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790663557,
+      "body": "Nope. \n\nBut i guess its useful for free users. "
+    },
+    {
+      "depth": 0,
+      "id": "pcqpk19",
+      "parent_id": "t3_1wt1tzt",
+      "author": "LoKSET",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790665351,
+      "body": "Max is never worth it. High is 34k."
+    },
+    {
+      "depth": 0,
+      "id": "pcrwxat",
+      "parent_id": "t3_1wt1tzt",
+      "author": "Machineworks24",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790684498,
+      "body": "From what I've seen of Sonnet 5.5, the verbosity actually works in its favor for agentic coding and multi-step tasks — it tends to reason through edge cases out loud, which gives better first-pass results but burns tokens fast. If LunaMax feels snappier and cheaper for your everyday stuff, I'd make it the daily driver and reserve Sonnet 5.5 for the hard problems. Honestly worth running both through the same tricky task for a few days and seeing which one you actually reach for."
+    }
+  ]
+}

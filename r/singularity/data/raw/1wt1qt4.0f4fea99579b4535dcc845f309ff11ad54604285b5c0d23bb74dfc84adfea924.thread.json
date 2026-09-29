@@ -1,0 +1,97 @@
+{
+  "post_id": "1wt1qt4",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Infleqtion Achieves 30 Entangled Logical Qubits on Its Sqale Quantum Computer",
+    "author": "donutloop",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Compute",
+    "created_utc": 1790660003,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wt1qt4/infleqtion_achieves_30_entangled_logical_qubits/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pcqeghu",
+      "parent_id": "t3_1wt1qt4",
+      "author": "Recoil42",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790660203,
+      "body": "Yo mama so big she achieves 31 Entangled Logical Qubits on an Infleqtion Sqale."
+    },
+    {
+      "depth": 1,
+      "id": "pcqibdh",
+      "parent_id": "t1_pcqeghu",
+      "author": "dipdotdash",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790661963,
+      "body": "Every kind of fat at the same time"
+    },
+    {
+      "depth": 0,
+      "id": "pcqmq02",
+      "parent_id": "t3_1wt1qt4",
+      "author": "chlebseby",
+      "author_flair_text": "ASI 2030s",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790664012,
+      "body": "what does it even mean to have 30 entangled qubits, what you can do with it"
+    },
+    {
+      "depth": 1,
+      "id": "pcqpi1s",
+      "parent_id": "t1_pcqmq02",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790665325,
+      "body": "[removed]"
+    },
+    {
+      "depth": 1,
+      "id": "pcs1vnv",
+      "parent_id": "t1_pcqmq02",
+      "author": "HamiltonianCyclist",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790686034,
+      "body": "you can maybe factor something like 1236 into prime factors. Well, 936 for sure."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "post_id": "1wsq5p4",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~16h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Use Sonnet 5.5 on xhigh not max effort",
+    "author": "theimposingshadow",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790627850,
+    "selftext": "I was just commenting on a post about how expensive Sonnet 5.5 Max is per task, and I noticed something that seemed worth pointing out.\n\nAccording to Artificial Analysis:\n\n\n\nSonnet 5.5 xhigh: 52 Intelligence Index, $2.74/task\n\n\n\nFable 5.1 Max: 53 Intelligence Index, $7.63/task\n\n\n\nSo Sonnet 5.5 xhigh gets you basically Fable 5.1-level performance for about a third of the cost. That seems like a pretty insane price/performance sweet spot.\n\n[Artificial Analysis](https://artificialanalysis.ai/?models=gemini-3-5-flash-lite%2Cstep-5%2Cinkling%2Cglm-5-3-flash%2Cmimo-v2-6-pro%2Cminimax-m3%2Cgpt-6-astra%2Cclaude-opus-5-5%2Cclaude-fable-5-1%2Cgpt-5-6-luna%2Cmuse-glimmer%2Cgrok-4-7%2Cnvidia-nemotron-3-ultra-550b-a55b%2Cgpt-6-luna%2Cgemini-3-8-flash%2Cmuse-spark-1-3%2Cqwen3-8-27b%2Cqwen3-8-max%2Cclaude-sonnet-5-5%2Cclaude-opus-5%2Ck2-horizon-375b-a23b%2Cgpt-6-sol%2Cglm-5-3%2Cgpt-5-6-sol%2Cdeepseek-v4-1-flash%2Cmistral-medium-3-5%2Cgpt-5-5-pro%2Ckimi-k3%2Cclaude-sonnet-5-5-xhigh%2Cclaude-opus-5-5-xhigh)",
+    "permalink": "/r/singularity/comments/1wsq5p4/use_sonnet_55_on_xhigh_not_max_effort/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pcnmcof",
+      "parent_id": "t3_1wsq5p4",
+      "author": "KalElReturns89",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790628262,
+      "body": "Max really lives up to its name in this case. "
+    },
+    {
+      "depth": 1,
+      "id": "pcnmpyf",
+      "parent_id": "t1_pcnmcof",
+      "author": "theimposingshadow",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790628352,
+      "body": "hahaha, MAXing out the credit card "
+    },
+    {
+      "depth": 0,
+      "id": "pcnrhb4",
+      "parent_id": "t3_1wsq5p4",
+      "author": "Pronoia2-4601",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790629544,
+      "body": "Sonnet 5.5 xhigh is a total waste when you could have Opus 5.5 medium for cheaper. Sonnet 5.5 high is the only effort level worth using, and then only for its speed."
+    },
+    {
+      "depth": 1,
+      "id": "pcp4na8",
+      "parent_id": "t1_pcnrhb4",
+      "author": "yalag",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790643989,
+      "body": "do you use claude code? I just switched from codex whats a good model/level to use for code?"
+    },
+    {
+      "depth": 2,
+      "id": "pcpespn",
+      "parent_id": "t1_pcp4na8",
+      "author": "Pronoia2-4601",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790647109,
+      "body": "Opus 5.5 medium for most people, go to high if you have tough problems. Anything higher is overkill, and often counterproductive."
+    },
+    {
+      "depth": 0,
+      "id": "pcnu4ls",
+      "parent_id": "t3_1wsq5p4",
+      "author": "whyisitsooohard",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790630220,
+      "body": "If you enable other opus 5.5 levels they are cheaper and better than sonnet"
+    },
+    {
+      "depth": 0,
+      "id": "pcp3n9w",
+      "parent_id": "t3_1wsq5p4",
+      "author": "yalag",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790643681,
+      "body": "does anyone here uses claude code? I just switched from codex whats a good model/level to use for code?"
+    },
+    {
+      "depth": 1,
+      "id": "pcp42o9",
+      "parent_id": "t1_pcp3n9w",
+      "author": "theimposingshadow",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790643809,
+      "body": "Opus 5.5 high/xhigh is outputting the nest stuff at a decent price right now"
+    }
+  ]
+}

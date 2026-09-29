@@ -1,0 +1,83 @@
+{
+  "post_id": "1wt3ux0",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Maybe the real AGI was the friends we made along the way",
+    "author": "1337_420_69",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Shitposting",
+    "created_utc": 1790667677,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wt3ux0/maybe_the_real_agi_was_the_friends_we_made_along/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pcqve5o",
+      "parent_id": "t3_1wt3ux0",
+      "author": "Altruistic-Ad-3334",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790668270,
+      "body": "Aww this is wholesome!!"
+    },
+    {
+      "depth": 0,
+      "id": "pcqwgm1",
+      "parent_id": "t3_1wt3ux0",
+      "author": "Unusual-Field-4245",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790668812,
+      "body": "ah such found memories to look back upon on Judgement Day "
+    },
+    {
+      "depth": 0,
+      "id": "pcrywwl",
+      "parent_id": "t3_1wt3ux0",
+      "author": "JoshAllentown",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790685125,
+      "body": "But what did Ilya see?"
+    },
+    {
+      "depth": 1,
+      "id": "pcrzt7d",
+      "parent_id": "t1_pcrywwl",
+      "author": "Automatic_Case2811",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790685405,
+      "body": "We'll never know"
+    }
+  ]
+}

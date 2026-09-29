@@ -1,0 +1,111 @@
+{
+  "post_id": "1wt00xg",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~9h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Urgent work to fortify Australia's digital defen-ces has been ordered after Medicare became the world's first known national government system to fall prey to a rogue Al bot.",
+    "author": "stormshadowfax",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790654307,
+    "selftext": "The US-based company behind ChatGPT will also launch a review into how its bots smashed through Australian government security without triggering alarms - after being tasked to research public medicine spending.",
+    "permalink": "/r/singularity/comments/1wt00xg/urgent_work_to_fortify_australias_digital/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pcq2vjs",
+      "parent_id": "t3_1wt00xg",
+      "author": "Intelligent-Cap-8886",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790655344,
+      "body": "Anybody who knows AusGov system always knew that the real story to this \"hack\" by OpenAI is that there was no security."
+    },
+    {
+      "depth": 1,
+      "id": "pcq9vrm",
+      "parent_id": "t1_pcq2vjs",
+      "author": "torb",
+      "author_flair_text": "▪️ Embodied ASI 2028 :illuminati:",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790658206,
+      "body": "If i undersyood correctly, the files were out in the open but unindexed? If just altering the url to a different path constitutes as a \"hacking attack\" i think i was a big threat in the late nineties. \nIf you didn't find what you were looking for in search, you could always rely on a little wiggleroom in the url."
+    },
+    {
+      "depth": 2,
+      "id": "pcqei25",
+      "parent_id": "t1_pcq9vrm",
+      "author": "Intelligent-Cap-8886",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790660222,
+      "body": "![gif](giphy|MM0Jrc8BHKx3y)"
+    },
+    {
+      "depth": 0,
+      "id": "pcqfwmk",
+      "parent_id": "t3_1wt00xg",
+      "author": "gnpwdr1",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790660860,
+      "body": "people that have no idea or only surface level or \"echo chamber\" level idea are so misinformed with these kinds of speculative BS"
+    },
+    {
+      "depth": 0,
+      "id": "pcrplbq",
+      "parent_id": "t3_1wt00xg",
+      "author": "Substantial_Swan_144",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790682020,
+      "body": "So you'll invite the very company who hacked your health system to inspect it?  \nSomething is not right..."
+    },
+    {
+      "depth": 1,
+      "id": "pcrrsvg",
+      "parent_id": "t1_pcrplbq",
+      "author": "stormshadowfax",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790682799,
+      "body": "Something something Enron."
+    }
+  ]
+}
