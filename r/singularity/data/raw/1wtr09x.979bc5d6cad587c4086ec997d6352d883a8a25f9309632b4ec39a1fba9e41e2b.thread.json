@@ -1,0 +1,153 @@
+{
+  "post_id": "1wtr09x",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~12h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "The premium experience",
+    "author": "albanianspy",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Meme",
+    "created_utc": 1790728619,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wtr09x/the_premium_experience/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pcwofrm",
+      "parent_id": "t3_1wtr09x",
+      "author": "liebebio",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790729407,
+      "body": "Who actually pays $100 or $200 a month for this. seriously. it has to be for work and it needs to pay off, right? I would really like to know if the users can get their value back in earnings"
+    },
+    {
+      "depth": 1,
+      "id": "pcwpsqd",
+      "parent_id": "t1_pcwofrm",
+      "author": "Hot-Percentage-2240",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790729814,
+      "body": "Yeah lol. Even with my Plus plan on weeks where I have 3-4 hours a day of usage running constantly 1-2 working sessions during that time, I never run out.  \n  \nPeople waste so much money cus they don't know how to prompt and they don't know how to be efficient. As well as waste money on things that go nowhere and use models way too powerful for the task."
+    },
+    {
+      "depth": 2,
+      "id": "pcwudht",
+      "parent_id": "t1_pcwpsqd",
+      "author": "NoFaithlessness951",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790731203,
+      "body": "Sure buddy..."
+    },
+    {
+      "depth": 1,
+      "id": "pcwunkt",
+      "parent_id": "t1_pcwofrm",
+      "author": "NoFaithlessness951",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790731286,
+      "body": "Yes most people on 100-200$ plans are using it for work. What's your point?"
+    },
+    {
+      "depth": 1,
+      "id": "pcxgo34",
+      "parent_id": "t1_pcwofrm",
+      "author": "Elegant_Tech",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790738218,
+      "body": "Didn't you see the video? I'm an addict. Don't judge me it's a disease!"
+    },
+    {
+      "depth": 1,
+      "id": "pcxyl6e",
+      "parent_id": "t1_pcwofrm",
+      "author": "jazir55",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790745012,
+      "body": "Antigravity is literally unusable because Gemini/Claude use up all the free tokens just *reading the files* and never actually take any actions. Literally worthless. Having Astra at the outset read the files is the same thing, just burns usage for nothing, using Luna to read the files and get everything in context before I even bother switching to Astra. Canceling the plus plan and subbing to something else, the price for what you get is absurd. I get like 20-30x the usage with OpenCode Go."
+    },
+    {
+      "depth": 0,
+      "id": "pcwtlwj",
+      "parent_id": "t3_1wtr09x",
+      "author": "Odd-Recording-6299",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790730970,
+      "body": "First time I've seen this meme format in like 10 years lol"
+    },
+    {
+      "depth": 1,
+      "id": "pcxzxhq",
+      "parent_id": "t1_pcwtlwj",
+      "author": "jazir55",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790745579,
+      "body": "I've seen it plenty of times over the last few years, always hilarious."
+    },
+    {
+      "depth": 0,
+      "id": "pczefs0",
+      "parent_id": "t3_1wtr09x",
+      "author": "XxDarkSasuke69xX",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790768315,
+      "body": "Lol this is hilarious. \"They ask Codex what to ask codex\" 😭"
+    }
+  ]
+}

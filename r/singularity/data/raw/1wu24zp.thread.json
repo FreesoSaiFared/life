@@ -1,0 +1,125 @@
+{
+  "post_id": "1wu24zp",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Ted Cruz just blocked mandatory AI safety rules in the Senate, for now",
+    "author": "ross2000",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790766742,
+    "selftext": "Interested to hear what you guys think of him doing this. ",
+    "permalink": "/r/singularity/comments/1wu24zp/ted_cruz_just_blocked_mandatory_ai_safety_rules/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pczaz31",
+      "parent_id": "t3_1wu24zp",
+      "author": "Hearing_Loss",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790767070,
+      "body": "We need grok to win us the midterms and lock in Vance or trump for 28"
+    },
+    {
+      "depth": 1,
+      "id": "pcze3wn",
+      "parent_id": "t1_pczaz31",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790768200,
+      "body": "[removed]"
+    },
+    {
+      "depth": 1,
+      "id": "pczf1v6",
+      "parent_id": "t1_pczaz31",
+      "author": "FomalhautCalliclea",
+      "author_flair_text": "▪️Euphemistically less Agnostic",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790768528,
+      "body": "Ironic that Grok's owner has been using it for the exact opposite."
+    },
+    {
+      "depth": 2,
+      "id": "pczfnj6",
+      "parent_id": "t1_pczf1v6",
+      "author": "Hearing_Loss",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790768733,
+      "body": "Not intentionally lmao. How does guy work against them other than just sucking "
+    },
+    {
+      "depth": 1,
+      "id": "pczgq8q",
+      "parent_id": "t1_pczaz31",
+      "author": "evil_illustrator2",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790769094,
+      "body": "So you're advocating for an ai to steal the elections?"
+    },
+    {
+      "depth": 0,
+      "id": "pczb4l1",
+      "parent_id": "t3_1wu24zp",
+      "author": "10b0t0mized",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790767126,
+      "body": "Good, the ultimate goal is to make it impossible for open research to be compliant with regulations. \n\nThe hard case of alignment problem won't be solved with whatever that these regulations are possibly trying to achieve."
+    },
+    {
+      "depth": 0,
+      "id": "pczl9vo",
+      "parent_id": "t3_1wu24zp",
+      "author": "Difficult_Tie_4333",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790770567,
+      "body": "Just give him his \"donation\" and this goes away."
+    }
+  ]
+}

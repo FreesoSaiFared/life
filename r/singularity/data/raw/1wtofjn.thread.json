@@ -1,0 +1,41 @@
+{
+  "post_id": "1wtofjn",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "BBC: OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+    "author": "nleksan",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1790721595,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wtofjn/bbc_openai_agents_get_rebrand_as_dots_while/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pcw002c",
+      "parent_id": "t3_1wtofjn",
+      "author": "BreadwheatInc",
+      "author_flair_text": "▪️Avid AGI feeler",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790722036,
+      "body": "Seems like their first step in automating white collar work. Also, if they're not BSing on the whole safety reason thing then good. It's a good thing they're being responsible for their own product. "
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "post_id": "1wtvite",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Sol 6.1 runs on NVDA, not Cerebrus",
+    "author": "hassan789_",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790742186,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wtvite/sol_61_runs_on_nvda_not_cerebrus/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pcxsgzr",
+      "parent_id": "t3_1wtvite",
+      "author": "Kingwolf4",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790742554,
+      "body": "I believe so yes, they are just waiting for 2-3 months for a sizable amount of CS-4 to be produced and installed at OAI Datacenters to begin offering it. I feel CS4 is much more economical than what they are currently doing with Nvidia GPUS . \n\nSo that makes it a no brainer in terms of inference cost to use CS-4 "
+    },
+    {
+      "depth": 1,
+      "id": "pcypkee",
+      "parent_id": "t1_pcxsgzr",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790757585,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pcxskzy",
+      "parent_id": "t3_1wtvite",
+      "author": "Reasonable-Sign8458",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790742598,
+      "body": "if they had a working product you would hear from them everyday"
+    },
+    {
+      "depth": 0,
+      "id": "pcxto2g",
+      "parent_id": "t3_1wtvite",
+      "author": "ShittyBidet123",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790743025,
+      "body": "nice, nvda to 10 trillion"
+    },
+    {
+      "depth": 0,
+      "id": "pcy6c8y",
+      "parent_id": "t3_1wtvite",
+      "author": "TotoDraganel",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790748406,
+      "body": "People think nvidia is just a random company and not the leader of all gpu technology for almost 3 decades. There should be competition of course but jensen huang is no joke."
+    },
+    {
+      "depth": 0,
+      "id": "pczcloi",
+      "parent_id": "t3_1wtvite",
+      "author": "RealestReyn",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790767665,
+      "body": "that much was obvious from the slow speed, were it on Cerebras chips we'd have Sol doing at least 700TPS even on their current ones, Cerebras is busy building capacity currently."
+    }
+  ]
+}
