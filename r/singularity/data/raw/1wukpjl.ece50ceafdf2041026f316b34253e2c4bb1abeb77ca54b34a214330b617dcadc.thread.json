@@ -1,0 +1,83 @@
+{
+  "post_id": "1wukpjl",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Gemini 4 being stealth tested on minebench? \"velox\" checkpoint name",
+    "author": "Ballist1cGamer",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1790812606,
+    "selftext": "I don't know if it's Gemini 4, but I'd guess it is since Logan Kilpatrick follows the minebench twitter account and they're a named sponsor of the benchmark? Also I started running into this model right after they announced Gemini 4 Argon 🤔\n\nbut in all fairness \"velox\" doesn't really feel like a deepmind name to me",
+    "permalink": "/r/singularity/comments/1wukpjl/gemini_4_being_stealth_tested_on_minebench_velox/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pd40tpt",
+      "parent_id": "t3_1wukpjl",
+      "author": "Ballist1cGamer",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790813309,
+      "body": "Grok 4.6 isn't the best comparison, here's some other builds\n\nhttps://reddit.com/link/pd40tpt/video/i82l1q6czqsh1/player\n\n(stolen from minebench's x account)"
+    },
+    {
+      "depth": 0,
+      "id": "pd44b6z",
+      "parent_id": "t3_1wukpjl",
+      "author": "Impossible-Video-671",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790814435,
+      "body": "Photorealistic "
+    },
+    {
+      "depth": 1,
+      "id": "pd44lwl",
+      "parent_id": "t1_pd44b6z",
+      "author": "Ballist1cGamer",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790814532,
+      "body": "I think Opus 5.5 might be underrated as well, but yeah, especially the hair here is crazy"
+    },
+    {
+      "depth": 0,
+      "id": "pd6sk2e",
+      "parent_id": "t3_1wukpjl",
+      "author": "FarrisAT",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790854274,
+      "body": "The broad release models are still being A|B tested "
+    }
+  ]
+}

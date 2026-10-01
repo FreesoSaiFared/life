@@ -1,0 +1,97 @@
+{
+  "post_id": "1wuys4z",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Whole thing is a single 5mb html file made with Opus 5.5 (aside from the ai music) over the last 2 weeks",
+    "author": "FatesWaltz",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Video",
+    "created_utc": 1790859564,
+    "selftext": "There's so much to this game that I didn't really know what to showcase tbh so I've just gone with the basics presentation",
+    "permalink": "/r/singularity/comments/1wuys4z/whole_thing_is_a_single_5mb_html_file_made_with/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pd79s1a",
+      "parent_id": "t3_1wuys4z",
+      "author": "m1ksuFI",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790860116,
+      "body": "why not share it if it's only 5mb? you could probably encode the whole thing into an image and upload it here in the comments"
+    },
+    {
+      "depth": 1,
+      "id": "pd7a8gh",
+      "parent_id": "t1_pd79s1a",
+      "author": "FatesWaltz",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790860254,
+      "body": "I'm still updating it / doing a final balancing pass on it but I will be uploading it in the future."
+    },
+    {
+      "depth": 0,
+      "id": "pd7also",
+      "parent_id": "t3_1wuys4z",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790860365,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pd7ars7",
+      "parent_id": "t3_1wuys4z",
+      "author": "Weary-Historian-8593",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790860414,
+      "body": "It's been less than 4 years from the original chatgpt release and now we have this, it's insane truly. More insane yet how it feels like an AI winter now that google, anthropic, openAI and XAI all have released their newest models and we have to wait at least a couple of weeks before the next cycle."
+    },
+    {
+      "depth": 0,
+      "id": "pd7bis1",
+      "parent_id": "t3_1wuys4z",
+      "author": "Prudent-Sorbet-5202",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790860638,
+      "body": "Any tools or 3rd party integration done along with Opus 5.5?"
+    }
+  ]
+}

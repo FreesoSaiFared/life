@@ -1,0 +1,125 @@
+{
+  "post_id": "1wuntao",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~11h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Gemini 4 has lowest hallucinations",
+    "author": "Independent-Wind4462",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790821632,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wuntao/gemini_4_has_lowest_hallucinations/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pd58gq8",
+      "parent_id": "t3_1wuntao",
+      "author": "Ok-Lengthiness-3988",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790827987,
+      "body": "Google researchers discovered that announcing a model without releasing it yields a 100% reduction of the hallucination rate."
+    },
+    {
+      "depth": 0,
+      "id": "pd59huw",
+      "parent_id": "t3_1wuntao",
+      "author": "Alpacabro21",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790828397,
+      "body": "That's certainly the most interesting thing about this model, so far. "
+    },
+    {
+      "depth": 1,
+      "id": "pd68sxf",
+      "parent_id": "t1_pd59huw",
+      "author": "Icy_Distribution_361",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790845306,
+      "body": "Price/performance is also the best of all the frontier models."
+    },
+    {
+      "depth": 0,
+      "id": "pd5lgro",
+      "parent_id": "t3_1wuntao",
+      "author": "Admirable-Cell-2658",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790833547,
+      "body": "I dont see any release so this is all fugazzi..."
+    },
+    {
+      "depth": 1,
+      "id": "pd5tiri",
+      "parent_id": "t1_pd5lgro",
+      "author": "SnooPaintings8639",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790837392,
+      "body": "They did hallucinate them."
+    },
+    {
+      "depth": 0,
+      "id": "pd68rj8",
+      "parent_id": "t3_1wuntao",
+      "author": "Icy_Distribution_361",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790845286,
+      "body": "So lowest hallucinations, like 1/3rd of the price of Opus 5.5, and only barely less strong and sometimes stronger. Good model."
+    },
+    {
+      "depth": 0,
+      "id": "pd73bfq",
+      "parent_id": "t3_1wuntao",
+      "author": "Illustrious_Image967",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790858076,
+      "body": "Proportionally, it probably has the highest gaslighting and least capability."
+    }
+  ]
+}

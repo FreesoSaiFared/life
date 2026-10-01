@@ -1,0 +1,69 @@
+{
+  "post_id": "1wuv9c6",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "OpenAI dots: what should an agent remember to keep a real project moving?",
+    "author": "Kitchen-Jicama8715",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790848236,
+    "selftext": "An agent that works between conversations needs more than a long transcript. It needs the right project state. OpenAI’s dots overview describes ongoing responsibilities and memory across conversations: [https://learn.chatgpt.com/docs/dots](https://learn.chatgpt.com/docs/dots)\n\n\n\nHere is a practical experiment I would like to compare across agents: give one a small project, then return a few days later with a changed deadline or a new constraint. Can it continue from the current state without repeating decisions or losing the next action?\n\n\n\nMy suggested handoff note would contain:\n\n\n\n\\- The goal, deadline, and definition of done.\n\n\\- The current deliverable and where to find it.\n\n\\- Decisions already made, including why.\n\n\\- Unresolved dependencies and who needs to act.\n\n\\- The next useful action and when it needs my input.\n\n\n\nA prompt to adapt:\n\n\n\n“Keep a short handoff note for \\[project\\] until \\[date\\]. Update it when the plan changes. Track the current deliverable, decisions, open dependencies, and next action. When I return, show what changed and the next decision I need to make. Ask before changing shared plans or sending messages.”\n\n\n\nThat is a proposed test, not a result I am claiming. What would you add to the note? If you have tried a continuing agent task, where did it lose the thread?\n\n\n\nI started r/DotsAI to collect dots workflow experiments, setup help, and honest results. Join and share your test idea or outcome. The getting-started guide has three more prompts to adapt: [https://www.reddit.com/r/DotsAI/comments/1wuuzqe/openai\\_dots\\_in\\_chatgpt\\_getting\\_started\\_3\\_prompts/](https://www.reddit.com/r/DotsAI/comments/1wuuzqe/openai_dots_in_chatgpt_getting_started_3_prompts/)\n\n\n\nUnofficial community; not affiliated with OpenAI.",
+    "permalink": "/r/singularity/comments/1wuv9c6/openai_dots_what_should_an_agent_remember_to_keep/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pd6heqx",
+      "parent_id": "t3_1wuv9c6",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790849628,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pd6i9ja",
+      "parent_id": "t3_1wuv9c6",
+      "author": "DrinkAgreeable962",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790850014,
+      "body": "Yeah, I know it's going to be deleted. However.\n\nThere is so much context around any intermediate difficulty project that there is no way to pass it with few single lines of \"what is needed\". \n\nThe always on device that sees and listens everything around you is what is needed, in order to keep such project alive, without constant changes and manual updates. "
+    },
+    {
+      "depth": 0,
+      "id": "pd6jgri",
+      "parent_id": "t3_1wuv9c6",
+      "author": "profesercheese",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790850559,
+      "body": "I haven't setup dots yet, however use clickup for this exact reason. And even have it write to clickup tasks different Gmail thread id's so it has a route to easily query all context. \n\nClickup API is pretty flawless. But I'm guessing could be done easily with any db tool like notion. "
+    }
+  ]
+}

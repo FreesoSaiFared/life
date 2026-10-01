@@ -1,0 +1,69 @@
+{
+  "post_id": "1wuyxvc",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "The deniers are more of a danger than the so called successionists",
+    "author": "Tricky_Rule_4565",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1790859954,
+    "selftext": "First, I think extinction risks are low, but the transformation to the world presents novel and difficult challenges that could lead to what most ordinary people describe as a dystopia.\n\nUnfortunately most people are inflexible in their worldview. “Dot-com boom”, “LLMs are stochastic parrots”, “It’s all marketing”, “regulatory capture”. \n\nEd Zitron et al are a plague on the discourse.",
+    "permalink": "/r/singularity/comments/1wuyxvc/the_deniers_are_more_of_a_danger_than_the_so/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pd7a300",
+      "parent_id": "t3_1wuyxvc",
+      "author": "VisualOrganization26",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790860208,
+      "body": "My favourite peoples are who worked 20-30years, they think if I don’t see people working they are not working at HO. I even heard from this type of people I don’t like smth AI listening during meetings and take notes. Drastic transformation is blocked by them"
+    },
+    {
+      "depth": 1,
+      "id": "pd7bbs9",
+      "parent_id": "t1_pd7a300",
+      "author": "dragonknight211",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790860580,
+      "body": "Which is good, gradual transformation is better"
+    },
+    {
+      "depth": 2,
+      "id": "pd7bq00",
+      "parent_id": "t1_pd7bbs9",
+      "author": "VisualOrganization26",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790860697,
+      "body": "Yea you think but this transformations speed based on mortality/ retirements. I think its bad"
+    }
+  ]
+}

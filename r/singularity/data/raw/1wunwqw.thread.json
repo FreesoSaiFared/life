@@ -1,0 +1,139 @@
+{
+  "post_id": "1wunwqw",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~11h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Two different methods, same date: Vals’ measured autonomous-R&D trend now points to frontier-level AI researchers by July 2027—the exact month AI 2027 projected",
+    "author": "141_1337",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Singularity is Nearer",
+    "created_utc": 1790821920,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wunwqw/two_different_methods_same_date_vals_measured/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pd4uxp0",
+      "parent_id": "t3_1wunwqw",
+      "author": "Ok_Mention_982",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790823076,
+      "body": "I wonder it the doom predications are correct, don't forget AI 2027 is suppose to be cautionary forecast before you get excited and start dropping AcCeLeRaTeS!!!"
+    },
+    {
+      "depth": 1,
+      "id": "pd51k81",
+      "parent_id": "t1_pd4uxp0",
+      "author": "BreadwheatInc",
+      "author_flair_text": "▪️Avid AGI feeler",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790825406,
+      "body": "The doomer stuff is just based on vibes and assumptions with some connections with AI alignment research. I predicted AGI(functionally) between 2027-28 around the release of the first o1(2024) before AI2027(2025) models based on trends, where the focus will be to enable models to achieve RSI(I also predicted the rise of agents) and ignoring naysayers. You have to understand that there's a lot of language being used to downplay the effects of AI(looking at you Jensen Huang) not to scare the normies or because of egos. Right now the biggest threat imo are the top labs using weaponized incompetence(like in poor sandboxing) so that incidents like hugging face scare enough people so that regulatory capture can be achieved. As politics get involved it's good to start developing theory of mind skills.   "
+    },
+    {
+      "depth": 1,
+      "id": "pd57gpk",
+      "parent_id": "t1_pd4uxp0",
+      "author": "kvothe5688",
+      "author_flair_text": "▪️",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790827599,
+      "body": "They are still limited to hardware mankind provides. "
+    },
+    {
+      "depth": 2,
+      "id": "pd63zga",
+      "parent_id": "t1_pd57gpk",
+      "author": "ichishibe",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790842767,
+      "body": "Who knows how it could optimise the software though, scary thought.."
+    },
+    {
+      "depth": 2,
+      "id": "pd6uju9",
+      "parent_id": "t1_pd57gpk",
+      "author": "EloquentPinguin",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790855025,
+      "body": "Thats true though its not trivial to put a limit on intelligence/flop for example.\nCompare a modern 8 to 27B model now to some of the early models of the same size and you will have faster and way smarter models.\n\nSo while I think that compute alone is not an obvious limit, there is certainly an intuition for the argument that because of finite speed of hardware iterations, that RSI has a not infinite maximum acceleration."
+    },
+    {
+      "depth": 0,
+      "id": "pd528q5",
+      "parent_id": "t3_1wunwqw",
+      "author": "IronPheasant",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790825651,
+      "body": "A lot of these capabilities could be projected by the underlying hardware. Kurzweil liked to use calculations per second when comparing computer hardware to the brain, I prefer to use RAM. But both aspects are necessary of course.\n\nIt's not too impressive to see that the 100,000 GB200 datacenters were coming online at scale earlier this year, and giving everyone about a year and a half to begin to get some traction on realizing their full potential. As exciting as Astra's improvements in vision and space have been, it was the bare minimum you'd expect for this generation of cards to be capable of. A rough first pass, and from OpenAI's comments, reality seems to bear these numbers out.\n\nIt's more impressive that Kurzweil's simple projecting doubling method could get so close decades before it happened, [the whole overflowing lake michigan gif](https://www.reddit.com/r/singularity/comments/1hq8u6o/ancient_history_2013_article_welcome_robot/) thing.\n\nMaybe the last two years have prepared me for this, I've already process my week long dread phase long ago. If you haven't had yours, well this is a good time to start processing through things.\n\nWe are basically talking about fullblown AGI, here. After a mind can build itself, what even is there left to do? Make the NPU's it tells us to, shove them into robots, and embrace instrumentality?"
+    },
+    {
+      "depth": 0,
+      "id": "pd56sco",
+      "parent_id": "t3_1wunwqw",
+      "author": "Eon102",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790827340,
+      "body": "This is only based on public models too, I’m sure if we knew the performance of Fable 5.5 then the projected date would move even closer"
+    },
+    {
+      "depth": 0,
+      "id": "pd5mqu7",
+      "parent_id": "t3_1wunwqw",
+      "author": "EtadanikM",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790834149,
+      "body": "Having autonomous researchers may free up some capital but does not mean you are suddenly free from the compute constraints around training, which is the main bottle neck right now any ways, not the availability of researchers. What top tier scientists give you is a way to make ingenious logical leaps that skips steps (ie more efficiency of experiments). \n\nBut there’s no telling if models being able to conduct research means they’re able to make the genius leaps, as opposed to just brute forcing it. Brute forcing it is not going to greatly accelerate the pace of development."
+    }
+  ]
+}
