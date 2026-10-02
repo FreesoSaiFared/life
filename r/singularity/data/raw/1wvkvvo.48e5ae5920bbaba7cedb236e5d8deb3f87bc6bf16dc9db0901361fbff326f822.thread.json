@@ -1,0 +1,55 @@
+{
+  "post_id": "1wvkvvo",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "FTC opens probe on OpenAI and Anthropic on AI dangers.",
+    "author": "Traditional-Chip8339",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790916452,
+    "selftext": "Article soon to be taken down by AGI pilled mods.  Don't you worry",
+    "permalink": "/r/singularity/comments/1wvkvvo/ftc_opens_probe_on_openai_and_anthropic_on_ai/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pddms6i",
+      "parent_id": "t3_1wvkvvo",
+      "author": "One_Improvement_6470",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790932625,
+      "body": "OP it's not down yet "
+    },
+    {
+      "depth": 1,
+      "id": "pddogit",
+      "parent_id": "t1_pddms6i",
+      "author": "Traditional-Chip8339",
+      "author_flair_text": "▪️AI 2027 was right, bruh.....",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790933476,
+      "body": "new record, I am kind of surprised \n\n![gif](giphy|pPhyAv5t9V8djyRFJH)\n\n"
+    }
+  ]
+}

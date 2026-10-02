@@ -1,0 +1,153 @@
+{
+  "post_id": "1wvf2vf",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Google's Project Suncatcher prototype satellite is now in orbit",
+    "author": "Gaiden206",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 1,
+    "link_flair_text": "Compute",
+    "created_utc": 1790898811,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wvf2vf/googles_project_suncatcher_prototype_satellite_is/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pdb84b1",
+      "parent_id": "t3_1wvf2vf",
+      "author": "Gaiden206",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790898827,
+      "body": "> *Today, our prototype satellite for Project Suncatcher, built in partnership with Planet, launched into orbit aboard the Transporter-18 rideshare mission with SpaceX. Our team has confirmed contact with the satellite and it is operating as expected.*\n\n> *This is the first step in a [long-term research moonshot](https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/) exploring whether space could one day host scalable machine learning infrastructure. Over the coming weeks, we'll gather in-orbit data on how our TPUs handle the physical stress of spaceflight and the radiation and thermal extremes of space.*\n\n> *Our [peer-reviewed paper](https://goo.gle/suncatcher-joule) is now available in Joule, detailing the research behind this mission.*\n\n> *Some things can only be tested in space. As we begin our experiments, we'll use what we learn to refine our designs, and we're excited to share more as the mission unfolds.*"
+    },
+    {
+      "depth": 1,
+      "id": "pdc8fuh",
+      "parent_id": "t1_pdb84b1",
+      "author": "redcoatwright",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790910307,
+      "body": "Planet = Planet Labs btw, cool company"
+    },
+    {
+      "depth": 0,
+      "id": "pdbbtmm",
+      "parent_id": "t3_1wvf2vf",
+      "author": "lgmarian",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790900012,
+      "body": "*Sigh.* Isn't there enough junk floating around out there already?"
+    },
+    {
+      "depth": 1,
+      "id": "pdc8krm",
+      "parent_id": "t1_pdbbtmm",
+      "author": "Hilldawg4president",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790910354,
+      "body": "No"
+    },
+    {
+      "depth": 0,
+      "id": "pdbjsql",
+      "parent_id": "t3_1wvf2vf",
+      "author": "Distinct-Question-16",
+      "author_flair_text": "▪️AGI 2029",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790902495,
+      "body": "its just 4 tpus"
+    },
+    {
+      "depth": 1,
+      "id": "pdby3vm",
+      "parent_id": "t1_pdbjsql",
+      "author": "Ravier_",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790906950,
+      "body": "Why risk more for an experiment to test viability?"
+    },
+    {
+      "depth": 0,
+      "id": "pdbkfi3",
+      "parent_id": "t3_1wvf2vf",
+      "author": "No_Gear8408",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790902688,
+      "body": "This could be pretty good, I think its a 2 phrase test this year and then in 2027\n\nIf it all works out then they should be able to shift training of models mainly and some other things into the orbit, better than using water and electricity from earth"
+    },
+    {
+      "depth": 0,
+      "id": "pdchrdu",
+      "parent_id": "t3_1wvf2vf",
+      "author": "Comfortable_Car6562",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790913592,
+      "body": "Seens they will be able to trst using it (ai) in space and train for that. "
+    },
+    {
+      "depth": 0,
+      "id": "pddt1mt",
+      "parent_id": "t3_1wvf2vf",
+      "author": "koen_w",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790935706,
+      "body": "Wait what they have a prototype already? I thought this was a theoretical concept."
+    }
+  ]
+}

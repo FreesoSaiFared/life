@@ -1,0 +1,26 @@
+{
+  "post_id": "1wv6q8k",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~19h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Working on Claude-shaped problems with BootLoops, a toolkit for exact calculations in quantitative science.",
+    "author": "badumtsssst",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790878164,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wv6q8k/working_on_claudeshaped_problems_with_bootloops_a/"
+  },
+  "comments": []
+}

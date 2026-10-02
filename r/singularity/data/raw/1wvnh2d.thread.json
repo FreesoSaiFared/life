@@ -1,0 +1,83 @@
+{
+  "post_id": "1wvnh2d",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "While Claude and GPT are still the two best choices, Gemini seems to be catching up on coding agent index with agy-cli",
+    "author": "Marimo188",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790925917,
+    "selftext": "The Artificial Analysis Coding Agent Index measures agents (a combination of model and harness) across three agentic coding evaluations.\n\n➤ Claude Sonnet 5.5 (max) in Claude Code takes the top spot at 68, but also has the highest measured cost per task: $14.19\n\n➤  Gemini 4 Argon (high) in Antigravity CLI scores 64 at $5.84 per task - less than half of Sonnet 5.5’s cost. Note, this uses Google’s promotional pricing, and Argon is not yet publicly available\n\n➤  GPT-6.1 Sol (xhigh) in Codex scores 63 at $1.04, roughly one sixth of Argon’s cost",
+    "permalink": "/r/singularity/comments/1wvnh2d/while_claude_and_gpt_are_still_the_two_best/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pddck3d",
+      "parent_id": "t3_1wvnh2d",
+      "author": "petburiraja",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790927377,
+      "body": "Line looks almost horizontal between Sol 6.1 xhigh and Gemini 4 Argon, and it's quite long at that"
+    },
+    {
+      "depth": 0,
+      "id": "pddin9d",
+      "parent_id": "t3_1wvnh2d",
+      "author": "Xtrusio",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790930496,
+      "body": "63 at $1.04 is the number here. one point for 5.6x the cost makes argon look expensive even on promo pricing."
+    },
+    {
+      "depth": 1,
+      "id": "pde6beo",
+      "parent_id": "t1_pddin9d",
+      "author": "LetsGoToMichigan",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790941199,
+      "body": "I think Sol 6.1 is just a banger of a deal.  At some point we do run into the question of \"how long is this sort of pricing sustainable?\" - Google has to show return on capital to the street today, whereas competitors are in the gain market share at all costs today and worry about profit tomorrow mode.  I definitely think there will an Uber style price reckoning moment for these other labs, but by that point I'm hoping their lower tier models and open source models will  be more than good enough for general knowledge work.  "
+    },
+    {
+      "depth": 0,
+      "id": "pddx5v3",
+      "parent_id": "t3_1wvnh2d",
+      "author": "kiki-le-koala",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790937560,
+      "body": "Yeah no way I'm paying 6 times more for this. \n\nSol 6.1 it is"
+    }
+  ]
+}

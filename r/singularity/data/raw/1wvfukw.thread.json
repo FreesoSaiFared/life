@@ -1,0 +1,69 @@
+{
+  "post_id": "1wvfukw",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~12h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Think we'll get a model as good at visuals as Opus 5.5, with the less restricted aspects of Sol 5.6?",
+    "author": "Dogbold",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1790900969,
+    "selftext": "I've been making games with the two, and I've noticed something.\n\nClaude is VERY good at the animation side, and in my experience substantially better than ChatGPT all around with this.\n\nHere is a good example between the two, both meant to be side views of a dragon during a game about observing them:\n\n[ChatGPT 5.6 Sol](https://preview.redd.it/m11b88tq6ysh1.png?width=1690&format=png&auto=webp&s=a6e99c4049e7e95382b621f80e2ae2995c2f6282)\n\n[Claude 5.5 Opus](https://preview.redd.it/pivkvxvz6ysh1.png?width=2403&format=png&auto=webp&s=a29d2a5576c39e8e5b4f85933df2a0d8c5583988)\n\nAs you can see, Opus is is significantly better, and the animation is MUCh better too.\n\nEven when I ask ChatGPT to try and enhance the visuals and give it some ideas, it just makes more of what you see there.\n\nHere's the issue though...\n\nWhile Claude is amazing at visuals and systems, it is VERY strict with what it finds immoral.  \nIn my game, you can observe, feed them, tame them and such, but there is also the option to experiment on the dragons, things like poisons and darts and arrows and such.\n\nChatGPT has no issue with this whatsoever. It will do literally anything in this realm, it does not care.\n\nClaude refuses, every time. It just won't, it sees it as wrong to cause \"pain and fear\" to the dragon and for there to be mechanics where it runs and hides. I cannot make it do it no matter how I word it, even if I say that it's all fantasy and the dragon even agreed to the experimentation beforehand, it won't, because it thinks that it's \"wrong\".\n\nSo while Claude is MUCH better for this game, it is an annoying pearl clutching bossy moral tyrant here, while ChatGPT, while much worse for the game, will do anything.\n\nSo I can move to ChatGPT and have it make the systems without issue, but it cannot make the animations and visuals as well.\n\nSo I'm stuck where I cannot proceed with this game, because Claude is better for it, but it refuses because \"That's WRONG :( Poor dragon, how could you?\"\n\nWill there ever be a model that will have the level of visuals and wild systems Claude can do, but with the much less stricter filtering of ChatGPT?\n\n(Bonus: ChatGPT absolutely refuses to do anything NSFW with games, but oddly Claude will happily mod a VERY NSFW game totally fine and even use some very adult language while doing it. Very weird, so in this case it's the reverse.)",
+    "permalink": "/r/singularity/comments/1wvfukw/think_well_get_a_model_as_good_at_visuals_as_opus/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pdbh3tr",
+      "parent_id": "t3_1wvfukw",
+      "author": "eposnix",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790901680,
+      "body": "You can make a custom system prompt for Claude Code. Just ask Claude to make a .bat file for you with a custom prompt, then edit the prompt to be more permissive."
+    },
+    {
+      "depth": 0,
+      "id": "pdciye4",
+      "parent_id": "t3_1wvfukw",
+      "author": "QuarkOfTheMatter",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790914043,
+      "body": "Why are you comparing latest model from Anthropic (Opus 5.5) vs last gen Open Ai model (5.6 sol)? Should at least be on 6.1 Sol otherwise this is a pointless comparison."
+    },
+    {
+      "depth": 0,
+      "id": "pdd8qp4",
+      "parent_id": "t3_1wvfukw",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790925431,
+      "body": "[removed]"
+    }
+  ]
+}
