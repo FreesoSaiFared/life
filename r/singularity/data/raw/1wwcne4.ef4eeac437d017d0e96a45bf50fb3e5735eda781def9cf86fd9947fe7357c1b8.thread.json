@@ -1,0 +1,125 @@
+{
+  "post_id": "1wwcne4",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~9h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "GPT-6 Astra Dots used Blender on its own computer to build an entire 3D palace, 0 hours of human modeling",
+    "author": "141_1337",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1790996893,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wwcne4/gpt6_astra_dots_used_blender_on_its_own_computer/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pdjiqz7",
+      "parent_id": "t3_1wwcne4",
+      "author": "141_1337",
+      "author_flair_text": "▪️e/acc | AGI: ~2030 | ASI: ~2040 | FALSGC: ~2050 | :illuminati:",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790996990,
+      "body": "Source: \n\nhttps://x.com/KanaWorks_AI/status/2106033897217634458"
+    },
+    {
+      "depth": 0,
+      "id": "pdjj2ji",
+      "parent_id": "t3_1wwcne4",
+      "author": "fourohfournotfound",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790997115,
+      "body": "Wow my dot does nothing like this not sure how to make use of the thing to make it do much beyond what codex does. "
+    },
+    {
+      "depth": 1,
+      "id": "pdkfc0g",
+      "parent_id": "t1_pdjj2ji",
+      "author": "Khaaaaannnn",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791011398,
+      "body": "Open it’s computer. That’s how I found out it has blender lol."
+    },
+    {
+      "depth": 0,
+      "id": "pdjri1z",
+      "parent_id": "t3_1wwcne4",
+      "author": "DeviceCertain7226",
+      "author_flair_text": "▪️Immortality-2200 |  FDVR-2300",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791000491,
+      "body": "How customizable is this and how unique is that building? I feel like these are the important questions. If it fails at making something as soon as you start to get specific and creative than that’s disappointing. "
+    },
+    {
+      "depth": 0,
+      "id": "pdkfa6a",
+      "parent_id": "t3_1wwcne4",
+      "author": "Khaaaaannnn",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791011374,
+      "body": "Wait till people find out it can make its own avatars and they don’t have to use the kiddy ones. https://i.imgur.com/I29y9O8.jpeg"
+    },
+    {
+      "depth": 0,
+      "id": "pdkkb8j",
+      "parent_id": "t3_1wwcne4",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1791013815,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pdl2dm4",
+      "parent_id": "t3_1wwcne4",
+      "author": "injectitpussy",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791022791,
+      "body": "Impressive, but it's no GTA 7."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "post_id": "1wwc4tl",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~9h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "A constant-size memory for video world models!",
+    "author": "plsendfast",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Video",
+    "created_utc": 1790995230,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wwc4tl/a_constantsize_memory_for_video_world_models/"
+  },
+  "comments": []
+}

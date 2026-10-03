@@ -1,0 +1,125 @@
+{
+  "post_id": "1ww2wwb",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~16h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Three OpenAI “safety” researchers reportedly handed an outside group sensitive blueprints of OpenAI’s AI infrastructure",
+    "author": "141_1337",
+    "score": 2,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1790969493,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1ww2wwb/three_openai_safety_researchers_reportedly_handed/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pdh3z0o",
+      "parent_id": "t3_1ww2wwb",
+      "author": "Soggy-Scene-3966",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790969817,
+      "body": "👀👀😮😮😂😂"
+    },
+    {
+      "depth": 0,
+      "id": "pdh7hom",
+      "parent_id": "t3_1ww2wwb",
+      "author": "Meltlilith1",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790970726,
+      "body": "Can't wait for info to release on their safety procedures and process and everyone is just going to go \"is that it?\""
+    },
+    {
+      "depth": 1,
+      "id": "pdi1u58",
+      "parent_id": "t1_pdh7hom",
+      "author": "03263",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790978999,
+      "body": "I've worked with PHI and had to take HIPAA training and it's pretty much just a bunch of cheesy videos with really obvious unethical scenarios and people falling for phishing scams, followed by a quiz. They don't actually have many real guardrails to prevent these things, it very much relies on company culture and trust."
+    },
+    {
+      "depth": 0,
+      "id": "pdh98xz",
+      "parent_id": "t3_1ww2wwb",
+      "author": "zero0n3",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790971178,
+      "body": "“Sandboxing”"
+    },
+    {
+      "depth": 0,
+      "id": "pdhyshq",
+      "parent_id": "t3_1ww2wwb",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1790978092,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pdjh4i1",
+      "parent_id": "t3_1ww2wwb",
+      "author": "m3kw",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790996371,
+      "body": "“Whistle blowers”"
+    },
+    {
+      "depth": 0,
+      "id": "pdji0rb",
+      "parent_id": "t3_1ww2wwb",
+      "author": "grateful2you",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790996710,
+      "body": "Musk likes to poach OpenAI employees. It’s probably him who got the info at a price. "
+    }
+  ]
+}

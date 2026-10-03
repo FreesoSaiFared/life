@@ -1,0 +1,83 @@
+{
+  "post_id": "1ww3lk6",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~16h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "UM1-Evo: The Ultra-Lifelike Biomechanical Hand (24DoF)",
+    "author": "Anen-o-me",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1790971184,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1ww3lk6/um1evo_the_ultralifelike_biomechanical_hand_24dof/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pdhbd2z",
+      "parent_id": "t3_1ww3lk6",
+      "author": "CrowdGoesWildWoooo",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790971721,
+      "body": "And additional hand that I can use while i am working 😉"
+    },
+    {
+      "depth": 0,
+      "id": "pdhbf6g",
+      "parent_id": "t3_1ww3lk6",
+      "author": "enilea",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790971735,
+      "body": "Woah that's crazy for a personal project, thought it was from a full robotics lab at first. You could use it for benchmarking AI models too now that general models like astra and opus 5.5 are starting to show some robotics capabilities. Perhaps a year from now they can control a hand like this dexterously."
+    },
+    {
+      "depth": 0,
+      "id": "pdhpopv",
+      "parent_id": "t3_1ww3lk6",
+      "author": "Weary-Historian-8593",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790975507,
+      "body": "Now make it look like woman's hand, asking for a buddy"
+    },
+    {
+      "depth": 1,
+      "id": "pdhsskq",
+      "parent_id": "t1_pdhpopv",
+      "author": "FoodMadeFromRobots",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1790976368,
+      "body": "![gif](giphy|nWr4Se27LUVuZcuPq0)"
+    }
+  ]
+}
