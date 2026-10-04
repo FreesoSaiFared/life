@@ -1,0 +1,97 @@
+{
+  "post_id": "1wwsxbv",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~19h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Clone Robotics shows humanlike robot hand moving under remote control",
+    "author": "Spirited-Sir-3034",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1791048739,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wwsxbv/clone_robotics_shows_humanlike_robot_hand_moving/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pdozd3s",
+      "parent_id": "t3_1wwsxbv",
+      "author": "Sherman140824",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791064619,
+      "body": "How about they show us a human hand moving under remote robot control. Then I'll be impressed"
+    },
+    {
+      "depth": 1,
+      "id": "pdsbxx8",
+      "parent_id": "t1_pdozd3s",
+      "author": "Honest_Bee_9549",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791112090,
+      "body": "We already have the tech for that, just no reason to do it "
+    },
+    {
+      "depth": 0,
+      "id": "pdqv3ul",
+      "parent_id": "t3_1wwsxbv",
+      "author": "NotWantedForAnything",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791087800,
+      "body": "No fingernails. I don't know why this gets overlooked. They are extremely useful and necessary for many tasks. Try peeling the edge of a sticker up without fingernails."
+    },
+    {
+      "depth": 0,
+      "id": "pdr3rqm",
+      "parent_id": "t3_1wwsxbv",
+      "author": "IgnatiusDrake",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791091496,
+      "body": "How long until Waldoes at various scales, I wonder?"
+    },
+    {
+      "depth": 0,
+      "id": "pdrg27p",
+      "parent_id": "t3_1wwsxbv",
+      "author": "Ok-Log7730",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791097226,
+      "body": "where's video "
+    }
+  ]
+}

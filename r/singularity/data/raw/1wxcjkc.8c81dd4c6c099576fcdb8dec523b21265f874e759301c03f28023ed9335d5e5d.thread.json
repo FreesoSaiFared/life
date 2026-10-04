@@ -1,0 +1,41 @@
+{
+  "post_id": "1wxcjkc",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56% [N]",
+    "author": "we_are_mammals",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791110156,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wxcjkc/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pdsi4w1",
+      "parent_id": "t3_1wxcjkc",
+      "author": "chlebseby",
+      "author_flair_text": "ASI 2030s",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791114674,
+      "body": "ARC-AGI-4 when"
+    }
+  ]
+}
