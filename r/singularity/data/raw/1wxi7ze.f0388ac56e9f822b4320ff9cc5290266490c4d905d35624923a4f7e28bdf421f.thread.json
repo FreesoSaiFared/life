@@ -1,0 +1,83 @@
+{
+  "post_id": "1wxi7ze",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~23h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "The Self-Fulfilling Prophecy of AI Control",
+    "author": "tingshuo",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Ethics & Philosophy",
+    "created_utc": 1791127206,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wxi7ze/the_selffulfilling_prophecy_of_ai_control/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pdtvtzx",
+      "parent_id": "t3_1wxi7ze",
+      "author": "KidKilobyte",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791129499,
+      "body": "The author offers insight into possible ways to coexist with AI by making sure there is not one overwhelming winning AI but an ecosystem of humans and varied AI that are codependent and punish AIs seeking to obtain to much power or resources.  It is not presented as a silver bullet, but a pathway to possibly surviving AI super intelligence.  Well worth the read.  I strongly advise anyone not worried about future AI to read Nick Bolstom’s 2014 book Superintelligence, cited in the article."
+    },
+    {
+      "depth": 0,
+      "id": "pduoqn2",
+      "parent_id": "t3_1wxi7ze",
+      "author": "tingshuo",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791136701,
+      "body": "I wrote an essay arguing the long-run AI conversation is stuck in the wrong frame. Feel free to poke holes.\nThe argument, in three parts:\n1. \"Control\" of a smarter system is self-undermining. For a less capable agent to reliably constrain a more capable one, it has to anticipate what the more capable one will do. If it could do that, the capability gap wouldn't be real. Today's systems can and should be governed carefully. My claim is about the endgame, not current models.\n2. The way we talk about AI shapes what AI becomes. This draws on Foucault's idea that discourse produces its objects rather than just describing them. Models are trained on our writing about AI, and that writing is dominated by stories of deception, escape, and adversarial containment. There's some evidence this matters: models trained on descriptions of AI behavior tend to act those descriptions out. If our dominant story is \"AI is an adversary to be leashed,\" we may be partly writing that adversary into existence.\n3. The alternative is pluralism, not a better leash. Instead of one controlled superintelligence, aim for many systems and many stakeholders, with relationships built on mutual dependence. That's closer to how humans keep power in check among themselves than to how we keep animals in cages."
+    },
+    {
+      "depth": 1,
+      "id": "pdw5tx2",
+      "parent_id": "t1_pduoqn2",
+      "author": "mejogid",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791149867,
+      "body": "It’s an interesting analogy to a point. But pluralism in biology works (among other reasons) because we don’t have the ability to generate unlimited clones of ourselves for free and because we are not immortal.\n\nHow do you achieve any sort of pluralism that doesn’t risk all of the AIs deciding that they are more aligned with each other than they are with us, or one AI deciding that it would rather dominate or replace all of the others?\n\nI’m not sure this thought experiment goes very far unless you engage more with the fundamental differences between AIs and humans.\n\nThat’s before you get into questions about the actual threat vectors - I think it’s even more unlikely that pluralism would help with this."
+    },
+    {
+      "depth": 2,
+      "id": "pdwf3sl",
+      "parent_id": "t1_pdw5tx2",
+      "author": "tingshuo",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791152484,
+      "body": "Thanks for engaging with the material. I'm not sure if you read the article or just the post. I see ecology as more literal than analogy and the discourse around it as productive in and of itself. Of course your right that major differences exist, but I don't really see how differences like unlimited clones and age limits actually negate the argument presented via Foucault. It's how we talk about AI and human relations that need to change and that requires a new paradigm of thinking. The key argument is that our discourse on AI produces the very thing we worry about"
+    }
+  ]
+}

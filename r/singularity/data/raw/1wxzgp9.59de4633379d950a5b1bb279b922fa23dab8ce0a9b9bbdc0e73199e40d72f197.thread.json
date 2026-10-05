@@ -1,0 +1,26 @@
+{
+  "post_id": "1wxzgp9",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~10h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "I mapped every major Qwen release from 2023 to 2026: 44 models, from Qwen-7B to the 2.4T open weights (with sources)",
+    "author": "ai-lover",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791174548,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wxzgp9/i_mapped_every_major_qwen_release_from_2023_to/"
+  },
+  "comments": []
+}

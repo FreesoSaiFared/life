@@ -1,0 +1,41 @@
+{
+  "post_id": "1wy7p7g",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "How delusional is it to look for a docuseries writer who can turn real backend code logs into a narrative thriller?",
+    "author": "pebblebypebble",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Q&A / Help",
+    "created_utc": 1791204545,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wy7p7g/how_delusional_is_it_to_look_for_a_docuseries/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pe0b4gn",
+      "parent_id": "t3_1wy7p7g",
+      "author": "JoelMahon",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791205952,
+      "body": "/r/lostredditors \n\nit's an interesting idea, idk if it'd actually be better to watch in practice than many of the other things in the world to right about, but all those opinions aside this has nothing to do with this subreddit"
+    }
+  ]
+}

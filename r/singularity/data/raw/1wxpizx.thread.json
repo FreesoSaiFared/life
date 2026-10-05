@@ -1,0 +1,41 @@
+{
+  "post_id": "1wxpizx",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Paralyzed Designer Creates Figurine Using Mind-Controlled Brain-Computer Interface, AI, and 3D Printing",
+    "author": "yogthos",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791145233,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wxpizx/paralyzed_designer_creates_figurine_using/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pe05pi7",
+      "parent_id": "t3_1wxpizx",
+      "author": "yogthos",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791204322,
+      "body": "The video about it https://www.youtube.com/watch?v=5bfr8EXOogk"
+    }
+  ]
+}

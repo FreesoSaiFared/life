@@ -1,0 +1,139 @@
+{
+  "post_id": "1wxwz8n",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Can AI Make a Game Engine? (Yes)",
+    "author": "jimmystar889",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791166391,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wxwz8n/can_ai_make_a_game_engine_yes/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pdy4fkw",
+      "parent_id": "t3_1wxwz8n",
+      "author": "Ormusn2o",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791172096,
+      "body": "For my game, I decided to use an open source engine, instead of making Astra make a new engine from scratch, and it turned out very well as well. I guess in the future, there will be no need for that, as you will be just able to write custom kernel code for specific machine and specific game engine that is also custom made."
+    },
+    {
+      "depth": 0,
+      "id": "pdyn31h",
+      "parent_id": "t3_1wxwz8n",
+      "author": "141_1337",
+      "author_flair_text": "▪️e/acc | AGI: ~2030 | ASI: ~2040 | FALSGC: ~2050 | :illuminati:",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791180041,
+      "body": "Ok anyone kinda impressed that Opus 5.5 work for like 2 to 3 days "
+    },
+    {
+      "depth": 0,
+      "id": "pdyopbh",
+      "parent_id": "t3_1wxwz8n",
+      "author": "midgaze",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791180801,
+      "body": "TL;DR: Astra's result was sort of passing, and then he was gobsmacked by Opus 5.5, which exceeded all expectations. He couldn't pick his jaw up off the floor as he reviewed it. It was sort of entertaining to watch."
+    },
+    {
+      "depth": 1,
+      "id": "pdz0jcj",
+      "parent_id": "t1_pdyopbh",
+      "author": "superkickstart",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791186623,
+      "body": "Astra stopped early. He probably should have set a goal for it to keep it working."
+    },
+    {
+      "depth": 1,
+      "id": "pdzbiqg",
+      "parent_id": "t1_pdyopbh",
+      "author": "GeneralSEOD",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791192304,
+      "body": "Cherno himself has probably spent days, weeks on the various \"nice touches\" that Claude just automatically did with no effort."
+    },
+    {
+      "depth": 1,
+      "id": "pdzkzes",
+      "parent_id": "t1_pdyopbh",
+      "author": "Yugudubenbi",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791196774,
+      "body": "55:27"
+    },
+    {
+      "depth": 0,
+      "id": "pdyybur",
+      "parent_id": "t3_1wxwz8n",
+      "author": "N1ghthood",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791185493,
+      "body": "This sub needs to understand the difference between \"can\" and \"should\". "
+    },
+    {
+      "depth": 1,
+      "id": "pdzclcg",
+      "parent_id": "t1_pdyybur",
+      "author": "ArialBear",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791192842,
+      "body": "This is just advocating for corporate capture "
+    }
+  ]
+}
