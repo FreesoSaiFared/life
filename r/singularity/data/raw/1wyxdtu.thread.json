@@ -1,0 +1,41 @@
+{
+  "post_id": "1wyxdtu",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "For 31 years, mathematicians couldn’t finish this proof. The new paper says ChatGPT found most of the ideas and proofs behind a problem tied to efficient computer search and sampling, while the authors mostly worked to understand and explain it.",
+    "author": "141_1337",
+    "score": 0,
+    "upvote_ratio": 0.5,
+    "num_comments": 0,
+    "link_flair_text": "Singularity is Nearer",
+    "created_utc": 1791275757,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wyxdtu/for_31_years_mathematicians_couldnt_finish_this/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pe6mwvs",
+      "parent_id": "t3_1wyxdtu",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1791276886,
+      "body": "[removed]"
+    }
+  ]
+}

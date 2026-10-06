@@ -1,0 +1,69 @@
+{
+  "post_id": "1wz0grx",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Sobering predictions on the dawning era of super intelligence.",
+    "author": "stretchledfordjourno",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1791287148,
+    "selftext": "All times USCT",
+    "permalink": "/r/singularity/comments/1wz0grx/sobering_predictions_on_the_dawning_era_of_super/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pe7f0oz",
+      "parent_id": "t3_1wz0grx",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1791288766,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pe7g589",
+      "parent_id": "t3_1wz0grx",
+      "author": "bratbarn",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791289136,
+      "body": "\"Russia will immediately use it to create a super bug\" should be there?"
+    },
+    {
+      "depth": 1,
+      "id": "pe7l5dz",
+      "parent_id": "t1_pe7g589",
+      "author": "stretchledfordjourno",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791290717,
+      "body": "Yeah I’m old enough to remember January 2020 when there was similar news coming out of Wuhan. "
+    }
+  ]
+}

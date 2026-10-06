@@ -1,0 +1,97 @@
+{
+  "post_id": "1wz0ggt",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Jon Stewart interviewed Jacob Coxon On Witnessing the Existential Threat of AI from the Inside. Fascinating interview",
+    "author": "zebleck",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Video",
+    "created_utc": 1791287123,
+    "selftext": "Wild how mainstream this is becoming. This is definitely one of the darker as well as funnier interviews about this, Jon Stewart has some good humor.",
+    "permalink": "/r/singularity/comments/1wz0ggt/jon_stewart_interviewed_jacob_coxon_on_witnessing/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pe7b8ay",
+      "parent_id": "t3_1wz0ggt",
+      "author": "shadowt1tan",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791287467,
+      "body": "I’ll say he sounded more reasonable than I expected. It didn’t seem like he does publicity stunts.\n\nIt honestly just seemed he went in the things people said to him scared him because that’s Anthropics culture and he left.\n\nBut Jon Stewart you can tell is very anti tech and really driving the discussion."
+    },
+    {
+      "depth": 0,
+      "id": "pe7h4wa",
+      "parent_id": "t3_1wz0ggt",
+      "author": "Illustrious_Job1951",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791289455,
+      "body": "I probably wouldn't use a satire platform to get my message across"
+    },
+    {
+      "depth": 1,
+      "id": "pe7o496",
+      "parent_id": "t1_pe7h4wa",
+      "author": "JoelMahon",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791291619,
+      "body": "The daily show has humour, it has satire, but it's not a satire platform. Especially nowadays.\n\nOther example: Shawshank redemption has plenty of humour, it's not a comedy, etc.\n\nThe way Andy corrects the prosecution when they say the gun being lost was lucky for him has me in stitches every time."
+    },
+    {
+      "depth": 0,
+      "id": "pe7ju6t",
+      "parent_id": "t3_1wz0ggt",
+      "author": "hippydipster",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791290313,
+      "body": "He looks 12, not 28."
+    },
+    {
+      "depth": 0,
+      "id": "pe7ms1p",
+      "parent_id": "t3_1wz0ggt",
+      "author": "hippydipster",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791291215,
+      "body": "And to Jon: \"Humans like to feel relevant...\"\n\nWe need to figure out \"purpose\" better than \"I clean toilets\" or whatever.  It's not good enough to leave it at \"jobs are your purpose\".  \"It's not Elon Musk's decision\" misses that \"jobs being your purpose\" WAS Elon Musk's choice for us (or people like him long ago), whereas a more natural human condition didn't set up \"jobs\" as our purpose. In fact, jobs in capitalism was well-identified as a source of alienation.\n\nThe current situation is an historical artifact and doesn't deserve being set up as the \"meaning of our lives\" that needs to be preserved in the face of world changing technology."
+    }
+  ]
+}
