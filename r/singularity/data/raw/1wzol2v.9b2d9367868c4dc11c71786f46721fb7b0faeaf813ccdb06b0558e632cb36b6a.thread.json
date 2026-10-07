@@ -1,0 +1,111 @@
+{
+  "post_id": "1wzol2v",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Generalist’s GEN-1.5 can repeatedly install and remove an O-ring from a hydraulic rod gland autonomously—the same foundation model can learn new physical tasks from seconds of demonstrations",
+    "author": "141_1337",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1791351615,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wzol2v/generalists_gen15_can_repeatedly_install_and/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pediugs",
+      "parent_id": "t3_1wzol2v",
+      "author": "CiegoDiego",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791352139,
+      "body": "We all know what's coming. Glad we're at least teaching the T-800 how to put on a condom first."
+    },
+    {
+      "depth": 1,
+      "id": "pedps58",
+      "parent_id": "t1_pediugs",
+      "author": "Economy-Fee5830",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791355346,
+      "body": "The cylinder must not be harmed."
+    },
+    {
+      "depth": 0,
+      "id": "pee339u",
+      "parent_id": "t3_1wzol2v",
+      "author": "03263",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791361907,
+      "body": "giggity"
+    },
+    {
+      "depth": 0,
+      "id": "pee70sd",
+      "parent_id": "t3_1wzol2v",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1791363900,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pee88t0",
+      "parent_id": "t3_1wzol2v",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1791364506,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pee9ylw",
+      "parent_id": "t3_1wzol2v",
+      "author": "4729zex",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791365354,
+      "body": "God, it's so cute!"
+    }
+  ]
+}

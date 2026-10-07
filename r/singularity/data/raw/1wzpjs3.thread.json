@@ -1,0 +1,69 @@
+{
+  "post_id": "1wzpjs3",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Looking for resources",
+    "author": "Silent_Bluejay_6933",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1791355266,
+    "selftext": "So far most of the resources I have found around technological singularity feel like under-researched slop on social media or doomerism. Do you have recommendations for sources you trust that discuss this topic in depth and with a clear-eyed view? ",
+    "permalink": "/r/singularity/comments/1wzpjs3/looking_for_resources/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pedthd9",
+      "parent_id": "t3_1wzpjs3",
+      "author": "zebleck",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791357107,
+      "body": "Superintelligence by Nick Bostrom, very technical about the dynamics of superintelligence.\n\nAI Explained on youtube does a very good job of researching and explaining new developments.\n\n"
+    },
+    {
+      "depth": 0,
+      "id": "pee0rjd",
+      "parent_id": "t3_1wzpjs3",
+      "author": "Strategosky",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791360726,
+      "body": "[https://theinnermostloop.substack.com/](https://theinnermostloop.substack.com/)\n\nvery thorough, and pretty much archived all the developments since December 2025, which is the infliction point for the new LLMs that we have today. And other stuff. "
+    },
+    {
+      "depth": 0,
+      "id": "peeevod",
+      "parent_id": "t3_1wzpjs3",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1791367680,
+      "body": "[removed]"
+    }
+  ]
+}

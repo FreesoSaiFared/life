@@ -1,0 +1,41 @@
+{
+  "post_id": "1wzi8el",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "FastVideo’s FastH3 now runs on a single consumer machine",
+    "author": "fruesome",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791331286,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1wzi8el/fastvideos_fasth3_now_runs_on_a_single_consumer/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "peccr6y",
+      "parent_id": "t3_1wzi8el",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1791336655,
+      "body": "[removed]"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "post_id": "1wzoqq5",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "I think we should go back to the old definition of AGI, and it's legalistic consequences",
+    "author": "Eissa_Cozorav",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791352204,
+    "selftext": "Sorry if this has been talked to dead.  \n  \nAnd it should not mean if the AI can beat Average Human in intelligence or something. No, even dumb program like calculator does beat human in calculation. Even automated remote software/spyware can do the whole agentic process, we need LLM to be more something than that to be classified as AGI.\n\n  \nAnd if we does manage to do it, let's make everyone involving in creating and directing it as accountable. AI is not just \"legal person\" but also the one who manage it being responsible for it's potential activity. \n\nAND THAT MEANS, do not let AI company get away with all these \"hacking activity benchmark score\". ",
+    "permalink": "/r/singularity/comments/1wzoqq5/i_think_we_should_go_back_to_the_old_definition/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pedkccp",
+      "parent_id": "t3_1wzoqq5",
+      "author": "SquareQuit1741",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791352816,
+      "body": "Exactly. That is also how we are going to know the models are trustful and reliable. When the model provider claims liability over its actions. \n\nJust like how Tesla full self-driving is not full self-driving until achieves level 4 autonomy meaning the car drives by itself or pulls over when it's unable to do the job, and if it crashes, Tesla is responsible, similarly AGI is achieved when the model itself is able to do the job end to end and if it doesn't the model provider claims liability. When you fully take the human out of the loop. That is AGI."
+    },
+    {
+      "depth": 0,
+      "id": "pedkk2m",
+      "parent_id": "t3_1wzoqq5",
+      "author": "QH96",
+      "author_flair_text": "AGI before GTA 6",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791352913,
+      "body": "Doesn't need to be smarter than a human; it needs to be multimodally general and able to learn/update its own weights on the fly. "
+    },
+    {
+      "depth": 0,
+      "id": "pedpko7",
+      "parent_id": "t3_1wzoqq5",
+      "author": "tejaskumarlol",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791355246,
+      "body": "The US just went the other way. The executive order from 29 September (https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/) tells federal agencies to say \"Super Intelligence\" instead of \"AI\". Its Section 3 then defines it with the old federal definition of AI, word for word: \"a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations or decisions influencing real or virtual environments.\" By that wording a spam filter counts as Super Intelligence!!"
+    },
+    {
+      "depth": 1,
+      "id": "pee8oqo",
+      "parent_id": "t1_pedpko7",
+      "author": "Eissa_Cozorav",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791364725,
+      "body": "Damnit, Trump is just that stupid. A machine with many times of horse power than a strong human is \"Artificial\". It is human-made and not natural. That's should be how Artificial is. \n\n"
+    },
+    {
+      "depth": 0,
+      "id": "pee6mvl",
+      "parent_id": "t3_1wzoqq5",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1791363703,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "peee3vx",
+      "parent_id": "t3_1wzoqq5",
+      "author": "DifferencePublic7057",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791367328,
+      "body": "An ATM isn't a legal person. AFAIK a bank or an employee would be legal persons with the employee being a natural person or something. This is fine now with clear demarcation, but what if AI has more autonomy later on, potentially full autonomy? It's unprecedented... Something like the internet is unprecedented too. What's the legal status of an Internet meme? There's no reason why AI couldn't be a microprocess, only generating simple memes. With millions of those microprocesses it would be impossible to assign credit or blame."
+    }
+  ]
+}
