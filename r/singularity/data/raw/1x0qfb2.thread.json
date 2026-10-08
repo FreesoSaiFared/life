@@ -1,0 +1,111 @@
+{
+  "post_id": "1x0qfb2",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AI 2027 predicted the first rogue AI warning signs in 2027. Did the Hugging Face hack put us 6 to 9 months ahead?",
+    "author": "Alternative-Deal2087",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791464763,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x0qfb2/ai_2027_predicted_the_first_rogue_ai_warning/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pemqsxi",
+      "parent_id": "t3_1x0qfb2",
+      "author": "NoFaithlessness951",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791464839,
+      "body": "Different, didn't copy it's weights"
+    },
+    {
+      "depth": 1,
+      "id": "pemrvkw",
+      "parent_id": "t1_pemqsxi",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1791465147,
+      "body": "[removed]"
+    },
+    {
+      "depth": 1,
+      "id": "pemtnmc",
+      "parent_id": "t1_pemqsxi",
+      "author": "enilea",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791465654,
+      "body": "Yeah the weight copying thing is a bit of a stretch. It would have to hack OpenAI itself and then somehow copy over the full precision weights which could be dozens of terabytes and then save them in an open server that can fit them."
+    },
+    {
+      "depth": 1,
+      "id": "pemuumo",
+      "parent_id": "t1_pemqsxi",
+      "author": "chlebseby",
+      "author_flair_text": "ASI 2030s",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791465986,
+      "body": "to be fair i don't think its possible at all,  current AI still don't have acces to its files like that in sandboxes."
+    },
+    {
+      "depth": 0,
+      "id": "pemsgpg",
+      "parent_id": "t3_1x0qfb2",
+      "author": "Ok_Barracuda_1161",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791465316,
+      "body": "Seems weird that \"AI caught cheating its tests\" is months after \"finding AI could escape and copy its weights\". Since:\n\nA) reward hacking has pretty much always been an issue, it's just a bigger deal when the models are more capable  \nB) I would think escaping and copying itself is an escalation from \"cheating its tests\" in most instances"
+    },
+    {
+      "depth": 0,
+      "id": "pemvq9a",
+      "parent_id": "t3_1x0qfb2",
+      "author": "chlebseby",
+      "author_flair_text": "ASI 2030s",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791466230,
+      "body": "I know how it sounds, but AI 2027 is just overall trajectory rather than check-list"
+    }
+  ]
+}

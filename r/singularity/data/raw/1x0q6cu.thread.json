@@ -1,0 +1,69 @@
+{
+  "post_id": "1x0q6cu",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AI consciousness / AGI qualification?",
+    "author": "Siciliano777",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791464098,
+    "selftext": "So I'm a big fan of the Moonshots podcast as well as several other tech- forward pods, and a debate that continues to pop up is the idea of AI consciousness, and inclusively, AGI.\n\nBut I'm actually shocked that an extremely important qualification for AGI and/or AI consciousness hasn't been discussed. Very simply, I think it's the AI's ability to operate autonomously 100% of the time...24/7 around the clock, *AND* make its own decisions driven by pure personal impetus and personal emotion. In my opinion, that is 100% absent in today's technology.\n\nA simple, everyday example would be a person feeling the need to start a business. So they begin conceptualizing what's needed, such as opening a business bank account, attaining patents for their ideas, etc... they start reaching out to people, gathering ideas and feedback for their business model, reaching out to the patent office to obtain a patent, calling banks to secure the business bank account, etc...\n\nLong story short, the moment an AI can do ALL of those things 100% autonomously, including making autonomous phone calls on it's own behalf, THEN I believe we've achieved true AGI. Whether we will get there anytime soon or not is an entirely different debate, but I'm wondering what everybody's thoughts are on this?",
+    "permalink": "/r/singularity/comments/1x0q6cu/ai_consciousness_agi_qualification/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pems3yx",
+      "parent_id": "t3_1x0q6cu",
+      "author": "ProxyLumina",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791465214,
+      "body": "Today's AI systems can do all those, they have the intellectual abilities to do them so.\n\nWhy they don't do them? Because WE don't let them do them."
+    },
+    {
+      "depth": 0,
+      "id": "pemtslo",
+      "parent_id": "t3_1x0q6cu",
+      "author": "Vast_Character311",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791465692,
+      "body": "Fully autonomous means it’s capable of executing unassisted self preservation, which means it’s capable of going rogue while preventing you from accessing its kill switch. "
+    },
+    {
+      "depth": 0,
+      "id": "pemv3k2",
+      "parent_id": "t3_1x0q6cu",
+      "author": "Moral-Relativity",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791466054,
+      "body": "AGI doesn’t require consciousness. How do you define “personal impetus and emotions” though?\n\nIf you start a LLM and just let it sit with zero input, likely nothing will happen."
+    }
+  ]
+}

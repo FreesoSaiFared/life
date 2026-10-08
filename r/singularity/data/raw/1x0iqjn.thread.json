@@ -1,0 +1,55 @@
+{
+  "post_id": "1x0iqjn",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Australia outlines plans to make AI companies prove their safety systems work",
+    "author": "CutePattern1098",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791437445,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x0iqjn/australia_outlines_plans_to_make_ai_companies/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pekz0vg",
+      "parent_id": "t3_1x0iqjn",
+      "author": "unknownamigoo",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791437713,
+      "body": "There is an ai war between top global powers right now, this doesn't prevent anything, sadly."
+    },
+    {
+      "depth": 0,
+      "id": "pel70td",
+      "parent_id": "t3_1x0iqjn",
+      "author": "buuuurpp",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791441437,
+      "body": "Data laws 20 years behind, and they're on this ?  I doubt that.  What hope is there.  "
+    }
+  ]
+}

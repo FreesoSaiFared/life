@@ -1,0 +1,69 @@
+{
+  "post_id": "1x0nvdt",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Professional Meat-Proxy legal services",
+    "author": "Reddactor",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Economics & Society",
+    "created_utc": 1791456948,
+    "selftext": "Not just tasks performed for AI, but legal representation.",
+    "permalink": "/r/singularity/comments/1x0nvdt/professional_meatproxy_legal_services/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pem64on",
+      "parent_id": "t3_1x0nvdt",
+      "author": "IrisColt",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791457987,
+      "body": "**\"**Are you just a warm, salaried pipe between me and a chatbot?\"  \n  \n\"I add value. I delete the 'Certainly! Here's your report' part. Usually, heh\""
+    },
+    {
+      "depth": 0,
+      "id": "pem8c1z",
+      "parent_id": "t3_1x0nvdt",
+      "author": "enilea",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791458817,
+      "body": "Suggestion: this doesn't inspire trust at first sight, the website looks vibe coded which makes one think the people behind it will still use AI to take shortcuts. Instead it should be a super plain human coded site, like Ilya's SSI site or a lot of ML researcher's personal sites that are super plain."
+    },
+    {
+      "depth": 0,
+      "id": "pemfa88",
+      "parent_id": "t3_1x0nvdt",
+      "author": "No_Association4824",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791461278,
+      "body": "Not sure why the AI would trust the meat proxy not to steal 100% of the assets, rather than just take an 8% fee."
+    }
+  ]
+}
