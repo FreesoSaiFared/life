@@ -1,0 +1,111 @@
+{
+  "post_id": "1x149q9",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~15h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Claude Opus 5.5 Max leads on ClockBench - As of October 2026",
+    "author": "Acne_Discord",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791497169,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x149q9/claude_opus_55_max_leads_on_clockbench_as_of/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "peqdger",
+      "parent_id": "t3_1x149q9",
+      "author": "Fun-Alternative-9791",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791498040,
+      "body": "Will be satured before EOY."
+    },
+    {
+      "depth": 0,
+      "id": "peqis4o",
+      "parent_id": "t3_1x149q9",
+      "author": "Illustrious_Steak686",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791499649,
+      "body": "How is top human only 95%? The peak of human intelligence still fails to read a clock 5% of the time?\n\n"
+    },
+    {
+      "depth": 1,
+      "id": "peqnohs",
+      "parent_id": "t1_peqis4o",
+      "author": "Peach-555",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791501160,
+      "body": "Have not seen all of them, but I wager some of them are genuinely ambiguous."
+    },
+    {
+      "depth": 2,
+      "id": "peudr7k",
+      "parent_id": "t1_peqnohs",
+      "author": "No-Conclusion929",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791552056,
+      "body": "Genuinely?"
+    },
+    {
+      "depth": 0,
+      "id": "peqzsy7",
+      "parent_id": "t3_1x149q9",
+      "author": "CheekyBastard55",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791504948,
+      "body": "https://www.reddit.com/r/singularity/comments/1nadunq/clockbench_a_visual_ai_benchmark_focused_on/\n\n13 months ago when it was first released, top model scored 13.3%."
+    },
+    {
+      "depth": 0,
+      "id": "petl9ge",
+      "parent_id": "t3_1x149q9",
+      "author": "Solid_Sky_6411",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791542497,
+      "body": "Top human is not %95 it's %100 gimme the test"
+    }
+  ]
+}

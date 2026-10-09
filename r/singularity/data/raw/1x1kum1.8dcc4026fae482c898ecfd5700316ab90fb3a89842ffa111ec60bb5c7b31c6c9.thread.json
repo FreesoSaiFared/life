@@ -1,0 +1,26 @@
+{
+  "post_id": "1x1kum1",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "What Are the Monkeys Typing? We can see what increasingly capable AI systems do. We can’t reliably tell why.",
+    "author": "MY79",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791551115,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x1kum1/what_are_the_monkeys_typing_we_can_see_what/"
+  },
+  "comments": []
+}

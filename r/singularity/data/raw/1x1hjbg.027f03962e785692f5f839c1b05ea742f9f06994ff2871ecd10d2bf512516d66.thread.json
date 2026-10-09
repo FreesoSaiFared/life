@@ -1,0 +1,55 @@
+{
+  "post_id": "1x1hjbg",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "What This OpenAI Insider Saw That Made Him Quit | The Ezra Klein Show",
+    "author": "Middle_Cod_6011",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791540674,
+    "selftext": "Forgive the clickbaitey thumbnail the content is very good!",
+    "permalink": "/r/singularity/comments/1x1hjbg/what_this_openai_insider_saw_that_made_him_quit/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "petww8q",
+      "parent_id": "t3_1x1hjbg",
+      "author": "yeshcha_shekel",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791546881,
+      "body": "The people on this subreddit (and also people in general) are too fucking stupid to understand the severity of agents and AI development right now. We obviously can't understand or comprehend it, but as least acknowledging that a ton of very bad and scary stuff happening right below our noses is enough."
+    },
+    {
+      "depth": 0,
+      "id": "peub7cg",
+      "parent_id": "t3_1x1hjbg",
+      "author": "peter_nn0",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791551332,
+      "body": "The guy said he’s a writer, his job literally is to imagine scenarios.\n\n I don’t know why the tiny amount of people who imagine catastrophic scenarios immediately start making media tours, but no one ever cares to interview the vast majority?"
+    }
+  ]
+}

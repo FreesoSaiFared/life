@@ -1,0 +1,55 @@
+{
+  "post_id": "1x15vu9",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Atomic Machines claims to have developed a programmable factory for manufacturing microscopic machines",
+    "author": "jimmystar889",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Engineering",
+    "created_utc": 1791501573,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x15vu9/atomic_machines_claims_to_have_developed_a/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "peqyyck",
+      "parent_id": "t3_1x15vu9",
+      "author": "Mindrust",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791504681,
+      "body": "Meh, not a big fan of co-opting grandiose names for technologies like the Matter Compiler from Diamond Age when the device falls absurdly short of its original depiction.  It's still very far from Drexlerian nanotech, which would be the real \"Matter Compiler\".\n\nCool tech though"
+    },
+    {
+      "depth": 0,
+      "id": "pet5t8a",
+      "parent_id": "t3_1x15vu9",
+      "author": "Melantos",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791535287,
+      "body": "https://preview.redd.it/fwnvltdvleuh1.jpeg?width=1500&format=pjpg&auto=webp&s=59d29f8132906709524495a39373675b580ee8ae\n\nSo, a Grey Goo arrives just in time so that the next rogue swarm could convert all the humans' biomass into ~~paperclips~~ whatevers it wants!"
+    }
+  ]
+}
