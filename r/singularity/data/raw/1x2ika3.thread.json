@@ -1,0 +1,125 @@
+{
+  "post_id": "1x2ika3",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~21h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "OpenAI and Anthropic are only the tip of the iceberg",
+    "author": "Longjumping-Ad5084",
+    "score": 0,
+    "upvote_ratio": 0.3,
+    "num_comments": 6,
+    "link_flair_text": "AI",
+    "created_utc": 1791647377,
+    "selftext": "We have all witnessed the incredible success that came with the AI. It is so powerful that the entire economy is being restructured, jobs are disappearing. But that is only the commercial products that e have access to. \n\nIf AI is so powerful, can you even imagine what is going on behind the scenes ? Secret intelligence services, government projects, secret projects of mega corporations such as Google. idk about you but it frightens me. ",
+    "permalink": "/r/singularity/comments/1x2ika3/openai_and_anthropic_are_only_the_tip_of_the/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pf2fv68",
+      "parent_id": "t3_1x2ika3",
+      "author": "Mrp1Plays",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791647726,
+      "body": "openai and anthropic have the best models in the world. government doesn't have nearly as much competent people or research or compute. google is publicly traded, and clearly lacking behind. "
+    },
+    {
+      "depth": 1,
+      "id": "pf2h8a0",
+      "parent_id": "t1_pf2fv68",
+      "author": "RealSlyck",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791648096,
+      "body": "Government has access to the labs best.\n\nCan’t spell mathematics or computer science without NSA, hoss."
+    },
+    {
+      "depth": 2,
+      "id": "pf2hpbi",
+      "parent_id": "t1_pf2h8a0",
+      "author": "Mrp1Plays",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791648223,
+      "body": "their title is still wrong. oai and ant \\*are\\* the iceberg."
+    },
+    {
+      "depth": 2,
+      "id": "pf3ieuk",
+      "parent_id": "t1_pf2h8a0",
+      "author": "Putrid-Feeling-7622",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791657869,
+      "body": "not really, many government employees aren't even allowed to use Claude"
+    },
+    {
+      "depth": 0,
+      "id": "pf2fves",
+      "parent_id": "t3_1x2ika3",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1791647728,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pf2mm20",
+      "parent_id": "t3_1x2ika3",
+      "author": "_BlackDove",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791649555,
+      "body": "NRO had an autonomous imaging satellite capable of decision making based on patterns in the late 90s early 2000s.\n\n\nNot quite what we have today but not far off either."
+    },
+    {
+      "depth": 0,
+      "id": "pf2z5ip",
+      "parent_id": "t3_1x2ika3",
+      "author": "Ok_Warthog6007",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791652850,
+      "body": "if you were a country head it would make sense to start a secret manhattan project to build the most powerful ai. a model on the level of openai/anthropic latest that was actively trying to do war instead of putting limits of biological / warfare related things would probably be incredibly useful. \n\nmaybe about twenty countries are capable of matching the expenditure that openai and anthropic are able to. the investment in compute is out of reach for 90% of the world. i think 90% of the countries capable would be unable to muster the coordination for a manhattan project. \n\nyou have maybe a few countries doing this and secretly trying to build. there are definite benefits to this approach- no need to make a profit or release a consumer project, and a direct focus on the dangerous capablities like cyberwarfare. "
+    }
+  ]
+}
