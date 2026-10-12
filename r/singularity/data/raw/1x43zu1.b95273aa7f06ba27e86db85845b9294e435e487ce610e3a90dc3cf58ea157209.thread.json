@@ -1,0 +1,41 @@
+{
+  "post_id": "1x43zu1",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Quantum Genesis",
+    "author": "donutloop",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Compute",
+    "created_utc": 1791816854,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x43zu1/quantum_genesis/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pfgmz36",
+      "parent_id": "t3_1x43zu1",
+      "author": "DelphiTsar",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791818118,
+      "body": "Guy is trying to pump a stock. (wait for comment)\n\nThe news is one line about \"integrating quantum computing\" with AI. It also was from June/July. There was a \"science summit\" 10/8 but nothing of value worth reporting.\n\nThis doesn't belong here."
+    }
+  ]
+}

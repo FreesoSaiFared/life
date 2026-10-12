@@ -1,0 +1,111 @@
+{
+  "post_id": "1x3vj4z",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "What's your actual daily workflow with AI agents? Trying to figure out if I'm missing something.",
+    "author": "MangoTree-1233",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791790285,
+    "selftext": "What's your actual daily workflow with AI agents? Trying to figure out if I'm missing something.\n\nI've tried Muse, messed around with OpenClaw, watched the Dots and Grok Bot launches. Feels like a new one drops every week now.\n\nBut honestly I still do most stuff myself. I use ChatGPT for writing and random questions but I haven't really handed any agent a real recurring job.\n\nFor those of you who actually use one every day - what do you specifically have it doing? Not like \"helps with productivity\" but the actual thing. Like \"every monday it does X\" ya know?\n\nAnd what made you trust it enough for that? Was there a moment where it proved itself or did you just slowly give it more over time?\n\nGenuinely curious because I feel like I'm either missing the real use case or this whole category is still mostly hype.",
+    "permalink": "/r/singularity/comments/1x3vj4z/whats_your_actual_daily_workflow_with_ai_agents/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pfeolep",
+      "parent_id": "t3_1x3vj4z",
+      "author": "jesuispie",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791792902,
+      "body": "I build some digital products which my agents often work on through the night, so I can check their work and give them new things to do. I also let them give me updates on incoming e-mails (which messages did I forget to reply to, which things have I promised but not followed up yet, etc.)\n\nAnd I let them create, report on and optimize online campaigns. Once we get an overall pro-active agent (kinda like Muse or Dots) we’ll probably use that to manage our company’s project planning and similar tasks."
+    },
+    {
+      "depth": 1,
+      "id": "pfep1hk",
+      "parent_id": "t1_pfeolep",
+      "author": "MangoTree-1233",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791793126,
+      "body": "I was thinking wish it could become more pro-active like it should text me, or maybe ask my well beings and it should have the different profiles based on my professions like eg : im a software eng so in the work my task is around to the tech based workflow and at home my workflow should around the daily mundane task and errands. What do you think ? how proactive do think Muse or Dots are "
+    },
+    {
+      "depth": 2,
+      "id": "pfetv0l",
+      "parent_id": "t1_pfep1hk",
+      "author": "jesuispie",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791795576,
+      "body": "Yeah, totally agree, that would be the next big improvement in my opinion. I’ve tried Dots a little bit, seems to be on the low end of pro-activity for now, but I’m sure that will improve. Right now I’m doubting wether I should build an app that collects all my communications and projects and the let the Dot use it, or to just hand it all over to the Dot or some other kind of pro active AI. Not sure which way to go yet."
+    },
+    {
+      "depth": 0,
+      "id": "pfeswxe",
+      "parent_id": "t3_1x3vj4z",
+      "author": "IrisColt",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791795099,
+      "body": "If you dig deep beneath the surface and press your peers to reveal their workflows, you'll eventually come to the conclusion that 90% of them use automation for what this type of technological advancement has always been used for on the Internet: glorified spam. "
+    },
+    {
+      "depth": 0,
+      "id": "pff31lr",
+      "parent_id": "t3_1x3vj4z",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1791800110,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pfg4kwu",
+      "parent_id": "t3_1x3vj4z",
+      "author": "Longjumping-Stay7151",
+      "author_flair_text": "Hope for UBI but keep saving to survive AGI",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791813285,
+      "body": "I no longer write a single line of code for the past 6-12 months, instead I discuss what should be achieved and decide what to do with edge case scenarios (moreover the agent decides for me at that stage). And I aslo don't read a single line of code anymore for the past few months - once everything is done I just read through the decision list of what has changed and why, and then make the agent do fixes if I don't agree with something.\n\nI've set up a set of tools with claude code for myself so everything I do and every call I participate and every new message or notification is recorded and stored locally, so I no longer forget what I was asked to do or what I was working on for a day / week / month. I no longer have to write reports or do timescheets - claude does that for me.\n\nAnd in real life I constantly use claude code to research and find the best options to buy some items, e.g. with applying coupons, etc.\n\nNo matter what problem I have - I always go to a LLM. Health, personal finances, planning, routines, etc."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "post_id": "1x3yces",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Singularity is so close",
+    "author": "uuzif",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Meme",
+    "created_utc": 1791800994,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x3yces/singularity_is_so_close/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pff5oii",
+      "parent_id": "t3_1x3yces",
+      "author": "filthy_casual_42",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791801313,
+      "body": "The Toegularity is here"
+    },
+    {
+      "depth": 1,
+      "id": "pff65ko",
+      "parent_id": "t1_pff5oii",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1791801524,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pfgch07",
+      "parent_id": "t3_1x3yces",
+      "author": "BusinessYou7196",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791815414,
+      "body": "Gemini 3.8 Flash High thinking answered:\n\n\nIn the grand tradition of the internet’s universal rule—\"If it exists, it can run Bad Apple!!\"—the short answer is: biologically no, but with enough questionable engineering, absolutely yes.\n\nIf you want to do it right now, tape an Arduino and a 0.96\" OLED display to your toe. It is practically a rite of passage for hardware hobbyists, and your toe will join the proud ranks of graphing calculators, oscilloscopes, pregnancy tests, and bacterial Petri dishes."
+    }
+  ]
+}

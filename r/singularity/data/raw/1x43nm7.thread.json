@@ -1,0 +1,26 @@
+{
+  "post_id": "1x43nm7",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+    "author": "Recoil42",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Compute",
+    "created_utc": 1791816051,
+    "selftext": "*As we move into the era of Super Intelligence, Microsoft is entering a new phase of infrastructure. We will scale our Azure Maia family to multi-gigawatt deployments starting in 2027, making Maia the primary inference system for Microsoft products and services.*\n\n*The multigenerational Azure Maia program has become a foundational element of Microsoft’s AI infrastructure strategy. Maia 200 is now serving Microsoft production workloads, including Microsoft Copilot, and supporting the MAI team as they develop next-generation models, with GitHub Copilot and Microsoft Foundry to follow by end of year. Across these workloads, Maia 200 runs OpenAI models, Microsoft’s own MAI models and leading open-source model families. Insights from the scale of Microsoft’s AI services allow for unique co-design between hardware systems and software applications to optimize real-world use cases across enterprise applications and industry scenarios.*\n\n*Maia 300 is a complete intelligent system designed for the new types of AI workloads emerging today: Long-context reasoning, latency-sensitive conversational experiences and sustained, multi-step agentic tasks. By improving efficiency across the system, we expect Maia 300 to deliver 40% more tokens per megawatt compared to leading GPU-based systems. And in a full 96-accelerator configuration, it delivers up to 7x the rack-scale token throughput of Maia 200.*",
+    "permalink": "/r/singularity/comments/1x43nm7/microsoft_to_expand_azure_maia_system_to/"
+  },
+  "comments": []
+}

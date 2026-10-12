@@ -1,0 +1,69 @@
+{
+  "post_id": "1x3yb0m",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Everyone's building Jev projects for coding. I don't think that's what it's for.",
+    "author": "d3n2el",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1791800847,
+    "selftext": "Ever since Jev dropped I've been watching the projects around it. Almost all of them are coding. I keep coming back to the same conclusion: the pattern has nothing to do with coding.\n\nLet me start with the pattern. Jev's real role isn't generation. It sits inside a loop answering small, bounded questions. Which action. Which file. Keep or drop. Safe or not. Route to which model. What happens next. It doesn't write long text, and it doesn't do deep reasoning. The big models still own that. Jev only handles the judgment in between. Push that positioning one level further and the coding connection falls apart. The people building on Jev right now are all developers, and the first loop a developer builds is a coding loop. That's why every example you find is a coding one. There's a tool step in the middle of the loop. Swap that tool for docs, spreadsheets, CRM records, or email and the structure is identical. The total volume of those scenarios is much bigger than coding. It's just that nobody has built the repos for them yet.\n\nI see the skeleton of this as an agent with the judgment step carved out and made separate. Take WorkBuddy, the harness I use for my non-coding work. The role it plays is that loop. A document comes in. Something has to decide whether it's worth routing to the expensive model or whether the cheap path is enough. I give that decision to Jev. A row in a spreadsheet. Something has to decide whether a human needs to confirm it. Jev again. A message lands. Something has to decide which queue it goes to. Still Jev. After Jev answers, WorkBuddy decides what happens next: does it become a file, or does it wait for a human. They're not in the same position. Jev is the judgment node that gets called over and over inside the loop. WorkBuddy is the framework that carries the loop. Neither replaces the other. Model, Jev, skill, Jev, file or human, Jev, model. In WorkBuddy it's a skill with a trigger on it, and the output lands as a file. So the question has changed. Before, the question was how do you write this loop. Now the question is what belongs inside it.\n\nSo my take on Jev is simple. It's not a chatbot competitor. It's closer to a general-purpose semantic judgment function. You hand it a state and a bounded question, it hands back a probability, a score, or a set of options, and your software decides what to do with it. What actually determines the output of a setup like this isn't the model. It's the standards you put inside the loop.\n\nIf you're also moving loops like this into non-coding scenarios, I have one question. How do you decide which steps stay outside the loop? All I have so far is acceptance criteria.",
+    "permalink": "/r/singularity/comments/1x3yb0m/everyones_building_jev_projects_for_coding_i_dont/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pff6hzs",
+      "parent_id": "t3_1x3yb0m",
+      "author": "Over_Discount_6389",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791801675,
+      "body": "It's wild how fast the dev echo chamber took over the Jev conversation, I saw the exact same thing. Every demo was \"look it codes\" and I'm sitting there like cool but half my job is deciding if an email needs a 30 minute response or a 3 second one, that loop is way more common than writing a python script\n\n  \nThe way you framed it as a semantic judgment function clicks for me, been trying to explain that to my team. They keep wanting it to generate things and I'm like no, its job is to be the part of the brain that says \"nah don't bother the big model with this, it's spam\" or \"flag this one, human needs to see it\"\n\n  \nFor your question about what stays outside the loop, I'm still figuring that out too. Right now my rule of thumb is anything that needs a chain of thought or actual world knowledge gets the big model, Jev just handles the sorting hat stuff. But I've definitely messed up and let it make calls it shouldn't have, the acceptance criteria approach sounds smarter"
+    },
+    {
+      "depth": 0,
+      "id": "pffjs8u",
+      "parent_id": "t3_1x3yb0m",
+      "author": "grim-432",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791806912,
+      "body": "Seems far more useful for QA, especially of subjective LLM outputs."
+    },
+    {
+      "depth": 0,
+      "id": "pfgoqs8",
+      "parent_id": "t3_1x3yb0m",
+      "author": "Consistent-Paint7860",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791818560,
+      "body": "Thanks for posting this slop."
+    }
+  ]
+}
