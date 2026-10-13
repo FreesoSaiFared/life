@@ -1,0 +1,41 @@
+{
+  "post_id": "1x4xmw7",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Andrej Karpahty AI usage funnel by use cases.",
+    "author": "kknd1991",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1791900499,
+    "selftext": "Hope this help.",
+    "permalink": "/r/singularity/comments/1x4xmw7/andrej_karpahty_ai_usage_funnel_by_use_cases/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pghh2fi",
+      "parent_id": "t3_1x4xmw7",
+      "author": "More-Secret3587",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791900726,
+      "body": "I like this chart. Really shows the AI divide. Id say most of us on these subs are level 3 & 4 users."
+    }
+  ]
+}

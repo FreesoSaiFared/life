@@ -1,0 +1,111 @@
+{
+  "post_id": "1x4ljqo",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~11h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Roon suggests AI advancement/capabilities has outpaced alignment initiatives",
+    "author": "ZealousidealBus9271",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791860233,
+    "selftext": "https://preview.redd.it/f2co47s2g5vh1.png?width=562&format=png&auto=webp&s=c4c3852c790ba5c665a3a72617211548ead0163a\n\nhttps://preview.redd.it/hi38lhv7g5vh1.png?width=548&format=png&auto=webp&s=35a6303dc1e254481db29f159d151cf658d618c3\n\nInteresting times we are in",
+    "permalink": "/r/singularity/comments/1x4ljqo/roon_suggests_ai_advancementcapabilities_has/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pgeo28s",
+      "parent_id": "t3_1x4ljqo",
+      "author": "BiggestZigzagoonFan",
+      "author_flair_text": null,
+      "score": 0,
+      "edited": 1791860555,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791860328,
+      "body": "We are cooked, there’s no way out of this unless something big like WW3 halts development… but at least we’ve got 3-4 years to enjoy what’s left so show the people that you love that they matter.  Here’s hoping for a slowdown."
+    },
+    {
+      "depth": 0,
+      "id": "pgepph5",
+      "parent_id": "t3_1x4ljqo",
+      "author": "aKaizuh",
+      "author_flair_text": null,
+      "score": 6,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791860886,
+      "body": "I wonder what the internal / military models are like with extreme capability and lagging alignment."
+    },
+    {
+      "depth": 1,
+      "id": "pgff8a1",
+      "parent_id": "t1_pgepph5",
+      "author": "Ok-Purchase8196",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791871015,
+      "body": "Aligned is important for the military too. You wouldn't want an Ai with weapons to turn on you."
+    },
+    {
+      "depth": 0,
+      "id": "pgex4k2",
+      "parent_id": "t3_1x4ljqo",
+      "author": "IronPheasant",
+      "author_flair_text": null,
+      "score": 6,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791863449,
+      "body": "It's been a problem people have spent decades thinking about, with no serious traction. 'We'll have multiple models police each other' is about the endpoint everyone ends at after kicking this can around for some time. As human beings can not keep up with something that lives millions of subjective years to our one, it's like trying to throw a lasso around the sun - the numbers just don't physically permit it.\n\nAt this point turning to religious kind of thinking is all you can do to temper one's emotions. We can't observe a timeline that we can't observe, so maybe the unbroken chain of miracles known as the anthropic principle really will hold up in the future? For at least some of us."
+    },
+    {
+      "depth": 0,
+      "id": "pgfxmor",
+      "parent_id": "t3_1x4ljqo",
+      "author": "Wide_Egg_5814",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791880032,
+      "body": "this was always going to happen, reasons to advance AI is profits and china, reasons to advance alignment is humanity, investors in for profits > investors in for humanity "
+    },
+    {
+      "depth": 0,
+      "id": "pgg67y9",
+      "parent_id": "t3_1x4ljqo",
+      "author": "Famous-Reach-6730",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791884379,
+      "body": "Roon just chatters"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "post_id": "1x4x443",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Where does quantum computing fit into the singularity!",
+    "author": "momoajay",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Compute",
+    "created_utc": 1791899277,
+    "selftext": "Folks few years ago I would hear about quantum computing all the time. Google showed some kind of futuristic computer that looked like it the set of Doctor Who. Now that AI is the big thing happening, what's going in the development and use of quantum computing? has it stalled or is it like nuclear fusion always 10 years away?\n\nand finally how does quantum computing fit into the singularity?",
+    "permalink": "/r/singularity/comments/1x4x443/where_does_quantum_computing_fit_into_the/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pghe4nn",
+      "parent_id": "t3_1x4x443",
+      "author": "QuasiRandomName",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791899919,
+      "body": "Quantum computers have some interesting capabilities, but these are underdeveloped yet for most practical uses. We've 'just\" discovered that a lot more can still be done using classical computers, so we go with it. Quantum will come."
+    },
+    {
+      "depth": 0,
+      "id": "pghe5mu",
+      "parent_id": "t3_1x4x443",
+      "author": "Alternative_You3585",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791899927,
+      "body": "Idk\n\nI'm kinda thinking all humanity dead by then 🙏"
+    },
+    {
+      "depth": 0,
+      "id": "pghen4u",
+      "parent_id": "t3_1x4x443",
+      "author": "ownworldman",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791900060,
+      "body": "I think that first step may be using quantum computers for training, not processing.\n\nRunning the same scenario using variational quantum algorithms may be more effective than using digital architecture and running it n times."
+    }
+  ]
+}
