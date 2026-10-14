@@ -1,0 +1,26 @@
+{
+  "post_id": "1x5nvyf",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "How I predict LLM catastrophes will happen in major countries",
+    "author": "StayAwayFromXX",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Singularity is Nearer",
+    "created_utc": 1791974407,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x5nvyf/how_i_predict_llm_catastrophes_will_happen_in/"
+  },
+  "comments": []
+}

@@ -1,0 +1,41 @@
+{
+  "post_id": "1x5oe17",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Demis Hassabis: AI could cause 'major' incidents within 2 years without safeguards",
+    "author": "TorturedPoet30",
+    "score": 2,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791976156,
+    "selftext": "AI systems could cause \"major\" incidents within two years without adequate steps to make them safe as capabilities grow, Demis Hassabis says. Speaking at an AI conference in Dublin he described recent incidents as \"early warning shots\" fired by systems that \"aren't that powerful yet\". \n\n\"So the incidents aren't that major, but they could be looking into next year and the next couple of years if we don't do more work as an industry and individually as companies and governments on securing these systems\".\n\nI watched the fireside chat stream here [https://www.youtube.com/watch?v=MrHTVWQkmkE](https://www.youtube.com/watch?v=MrHTVWQkmkE) \n\nSide note, Demis is still using AI term instead of SI :D ",
+    "permalink": "/r/singularity/comments/1x5oe17/demis_hassabis_ai_could_cause_major_incidents/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pgo0tiy",
+      "parent_id": "t3_1x5oe17",
+      "author": "bartskol",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791976311,
+      "body": "Next year 100%"
+    }
+  ]
+}

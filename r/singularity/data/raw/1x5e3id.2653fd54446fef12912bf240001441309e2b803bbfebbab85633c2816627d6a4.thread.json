@@ -1,0 +1,55 @@
+{
+  "post_id": "1x5e3id",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~11h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Software engineer job interviews these days",
+    "author": "icompletetasks",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Meme",
+    "created_utc": 1791939928,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x5e3id/software_engineer_job_interviews_these_days/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pgn86xi",
+      "parent_id": "t3_1x5e3id",
+      "author": "AbbreviationsBest858",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791962688,
+      "body": "Me with two Max x20"
+    },
+    {
+      "depth": 0,
+      "id": "pgn9g3r",
+      "parent_id": "t3_1x5e3id",
+      "author": "gekx",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791963320,
+      "body": "That's why I have Codex as a backup. And in case of disaster, Qwen 3.8 local. "
+    }
+  ]
+}

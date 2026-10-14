@@ -1,0 +1,26 @@
+{
+  "post_id": "1x5nvcq",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AI security fixes in the Linux kernel and a brave new world. (=Project Glasswing)",
+    "author": "MarkoMarjamaa",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791974344,
+    "selftext": "(original in Finnish, translated with Clade)  \nI’ve now been following for a while how CVE bugs get fixed in the Linux kernel, now that AI is going through the code in bulk. My script goes weekly to fetch all published CVEs, when they were fixed, and when the bug was introduced. The first chart is slightly outdated data, but its point is only to show how many bugs have been found compared to the normal level.\n\nFixes are not published immediately; they are first allowed to trickle out to users quietly, so that hackers don’t have time to get in between. From going through these, it looks like on average half of the fixes are published within the first two months, and all of them within three months. Actually the fix is committed immediately, the cve stays hidden for a while. \n\nWhat interests me here is at what point there are no more bugs, and none will appear. Of course I understand that the language models currently in use only find bugs according to their own skill level, so it’s possible that better models will find even more. Still, I don’t believe security holes in software are a law of nature, but that it’s possible to build a hole-free program. After all, the starting point is to first build the simplest possible program and add features to it. Is there some threshold in a program’s complexity beyond which security holes become inevitable? I don’t believe so.\n\nThe second picture requires a bit of explanation and also some understanding from the reader. It shows, over the last couple of weeks, the cumulative reported fixes per week by time of introduction. So when moving forward in time one week at a time, the appearance of new bugs should also move forward. It should look in the picture as if a snowplow were moving forward one week at a time. However, now it looks like the four weeks of data show that the latest bugs stop at August, i.e. no bug has been reported from September at all, and if the earlier estimates that half of the bugs are reported within two months hold, then the August + September bugs are already very small in number, and the curve shows that zero is being approached.\n\nIt's even clearer when I list the amount of cves that's been released to public in last for weeks: 600, 604, 30, 1. So is this the end? Next week zero? Exciting times. \n\nOf course, one can raise questions such as whether, for example, the NSA has used US legislation to collect the juiciest holes for its own use. But on the other hand, that would only be a moment in history, because AI is still developing rapidly and open models are also capable of finding bugs, and will be even better in the future. Some other party, hopefully even the EU, will run the same check and patch the holes the NSA left. In fact, precisely because of this rapid AI development, it wouldn’t even be worthwhile for the NSA to leave those holes now, because it could only take a couple of months they could be discovered by next level AIs. \n\nI’m writing this because the world is changing, and people don’t always notice change. In a couple of years someone may ask why security updates no longer come. Well, because the code was reviewed, the holes were plugged, and all new code goes through the same sieve before it is released. Remember, Anthropic and OpenAI use the same Linux for their own systems and it's in their best interests that also systems they use testing their new models are robust systems. \n\nThis may also have longer-term effects, because e.g. upgrades of Windows to newer versions are often justified by saying that old versions no longer get security updates, and this keeps the wheel turning. What if there is no need to upgrade because of security updates? How will that affect Windows’ position, when even the Win10 to Win11 transition has been sluggish?",
+    "permalink": "/r/singularity/comments/1x5nvcq/ai_security_fixes_in_the_linux_kernel_and_a_brave/"
+  },
+  "comments": []
+}

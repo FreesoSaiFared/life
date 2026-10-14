@@ -1,0 +1,97 @@
+{
+  "post_id": "1x5nsop",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "How would solving aging play out?",
+    "author": "limremon",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Biotech/Longevity",
+    "created_utc": 1791974073,
+    "selftext": "Let's say at some point, AI does manage to create a treatment to preserve or reverse biological aging. How does it play out in the news, the media and in society? How would anyone even know it works for the first few decades until the trial patients have stopped aging? ",
+    "permalink": "/r/singularity/comments/1x5nsop/how_would_solving_aging_play_out/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pgnwxzl",
+      "parent_id": "t3_1x5nsop",
+      "author": "MaleficentTry1316",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791974748,
+      "body": "We wouldn't know until the trial patients indeed stopped aging. "
+    },
+    {
+      "depth": 0,
+      "id": "pgnzlsr",
+      "parent_id": "t3_1x5nsop",
+      "author": "Fair_Horror",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791975829,
+      "body": "I imagine the government would offer the treatment to people over a certain age first and then lower that age gradually to prevent a flood of people all scrambling to get it. \n\nThere are various age markers that can be monitored to confirm that age is being reversed. Ultimately the proof will be in people gradually getting younger in appearance and behaviour. \n\nUnless there are cures for other terminal illnesses, I expect some people to still die unfortunately. Hopefully AI will already be working on those cures."
+    },
+    {
+      "depth": 1,
+      "id": "pgo1nfw",
+      "parent_id": "t1_pgnzlsr",
+      "author": "EGarrett28",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791976633,
+      "body": ">I imagine the government would offer the treatment to people over a certain age first and then lower that age gradually to prevent a flood of people all scrambling to get it. \n\nGood point. It would probably be rolled out (if it was in limited supply) in reverse order to people starting with the oldest."
+    },
+    {
+      "depth": 0,
+      "id": "pgo1dmq",
+      "parent_id": "t3_1x5nsop",
+      "author": "EGarrett28",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791976528,
+      "body": "There's reason to believe that if you stop the cell-damaging process of aging, the cells actually will repair themselves back to their prime state, so you would see people age in reverse. Not just stay where they are.\n\nCrazy stuff, but it's apparently true."
+    },
+    {
+      "depth": 0,
+      "id": "pgo68z5",
+      "parent_id": "t3_1x5nsop",
+      "author": "BambooShanks",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791978362,
+      "body": "If a treatment stops aging, it will take 5-10 before the trials should show results.\n\nIf it reverses aging, the results should be apparent within much less time.\n\nFor the wider implications - \n\nIt would either need to be incredibly expensive to preserve existing power structures and restrict it's availability to the 'elites'\n\nor\n\nif (eventually) accessible to the average person, it would require a fundamental change to how fertility and the population is managed\n\nThe unintended consequences will be vast and unpredictable. "
+    }
+  ]
+}

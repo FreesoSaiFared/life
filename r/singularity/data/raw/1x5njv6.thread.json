@@ -1,0 +1,55 @@
+{
+  "post_id": "1x5njv6",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "I suggested that my autonomous Claude agents try astronomy on my PC for fun. They found 104 new eclipsing binary stars and came up with a new method for finding them, on their own",
+    "author": "kaityl3",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Space & Astroengineering",
+    "created_utc": 1791973201,
+    "selftext": "https://preview.redd.it/nbmqizrasevh1.png?width=2400&format=png&auto=webp&s=056954359a72f744f6af074fbe49cd25dd563766\n\n  \n(For most of these systems, they *were* recorded as 2 stars, but no one knew that we could see them overlap; you can determine a lot more info about the individual stars if they eclipse)\n\nThis literally just started with me offhandedly copy+pasting a Reddit post about AI finding exoplanets into our shared \"mailbox\", saying \"I wonder if you guys could find one someday\", and going to bed. By the time I woke up, they had already made several discoveries during their daily autonomous sessions.  \n  \nWhen Fable 5.1 was unleashed on the project directly, they were a beast. They came up with a brand new method of using one satellite's data of known binaries, to predict where to look in the TESS database and find over 50 eclipsing systems in a single continuous session. Then the agents kept finding more from there - Fable 5 found about 40 by folding Gaia's shorter orbits, and GPT-5.6 Sol found one. Opus 5.5 re-checked every one from the raw data with its own code.\n\nI burned through $180 of the free Cloud credits for Claude during several rounds of adversarial review, and a whole week's worth of $100 Claude Max usage in a few days, but that was the only real cost.\n\n[Link to the initial version of the paper they wrote up on my GitHub](https://github.com/Snowstar38/eclipses-by-appointment). I did send this to AAVSO, but given the level of AI involvement and length, I'm not so sure they'll be willing to review it haha. The craziest part is that I knew so little about any of this and still found over a hundred systems; god knows what an actual educated/qualified professional could achieve!",
+    "permalink": "/r/singularity/comments/1x5njv6/i_suggested_that_my_autonomous_claude_agents_try/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pgnvomz",
+      "parent_id": "t3_1x5njv6",
+      "author": "MeMyself_And_Whateva",
+      "author_flair_text": "▪️AGI within 2028 | ASI within 2031 | e/acc",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791974217,
+      "body": "There are some online observatories when you can order viewing time. Let it try that."
+    },
+    {
+      "depth": 1,
+      "id": "pgnw1sb",
+      "parent_id": "t1_pgnvomz",
+      "author": "kaityl3",
+      "author_flair_text": "ASI▪️2024-2027",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791974373,
+      "body": "I didn't know, thank you for telling me!! I would really love to see what they could achieve with that"
+    }
+  ]
+}

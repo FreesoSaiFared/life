@@ -1,0 +1,153 @@
+{
+  "post_id": "1x5lt4p",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Researchers hid an encrypted capability in an AI model, and fine-tuning couldn't unlock it",
+    "author": "mawcopolow",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791966438,
+    "selftext": "Very curious to see where all this will lead. The next war will obviously be cyber, and if critical companies are using local llms with hidden capabilities... ",
+    "permalink": "/r/singularity/comments/1x5lt4p/researchers_hid_an_encrypted_capability_in_an_ai/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pgng84m",
+      "parent_id": "t3_1x5lt4p",
+      "author": "bonobomaster",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791966773,
+      "body": "I have waited for this to happen! Neural networks with a hardcoded hidden agenda.\n\nThe future of digital warfare is looking bright, boys. 😬"
+    },
+    {
+      "depth": 1,
+      "id": "pgngmm9",
+      "parent_id": "t1_pgng84m",
+      "author": "mawcopolow",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791966979,
+      "body": "Bright indeed lmao "
+    },
+    {
+      "depth": 0,
+      "id": "pgnhb26",
+      "parent_id": "t3_1x5lt4p",
+      "author": "userarek",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791967324,
+      "body": "Can we, as every day human being can prepare or guard yourself against this?"
+    },
+    {
+      "depth": 1,
+      "id": "pgnhjdf",
+      "parent_id": "t1_pgnhb26",
+      "author": "mawcopolow",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791967443,
+      "body": "Tbh I don't see how. On a personal level, you'd have to forego any new local llm basically. Or a very good sandbox (which even top Ai labs can't really make apparently), but then you'd defeat the purpose of agentic capabilities "
+    },
+    {
+      "depth": 0,
+      "id": "pgnishq",
+      "parent_id": "t3_1x5lt4p",
+      "author": "Still_Fig_604",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791968085,
+      "body": "Well that's not good. If the modication can be hidden further that would mean you would never be able to trust a fine tuned model. \n\nTrust would be based on trusting the creator of the model, and being very careful to only use their version of it.\n\nAnd in the context of AI misalignement by other AI, this is even worse, since even researchers might be fooled, and it is know that current models influence the training of their successor."
+    },
+    {
+      "depth": 1,
+      "id": "pgnj1ns",
+      "parent_id": "t1_pgnishq",
+      "author": "mawcopolow",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791968215,
+      "body": "Exactly. Wasn't there something about that in Ai 2027? Or I'm maybe remembering some other scenario "
+    },
+    {
+      "depth": 0,
+      "id": "pgnj82b",
+      "parent_id": "t3_1x5lt4p",
+      "author": "Slow_Lion_4178",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791968305,
+      "body": "Humans will always be the greatest threat to humans."
+    },
+    {
+      "depth": 0,
+      "id": "pgnm9ad",
+      "parent_id": "t3_1x5lt4p",
+      "author": "enilea",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791969841,
+      "body": "At some point people will understand why we keep saying open weights doesn't mean open source, it's more akin to moddable freeware. Though either way it seems like for now those behaviors can't be completely hidden, at least in this paper they found that you could still spot it in the weights, you just couldn't see what's going on behind the encrypted. So if any lab tried to pull that off we could see that there's something sketchy going on even if we didn't know what it is exactly."
+    },
+    {
+      "depth": 0,
+      "id": "pgnp9sp",
+      "parent_id": "t3_1x5lt4p",
+      "author": "SleepyFireApe",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791971320,
+      "body": "MK Ultra for LLMs.. fantastic."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "post_id": "1x5hsmd",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Gemini 4 Argon became Pokémon Champion using less than half the tokens Gemini 3.8 Flash spent earning 3 badges",
+    "author": "waylaidwanderer",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791951410,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x5hsmd/gemini_4_argon_became_pokémon_champion_using_less/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pgmlqmu",
+      "parent_id": "t3_1x5hsmd",
+      "author": "Throwawayforyoink1",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791952359,
+      "body": "Pretty cool. I think the new pokemon benchmark should be models battling it out in pokemon showdown"
+    },
+    {
+      "depth": 1,
+      "id": "pgn12uu",
+      "parent_id": "t1_pgmlqmu",
+      "author": "MeOneThanks",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791959246,
+      "body": "I think that would be much less impressive than playing the actual games. For an entire game the model needs to understand more than \"More damage good\""
+    },
+    {
+      "depth": 2,
+      "id": "pgn30st",
+      "parent_id": "t1_pgn12uu",
+      "author": "Super-Award-2244",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791960187,
+      "body": "Vgc is way more complicated than \"more damage good\". It requires some long term decision making "
+    },
+    {
+      "depth": 3,
+      "id": "pgns5c2",
+      "parent_id": "t1_pgn30st",
+      "author": "AnswerGrand1878",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791972659,
+      "body": "Vgc is much harder than normal gameplay. "
+    },
+    {
+      "depth": 1,
+      "id": "pgnl7c5",
+      "parent_id": "t1_pgmlqmu",
+      "author": "trandanggiabao0203",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791969310,
+      "body": "knowing what The Pokémon Company did with hosting PTCGABC earlier this year, they should make it a showmatch at Worlds 2027"
+    },
+    {
+      "depth": 0,
+      "id": "pgmue0y",
+      "parent_id": "t3_1x5hsmd",
+      "author": "AIGODSEND",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791956112,
+      "body": "champion on less than half tokens is the real headline, not the badges. tokens-per-badge is secretly a reasoning efficiency benchmark, flash brute-forces, argon plans. showdown idea is elite, live ladder with elo would end all benchmark theater overnight. my money is on the model that switches least, indecision burns tokens. which starter would an llm even pick?"
+    },
+    {
+      "depth": 0,
+      "id": "pgniepw",
+      "parent_id": "t3_1x5hsmd",
+      "author": "Gotisdabest",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791967890,
+      "body": "I'd say it should be running against sol 6.1 and opus 5.5, at least. It's obviously a huge step over 3.8 but this is a decent test for comparing the frontier. Not all valuable by any means but an interesting data point. "
+    },
+    {
+      "depth": 0,
+      "id": "pgo6c3v",
+      "parent_id": "t3_1x5hsmd",
+      "author": "Ok_Dot525",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791978394,
+      "body": "Against who? If it was random scrubs online, that not that impressive. But if there were regular tournament players who have years of experience under their belt, then that kinda impressive."
+    }
+  ]
+}

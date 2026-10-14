@@ -1,0 +1,111 @@
+{
+  "post_id": "1x55qs2",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Gemini 4 Argon - 1M token max output",
+    "author": "BeefHotSweetDipped",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1791918608,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x55qs2/gemini_4_argon_1m_token_max_output/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pgjhdrl",
+      "parent_id": "t3_1x55qs2",
+      "author": "[deleted]",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": true,
+      "created_utc": 1791918639,
+      "body": "[removed]"
+    },
+    {
+      "depth": 0,
+      "id": "pgjq33s",
+      "parent_id": "t3_1x55qs2",
+      "author": "Distinct-Question-16",
+      "author_flair_text": "▪️AGI 2029",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791920752,
+      "body": "its even a power of 2 for max speed triage"
+    },
+    {
+      "depth": 0,
+      "id": "pgjzeez",
+      "parent_id": "t3_1x55qs2",
+      "author": "Super-Award-2244",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791923014,
+      "body": "Finally. I remember Google bragging about 1M context window when 2.5 came out, but it was nowhere to be seen"
+    },
+    {
+      "depth": 1,
+      "id": "pgk8y98",
+      "parent_id": "t1_pgjzeez",
+      "author": "Nenad1979",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791925391,
+      "body": "You mean output? g2.5 had a 2mil context window"
+    },
+    {
+      "depth": 2,
+      "id": "pgltm0y",
+      "parent_id": "t1_pgk8y98",
+      "author": "CheekyBastard55",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791942362,
+      "body": "1.5 Pro"
+    },
+    {
+      "depth": 0,
+      "id": "pgnu803",
+      "parent_id": "t3_1x55qs2",
+      "author": "RichDad2",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791973575,
+      "body": "They have output of max 65536. After it is full, they take that output, attach to your prompt and feed back into the system.\n\nSo it is not acutally \"1M output\", that is \"1M total = input + output\". That means if your prompt is already close to 1M, then result would be 1M minus your prompt."
+    }
+  ]
+}
