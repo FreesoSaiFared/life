@@ -1,0 +1,41 @@
+{
+  "post_id": "1x6g7in",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "At a cost of $2000, doubleAI claims to have solved a long unsolved mathematical problem, the Longest Path problem in Graph theory. The solution could have practical value in correcting errors and accelerating calculations in a quantum computer.",
+    "author": "Regular_Post9884",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792053099,
+    "selftext": "For more about it. [https://x.com/\\_doubleAI\\_/status/2107554526563606600](https://x.com/_doubleAI_/status/2107554526563606600) ",
+    "permalink": "/r/singularity/comments/1x6g7in/at_a_cost_of_2000_doubleai_claims_to_have_solved/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pguzaw7",
+      "parent_id": "t3_1x6g7in",
+      "author": "MeOneThanks",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792053138,
+      "body": "Now do shortest path"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "post_id": "1x5w9p8",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~19h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Machine, Assemble, Repair: How We Build Atlas | Boston Dynamics",
+    "author": "141_1337",
+    "score": 7,
+    "upvote_ratio": 0.73,
+    "num_comments": 1,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1791996279,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x5w9p8/machine_assemble_repair_how_we_build_atlas_boston/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pgqb2rt",
+      "parent_id": "t3_1x5w9p8",
+      "author": "jimmcq",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1791999056,
+      "body": "How long until that factory is all robot workers with no humans?"
+    },
+    {
+      "depth": 1,
+      "id": "pgtszbd",
+      "parent_id": "t1_pgqb2rt",
+      "author": "LegionsOmen",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792034397,
+      "body": "12 months from now"
+    },
+    {
+      "depth": 0,
+      "id": "pgqu91f",
+      "parent_id": "t3_1x5w9p8",
+      "author": "GhostsinGlass",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792003688,
+      "body": "I have never seen one of their robots, other than the dog, outside of a Boston Dynamics video.\n\nWho are these being sold to? Not being a snarky shitbird, I mean I'm honestly curious where they have been going."
+    }
+  ]
+}
