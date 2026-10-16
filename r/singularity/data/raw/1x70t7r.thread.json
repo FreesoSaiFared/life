@@ -1,0 +1,41 @@
+{
+  "post_id": "1x70t7r",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~12h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "NEURA Robotics just launched Neuron AI, a model that merges 3D vision, touch, audio, state, and language with memory into one Perception-Language-Action system, so robots can react to things they can't see or lose",
+    "author": "Distinct-Question-16",
+    "score": 9,
+    "upvote_ratio": 0.9090909090909091,
+    "num_comments": 2,
+    "link_flair_text": "Robotics",
+    "created_utc": 1792106755,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x70t7r/neura_robotics_just_launched_neuron_ai_a_model/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "ph0gpaq",
+      "parent_id": "t3_1x70t7r",
+      "author": "grahag",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792110674,
+      "body": "That's kind of the holy grail that will enable robots to function as well as a human in varied environments. Lets see if it pans out."
+    }
+  ]
+}

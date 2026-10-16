@@ -1,0 +1,97 @@
+{
+  "post_id": "1x7avu3",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AA-AgentPerf: Vera Rubin leads on inference energy efficiency",
+    "author": "Balance-",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Compute",
+    "created_utc": 1792140005,
+    "selftext": "Artificial Analysis's AA-AgentPerf benchmarks inference hardware by replaying real coding-agent trajectories, which include long contexts, tool-call pauses and heavy KV-cache reuse. It plots total server throughput per megawatt of GPU-only power against p25 per-request output speed. Across all four tested models (DeepSeek V4.1 Flash, DeepSeek V4 Pro 0813, Kimi K3 and GLM-5.2/5.3), NVIDIA's Vera Rubin sits on top of the frontier at nearly every speed.",
+    "permalink": "/r/singularity/comments/1x7avu3/aaagentperf_vera_rubin_leads_on_inference_energy/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "ph2pigt",
+      "parent_id": "t3_1x7avu3",
+      "author": "chlebseby",
+      "author_flair_text": "ASI 2030s",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792142550,
+      "body": "What is the horizontal axis?"
+    },
+    {
+      "depth": 1,
+      "id": "ph2tffp",
+      "parent_id": "t1_ph2pigt",
+      "author": "Balance-",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792144427,
+      "body": "Tokens per second. Sorry, it got cut off some way."
+    },
+    {
+      "depth": 0,
+      "id": "ph2ravr",
+      "parent_id": "t3_1x7avu3",
+      "author": "dinfinity88",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792143421,
+      "body": "[https://artificialanalysis.ai/hardware-inference-stack/datacenter](https://artificialanalysis.ai/hardware-inference-stack/datacenter)"
+    },
+    {
+      "depth": 0,
+      "id": "ph2x9yq",
+      "parent_id": "t3_1x7avu3",
+      "author": "Fast-Satisfaction482",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792146173,
+      "body": "It would be nice to have labeled axes for this to have any meaning."
+    },
+    {
+      "depth": 0,
+      "id": "ph32xhv",
+      "parent_id": "t3_1x7avu3",
+      "author": "Bitter-College8786",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792148577,
+      "body": "How long will it take until it affects token prices for us?"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "post_id": "1x7b3cx",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "100 images to represent humanity, as if aliens were going to find them",
+    "author": "dx8xb",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI Generated Media ",
+    "created_utc": 1792140843,
+    "selftext": "I asked Argon to represent humanity in 100 images. Cave paintings, iconic art, moon landings, human feelings and historic moments, all made with JavaScript and p5.brush.\n\n\n\nChatGPT helped orchestrate it. Claude handled editing and syncing the video to music made with Suno.\n\n\n\nSome take a moment to recognize. How many can you spot? Watch with audio.\n\n\n\nMore details: [https://x.com/pbshgthm/status/2110725249134436752](https://x.com/pbshgthm/status/2110725249134436752)",
+    "permalink": "/r/singularity/comments/1x7b3cx/100_images_to_represent_humanity_as_if_aliens/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "ph2mi0k",
+      "parent_id": "t3_1x7b3cx",
+      "author": "dx8xb",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792141053,
+      "body": "More details on how I made this: [https://poobesh.com/humanity](https://poobesh.com/humanity)"
+    },
+    {
+      "depth": 0,
+      "id": "ph2n7g4",
+      "parent_id": "t3_1x7b3cx",
+      "author": "emb1ues",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792141406,
+      "body": "I think NASA/Carl Sagan absolutely nailed it! \n\nhttps://en.wikipedia.org/wiki/Voyager_Golden_Record"
+    },
+    {
+      "depth": 1,
+      "id": "ph2ncvo",
+      "parent_id": "t1_ph2n7g4",
+      "author": "dx8xb",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792141483,
+      "body": "It mentions the golden record too in the video "
+    },
+    {
+      "depth": 0,
+      "id": "ph2tlna",
+      "parent_id": "t3_1x7b3cx",
+      "author": "Unusual-Field-4245",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792144507,
+      "body": "no"
+    },
+    {
+      "depth": 0,
+      "id": "ph2v1tw",
+      "parent_id": "t3_1x7b3cx",
+      "author": "ramdom-ink",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792145170,
+      "body": "Brilliant! I just wish the images lasted longer "
+    },
+    {
+      "depth": 1,
+      "id": "ph2v64c",
+      "parent_id": "t1_ph2v1tw",
+      "author": "dx8xb",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792145224,
+      "body": "You can check the link I had shared for the detailed artworks "
+    },
+    {
+      "depth": 0,
+      "id": "ph2zifk",
+      "parent_id": "t3_1x7b3cx",
+      "author": "_BlackDove",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792147159,
+      "body": "At some point an *alien* will view these, only it will essentially be viewing the series of events that ultimately lead to its birth."
+    }
+  ]
+}

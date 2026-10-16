@@ -1,0 +1,26 @@
+{
+  "post_id": "1x788be",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Update-Aware Reasoning in GLM-5.3: Training & Alignment Faking",
+    "author": "Proper_Actuary2907",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792130002,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x788be/updateaware_reasoning_in_glm53_training_alignment/"
+  },
+  "comments": []
+}

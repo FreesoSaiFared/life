@@ -1,0 +1,97 @@
+{
+  "post_id": "1x71sgi",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~11h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Hyperoptimized Engineer 2026",
+    "author": "skilliard7",
+    "score": 20,
+    "upvote_ratio": 0.8846153846153846,
+    "num_comments": 1,
+    "link_flair_text": "AI",
+    "created_utc": 1792109444,
+    "selftext": "sample text",
+    "permalink": "/r/singularity/comments/1x71sgi/hyperoptimized_engineer_2026/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "ph1dirt",
+      "parent_id": "t3_1x71sgi",
+      "author": "LegionsOmen",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792121077,
+      "body": "Lol, I want that desk so bad"
+    },
+    {
+      "depth": 0,
+      "id": "ph1km9l",
+      "parent_id": "t3_1x71sgi",
+      "author": "dinfinity88",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792123604,
+      "body": "This is the way.\n\nAlso: Yes at the monitor setup! I don't know why people prefer dual-monitor setups over this."
+    },
+    {
+      "depth": 0,
+      "id": "ph1sg6z",
+      "parent_id": "t3_1x71sgi",
+      "author": "SilverBoko",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792126732,
+      "body": "I hate that I understand everything he’s saying."
+    },
+    {
+      "depth": 1,
+      "id": "ph2m0ph",
+      "parent_id": "t1_ph1sg6z",
+      "author": "Mistuv",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792140810,
+      "body": "Uncomfortably close. 😭 Even told my gf last week that chair is simultaneously something I desire but would  simultaneously lose all self respect for myself if I ever got it. Sometimes bit of friction is good, otherwise you eventually lose sane perspective."
+    },
+    {
+      "depth": 0,
+      "id": "ph2h7gl",
+      "parent_id": "t3_1x71sgi",
+      "author": "anaIconda69",
+      "author_flair_text": "AGI felt internally 😳",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792138372,
+      "body": "It'd be better if he was rapping. Already has the backing track"
+    }
+  ]
+}

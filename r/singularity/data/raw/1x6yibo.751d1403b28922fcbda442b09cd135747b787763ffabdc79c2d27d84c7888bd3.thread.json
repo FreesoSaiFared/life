@@ -1,0 +1,125 @@
+{
+  "post_id": "1x6yibo",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+    "author": "Ok_Display_3159",
+    "score": 13,
+    "upvote_ratio": 0.76,
+    "num_comments": 7,
+    "link_flair_text": "Economics & Society",
+    "created_utc": 1792100622,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x6yibo/investors_temper_anthropic_ipo_valuation/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pgzljg4",
+      "parent_id": "t3_1x6yibo",
+      "author": "Ok_Display_3159",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792101034,
+      "body": "dropping 500 billion and still being over a trillion lol\n\nhttps://preview.redd.it/udjkd7ogcpvh1.jpeg?width=1179&format=pjpg&auto=webp&s=ff07b20bcfcf2714dae4313c3d6d3e4e8605716f"
+    },
+    {
+      "depth": 1,
+      "id": "pgzt300",
+      "parent_id": "t1_pgzljg4",
+      "author": "BlueberryWorried6493",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792103264,
+      "body": "are we both seeing the same graph ?"
+    },
+    {
+      "depth": 0,
+      "id": "pgzo0tt",
+      "parent_id": "t3_1x6yibo",
+      "author": "DrinkTeaFightMonster",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792101751,
+      "body": "Some of their biggest clients are the ones most interested in developing their own AI stack. \n\nThe revenue opportunity for all AI is humongous, but for Anthropic alone, that is a much more difficult question to answer."
+    },
+    {
+      "depth": 0,
+      "id": "pgzrxc6",
+      "parent_id": "t3_1x6yibo",
+      "author": "bornlasttuesday",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792102916,
+      "body": "With interest rates rising companies will be looking to cut costs. Will the costs come out of human labor or tokens? Either way we are in for a helluva 2027."
+    },
+    {
+      "depth": 1,
+      "id": "ph031n6",
+      "parent_id": "t1_pgzrxc6",
+      "author": "Stabile_Feldmaus",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792106322,
+      "body": "With interest rates rising it will be more difficult to sustain debt financed AI investments."
+    },
+    {
+      "depth": 0,
+      "id": "ph0kin7",
+      "parent_id": "t3_1x6yibo",
+      "author": "eeaxoe",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792111886,
+      "body": "Is that... good?"
+    },
+    {
+      "depth": 0,
+      "id": "ph0spzc",
+      "parent_id": "t3_1x6yibo",
+      "author": "throwaway737166",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792114471,
+      "body": "High interest rates make it super difficult to rollover all the debt they’re signed up for. Very hard to see a path to profitability now."
+    }
+  ]
+}

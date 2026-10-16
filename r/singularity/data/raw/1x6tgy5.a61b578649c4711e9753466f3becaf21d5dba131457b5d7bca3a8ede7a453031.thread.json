@@ -1,0 +1,83 @@
+{
+  "post_id": "1x6tgy5",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Liquid AI's d1-ultra decision model takes a very strong place on the pareto front",
+    "author": "Balance-",
+    "score": 29,
+    "upvote_ratio": 0.9393939393939394,
+    "num_comments": 6,
+    "link_flair_text": "AI",
+    "created_utc": 1792088804,
+    "selftext": "Liquid AI just introduced a very strong, very fast and quite reasonably priced decision model: d1-ultra.\n\n>Liquid AI has released d1-ultra, a multimodal decision model that reads text, images, or both in a single forward pass and returns calibrated probabilities for yes/no, multi-label choice, and scale questions, without generating tokens. Built on a larger open-weight base than its predecessor d1 and tuned with Liquid-specific customizations, it targets harder, messier real-world tasks such as checking a circuit board against its spec or validating a damage claim against a customer photo. The company reports gains over d1 and Jev 1.14 across 112 evaluations, with particular improvement on knowledge-related tasks, and says the model is better calibrated, since decision models tend to be overconfident. It is available now through the Liquid AI API at $0.042 per million input tokens, with Vercel and OpenRouter listings planned, and the release states that d1-ultra outperforms other decision models on the Artificial Analysis Decision Index by at least 8 points.\n\n* [https://www.liquid.ai/blog/d1-ultra](https://www.liquid.ai/blog/d1-ultra)\n* [https://x.com/liquidai/status/2110777964489285875](https://x.com/liquidai/status/2110777964489285875)\n* [https://artificialanalysis.ai/evaluations/artificial-analysis-decision-index](https://artificialanalysis.ai/evaluations/artificial-analysis-decision-index)\n\n",
+    "permalink": "/r/singularity/comments/1x6tgy5/liquid_ais_d1ultra_decision_model_takes_a_very/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pgyap93",
+      "parent_id": "t3_1x6tgy5",
+      "author": "Ok_Barracuda_1161",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792089073,
+      "body": "Ooh this looks really solid! Exciting to see so much movement on decision models. Found this particularly interesting, d1-ultra seems to stand out especially in confidence calibration. Most decision models are generally overconfident in their decisions especially when the probability is in the 30%-70% range, but d1-ultra looks much better in those areas.\n\nhttps://preview.redd.it/k8yhm11wcovh1.png?width=1314&format=png&auto=webp&s=e2b61d04c05b7eb95a8990bbc4cc7edf59eb7193\n\n"
+    },
+    {
+      "depth": 1,
+      "id": "pgykk26",
+      "parent_id": "t1_pgyap93",
+      "author": "fourohfournotfound",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792091473,
+      "body": "I was wondering if liquid would ever get more traction. I always found their underlying architecture interesting since it's much more noise robust and efficient than transformers. At least if they are still using a liquid architecture. I wonder how capable it would be if trained at a massive scale. For robotics this architecture is leaps and bounds faster but no one made one that was big enough. Wonder how well this thing would perform if it was multi trillion parameters. "
+    },
+    {
+      "depth": 0,
+      "id": "pgyfqvi",
+      "parent_id": "t3_1x6tgy5",
+      "author": "chlebseby",
+      "author_flair_text": "ASI 2030s",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792090299,
+      "body": "first \"attractive quadrant\" model?"
+    },
+    {
+      "depth": 0,
+      "id": "pgyuymt",
+      "parent_id": "t3_1x6tgy5",
+      "author": "StrikingPromotion802",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792094065,
+      "body": "I am waiting for Ultramarine 1 flash benchmark."
+    }
+  ]
+}

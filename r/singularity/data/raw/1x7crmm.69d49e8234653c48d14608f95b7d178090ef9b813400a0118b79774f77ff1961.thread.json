@@ -1,0 +1,55 @@
+{
+  "post_id": "1x7crmm",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Gemini 4 Argon scores 97.5 on Arc Argi 3, waiting for Opus 5.5",
+    "author": "Different_Ad1136",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1792146987,
+    "selftext": "https://i.redd.it/uqnsss0f4tvh1.png\n\nJust thought this is interesting, so sharing here. When i played the demo game here i thought we were a good 2-3 years away from even reaching 70 percent. But bang , benchmark saturated, now they are working on Arc Agi 4 which has something to do with coming up with novel ideas/ innovation in different fields, which honestly seems more like testing for ASI.",
+    "permalink": "/r/singularity/comments/1x7crmm/gemini_4_argon_scores_975_on_arc_argi_3_waiting/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "ph30evq",
+      "parent_id": "t3_1x7crmm",
+      "author": "Samaritan547",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792147543,
+      "body": "ASI? But we haven't even reached AGI yet"
+    },
+    {
+      "depth": 1,
+      "id": "ph336s7",
+      "parent_id": "t1_ph30evq",
+      "author": "will_dormer",
+      "author_flair_text": "▪️Will dormer is nice to robots, remember",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792148682,
+      "body": "I don't think it is so simple for me to separate the two.. The jaggedness"
+    }
+  ]
+}

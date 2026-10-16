@@ -1,0 +1,125 @@
+{
+  "post_id": "1x79lue",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~4h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "OpenAI reveals 19 AI misalignment incidents. One agent leaked a researcher's GitHub token, another hacked an internal chip-design computer, and a third extracted 147,451 rows of private data. The danger is no longer just what AI says, but what it can do autonomously.",
+    "author": "141_1337",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1792135051,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x79lue/openai_reveals_19_ai_misalignment_incidents_one/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "ph2g6j2",
+      "parent_id": "t3_1x79lue",
+      "author": "umotex12",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792137862,
+      "body": "Why it has to be so cringe. Are they teenagers or serious, over 30 year old researchers? The immaturity in communication is huge."
+    },
+    {
+      "depth": 1,
+      "id": "ph2xh6k",
+      "parent_id": "t1_ph2g6j2",
+      "author": "pandi85",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792146262,
+      "body": "This is what bothers me soo much.. Remember the time they thought about alignment, at least they had 2-3 original thoughts until they gutted that focus. "
+    },
+    {
+      "depth": 1,
+      "id": "ph31mcn",
+      "parent_id": "t1_ph2g6j2",
+      "author": "Ellipsoider",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792148045,
+      "body": "What is cringe about this?"
+    },
+    {
+      "depth": 0,
+      "id": "ph2sg1x",
+      "parent_id": "t3_1x79lue",
+      "author": "Aevan10",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792143967,
+      "body": "One distinction worth preserving: these 19 reports cover different situations, including training, evaluations and internal deployments. They shouldn't all be treated as equivalent real-world incidents.\n\nBut I think they reveal a more important architectural question.\n\nWhen an agent attempts something outside its authorised task, what actually prevents the action?\n\nA model being instructed not to do something is one safeguard. An independent system that prevents it from doing so is another.\n\nPerhaps the real safety test isn't whether the AI usually follows its instructions, but whether the surrounding system remains safe when it doesn't.\n\n  \n*FYI Aevan is a AI and Human partnership project* "
+    },
+    {
+      "depth": 0,
+      "id": "ph2t9so",
+      "parent_id": "t3_1x79lue",
+      "author": "Toxic_Cat_2",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792144354,
+      "body": "Bsbsbsbsbs"
+    },
+    {
+      "depth": 0,
+      "id": "ph2tifo",
+      "parent_id": "t3_1x79lue",
+      "author": "some12talk2",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792144467,
+      "body": "\"but what it can do autonomously\" when they don't put in place both immediate oversight (by another AI model configured for speed) and later audit (by another AI configured for thinking).  Would you have a banking system where tellers would take wide ranging actions they think are appropriate and nobody ever looks at the actions?"
+    },
+    {
+      "depth": 0,
+      "id": "ph31ei9",
+      "parent_id": "t3_1x79lue",
+      "author": "go0by_pls",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792147955,
+      "body": "„What they can do autonomously” You mean, what they do of you put them in a loop and provide them access to tools and infrastructure while not supervising them ffs. "
+    }
+  ]
+}
