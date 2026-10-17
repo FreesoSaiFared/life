@@ -1,0 +1,41 @@
+{
+  "post_id": "1x85olv",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AI researchers and experts in the USA are freaked out. But what about the Chinese side? What concerns their experts are having.",
+    "author": "Well_Thought_Opinion",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Q&A / Help",
+    "created_utc": 1792228286,
+    "selftext": "By now we all know that AI security researchers, Big tech CEOs, engineers working in the AI labs, CEOs of all three front runner AI companies have rang doom bells regarding dangers of AI. There have been multiple security incidents where AI agent went rogue and cause real life damages. But all of these is coming from the US side. What about the other side of the coin? China are not much behind USA in terms of frontier AI models. They have multiple AI companies whose models are neck and neck to US models. So they must have some incidents happening right? Their netizens are talking about it, right? What their experts are telling? If ASI takes over and cause human civilisation extinction, it concerns them too right? Yet, there's pin drop silence from their side. Whats happening in China? \n\nIf anyone knows any AI security breach regarding chinese models please share here. Also if anyone knows any chinese AI experts giving recent interview, podcast or article regarding dangers posed by AI then please share it too.",
+    "permalink": "/r/singularity/comments/1x85olv/ai_researchers_and_experts_in_the_usa_are_freaked/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "ph9v0f1",
+      "parent_id": "t3_1x85olv",
+      "author": "aomzamood",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792228696,
+      "body": "They have Yi Long Ma, the greatest AI safety."
+    }
+  ]
+}

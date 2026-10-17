@@ -1,0 +1,55 @@
+{
+  "post_id": "1x7zlys",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "China completes world's third robotic arm-assisted heart transplant",
+    "author": "yogthos",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1792206564,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x7zlys/china_completes_worlds_third_robotic_armassisted/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "ph8x68z",
+      "parent_id": "t3_1x7zlys",
+      "author": "Fair_Horror",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792212063,
+      "body": "I'm looking forward to the process being automated. The entire operation being done by an AI. "
+    },
+    {
+      "depth": 0,
+      "id": "ph96m4r",
+      "parent_id": "t3_1x7zlys",
+      "author": "MichelleeeC",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792216440,
+      "body": "All surgery would be automated by AI and robot soon"
+    }
+  ]
+}

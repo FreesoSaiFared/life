@@ -1,0 +1,83 @@
+{
+  "post_id": "1x7ibo6",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~20h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "IMF Deputy Division Chief, boosts that global financial markets have held up surprisingly well...to a large extent... optimism with AI.",
+    "author": "kernelangus420",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792162357,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x7ibo6/imf_deputy_division_chief_boosts_that_global/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "ph4cn2o",
+      "parent_id": "t3_1x7ibo6",
+      "author": "Root-Kill-All",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792162566,
+      "body": "INMHO -> See o mercado financeiro está otimista, então é porque estamos realmente fritos."
+    },
+    {
+      "depth": 0,
+      "id": "ph4fqvf",
+      "parent_id": "t3_1x7ibo6",
+      "author": "Background-Wafer-548",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792163365,
+      "body": "[Ahem.](https://asia.nikkei.com/business/markets/asian-stocks-plummet-as-ai-debt-and-inflation-fears-bite)"
+    },
+    {
+      "depth": 0,
+      "id": "ph4kf11",
+      "parent_id": "t3_1x7ibo6",
+      "author": "AIGODSEND",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792164558,
+      "body": "markets holding up is the least reassuring signal there is, because markets price continuation right up until they price nothing. the interesting line in the IMF note is the upgrade resting on AI capex continuing, which is circular: the resilient thing depends on itself. if capex stalls even one quarter, the surprisingly resilient story flips overnight. resilience stories are always written before the stress test. are you positioned for the capex pause or the melt-up?"
+    },
+    {
+      "depth": 0,
+      "id": "ph86gou",
+      "parent_id": "t3_1x7ibo6",
+      "author": "phatdoof",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792201546,
+      "body": "Can someone explain what he said?"
+    }
+  ]
+}

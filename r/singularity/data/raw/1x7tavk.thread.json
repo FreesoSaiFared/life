@@ -1,0 +1,55 @@
+{
+  "post_id": "1x7tavk",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Are We Giving Robots Too Much Power?",
+    "author": "thorax",
+    "score": 1,
+    "upvote_ratio": 0.5555555555555556,
+    "num_comments": 1,
+    "link_flair_text": "Video",
+    "created_utc": 1792187968,
+    "selftext": "More relevant than ever?",
+    "permalink": "/r/singularity/comments/1x7tavk/are_we_giving_robots_too_much_power/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "ph7ifhy",
+      "parent_id": "t3_1x7tavk",
+      "author": "I_am_not_unique",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": 1792193694,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792193258,
+      "body": "This is how we thought 30 years ago"
+    },
+    {
+      "depth": 0,
+      "id": "ph7qjhu",
+      "parent_id": "t3_1x7tavk",
+      "author": "YogiBarelyThere",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792195996,
+      "body": "lol \"politics!\""
+    }
+  ]
+}

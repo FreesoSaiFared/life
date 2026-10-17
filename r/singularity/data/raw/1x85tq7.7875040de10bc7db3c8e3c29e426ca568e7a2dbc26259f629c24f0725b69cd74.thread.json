@@ -1,0 +1,26 @@
+{
+  "post_id": "1x85tq7",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Shanghai AI Lab’s Shusheng-S2 helps develop a proof for a decades-old problem in chaos theory",
+    "author": "cjami",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1792228837,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x85tq7/shanghai_ai_labs_shushengs2_helps_develop_a_proof/"
+  },
+  "comments": []
+}

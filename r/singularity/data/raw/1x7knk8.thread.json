@@ -1,0 +1,41 @@
+{
+  "post_id": "1x7knk8",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "RP1 Official Launch | RoboParty’s Fully Open-Source Humanoid Robotics Platform [2:32]",
+    "author": "Competitive_Travel16",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1792167665,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x7knk8/rp1_official_launch_robopartys_fully_opensource/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "ph6mj89",
+      "parent_id": "t3_1x7knk8",
+      "author": "Competitive_Travel16",
+      "author_flair_text": "AGI 2027 ▪️ ASI 2029",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792183592,
+      "body": "How much does it cost, you may ask? Depends on how well you can build it! https://github.com/Roboparty/rp1_hardware\n\nhttps://github.com/Roboparty/RP1\n\nPresumably they will eventually start shipping full kits and assembled models soon, but their previous version had a bill of materials around $7,000 off-the-shelf, per https://bestinparts.com/news/how-to-manufacture-embodied-robots-bom-table-and-component-disassembly/\n\nPlease see also https://www.humanoidsdaily.com/news/roboparty-rp1-open-source-hardware-motion-policies"
+    }
+  ]
+}
