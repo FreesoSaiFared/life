@@ -1,0 +1,153 @@
+{
+  "post_id": "1x8li1y",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Reminder these guys are often wrong but aren't called out on it after the fact.",
+    "author": "Tkins",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792271838,
+    "selftext": "I see people often asking how credible the \"leakers\" are and no one seems to have a good answer. \n\nLeo has gotten some things right and those get the biggest highlights but every time he's wrong it flies under the radar. \n\nBe cautious about people online making predictions! There is so much disinformation out there. ",
+    "permalink": "/r/singularity/comments/1x8li1y/reminder_these_guys_are_often_wrong_but_arent/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "phdptyn",
+      "parent_id": "t3_1x8li1y",
+      "author": "MegaRockmanDash",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792272373,
+      "body": "if you check the twitter replies they are called out very often. \n\nthere are also many skeptical comments whenever their tweets are posted here "
+    },
+    {
+      "depth": 1,
+      "id": "phduidc",
+      "parent_id": "t1_phdptyn",
+      "author": "Ormusn2o",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792273766,
+      "body": "If there is one relatively reliable leaker, it's Leo. He is not always right, but it's interesting that when he is right, it's usually because OpenAI changes it's plans. Like pre-Astra deployment, he said it's gonna come out very soon, but it got delayed, but he also specifically said that he found out it's going to be released soon during an internal press visit on which he personally has been, and like 3 weeks later a bunch of articles came out based on that internal press visit.\n\nSo, Astra might not get released in next 2 weeks, but I do believe now OpenAI wants to release Astra 6.1 in next 2 weeks."
+    },
+    {
+      "depth": 2,
+      "id": "phet0ry",
+      "parent_id": "t1_phduidc",
+      "author": "Fastizio",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792285092,
+      "body": "Some things are delayed or change of plans. \n\nNvidia famously sometimes didn't even lock down on a price on their stuff until minutes before their keynote."
+    },
+    {
+      "depth": 2,
+      "id": "phf68ax",
+      "parent_id": "t1_phduidc",
+      "author": "Gotisdabest",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792289716,
+      "body": "The issue with this is that he's also the source for saying it's been delayed loads of times. Sometimes it is confirmed but other times we have no evidence that it's true at all. "
+    },
+    {
+      "depth": 0,
+      "id": "phdpu1n",
+      "parent_id": "t3_1x8li1y",
+      "author": "Background-Wafer-548",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792272374,
+      "body": "https://preview.redd.it/udjqq64vh3wh1.png?width=666&format=png&auto=webp&s=569e4808cdb64ef0a96c508eaa07a1bc60173e8b\n\n[https://www.techcityauthority.com/2026/10/claude-fable-5-5-partner-access.html?m=1](https://www.techcityauthority.com/2026/10/claude-fable-5-5-partner-access.html?m=1)  \n"
+    },
+    {
+      "depth": 1,
+      "id": "phdtvbh",
+      "parent_id": "t1_phdpu1n",
+      "author": "Tkins",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792273572,
+      "body": "Hopefully these guys are more credible here and are right. They'll be more accurate than Leo. "
+    },
+    {
+      "depth": 1,
+      "id": "phe9w2j",
+      "parent_id": "t1_phdpu1n",
+      "author": "Ragnarawr",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792278647,
+      "body": "What is that, something from last week ago?"
+    },
+    {
+      "depth": 0,
+      "id": "phe9cnx",
+      "parent_id": "t3_1x8li1y",
+      "author": "Ragnarawr",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792278471,
+      "body": "The internet would never lie to me. It’s all true."
+    },
+    {
+      "depth": 0,
+      "id": "phg1wks",
+      "parent_id": "t3_1x8li1y",
+      "author": "ShallotDue3000",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792302368,
+      "body": "Leo has called a few very well.  "
+    }
+  ]
+}

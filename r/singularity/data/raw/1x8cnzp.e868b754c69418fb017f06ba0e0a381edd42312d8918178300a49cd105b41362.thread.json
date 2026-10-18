@@ -1,0 +1,97 @@
+{
+  "post_id": "1x8cnzp",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~20h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "DeepSeek v4.1-Flash-1017 new version",
+    "author": "Admirable-Cell-2658",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792249978,
+    "selftext": "[removed]",
+    "permalink": "/r/singularity/comments/1x8cnzp/deepseek_v41flash1017_new_version/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "phej24y",
+      "parent_id": "t3_1x8cnzp",
+      "author": "Anen-o-me",
+      "author_flair_text": "▪️It's here!",
+      "score": 1,
+      "edited": false,
+      "distinguished": "moderator",
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792281695,
+      "body": "There's no rule against DeepSeek posts, but Reddit automod may be overzealous. "
+    },
+    {
+      "depth": 0,
+      "id": "phelnsd",
+      "parent_id": "t3_1x8cnzp",
+      "author": "funforgiven",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792282583,
+      "body": "Why not just bump the minor version instead of appending the release date to the same model name?"
+    },
+    {
+      "depth": 0,
+      "id": "phenane",
+      "parent_id": "t3_1x8cnzp",
+      "author": "No_Management_6773",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792283135,
+      "body": "Deepseek R2 when though"
+    },
+    {
+      "depth": 1,
+      "id": "phfl7dg",
+      "parent_id": "t1_phenane",
+      "author": "Gotisdabest",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792295169,
+      "body": "The \"R\" line is dead as there's no such thing as non reasoning models anymore. That's why no more O models from openAI either. "
+    },
+    {
+      "depth": 0,
+      "id": "phgb6qb",
+      "parent_id": "t3_1x8cnzp",
+      "author": "Admirable-Cell-2658",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792306790,
+      "body": "Hi! I just noticed that my post about deepseek has been put back up.    \nThank you so much for reviewing it and restoring it, I really appreciate it!"
+    }
+  ]
+}

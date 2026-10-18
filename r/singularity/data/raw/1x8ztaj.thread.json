@@ -1,0 +1,55 @@
+{
+  "post_id": "1x8ztaj",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "How employment is changing at Anthropic",
+    "author": "soldierofcinema",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792318992,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x8ztaj/how_employment_is_changing_at_anthropic/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "phh0szj",
+      "parent_id": "t3_1x8ztaj",
+      "author": "tupakkarulla",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": 1792319836,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792319646,
+      "body": "At my company in IT all open positions are senior and technical leader only. I’m the only junior and who’s under 35 at the moment in my team. The position I got was the last junior one I’ve seen at my company 2 years ago. Most of my friends my age are unemployed or at dead end jobs and it’s really depressing to do group hangouts anymore. \n\nI’m honestly depressed because we have constant layoff rounds as well every 6 months due to AI, and I know that when it eventually hits me it’s unlikely I’ll find a job for my skill level. I’m not a senior yet and there’s no junior to intermediate positions in my field open anywhere, I check LinkedIn daily at this point…\n\nI’ve been saving up enough money to survive maybe a year or two without a job, I was thinking if I get laid off this time I’ll probably have a nice trip to Japan, live it out for a few months, then maybe try to start my own business and if it doesn’t work out I’ll just end it early.\n\n22 years old at the moment."
+    },
+    {
+      "depth": 0,
+      "id": "phh1dv3",
+      "parent_id": "t3_1x8ztaj",
+      "author": "AbbreviationsBest858",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792319923,
+      "body": "Actual RSI will happen 2027. Buckle up."
+    }
+  ]
+}

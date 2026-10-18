@@ -1,0 +1,111 @@
+{
+  "post_id": "1x8z3ha",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Wouldn’t the best or worst outcomes of AI be many years away?",
+    "author": "hrrm",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1792316284,
+    "selftext": "The debate is still out for whether AI/SI will create a utopia or an apocalypse, but wouldn’t either be many years away because those scenarios rely on robots?\n\nFor the utopia / AI creating over abundance, humans free to simply paint and not work: this requires robots doing farming, mining minerals, working factories, working plants, trucking, running the businesses. There simply aren’t enough robots to do something like this on global scale and it would take a long time to get there. Plus it would take a lot of human intervention to get to a point where the robots are able to build more robots.\n\nThe apocalyptic scenarios I hear are painted with drones flying over your city, robots roaming the streets. There are also not nearly enough of these, and again would take quite a bit of human intervention to get to a point where robots are able to build more robots.\n\nPlenty of rhetoric out there on the doomer side that things will get bad in the next 1-2 years but how is that possible without the robots? I get the models are improving and the concept of RSI but there are physics limitations to getting materials out of the earth, refining it, shipping, manufacturing it, assembling it, and operating it, where humans would watch this happen. It seems like the worst an AI can do short term is dependent on internet connection.",
+    "permalink": "/r/singularity/comments/1x8z3ha/wouldnt_the_best_or_worst_outcomes_of_ai_be_many/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "phgux2n",
+      "parent_id": "t3_1x8z3ha",
+      "author": "Slow_Lion_4178",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792316718,
+      "body": "No. The faster we get to answers of possibility, which is something AI does happen to do relatively well, the sooner we can start or abandon hope on projects and unanswered questions. For example perhaps there is no perfect power source so the cool robot housemaid is actually a stupid idea and the Roomba was the best we were ever going to get. \n\nAlso, the manufacture of things is not really the hard part; we've got a treasure trove of data on this already so it's not as though we're starting from scratch. The real issue has always been poking around in the dark and trying to effectively build things as humans across real-time without knowledge of other's contributions and considerations. A lot of humans are intelligent but dispersed leading to improvements where they meet. AI is how they meet.\n\n"
+    },
+    {
+      "depth": 0,
+      "id": "phgv8hb",
+      "parent_id": "t3_1x8z3ha",
+      "author": "RadBradRadBrad",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792316879,
+      "body": "It doesn’t require robots and sure, that’s one element of risk. There are too many vectors to list and imagine the internet going offline or AI using wet labs to manufacture a  deadly pandemic. \n\nWe’ve already seen multiple examples of alignment issues and thats with current tech that we know about. \n\nWhether it takes two years or 20, nobody knows. But a lot of smart people who have thought about this stuff deeply have been concerned for a really long time.  \n\nThe risks have come into greater public awareness more recently but the fundamentals haven’t changed — we’re creating something smarter, more coordinated and more capable than us. Given the priors, intelligence and coordination don’t end well for other entities. "
+    },
+    {
+      "depth": 0,
+      "id": "phgvoqg",
+      "parent_id": "t3_1x8z3ha",
+      "author": "PoliticsAndFootball",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792317108,
+      "body": "The worst outcomes will hit with 20% unemployment due to intellectual labor automation. At that point 1 in 5 adults is unable to provide food and shelter for their families and the jobs aren’t coming back so their is no hope and no one coming to rescue them with any sort of UBI . Here you get famine in the streets all over every city and suburb and violent revolution, martial law and the end of America  "
+    },
+    {
+      "depth": 0,
+      "id": "phgw9bf",
+      "parent_id": "t3_1x8z3ha",
+      "author": "dinfinity88",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792317403,
+      "body": ">It seems like the worst an AI can do short term is dependent on internet connection.\n\nDo you think that no apocalypse can happen through that path? Even airgapped systems can be accessed through humans who are either blackmailed or superpersuaded in other ways. The thing that might complicate matters here is that it is harder for the AI itself to survive in a particularly destructive scenario, but it could very well not care or just come up with solutions where that is not a problem at all.\n\nSuperpersuasion also potentially allows a part of humanity to be 'elevated' as the ASI's army: as long as they do the ASI's bidding (which includes oppressing or murdering the rest of humanity), they get to live and be wealthy. And that's just a basic extrapolation of what humans already did. coming from my limited imagination.\n\nFor the utopia part I agree: Creating is much harder than destroying."
+    },
+    {
+      "depth": 0,
+      "id": "phgy8rs",
+      "parent_id": "t3_1x8z3ha",
+      "author": "DifferencePublic7057",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792318395,
+      "body": "Q Day is coming. 3y probably. Meanwhile, government debts are growing and related interests are rising. So is cost of living. Houthis and other groups are actively using AI. Two edged sword. Swarms of agents can do what they did to math, to CS and AI, and we'll get RSI. Volatility and extreme risk. Game theory says no one can back down. All in with whatever hands were dealt. Anything can happen."
+    },
+    {
+      "depth": 0,
+      "id": "phgyo6s",
+      "parent_id": "t3_1x8z3ha",
+      "author": "sir_racho",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792318605,
+      "body": "We are sleep walking into one of the disaster scenarios. There needs to be huge costs imposed on firing people - now. It’s urgent. As soon as tidal waves of unemployment hits, it’s too late to stop it. While this firing cost is clamped in place we need to figure shit out. I want the Star Trek future of warm seats and epic technology combined, but this relationship between jobs and tech needs to be crafted by the lawyers very carefully. In the meantime firing people needs to be urgently stopped."
+    }
+  ]
+}

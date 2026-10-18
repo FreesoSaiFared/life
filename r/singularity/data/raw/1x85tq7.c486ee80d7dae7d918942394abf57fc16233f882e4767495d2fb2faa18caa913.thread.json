@@ -1,0 +1,125 @@
+{
+  "post_id": "1x85tq7",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~26h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Shanghai AI Lab’s Shusheng-S2 helps develop a proof for a decades-old problem in chaos theory",
+    "author": "cjami",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1792228837,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x85tq7/shanghai_ai_labs_shushengs2_helps_develop_a_proof/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "pha58ac",
+      "parent_id": "t3_1x85tq7",
+      "author": "The_Scout1255",
+      "author_flair_text": "adult agi 2026 ASI <2030, prev agi 2024, ai personhood 2025 est",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792233825,
+      "body": "For those who can't read the article Three body problem solved by AI\n\n\n>!Joking, I hope atleast I am let me go read.!<"
+    },
+    {
+      "depth": 1,
+      "id": "pha76hx",
+      "parent_id": "t1_pha58ac",
+      "author": "cjami",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792234738,
+      "body": ">!I can finally drop the sword?!<"
+    },
+    {
+      "depth": 2,
+      "id": "pha8fio",
+      "parent_id": "t1_pha76hx",
+      "author": "The_Scout1255",
+      "author_flair_text": "adult agi 2026 ASI <2030, prev agi 2024, ai personhood 2025 est",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792235305,
+      "body": ">!sorry ate it!<"
+    },
+    {
+      "depth": 0,
+      "id": "phaccin",
+      "parent_id": "t3_1x85tq7",
+      "author": "AIGODSEND",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792237032,
+      "body": "the real unlock isn't the model, it's that a machine-checkable proof is the one place where \"the ai said so\" becomes actual evidence. math keeps being the only field where models produce things you can verify without trusting them. if this cadence holds, proof assistants become the next unit tests. which field gets verification this cheap next, physics or law?\n"
+    },
+    {
+      "depth": 1,
+      "id": "phcyaqi",
+      "parent_id": "t1_phaccin",
+      "author": "Fun-Astronomer5311",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792264622,
+      "body": "Wish we can ask mother nature, is the AI right?"
+    },
+    {
+      "depth": 0,
+      "id": "phcezdm",
+      "parent_id": "t3_1x85tq7",
+      "author": "Distinct-Question-16",
+      "author_flair_text": "▪️AGI 2029",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792259437,
+      "body": "these last 2 months seems like years"
+    },
+    {
+      "depth": 0,
+      "id": "phg67pv",
+      "parent_id": "t3_1x85tq7",
+      "author": "KimLikeJ",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792304404,
+      "body": "The phrase doing the work in that headline is \"helps develop\". I can't tell from it whether the model produced the proof, or produced candidate lemmas that mathematicians then closed by hand. Those are very different claims.\n\nIf the proof has been formalized in Lean or something similar, the checker accepts it or it doesn't, and the argument is over. If it's people reading a long PDF, you're trusting a trace you can't replay. Which of the two happened here?"
+    }
+  ]
+}

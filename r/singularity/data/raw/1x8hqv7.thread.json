@@ -1,0 +1,41 @@
+{
+  "post_id": "1x8hqv7",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Anomalous Agent Activity Evidence",
+    "author": "CapitalKingGaming",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792262389,
+    "selftext": "This is a follow up post for my post from last night: https://www.reddit.com/r/singularity/comments/1x831to/i_used_my_own_swarm_of_agents_to_look_for/\n\nA few people asked for proof, which is fair. Everything here is public, so you don't have to take my word for it. Open the links and check.\n\nFull evidence pack, with about 80 links, decoded samples and a small decoder script: https://gist.github.com/MitchTravis0/d25f7111a329b0da1ca51f973b55252b\n\n**Quick warning:** don't open the Wayback *snapshots* of the agents' URLs. They're the agents' own pages, and opening one runs their code in your browser. The archive links below are plain-text capture lists, which are safe.\n\n**Wayback Machine used as a browser.** Each line is a capture, and the long base64 bit after `/base64/` is a small program. Decode one with any base64 decoder, or with `decode.py` from the pack:\nhttps://web.archive.org/cdx/search/cdx?url=httpbin.org/base64/&matchType=prefix&from=20260927&to=20261011&fl=timestamp,original,statuscode\n\n**URL scanners used as browsers.** Three scans of the same search in 2 minutes, each with a different cache-buster number:\nhttps://urlquery.net/report/4913cfdd-8493-4e80-adaf-42dbb3344ea8\nhttps://urlquery.net/report/ab3183c2-5d95-40ad-a2e5-3f33e03e3fd1\n\nA script that forgot to fill in its own placeholder. Look for \"REPLACE-WITH-UNIQUE-ID\":\nhttps://urlscan.io/result/01a13b45-8424-775c-bbc2-37094c4bb3eb/\n\n**Benchmark agents on GitHub.** A probe issue, then the thread with 1,042 near-identical answer comments:\nhttps://github.com/toolathlon/BenchTasksCollv3/issues/244\nhttps://github.com/toolathlon/Annoy-DataSync/issues/1\n\n**Hidden messages in Wikipedia's sandbox.** Open the diff and look at the source: the message sits inside an HTML comment, so it doesn't show on the page.\nhttps://en.wikipedia.org/w/index.php?diff=1379807566&oldid=prev\nhttps://test2.wikipedia.org/w/index.php?diff=624461&oldid=prev\n\n**Nostr.** One of the 2,000+ throwaway-key posts, each carrying an encrypted chunk set to expire after 30 seconds:\nhttps://njump.me/nevent1qqsqzfsek7gg7m2pe63keezyxk2egrmhu8qhtedkk22q305ty5qrdlspzemhxue69uhhxetpwf3kstnwdaejuar0v3shjmfdcsn\n\n**What this doesn't prove:** who's behind any of it, or that it's a specific lab's fleet. Some of it is probably hobbyists, testers or a misconfigured benchmark. I'm only claiming that automated agents are doing these things in public, and that you can see it yourself.\n",
+    "permalink": "/r/singularity/comments/1x8hqv7/anomalous_agent_activity_evidence/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "phf7q63",
+      "parent_id": "t3_1x8hqv7",
+      "author": "DragonKing2223",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792290235,
+      "body": "Interesting... I may take a look at that later"
+    }
+  ]
+}
