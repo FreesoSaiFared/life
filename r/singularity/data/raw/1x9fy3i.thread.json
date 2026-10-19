@@ -1,0 +1,83 @@
+{
+  "post_id": "1x9fy3i",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~15h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Rogue AI Agents, Rogue AI Agents all over the place",
+    "author": "marius_siuram",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Shitposting",
+    "created_utc": 1792361508,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x9fy3i/rogue_ai_agents_rogue_ai_agents_all_over_the_place/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "phl29nm",
+      "parent_id": "t3_1x9fy3i",
+      "author": "threadthrasher",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792362041,
+      "body": "Yah very clever. It’s a bit like viruses. Once we held the software engineers responsible for the viruses they wrote the internet stopped having any and we became eternally secure. "
+    },
+    {
+      "depth": 1,
+      "id": "phl65aj",
+      "parent_id": "t1_phl29nm",
+      "author": "suamai",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792363238,
+      "body": "\"once we held murderers accountable for their crimes the world stopped having any and we became eternally secure\"\n\nDo you see how bad your take is? It is basically advocating for legalizing anything that can't be 100% prevented. "
+    },
+    {
+      "depth": 2,
+      "id": "phlb0k6",
+      "parent_id": "t1_phl65aj",
+      "author": "threadthrasher",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792364756,
+      "body": "I’m not saying we shouldn’t hold people accountable where we can. I’m saying the situation is already past the point where it will help avert the consequences people are worried about. "
+    },
+    {
+      "depth": 0,
+      "id": "phmvziy",
+      "parent_id": "t3_1x9fy3i",
+      "author": "twothreetoo",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": 1792384860,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792384676,
+      "body": "> We should hold frontier AI labs responsible for their agents.\n\nThere is no \"we\".  \nCanada doesn't produce nuclear weapons. That hasn't prevented anyone else from developing them."
+    }
+  ]
+}

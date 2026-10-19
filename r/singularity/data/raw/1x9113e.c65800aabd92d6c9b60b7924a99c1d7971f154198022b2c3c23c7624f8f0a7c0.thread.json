@@ -1,0 +1,125 @@
+{
+  "post_id": "1x9113e",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~26h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Singularity Daily Discussion Thread - Oct 18, 2026",
+    "author": "barbozas_obliques",
+    "score": 24,
+    "upvote_ratio": 0.9285714285714286,
+    "num_comments": 9,
+    "link_flair_text": "Singularity is Nearer",
+    "created_utc": 1792323328,
+    "selftext": "This thread is for any discussions that doesn't necessitate a new post. Permission from a mod here.\n\nSince this thread isn't going to be to stickied, it's up to you to upvote it.\n\nShare your anxiety, ideas on how to achieve alignment, observations, etc. Everything is fair game as long as it somewhat relates to the singularity.",
+    "permalink": "/r/singularity/comments/1x9113e/singularity_daily_discussion_thread_oct_18_2026/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "phhdvow",
+      "parent_id": "t3_1x9113e",
+      "author": "Weary-Historian-8593",
+      "author_flair_text": null,
+      "score": 15,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792325392,
+      "body": "There hasn't been a major breakthrough in like a week now, I'm bored"
+    },
+    {
+      "depth": 1,
+      "id": "phhr06y",
+      "parent_id": "t1_phhdvow",
+      "author": "light470",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792329958,
+      "body": "Fable 5.5 is taking too long"
+    },
+    {
+      "depth": 1,
+      "id": "phi6hw8",
+      "parent_id": "t1_phhdvow",
+      "author": "Seakawn",
+      "author_flair_text": "▪️▪️Singularity will cause the earth to metamorphize",
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792334560,
+      "body": "NB4 five people submit this exact sentiment as their own dedicated posts today, diminishing the existence of the brand new sacred daily thread."
+    },
+    {
+      "depth": 0,
+      "id": "phhfnfc",
+      "parent_id": "t3_1x9113e",
+      "author": "10b0t0mized",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792326066,
+      "body": "https://preview.redd.it/cdky126xv7wh1.png?width=1096&format=png&auto=webp&s=46bff7f6522f6e26a83fdd853f72087cbc35c637\n\nWhat do you guys think is the reason for such a huge jump from august 2026 to 2027.\n\nIn august only 4% of anthropic employees said that AI can do Nobel discovery currently, but 58% said that it can do it in 2027.\n\nusually in these polls, I would expect to see a gradual change, like the \"US adults\" going from 12% to 22% to 39%.\n\nBut going from 4% to 58% is unusual. You can also see the huge jump in all Anthropic employees polls, but it is most extreme in the Nobel discovery category."
+    },
+    {
+      "depth": 1,
+      "id": "phj3w5a",
+      "parent_id": "t1_phhfnfc",
+      "author": "SVMteamsTool",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792343405,
+      "body": "Probably the lack of actual labs to carry out physical experiments? "
+    },
+    {
+      "depth": 0,
+      "id": "phhwh9e",
+      "parent_id": "t3_1x9113e",
+      "author": "DifferencePublic7057",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792331660,
+      "body": "Anxiety: government debts in first world countries spiraling out of control means UBI is getting less credible.\n\nAlignment: it seems there's AI researchers who are hostile toward alignment and actually towards humans in general, seeing apparently AI as the logical next step in evolution. It's not that something bad happened to them. They are just extremely eccentric. But anyway, how can alignment happen with those guys around?\n\nObservations: the meme of expansionism toward ultimately Dyson swarms I guess, necessitates material extraction at unprecedented scale. Do we really need to remain in the current meatspace paradigm? If we have to double the world population each say 25y, we'll need to double food production, home construction, and so on. This would obviously require material extraction, but would it have to track growth closely? Maybe not if we can increase efficiencies through biotech, nanotechnology, quantum computers, nuclear fusion, RTAPS. Growth in meatspace maybe is too primitive and illogical. We have a better grip on digital technology, meaning growth in cyberspace is preferable. I'm thinking of digital twins, hybrid agents which are partially biological and digital: like mutated mind uploads."
+    },
+    {
+      "depth": 1,
+      "id": "phjw9uv",
+      "parent_id": "t1_phhwh9e",
+      "author": "barbozas_obliques",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792350582,
+      "body": "Great post. In terms of alignment, I think it would be cool if these new species would allow us to keep meatspace and we help them grow in digital space. They could run their servers in space"
+    }
+  ]
+}

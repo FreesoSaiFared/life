@@ -1,0 +1,111 @@
+{
+  "post_id": "1x98jz5",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~20h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Ramifications of mechanistic interpretability",
+    "author": "spinozasrobot",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1792343521,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x98jz5/ramifications_of_mechanistic_interpretability/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "phj4h5t",
+      "parent_id": "t3_1x98jz5",
+      "author": "spinozasrobot",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792343553,
+      "body": "Most of us have read about or at least heard of Nick Cammarata's latest work on mechanistic interpretability.  And we've also all seen the [Dune quote](https://www.goodreads.com/quotes/842526-once-men-turned-their-thinking-over-to-machines-in-the) posted here a bunch of times.\n\nIf mechanistic interpretability becomes generally viable, and thus models can be trained to generate expected outcomes, that *sounds* great for alignment, but doesn't that mean we will immediately devolve into whoever is in power demanding models output \"RightThink\"?"
+    },
+    {
+      "depth": 1,
+      "id": "phjq52g",
+      "parent_id": "t1_phj4h5t",
+      "author": "arg_max",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792348987,
+      "body": "There is a big difference between being able to understand a model's internal workings (through a somewhat tedious process) vs being able to actually enforce anything during training.\n\nDeep learning also worked so well because we were able to stop manually creating feature representations. Before alexnet, all of vision was practically hand crafted features followed by some relatively simple learning based approach. \nSo how are you going to preserve performance when you suddenly have to design billions of neurons and internal circuits by hand?\n\n"
+    },
+    {
+      "depth": 2,
+      "id": "phjv0n5",
+      "parent_id": "t1_phjq52g",
+      "author": "spinozasrobot",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792350252,
+      "body": "Yeah, my phrase \"becomes generally viable\" was doing some heavy lifting.  My intent was not to lean on Nick's work directly, but to assume progress would be made that could be leveraged."
+    },
+    {
+      "depth": 1,
+      "id": "phllngn",
+      "parent_id": "t1_phj4h5t",
+      "author": "intotheirishole",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792368220,
+      "body": "Up till now making models think the \"correct\" way has made them stupider.\n\nUp till now."
+    },
+    {
+      "depth": 0,
+      "id": "phjew2l",
+      "parent_id": "t3_1x98jz5",
+      "author": "SammaVaco",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792346166,
+      "body": "He should just release the preprint so people can judge for themselves. This is a bit annoying and suspicious, TBF."
+    },
+    {
+      "depth": 0,
+      "id": "phmz0m0",
+      "parent_id": "t3_1x98jz5",
+      "author": "AlgaeNo3373",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792386002,
+      "body": ">for neural network interpretability at least, these are extraordinarily experimentally accessible objects of science, I don't know of a better one, and we have automated scientists. we have many things going in our favor. it's important and it's fun. the circuitry of these machines can be beautiful, surprising, entertaining, and insightful. I've spent thousands of hours looking through them, asking questions and running experiments and testing things, and would do so even if it weren't so important. I think the problem is solvable, whether the simple thing works, it mostly works but we need some new things, or we need big new ideas. I think we can figure it out\n\n  \nI like the exploratory spirit, regardless of literally anything else I think this is a good way to approach it.  I've also spent lots of hours doing much humbler stuff but for much the same reason. I just enjoy nerding out over it tbh and the mystery is eminently experimentable as he says, even tinkerers can fuck around (finding out is harder).   \n  \non \"accessible\" I'd add that AI helps bridge some big gaps too. My own example as someone who doesn't understand linear algebra but who can still causally steer a tiny model into predictable outputs ala golden gate claude. That's \"extraordinarily experimentally accessible\" in action imvvvho.   "
+    }
+  ]
+}

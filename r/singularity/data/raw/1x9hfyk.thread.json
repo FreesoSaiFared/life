@@ -1,0 +1,111 @@
+{
+  "post_id": "1x9hfyk",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Best way to use all the subs in one place? There must be a way…",
+    "author": "WhiteBoyWhoJumps",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Q&A / Help",
+    "created_utc": 1792365724,
+    "selftext": "I see some stuff like T3 code, OpenCode, openCLI plugin, and a ton of projects that appear to try to bridge the gap for those of us with multiple subs. \n\nI just bought the $100/mo max plan for Google, Claude, and OpenAi after being an API user for quite some time for business use. There must be a nice centralized, friendly place for all my subs to work without too much restriction??? \n\nI am going to do some personal tinkering - but I would like to have a harness that can manage all my subs in one place. I remember hearing anthropic wasn’t a fan in the earlier days of allowing use outside their harness for the subscription use… but I’m sure someone has built a sick solution. What is the community doing? \n\nI like the idea of being able to plan with Astra, code with Fable or Opus, and animate with Argon or generate videos with Google Flow. Or use all three to hopefully make better outputs taking the best from each (what a wishful thinker I am). \n\nAnyway, I like to connect remotely if possible like Codex, so I can chat on mobile and get work done at home on the device running 24/7. \n\nThanks in advance! 🙏 ",
+    "permalink": "/r/singularity/comments/1x9hfyk/best_way_to_use_all_the_subs_in_one_place_there/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "phlfeqp",
+      "parent_id": "t3_1x9hfyk",
+      "author": "blasphemousblackbear",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792366158,
+      "body": "Are you saying you have the $100 sub for all three? So paying $300/month?"
+    },
+    {
+      "depth": 1,
+      "id": "phlza78",
+      "parent_id": "t1_phlfeqp",
+      "author": "Warm_Object",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792372754,
+      "body": "You'd be surprised."
+    },
+    {
+      "depth": 1,
+      "id": "phofxdn",
+      "parent_id": "t1_phlfeqp",
+      "author": "WhiteBoyWhoJumps",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792410989,
+      "body": "Yes."
+    },
+    {
+      "depth": 0,
+      "id": "phlizn2",
+      "parent_id": "t3_1x9hfyk",
+      "author": "Plane-Meringue3139",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792367337,
+      "body": "Check out [Paseo](https://paseo.sh) - I’ve been using it to manage my Claude, OpenAI, and OpenRouter models. Key feature here is orchestration - you can define agent “profiles” so that the Paseo orchestrator skill selects based on the task given (code reviews to deepseak, intense work to astra, etc.)\n\nOnly catch is this is self-hosted, so need to run it on your computer or a server. You then can pair you phone to run this stuff while you’re away from your desk"
+    },
+    {
+      "depth": 0,
+      "id": "phmsy1c",
+      "parent_id": "t3_1x9hfyk",
+      "author": "growaway9172",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792383380,
+      "body": "I use opencode and you can control it remotely. They have hosted features but you can do everything self hosted, but of course you'll need your own networking solution (tailscale is what I use) to connect remotely if you are off-LAN.\n\nOnly thing to note is anthropic will ban your account if they find out you are using except for claude code."
+    },
+    {
+      "depth": 0,
+      "id": "pho38y9",
+      "parent_id": "t3_1x9hfyk",
+      "author": "nojokeforyou",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792405847,
+      "body": "paseo is godly.\n\ni have sol (200$ subscription) as my orchstrator with profiles for grok, opus, muse, and cursor ($20 subs) that work as subagents to audit and give advice.\n\nthey all talk to each other. \n\njust use this as the first thing you say to your orchestrator and then they all just communicate with each other (set each up in a profile):\n\nYou are the orchestrator. Use Paseo tools to start up 4 subagents from profiles: Grok, Muse, Cursor and Opus.  Give them your agent ID so they can reply here.  Assign work to them when I tell you to. Coordinate their work and collect their results in the future when you assign work to them.\n\nits truly magical. (turn on paseo tools and all the good stuff in settings)"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "post_id": "1x9d9hk",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Chinese researchers solve 3D Ghys conjecture with homegrown AI model",
+    "author": "yogthos",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792354713,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1x9d9hk/chinese_researchers_solve_3d_ghys_conjecture_with/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "phkf1aj",
+      "parent_id": "t3_1x9d9hk",
+      "author": "Own_Satisfaction2736",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792355405,
+      "body": "China is 3-4 months behind now. That means they have self improving  ais most likely. They won't hit the same barriers that we hit here (worrying about ipos, pacing the frontier, etc) it's possible they could accelerate way past us if they let their models go freely "
+    },
+    {
+      "depth": 1,
+      "id": "phkf6vc",
+      "parent_id": "t1_phkf1aj",
+      "author": "Weary-Historian-8593",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792355447,
+      "body": "I'd say more like 6-8 months "
+    },
+    {
+      "depth": 1,
+      "id": "phkid5x",
+      "parent_id": "t1_phkf1aj",
+      "author": "enilea",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792356297,
+      "body": "They are further behind in compute and ability to produce high end chips, at least a couple years. Plus they still have to pace the frontier and already started putting controls on models above 3T as of this week. And they also have to worry about investors since the tech industry is very capitalistic contrary to what one would think. \n\nThe advantage is they are opening the doors to data centers even more than the US, they can easily expand their energy grid and are close to getting a full chain of production. So in the long term they have a better setup but for now I don't see how they could catch up soon."
+    },
+    {
+      "depth": 2,
+      "id": "phlf21e",
+      "parent_id": "t1_phkid5x",
+      "author": "yogthos",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792366044,
+      "body": "That's just creating the need to make the software side more efficient though, and once the hardware side catches up, that efficiency will remain. So, having a compute constraint early on, might actually prove to be beneficial in the long run because it means you can't just brute force your way forward."
+    },
+    {
+      "depth": 1,
+      "id": "phley9a",
+      "parent_id": "t1_phkf1aj",
+      "author": "yogthos",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792366010,
+      "body": "They also have far more real world application happening in stuff like robotics by virtue of having a massive industry to apply them in. I suspect embodiment is going to be a a crucial step on the way to AGI."
+    },
+    {
+      "depth": 1,
+      "id": "phliqyy",
+      "parent_id": "t1_phkf1aj",
+      "author": "ahuang2234",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792367258,
+      "body": "No? If you read the article this isn’t an autonomous solution, more so a human-AI partnership. They also didn’t fully resolve the conjecture, only a narrow part of it. \n\nDon’t get me wrong, this is an impressive result, but this result remains far behind frontier levels. Which is unsurprising, considering they didn’t even use the best Chinese model out there - it’s a qwen 3.5 fine tune. "
+    },
+    {
+      "depth": 1,
+      "id": "phme6kf",
+      "parent_id": "t1_phkf1aj",
+      "author": "acowasacowshouldbe",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792377829,
+      "body": "They are way more than 3-4 months behind, fable was released back in February"
+    },
+    {
+      "depth": 0,
+      "id": "phkjkca",
+      "parent_id": "t3_1x9d9hk",
+      "author": "Neither-Athlete-628",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792356624,
+      "body": "As a math major in China, I'm pretty skeptical about this. I've tested this model's math capabilities, and it really struggles with the difficult undergraduate-level problems I run into."
+    },
+    {
+      "depth": 1,
+      "id": "phkn5u7",
+      "parent_id": "t1_phkjkca",
+      "author": "Tricky_Rule_4565",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792357629,
+      "body": "Real, they’re just alright at programming and are more behind than the benchmarks suggest."
+    }
+  ]
+}
