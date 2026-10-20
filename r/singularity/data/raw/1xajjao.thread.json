@@ -1,0 +1,26 @@
+{
+  "post_id": "1xajjao",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "LIVING TO 150? Inside the AI-powered bet on human longevity",
+    "author": "theimposingshadow",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Biotech/Longevity",
+    "created_utc": 1792473471,
+    "selftext": "Insilico Medicine is using generative AI to discover and develop new drugs, with over 40 candidates in its pipeline.\n\nOne of their AI-developed drugs, targeting pulmonary fibrosis, has already reached Phase 3 clinical trials.  \nWhat’s really interesting is their work on reversing aspects of biological aging. They’re using AI and biological aging clocks to measure whether treatments can actually reverse age-related decline.\n\nWe’re potentially watching AI accelerate drug discovery while opening the door to treatments that target aging itself. Pretty exciting stuff.",
+    "permalink": "/r/singularity/comments/1xajjao/living_to_150_inside_the_aipowered_bet_on_human/"
+  },
+  "comments": []
+}

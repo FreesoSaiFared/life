@@ -1,0 +1,55 @@
+{
+  "post_id": "1xa0min",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~20h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "When OAI / Anth announces dramatic new token efficiency gains... 🥵💧",
+    "author": "Anen-o-me",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Meme",
+    "created_utc": 1792425222,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xa0min/when_oai_anth_announces_dramatic_new_token/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "phqyzj3",
+      "parent_id": "t3_1xa0min",
+      "author": "Yugudubenbi",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792435459,
+      "body": "Token wealth is the new dollar wealth.\n\n\nY'know, I showed off my AIs while going about in the club last night and people got mighty impressed. This one girl got absolutely hooked by my skills and followed me home. Things got heated and then we started to undress. Five seconds later **BAM**. She looks at me \"Is that all the usage you got, Astra?\". \n\n\nNo I said, and pulled out Opus on max and now we are happily married."
+    },
+    {
+      "depth": 1,
+      "id": "phr5cfn",
+      "parent_id": "t1_phqyzj3",
+      "author": "TheGoddessInari",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792437017,
+      "body": "*Ten Seconds To Love* is a Motley Crüe song. 🤔\n\nOr did Opus not last as long?"
+    }
+  ]
+}

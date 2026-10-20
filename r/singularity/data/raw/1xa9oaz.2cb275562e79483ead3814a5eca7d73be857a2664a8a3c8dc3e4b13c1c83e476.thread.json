@@ -1,0 +1,153 @@
+{
+  "post_id": "1xa9oaz",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "CERN joins forces with French LLM company Mistral to \"develop a single pretrained Large Physics Model – the first foundation model for collider physics\"",
+    "author": "Upset-Jellyfish-235",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792445296,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xa9oaz/cern_joins_forces_with_french_llm_company_mistral/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "phs3kid",
+      "parent_id": "t3_1xa9oaz",
+      "author": "powerscunner",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792445869,
+      "body": "Supercollider? I hardly know her!\n\nAnd then they built the supercollider."
+    },
+    {
+      "depth": 0,
+      "id": "phs93r6",
+      "parent_id": "t3_1xa9oaz",
+      "author": "141_1337",
+      "author_flair_text": "▪️e/acc | AGI: ~2030 | ASI: ~2040 | FALGSC: ~2050 | :illuminati:",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792447582,
+      "body": "Oh this one could be huge "
+    },
+    {
+      "depth": 0,
+      "id": "phsdio7",
+      "parent_id": "t3_1xa9oaz",
+      "author": "Vivid_Rider_930",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792449019,
+      "body": "Tokenization is the hard part. Text is a sequence, but a collision event is an unordered cloud of hundreds of particles with momenta, charges and detector hits. OmniJet-alpha discretized jet constituents with a VQ-VAE codebook, and any quantization like that costs resolution, which is brutal when your signal is a tiny bump in a mass spectrum. Particle Transformer is already strong on JetClass, so this thing has to win on transfer across tasks, not tagging. Most of the pretraining data will probably be Geant4 simulation too. Sim-to-real mismatch is exactly where systematics hide. Are they training on real detector data, or did CERN just commission a very expensive simulator emulator?"
+    },
+    {
+      "depth": 0,
+      "id": "phsivhr",
+      "parent_id": "t3_1xa9oaz",
+      "author": "Dangerous-Sport-2347",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792450826,
+      "body": "This will be interesting, might be another test of the bitter lesson. Will a smaller specialized physics model made for CERN outperform generalized frontier models trained with more compute?\n\nWould be interesting if they can manage it but also wouldn't be surprised if by the time they finish it Fable 6 outperforms it on the same tasks."
+    },
+    {
+      "depth": 1,
+      "id": "phuwd5a",
+      "parent_id": "t1_phsivhr",
+      "author": "Chemical-Quote",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792486684,
+      "body": "The \"bitter lesson\" doesn't prevent weather forecasting AI or chess AI from outperforming LLMs so far"
+    },
+    {
+      "depth": 2,
+      "id": "phv1yoo",
+      "parent_id": "t1_phuwd5a",
+      "author": "Gotisdabest",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": 1792489951,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792489670,
+      "body": "*So far* is a big point here. We are seeing the gap close quite quickly in a lot of areas. Argon is very good at chess, for example, particularly if it's prompted right. \n\nDiffusion models are still around but LLMs have gotten dramatically better at art recently. The bitter lesson doesn't necessarily operate on a timescale of a few months. It varies depending on how distinct the method is. The closer your method is to a LLM the faster it'll be bitter lessoned away. The point of the bitter lesson is that it's not necessarily immediate, but that it always does arrive. After gpt 4 there was this glut of field specific LLMs and google had this whole line of medical LLMs and they all just vanished pretty soon. We had dedicated math systems till last year which have now vanished. \n\nIn this case the worst part for them is that they're going to be working off a fifth tier lab or thereabouts."
+    },
+    {
+      "depth": 0,
+      "id": "phumet9",
+      "parent_id": "t3_1xa9oaz",
+      "author": "greeneditman",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792481233,
+      "body": "I’m glad that France is doing things in the field of AI. France and Germany are, to some extent, saving Europe’s pride when it comes to AI."
+    },
+    {
+      "depth": 1,
+      "id": "phupedr",
+      "parent_id": "t1_phumet9",
+      "author": "Brilliant-Weekend-68",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792482862,
+      "body": "Well yea, thoose are the largest natiuons. You cannot expect Denmark to lead the way with a population of 5 million :) Italy should feel slightly ashamed though."
+    },
+    {
+      "depth": 2,
+      "id": "phuxlyx",
+      "parent_id": "t1_phupedr",
+      "author": "Super-Award-2244",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792487356,
+      "body": "There's no way that Italy's government gives a shit about technology. On the contrary, they are working against it, even saying that videogames are evil and a drug as dangerous as heroine.\nAt the beginning of 2023, following Elon's anti Ai letter, Italy was the only country to BAN chatgpt (bear in mind it used 3.5 turbo) entirely because these dumbfucks thought it was too dangerous. "
+    }
+  ]
+}
