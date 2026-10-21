@@ -1,0 +1,83 @@
+{
+  "post_id": "1xbfwfg",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "In 2009, Microsoft had to fake parts of this AI demo called Project Milo, with a virtual character able to converse and interact with you and even comment on your drawing. Today this is completely mundane capability.",
+    "author": "Anen-o-me",
+    "score": 4,
+    "upvote_ratio": 0.8333333333333334,
+    "num_comments": 1,
+    "link_flair_text": "AI",
+    "created_utc": 1792565054,
+    "selftext": "Many people at this time thought it was a legitimate breakthrough in AI capability. \n\nHowever it was never released, was used to hype the Microsoft gaming console of that day & Kinect the 3D video system it used, and was soon exposed as mostly faked for the demo. \n\nBut today, we can do all of this easily enough. Even video chatting with the AI, even drawing pictures together. \n\nWould be ironic if Microsoft resurrected Milo for the first AI-driven videogames that are surely on the horizon. ",
+    "permalink": "/r/singularity/comments/1xbfwfg/in_2009_microsoft_had_to_fake_parts_of_this_ai/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rf7xu8vvwea",
+      "parent_id": "t3_1xbfwfg",
+      "author": "Marileuis",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792565593,
+      "body": "Why didn't they just use the Claude API?"
+    },
+    {
+      "depth": 1,
+      "id": "19rf8uzo7p9s5",
+      "parent_id": "t1_19rf7xu8vvwea",
+      "author": "ocean_boulevard",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792566831,
+      "body": "The video is 2009 and Claude wasn't available back then. "
+    },
+    {
+      "depth": 1,
+      "id": "19rf8v6er3cg1",
+      "parent_id": "t1_19rf7xu8vvwea",
+      "author": "CrowdGoesWildWoooo",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792566838,
+      "body": "Are they stupid?"
+    },
+    {
+      "depth": 0,
+      "id": "19rf95ny3v1l1",
+      "parent_id": "t3_1xbfwfg",
+      "author": "Poupulino",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792567230,
+      "body": "Some of Microsoft side-projects were so incredibly weird. Who seriously wants to have some kid living in their TV? It's like having the ghost of some long dead British kid in your home lmao "
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "post_id": "1xbi26k",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Building a humanoid for agentic robotics",
+    "author": "eck72",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1792573243,
+    "selftext": "Agents are going to live with us, and the human form factor is the one that generalizes best in our world. So we've been heads down building a humanoid robot that agents can embody.\n\nA bit of back story. We started with a Unitree G1 last year to build an ecosystem allowing agents to control robot. It didn't work. G1 hardware is proprietary, the parts are custom and every repair goes through the manufacturers or resellers. We noticed that if agents are going to live in our homes, their bodies/robots should be built in a way they can understand every single part and easy to repair. We need to be able to fix them, change them and see what they run, including the safety layer.\n\nSo we built Asimov 1 from off-the-shelf parts. With the bill of materials you can source the parts and build one yourself. Everything we built is open, the CAD, the SDK for communication, Edge for safety, the locomotion policy and the training code as a foundation for agents and people to build on top of.\n\nIt's still early for agentic robotics. Asimov 1 walks, but there's a lot we haven't figured out yet and we're learning as we go. We'd rather do that in the open for agents and also with more people building alongside us. Planning to focus to agent layer now.\n\nIf you've been thinking about building a robot, now is a good time. You can build your own, fork ours, or pick any open-source robot and push it further. The more open bodies there are, the faster agents will learn to live with us.\n\nThe repo to build your own: [https://github.com/menloresearch/asimov-1](https://github.com/menloresearch/asimov-1)\n\nWe're also putting together a user manual for building your own humanoids robots from scratch: [https://docs.menlo.ai/asimov/1/overview](https://docs.menlo.ai/asimov/1/overview)\n\nReally appreciate to hear your thoughts on agentic robotics and Asimov 1.",
+    "permalink": "/r/singularity/comments/1xbi26k/building_a_humanoid_for_agentic_robotics/"
+  },
+  "comments": []
+}

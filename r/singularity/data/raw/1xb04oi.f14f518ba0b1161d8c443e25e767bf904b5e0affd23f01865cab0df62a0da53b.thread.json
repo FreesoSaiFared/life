@@ -1,0 +1,83 @@
+{
+  "post_id": "1xb04oi",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AI is not necessarily progress, it all depends on the outcome",
+    "author": "Illustrious-Film4018",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1792521049,
+    "selftext": "The way most people define \"progress\" is increases in standard of living across the majority of people. Or the majority of people are happier. If progress means anything it should mean, the majority of people are happier. \n\nAnd that's why it's not actually fair at this point in history to say AI is \"progress\". Because AI might not make the majority of people happier. If AI causes WW3 for example or causes a mass casualty event, or bio T, then it was pretty clear that was not actually progress. If AI just causes a dystopian future and the majority of people to be unhappy while a small number of people are obscenely rich, then it was not actually progress. There are so many scenarios where AI might not be progress. In fact, AI has been proposed as one of the possible \"Great Filters\", the reason why we don't see any sign of intelligent life anywhere in the universe despite the universe being billions of years old. \n\nPeople who are anti-AI get referred to as \"Luddites\" because they're \"against progress\". The problem is no one really knows if AI will result in progress or not right now, it could very well not. We'll only know in retrospect whether AI was good for society or not. That's why being anti-AI does not make someone a \"luddite\". ",
+    "permalink": "/r/singularity/comments/1xb04oi/ai_is_not_necessarily_progress_it_all_depends_on/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19reb0dai6v2c",
+      "parent_id": "t3_1xb04oi",
+      "author": "QuasiRandomName",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792521295,
+      "body": "Progress means that we (the humanity) know more and can do more things. You have defined your own \"progress\", that's fine, but you can't expect others to accept it."
+    },
+    {
+      "depth": 0,
+      "id": "19reb152u103p",
+      "parent_id": "t3_1xb04oi",
+      "author": "tinny66666",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792521324,
+      "body": "You've picked one sense of the word 'progress' and decided that's what everyone means. When I think of progress it's about technological and scientific progress. Your post is a straw man argument. AI is most certainly leading to progress from my point of view."
+    },
+    {
+      "depth": 0,
+      "id": "19reb2dva8dl1",
+      "parent_id": "t3_1xb04oi",
+      "author": "GoodRazzmatazz4539",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792521370,
+      "body": "How is teaching into silicon cooked sand to think not progress? "
+    },
+    {
+      "depth": 0,
+      "id": "19rebguryp3no",
+      "parent_id": "t3_1xb04oi",
+      "author": "r_daniel_oliver",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792521911,
+      "body": "Nuclear technology is progress even if they're a nuclear war.  It just wouldn't be progress we benefit from.  The same is true of AI."
+    }
+  ]
+}

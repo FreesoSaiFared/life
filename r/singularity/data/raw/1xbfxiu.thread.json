@@ -1,0 +1,69 @@
+{
+  "post_id": "1xbfxiu",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "For the first time, AI-designed viruses have been administered to a human patient. Radical Numerics used Omnii-1 to engineer viruses against an antibiotic-resistant infection. The treatment eliminated the patient's bacteria in laboratory tests before being administered under compassionate use.",
+    "author": "141_1337",
+    "score": 18,
+    "upvote_ratio": 0.95,
+    "num_comments": 2,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1792565162,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xbfxiu/for_the_first_time_aidesigned_viruses_have_been/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rf7mq5bmj7k",
+      "parent_id": "t3_1xbfxiu",
+      "author": "141_1337",
+      "author_flair_text": "▪️e/acc | AGI: ~2030 | ASI: ~2040 | FALGSC: ~2050 | :illuminati:",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792565177,
+      "body": "Source:\n\nhttps://www.radicalnumerics.ai/blog/omnii-phage"
+    },
+    {
+      "depth": 0,
+      "id": "19rf83g6bdqdc",
+      "parent_id": "t3_1xbfxiu",
+      "author": "space_monster",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792565802,
+      "body": "the first of a great many I'm sure. the industry needs to start kicking some serious medicine goals. "
+    },
+    {
+      "depth": 0,
+      "id": "19rf8m6fufd1f",
+      "parent_id": "t3_1xbfxiu",
+      "author": "Upstairs_Pride_6120",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792566502,
+      "body": "Not even disclosing the outcome under ethical reasons ls bs btw"
+    }
+  ]
+}

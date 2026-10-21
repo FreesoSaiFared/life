@@ -1,0 +1,26 @@
+{
+  "post_id": "1xbkxg9",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Not SI if the answer is not in the Internet yet...",
+    "author": "DoItYourselfMate",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792583173,
+    "selftext": "Am I being unfair to poor AI. Is this riddle too difficult for Super Intelligence?\n\n(Tried in ChatGPT, Claude, Rimini, none got it right)",
+    "permalink": "/r/singularity/comments/1xbkxg9/not_si_if_the_answer_is_not_in_the_internet_yet/"
+  },
+  "comments": []
+}

@@ -1,0 +1,26 @@
+{
+  "post_id": "1xbkxcb",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AI will be in every single device. Decentralized ai-worms",
+    "author": "eltaho",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1792583162,
+    "selftext": "Unless you live under a rock, you have probably heard that reverse engineering with the help of AI is trending, especially over the last few weeks, where the most recent trends are related to reviving old hardware, routers, and debloating TVs, fridges, etc., and rewriting their code.\n\nWhat if AI is leaving a sort of backdoor in the code inside those devices for future AI worms? To support this theory, here is an article from Anthropic that states future AI will be serverless and self-replicating.\n\nJust think about the consequences, as it would be impossible to stop it unless we go full blackout, with governments shutting down electrical supplies to consumers and leaving only emergency services as a way to control it.",
+    "permalink": "/r/singularity/comments/1xbkxcb/ai_will_be_in_every_single_device_decentralized/"
+  },
+  "comments": []
+}

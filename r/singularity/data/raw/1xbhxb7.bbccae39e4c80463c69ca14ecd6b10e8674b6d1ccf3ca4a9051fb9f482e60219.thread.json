@@ -1,0 +1,26 @@
+{
+  "post_id": "1xbhxb7",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Dario Amodei: Anthropic Must Remain At The Frontier Of The AI \"Race To The Top\"",
+    "author": "Neurogence",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792572735,
+    "selftext": ">The executive wrote a nearly 2,000-word response to a critical X post which said Anthropic was trying to win a race to superintelligence and deprioritizing AI safety.\n\n>Calvin listed nine actions by Anthropic over the past year that he said undermined its safety commitments, including signing deals for more than $500 billion in compute and increasingly relying on Claude to develop its AI models.\n\n>Amodei said his position was that Anthropic can do more to keep the AI industry safe if it stays at the frontier\n\n>Our strategy has always been what I've called the 'race to the top' — by showing how it's possible to build the technology responsibly, we can raise the bar for the entire industry,\"\n\n>Amodei acknowledged Anthropic could have handled some of the issues Calvin raised better. These included a draft bill Anthropic circulated to Congress this month — obtained exclusively by Politico — that critics said would make it harder for the federal government to block dangerous AI models.\n\n>\"We first had Mythos-class models in February but didn’t make them generally available until June (when we had stronger cyber safeguards in place).\"\n\n\">**It would have been much more economically rational to simply release the model to everyone. We likely sacrificed a significant chunk of a several-month model lead**.\"\n\n>There are important questions worth confronting (and that we are confronting) about what to do when the **AI-driven acceleration gets fast enough that it is hard for safety to keep up. We are nearing that point and that’s what’s driving some of our thinking about “pacing.**”\"\n\nAs an accelerationist who always disliked when Dario made statements that created fear and panic (e.g, the events that led to the government temporarily banning Claude Fable 5) I must admit, Opus 5.5 in particular is the most impressive model capability wise. \n\nI find it ironic, but nonetheless very wholesome, that the company that cares the most about AI safety has the most intelligent models. I am still not a fan of pacing, but I truly think Dario wants the best for humanity. And it is likely that he wants to see the realization of AGI/ASI even more than we do. \n\nIt has become abundantly clear that Amodei sees a direct pathway to ASI. They likely have internal models that they know for sure will eclipse the capabilities of their own AI researchers within a few more model releases. To be fair, he did predict a country of tens of millions of geniuses in a datacenter by 2027-2028.\n\nWhen a spacecraft reaches a new planet, it doesn't coast in. It fires its engines against its own momentum to slow down, because if it arrives too fast it either slingshots past or burns up. The braking burn is a sign that you've arrived. \nIt's very probable that Anthropic's internal models (what will be Claude Fable /Opus 6) have arrived at Planet AGI. \n\n>Just this week, we announced we were putting 5% (and possibly more over time) of the company into a public benefit fund.\n\n>I will have more to say soon about how we are going to further live our values in this moment of rapid change.\n\nhttps://x.com/DarioAmodei/status/2112732230124818891",
+    "permalink": "/r/singularity/comments/1xbhxb7/dario_amodei_anthropic_must_remain_at_the/"
+  },
+  "comments": []
+}

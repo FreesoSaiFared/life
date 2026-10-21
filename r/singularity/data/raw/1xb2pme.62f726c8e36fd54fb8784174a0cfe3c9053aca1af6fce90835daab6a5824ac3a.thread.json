@@ -1,0 +1,26 @@
+{
+  "post_id": "1xb2pme",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~16h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "A five-person investment team with almost no biology experience used Claude to design 318,484 proteins in just 64 hours, coordinating over 300 AI agents. Independent laboratories tested 211 candidates and confirmed 17 could bind dangerous scorpion neurotoxins.",
+    "author": "141_1337",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1792526844,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xb2pme/a_fiveperson_investment_team_with_almost_no/"
+  },
+  "comments": []
+}

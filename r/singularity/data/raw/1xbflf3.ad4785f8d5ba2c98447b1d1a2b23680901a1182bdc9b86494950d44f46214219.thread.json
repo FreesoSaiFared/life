@@ -1,0 +1,41 @@
+{
+  "post_id": "1xbflf3",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Did AI make any already proven math more elegant?",
+    "author": "BrownCraftedBeaver",
+    "score": 1,
+    "upvote_ratio": 0.6666666666666666,
+    "num_comments": 1,
+    "link_flair_text": "Discussion",
+    "created_utc": 1792563919,
+    "selftext": "We have seen OpenAI releasing numerous papers on mathematics that were unsolved before. And we also hear experts telling that those are badly written and very difficult to verify by a human. \n\nAre there any AI output on mathematics that takes any existing proof and makes it more elegant using different technique? ",
+    "permalink": "/r/singularity/comments/1xbflf3/did_ai_make_any_already_proven_math_more_elegant/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rf6tuc7icf6",
+      "parent_id": "t3_1xbflf3",
+      "author": "StructureNorth1799",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792564098,
+      "body": "yes, it has helped me find simplications of arguments in my private notes. I am sure this is the case for many others. "
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "post_id": "1xbkhep",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Demis Hassabis now expects AGI in 2-3 years, down from 3-5 earlier this year",
+    "author": "FakeEyeball",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792581746,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xbkhep/demis_hassabis_now_expects_agi_in_23_years_down/"
+  },
+  "comments": []
+}
