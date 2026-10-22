@@ -1,0 +1,41 @@
+{
+  "post_id": "1xbs9ke",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~19h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Recursive releases Flint",
+    "author": "lazyniu",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1792600906,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xbs9ke/recursive_releases_flint/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rg0q6wkoclg",
+      "parent_id": "t3_1xbs9ke",
+      "author": "ProxyLumina",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792604318,
+      "body": "Really good. But not accessible for most people. I guess it will require at least 64GB RAM on a system."
+    }
+  ]
+}

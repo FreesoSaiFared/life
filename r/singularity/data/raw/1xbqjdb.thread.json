@@ -1,0 +1,97 @@
+{
+  "post_id": "1xbqjdb",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~20h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Singularity Daily Discussion Thread - Oct 21, 2026",
+    "author": "barbozas_obliques",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "the Singularity is Nearer",
+    "created_utc": 1792597132,
+    "selftext": "This thread is for any discussions that doesn't necessitate a new post. Permission from a mod [here](https://www.reddit.com/r/singularity/s/FM1UwNdoL9)\n\n\n\nSince this thread isn't going to be to stickied, it's up to you to upvote it.\n\n\n\nShare your anxiety, ideas on how to achieve alignment, observations, etc. Everything is fair game as long as it somewhat relates to the singularity.",
+    "permalink": "/r/singularity/comments/1xbqjdb/singularity_daily_discussion_thread_oct_21_2026/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rfw5fgdw3qb",
+      "parent_id": "t3_1xbqjdb",
+      "author": "imfamilyfriendlysd",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792598161,
+      "body": "Guys gpt-6 is available for free users in mobile?"
+    },
+    {
+      "depth": 1,
+      "id": "19rfy718e9g4i",
+      "parent_id": "t1_19rfw5fgdw3qb",
+      "author": "Good-Age-8339",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792600912,
+      "body": "Yes, Insta mode and thinking mode."
+    },
+    {
+      "depth": 2,
+      "id": "19rgeg8tqe3mt",
+      "parent_id": "t1_19rfy718e9g4i",
+      "author": "TurbulenceModel",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792622779,
+      "body": "What does that correlate to on the Work mode settings? I'm guessing it's Sol something. "
+    },
+    {
+      "depth": 0,
+      "id": "19rfwunxfp80x",
+      "parent_id": "t3_1xbqjdb",
+      "author": "baws1017",
+      "author_flair_text": "▪️ASI will hide",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792599104,
+      "body": "Seems like everyone is using AI to fix their TVs huh"
+    },
+    {
+      "depth": 0,
+      "id": "19rgedy6eu4f8",
+      "parent_id": "t3_1xbqjdb",
+      "author": "TurbulenceModel",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792622693,
+      "body": "What happened to that imminent Fable 5.5 rumor?"
+    }
+  ]
+}

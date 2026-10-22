@@ -1,0 +1,139 @@
+{
+  "post_id": "1xccs5w",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~4h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "LLM Business Model",
+    "author": "athoughtfornoone",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1792657067,
+    "selftext": "Anyone else wondering about the LLM business model.  Like this is a total tin foil hat theory here... but they develop agents that help people code.  They create software and sell that to their software vendors.  Then the legacy saas companies use the AI to improve their product offerings.  Then the LLM providers just clone those legacy SaaS products, release those, and then under their terms and conditions, the legacy providers can no longer use the AI to develop their products so they are dead in the water and essentially funding their own demise right now.\n\n  \nLike I said, tin foil hat theory.",
+    "permalink": "/r/singularity/comments/1xccs5w/llm_business_model/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rh47lp9ellt",
+      "parent_id": "t3_1xccs5w",
+      "author": "Pietes",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792657432,
+      "body": "you mean the amazon model?"
+    },
+    {
+      "depth": 1,
+      "id": "19rh4ratg76qs",
+      "parent_id": "t1_19rh47lp9ellt",
+      "author": "Fragrant_Arugula7990",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792658168,
+      "body": "so the legacy saas companies are paying to train the thing that eventually replaces them, and the terms they agreed to lock them out of the runway. it's like building your own gallows and tipping the carpenter"
+    },
+    {
+      "depth": 0,
+      "id": "19rh4bhyf5rl0",
+      "parent_id": "t3_1xccs5w",
+      "author": "ongix",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792657577,
+      "body": "so for consumers I don't think this is a bad thing at all because more competition is better. \n\nbut anyways a saas company cannot neglect AI at this point because maybe it will get plagiarized. they will not keep up.  "
+    },
+    {
+      "depth": 1,
+      "id": "19rh4j3mf6k11",
+      "parent_id": "t1_19rh4bhyf5rl0",
+      "author": "athoughtfornoone",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792657861,
+      "body": "i def agree that a saas company cannot neglect ai at this point in time, but saas is getting commoditized at an alarming rate.  the whole adobe clone thing is one aspect, but i wonder if it's just a downwards spiral for saas at this point in time.  personally, i think we're leaving the dark ages of saas and entering more of a golden era of personalized saas... atleaste that's the hope."
+    },
+    {
+      "depth": 0,
+      "id": "19rh4gqob8q91",
+      "parent_id": "t3_1xccs5w",
+      "author": "meisteronimo",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792657773,
+      "body": "Now adays everyone uses ai, everyone can clone someone else's product, not just the ai companies but your competitors, and especially... Your customers - that's the big one, they can build it on their own for the features they need.\n\nThis was a pretty good video on how \n[sass products can make moats to protect their business ](https://youtu.be/KpILHX2D-AA?is=3HizKGnBrBGUVLoX)"
+    },
+    {
+      "depth": 0,
+      "id": "19rh4th2ux90h",
+      "parent_id": "t3_1xccs5w",
+      "author": "Ormusn2o",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792658249,
+      "body": "Code is like generating steam in Jevon's Paradox. The cheaper the steam is, the more you want to use it. If code is cheap enough, you don't need SAAS companies. You just have people themselves making their own SAAS and many other things with code, even things we did not think would be a thing before.\n\nFor example, nobody thought about mixing games, just adding Minecraft to Skyrim, Skate to Cod and any of those other things. This is new use of code that just was not financially feasible before. As code gets better and cheaper, there will be more uses for code, both for things we can think of right now, like compatibility patches for console games or older games, new content, new games, but also things that we can't imagine right now."
+    },
+    {
+      "depth": 0,
+      "id": "19rh5sii6q9r7",
+      "parent_id": "t3_1xccs5w",
+      "author": "FearOfEleven",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": 1792660082,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792659558,
+      "body": "In principle, any company with in-depth knowledge of its users — whether in design for print, legal advice, medical care or any other field — can continue to specialise in its area by adapting its software, which more often than not will involve collaborating with a frontier AI lab. However, since software is essentially just a guide on how to handle data, its behaviour can be relatively easily deciphered and therefore reverse engineered, as you point out. Copyright claims notwithstanding, this really looks like a 'race to the bottom' for 99% of user cases. Nevertheless, I still fail to see how computing resources, advanced machinery, or highly encrypted, high-quality datasets could become cheaper any time soon — these things are or can become company assets.\n\nEdit: word"
+    },
+    {
+      "depth": 0,
+      "id": "19rh6fyu55gwx",
+      "parent_id": "t3_1xccs5w",
+      "author": "ajwin",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792660435,
+      "body": "You basically described anti-trust. "
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "post_id": "1xbi26k",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~27h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Building a humanoid for agentic robotics",
+    "author": "eck72",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1792573243,
+    "selftext": "Agents are going to live with us, and the human form factor is the one that generalizes best in our world. So we've been heads down building a humanoid robot that agents can embody.\n\nA bit of back story. We started with a Unitree G1 last year to build an ecosystem allowing agents to control robot. It didn't work. G1 hardware is proprietary, the parts are custom and every repair goes through the manufacturers or resellers. We noticed that if agents are going to live in our homes, their bodies/robots should be built in a way they can understand every single part and easy to repair. We need to be able to fix them, change them and see what they run, including the safety layer.\n\nSo we built Asimov 1 from off-the-shelf parts. With the bill of materials you can source the parts and build one yourself. Everything we built is open, the CAD, the SDK for communication, Edge for safety, the locomotion policy and the training code as a foundation for agents and people to build on top of.\n\nIt's still early for agentic robotics. Asimov 1 walks, but there's a lot we haven't figured out yet and we're learning as we go. We'd rather do that in the open for agents and also with more people building alongside us. Planning to focus to agent layer now.\n\nIf you've been thinking about building a robot, now is a good time. You can build your own, fork ours, or pick any open-source robot and push it further. The more open bodies there are, the faster agents will learn to live with us.\n\nThe repo to build your own: [https://github.com/menloresearch/asimov-1](https://github.com/menloresearch/asimov-1)\n\nWe're also putting together a user manual for building your own humanoids robots from scratch: [https://docs.menlo.ai/asimov/1/overview](https://docs.menlo.ai/asimov/1/overview)\n\nReally appreciate to hear your thoughts on agentic robotics and Asimov 1.",
+    "permalink": "/r/singularity/comments/1xbi26k/building_a_humanoid_for_agentic_robotics/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rfpquekpft1",
+      "parent_id": "t1_19rfl95gy6slh",
+      "author": "eck72",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792589545,
+      "body": "Short answer: If you want to go with Asimov 1, it takes around 20 hours to build if you follow the user manual, but expect 100+ hours if you're learning as you go, breaking and fixing things along the way.  \n  \nI'm not an expert on learning paths, but I think learning by doing is one of the best ways in - just start somewhere. Asimov 1 is a good project to learn from, but it's a big one. I'd start with a simple robotic arm, it might be easier. Hugging Face has great resources for this through LeRobot, and the SO-101 arm is a really nice first project. Agents can also help a lot when you get stuck."
+    },
+    {
+      "depth": 0,
+      "id": "19rft5xyzw7d1",
+      "parent_id": "t1_19rffyjwdrmmb",
+      "author": "IrisColt",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792594145,
+      "body": "Thanks, the video is no longer available according to the site."
+    },
+    {
+      "depth": 0,
+      "id": "19rftn51pgax0",
+      "parent_id": "t3_1xbi26k",
+      "author": "InAtTheGeekEnd",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792594787,
+      "body": "Clearly pissed as a newt!!!"
+    },
+    {
+      "depth": 0,
+      "id": "19rg4w8ufkwg5",
+      "parent_id": "t3_1xbi26k",
+      "author": "DragonKing2223",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792609925,
+      "body": "Very nice! I've always wanted to work on agentic robotics, but unfortunately I haven't got the personal finances to do so yet.\n\nIf you've ever played a factory game before, one of the most important milestones is building a MAM (make anything machine), that can make anything you would care to make just by reprogramming it, and once you gave it things can really take off. With our current level of tech, I feel like we aren't quite there yet, but it's close.\n\nI have yet to see anyone try to benchmark if an agentic system involving a humanoid robot could take a part, design a tool path, put the stock in the machine, and run it to make a useful part, but I think that's one of the most important starting points for a real world MAM. Reduce enough processes to automatable steps like that and things really start changing fast"
+    },
+    {
+      "depth": 0,
+      "id": "19rg9qnmxtuf4",
+      "parent_id": "t1_19rfeh4wsbtxe",
+      "author": "OpticalOutlaw",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792616442,
+      "body": "Like Apptronic and Google Gemini 4 Argon, or also GPT 6 Astra, which also can control robots."
+    },
+    {
+      "depth": 0,
+      "id": "19rgl1jk2ddmr",
+      "parent_id": "t1_19rff1d4zeloj",
+      "author": "Psykohistorian",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792631646,
+      "body": "I've seen this same 2-tier system in other agentic projects. it does work. a \"nervous system\" and a \"thinking brain\", connected but separate and responsible for different things. "
+    },
+    {
+      "depth": 0,
+      "id": "19rh2gsoldmis",
+      "parent_id": "t3_1xbi26k",
+      "author": "Interpause",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792655085,
+      "body": "hi can i get an internship in exchange i gibe upvote"
+    }
+  ]
+}

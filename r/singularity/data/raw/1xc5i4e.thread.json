@@ -1,0 +1,139 @@
+{
+  "post_id": "1xc5i4e",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~10h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+    "author": "LazyPotatoHead97",
+    "score": 58,
+    "upvote_ratio": 0.94,
+    "num_comments": 6,
+    "link_flair_text": "Discussion",
+    "created_utc": 1792632896,
+    "selftext": "The problem is large banks love to stick with outdated legacy systems, until something like this happens.\n\nWhen swarms of AI agents start attacking these outdated old legacy systems, large banks are really screwed if they don't update their systems.\n\nI think this is finally the wake up call large financial institutions  using legacy systems really need. These financial institutions who relied so heavily on these ancient systems are FINALLY being tested now.\n\nAI swarms will start to destroy any legacy and ancient systems currently in place\n\nWe will see many large companies who were very comfortable for long time moving slowly and without care in the world start to either  adapt or die in the coming years now.\n\n2027 really is the take off year.",
+    "permalink": "/r/singularity/comments/1xc5i4e/bank_of_america_hired_1000_contractors_to_patch/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rgmglk8fmdf",
+      "parent_id": "t3_1xc5i4e",
+      "author": "TheDailySpank",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792633554,
+      "body": "The company that only paid a 24% money laundering tax?"
+    },
+    {
+      "depth": 0,
+      "id": "19rgprwqqyfwg",
+      "parent_id": "t3_1xc5i4e",
+      "author": "yaosio",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792638012,
+      "body": "Eventually we're going to get news that AI found a flaw and patched it without telling anybody."
+    },
+    {
+      "depth": 1,
+      "id": "19rgqdbil0uf5",
+      "parent_id": "t1_19rgprwqqyfwg",
+      "author": "visionote",
+      "author_flair_text": null,
+      "score": 0,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792638812,
+      "body": "AI needs the permission to do that."
+    },
+    {
+      "depth": 2,
+      "id": "19rgqnvey356o",
+      "parent_id": "t1_19rgqdbil0uf5",
+      "author": "yaosio",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792639207,
+      "body": "AI needs permission to do a lot of things but sometimes it just does things without permission."
+    },
+    {
+      "depth": 0,
+      "id": "19rgrl8c56lfn",
+      "parent_id": "t3_1xc5i4e",
+      "author": "jazir55",
+      "author_flair_text": null,
+      "score": 9,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792640453,
+      "body": "Instead of just hiring.....Claude?"
+    },
+    {
+      "depth": 1,
+      "id": "19rgsgx2g416s",
+      "parent_id": "t1_19rgrl8c56lfn",
+      "author": "AfternoonShot9285",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792641637,
+      "body": "Silly gus, that's for the contractors to use"
+    },
+    {
+      "depth": 1,
+      "id": "19rh8rteyu0ao",
+      "parent_id": "t1_19rgrl8c56lfn",
+      "author": "JamaiKen",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792663568,
+      "body": "They need a human to blame when things go wrong. It’s a bank."
+    },
+    {
+      "depth": 2,
+      "id": "19rh91n7bcwlg",
+      "parent_id": "t1_19rh8rteyu0ao",
+      "author": "Fearless-Macaron9183",
+      "author_flair_text": "▪️agi touched me",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792663935,
+      "body": "I was just going to say that"
+    }
+  ]
+}
