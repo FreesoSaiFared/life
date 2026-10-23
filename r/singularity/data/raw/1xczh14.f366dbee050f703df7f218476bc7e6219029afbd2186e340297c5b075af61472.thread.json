@@ -1,0 +1,26 @@
+{
+  "post_id": "1xczh14",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~11h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Introducing NPCTalk: Make the NPCs of any game talk in realtime, in character, in their own cloned voice, in under 1s, and they act on what you say.",
+    "author": "Prime-Paradox",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Video",
+    "created_utc": 1792715251,
+    "selftext": "From Universal Modder on X: \"Introducing NPCTalk: make the NPCs of any game talk in realtime. I made every NPC in GTA V answer to me in character, in their own cloned voice, in under 1s, and they act on what you say.”\n\n“Packaged all the skills Claude learned into a single repo, built on open models: NVIDIA Nemotron ASR for transcription, Qwen 3.8 27B for realtime dialogue, and Fish Audio Drama 3 for the cloned voices, self-hosted on a serverless GPU. \"",
+    "permalink": "/r/singularity/comments/1xczh14/introducing_npctalk_make_the_npcs_of_any_game/"
+  },
+  "comments": []
+}

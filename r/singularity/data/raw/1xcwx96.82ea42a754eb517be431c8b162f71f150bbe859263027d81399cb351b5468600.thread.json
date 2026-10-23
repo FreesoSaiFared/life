@@ -1,0 +1,26 @@
+{
+  "post_id": "1xcwx96",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Canva has released their own image generation model.",
+    "author": "anonusr_llII",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792708384,
+    "selftext": "[https://x.com/canva/status/2113348707223753165](https://x.com/canva/status/2113348707223753165)",
+    "permalink": "/r/singularity/comments/1xcwx96/canva_has_released_their_own_image_generation/"
+  },
+  "comments": []
+}

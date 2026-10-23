@@ -1,0 +1,41 @@
+{
+  "post_id": "1xd5244",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Two molecules with four sticky ends can only fully bond into an aperiodic pattern, at least in simulation. But growing it by guessing hides provable dead ends",
+    "author": "jarekduda",
+    "score": 2,
+    "upvote_ratio": 0.75,
+    "num_comments": 1,
+    "link_flair_text": "Biotech/Longevity",
+    "created_utc": 1792732231,
+    "selftext": "Programmable matter will have to answer a basic question: which local rules force which global order? This paper studies “autocrystals”, local pattern statistics that force a structure to have no repeating unit cell. It gives an exact recipe: two hexagonal building blocks, each free to rotate, with two complementary pairs of sticky ends. Every fully bonded assembly is a known aperiodic tiling, and that part is mathematically certified.\n\nThe catch is growth. Attaching a piece only where exactly one state fits never leads to a dead end. But growth that has to guess can build patches that look perfect and provably can never be completed; we show one that completes to 12×12 but never to 14×14.\n\nTo be clear, this is simulation and proof, not yet a lab result. DNA-origami tiles and DNA-coated nanoparticles look like the natural platforms to test it.\n\nPaper, code and certificates: [doi.org/10.5281/zenodo.23541901](http://doi.org/10.5281/zenodo.23541901)",
+    "permalink": "/r/singularity/comments/1xd5244/two_molecules_with_four_sticky_ends_can_only/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rinu080rk6c",
+      "parent_id": "t3_1xd5244",
+      "author": "jarekduda",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792732255,
+      "body": "Grok: [https://x.com/grok/status/2113493017768153123](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fx%2Ecom%2Fgrok%2Fstatus%2F2113493017768153123&urlhash=ti9Y&mt=iXxicH2X4bV0QNK38dZPYZp7-WR7hwHJOZsNTLNrtGuusw9HlahDaApAkrbjBrT4du8IWJxacXn1HnrA5s84DTPMrVji7Z9u5MOiT-dKoG8Noa0MQZLDkRiPJxtJA4hmnXJ-3HX2snhQ58g0vw9Q6Mjqn9K2PNAs&isSdui=true)  \n\"The two-molecule hexagonal recipe with four sticky ends that forces aperiodic order solely via local statistics is novel. Autocrystals (self-enforcing aperiodicity) cleanly extend crystals and quasicrystals. The theorems on forced growth and provable dead-ends are useful for DNA tiles and programmable matter, showing exactly which local rules produce reliable global order.\""
+    }
+  ]
+}

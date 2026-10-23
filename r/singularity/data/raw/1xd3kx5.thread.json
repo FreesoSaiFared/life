@@ -1,0 +1,26 @@
+{
+  "post_id": "1xd3kx5",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "\"Code is cheap; ...write tests\" - programmer shares what full AI integration looks like in a modern dev house",
+    "author": "Anen-o-me",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792727418,
+    "selftext": "Writes:\n\nIf you haven't directly inlined AI tooling into your continuous integration pipeline, now's the time to do it. Like 95% of the bugs coming in have trivial fixes that can be merged within 20 mins of being reported with minimal human gatekeeping.\n\nCode is cheap. Right now, the code in any given codebase should be like 5% product, 95% tests. The robots are actually really good at building tests. You should be able to branch protect your main branch, and auto merge anything that tests green. If something fucks up, write more tests. This is the new way, and it's actually incredible to see it working at scale with hundreds of devs firing their slop cannons at the same time, and having everything coalescing into a living project that continues to improve in real time before your eyes.",
+    "permalink": "/r/singularity/comments/1xd3kx5/code_is_cheap_write_tests_programmer_shares_what/"
+  },
+  "comments": []
+}

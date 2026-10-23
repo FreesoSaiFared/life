@@ -1,0 +1,55 @@
+{
+  "post_id": "1xcv9zi",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Safety Research = Capabilities Research",
+    "author": "ResultBackground2450",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792704247,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xcv9zi/safety_research_capabilities_research/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19ri3953mz0rm",
+      "parent_id": "t3_1xcv9zi",
+      "author": "94746382926",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792704571,
+      "body": "Can you please post the link"
+    },
+    {
+      "depth": 0,
+      "id": "19ri3bwb8affp",
+      "parent_id": "t3_1xcv9zi",
+      "author": "False-Database-8083",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792704674,
+      "body": "Are these reputable people? I haven't heard of em"
+    }
+  ]
+}

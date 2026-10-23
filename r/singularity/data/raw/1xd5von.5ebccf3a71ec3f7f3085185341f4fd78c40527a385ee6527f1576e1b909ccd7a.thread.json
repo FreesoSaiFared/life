@@ -1,0 +1,83 @@
+{
+  "post_id": "1xd5von",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Claude made a documentary about life after the singularity",
+    "author": "TuneFickle1772",
+    "score": 1,
+    "upvote_ratio": 0.5714285714285714,
+    "num_comments": 1,
+    "link_flair_text": "Video",
+    "created_utc": 1792735062,
+    "selftext": "prompt: \"Work overnight. Make a 7-minute 'I investigated...' style YouTube documentary about life after the singularity. Plan the story with multiple agents, make it look and sound like a real doc with grade, music and SFX, and if you finish, start a part 2.\"\n\nVideo: LTX-2.5 image-to-video in ComfyUI, about 2.5 minutes per clip. The interview speech and lip sync come out of LTX in the same pass.  \nNarrator: Qwen3-TTS. ",
+    "permalink": "/r/singularity/comments/1xd5von/claude_made_a_documentary_about_life_after_the/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19riqdcgo2dhe",
+      "parent_id": "t3_1xd5von",
+      "author": "PriorityActive980",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792735668,
+      "body": "Someone please fix the AI writing problem. If I could go the rest of my life and never read a single thing claude has written ever again I’d be happy. Why do you guys showcase this stuff as if it’s novel or interesting. This is why the anti’s hate us. "
+    },
+    {
+      "depth": 0,
+      "id": "19rir08kstnlx",
+      "parent_id": "t3_1xd5von",
+      "author": "Twisting_Me",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792736524,
+      "body": "That was lovley"
+    },
+    {
+      "depth": 0,
+      "id": "19rir27dtygg2",
+      "parent_id": "t3_1xd5von",
+      "author": "ExpertDeep3431",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792736597,
+      "body": "Nothing makes me root for an asteroid faster than watching a bunch of virgins sit in a dark room stroking their chins over an algorithm hallucinating a slide deck about how it's gonna enslave them."
+    },
+    {
+      "depth": 0,
+      "id": "19rir8xez9tj4",
+      "parent_id": "t3_1xd5von",
+      "author": "thirsty_pretzelzz",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792736849,
+      "body": "Nice! How much did it cost ya in video gen credits? I feel like that’s still relatively expensive for experimenting with vids like this? "
+    }
+  ]
+}

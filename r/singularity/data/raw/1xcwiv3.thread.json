@@ -1,0 +1,26 @@
+{
+  "post_id": "1xcwiv3",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Intel CTO says they could at best 2X chip output, whereas AI compute has been growing at 3X per year. This may bottleneck the intelligence explosion.",
+    "author": "SammaVaco",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1792707334,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xcwiv3/intel_cto_says_they_could_at_best_2x_chip_output/"
+  },
+  "comments": []
+}

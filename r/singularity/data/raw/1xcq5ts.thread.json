@@ -1,0 +1,83 @@
+{
+  "post_id": "1xcq5ts",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Anthropic Donates Agent Skills Standard to the Linux Foundation’s Agentic AI Foundation, Following a Similar Donation of the MCP Standard Last Year",
+    "author": "ResultBackground2450",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792692675,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xcq5ts/anthropic_donates_agent_skills_standard_to_the/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rhvqnui9flu",
+      "parent_id": "t3_1xcq5ts",
+      "author": "daniellenton",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792694465,
+      "body": "Kind of funny that after all the agent frameworks, the standard 70+ platforms actually adopted is a folder with a markdown file in it"
+    },
+    {
+      "depth": 1,
+      "id": "19rhxc46szsxs",
+      "parent_id": "t1_19rhvqnui9flu",
+      "author": "AnswerFeeling460",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792696611,
+      "body": "haha, my thoughts. they donated a simple .md file.  \nhow about mcp? "
+    },
+    {
+      "depth": 2,
+      "id": "19ri1yoj1bsck",
+      "parent_id": "t1_19rhxc46szsxs",
+      "author": "tazztone",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792702835,
+      "body": "https://preview.redd.it/8kca11ex13xh1.png?width=1672&format=png&auto=webp&s=34e87eccdf75773188d8ed1d32beb29c8bef6eed"
+    },
+    {
+      "depth": 2,
+      "id": "19ri25qobnww2",
+      "parent_id": "t1_19rhxc46szsxs",
+      "author": "daniellenton",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1792703099,
+      "body": "MCP went to the same foundation last December, it was one of the projects it launched with. Another was OpenAI's [AGENTS.md](http://AGENTS.md), so this isn't even the first markdown file in there"
+    }
+  ]
+}
