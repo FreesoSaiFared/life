@@ -1,0 +1,26 @@
+{
+  "post_id": "1xda8re",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~25h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "When did people's AGI indicators shift to actually be ASI?",
+    "author": "SameLotus",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1792750989,
+    "selftext": "more and more im seeing people ask questions like \"what is the first problem agi would solve\" and go on to describe millennium problems that have stood unsolved for decades.\n\nto me, agi is an average person. generally intelligent and capable of adapting to new jobs, but still average. arguably we have long since crossed that threshold, but my personal opinion is that we haven't and current models are wildly spiky in terms of capability. to me, that is not agi and is just a extremely sophisticated algorithm that mimics most human cognitive processes.\n\nbut when we talk of solving millennium problems or curing diseases, isn't that clearly ASI? something that takes years of research from whole industries is not \"general intelligence\" in any meaning of the term.\n\ni think this moving of goalposts started with the o1 release, but im honestly not sure. what do you think?",
+    "permalink": "/r/singularity/comments/1xda8re/when_did_peoples_agi_indicators_shift_to_actually/"
+  },
+  "comments": []
+}

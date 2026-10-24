@@ -1,0 +1,26 @@
+{
+  "post_id": "1xdnh4d",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~16h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "When will AI be able to predict stock market movements better than humans?",
+    "author": "StraightSky7809",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1792783429,
+    "selftext": "OpenAI claims to have solved more than 100 open math problems that haven't been solved by humans. How long will it take for them to build a model that can predict stock market better than existing HFT companies? You can imagine why they would like to do that, OpenAI needs lot of capital and this would be yet another powerful demonstration of the AI capabilities.\n\nIs this ever going to happen? Are OpenAI and Anthropic already working on this in secret?\n\nSomeone even say this event would be indicator of Singularity. Imagine watching entire modern economy get upened by AI. If that doesn't feel like Singularity, I don't know what will. ",
+    "permalink": "/r/singularity/comments/1xdnh4d/when_will_ai_be_able_to_predict_stock_market/"
+  },
+  "comments": []
+}

@@ -1,0 +1,26 @@
+{
+  "post_id": "1xdmdla",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~16h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Still waiting on OpenAI to respond to Opus 5.5",
+    "author": "theimposingshadow",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Meme",
+    "created_utc": 1792780967,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xdmdla/still_waiting_on_openai_to_respond_to_opus_55/"
+  },
+  "comments": []
+}

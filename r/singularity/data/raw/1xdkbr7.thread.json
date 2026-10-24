@@ -1,0 +1,26 @@
+{
+  "post_id": "1xdkbr7",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+    "author": "yogthos",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792776318,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xdkbr7/nextconcept_modeling_fast_parallel_coarsetofine/"
+  },
+  "comments": []
+}

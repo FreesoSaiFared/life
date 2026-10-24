@@ -1,0 +1,26 @@
+{
+  "post_id": "1xdjqea",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Cybersecurity in the news, but actually AI is bringing us the future of less security holes.",
+    "author": "MarkoMarjamaa",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792774983,
+    "selftext": "I've been getting the list of fixed Linux kernel CVEs every week for now six weeks. \n\nhttps://i.redd.it/js35gdpys8xh1.png\n\nIn this chart is axis 'Intro date' meaning the week the security hole was actually originally made into released code. Fetch date is the week I fetched the date's of public CVEs. What I've seen from history data, 50% of CVE's are made public after 2 months and 100% after three months. The gray areas are that. Normally when advance a week, the amount of hole's should follow, week after week. The gray area simple says the data in that is not yet secure.   \nBut it seems big drop of new CVE's was in 20.4. Then in 15.6 and after 10.8 there hasn't been but 2 new CVE's. In the same time there have been fixes of \\_old\\_ holes, but it seems introduction of new holes is almost stopped.   \nThe 21.10 and 22.10 fetches are because there was a fault in my script that it didn't get all dates correctly and running it fixed in 22.10 got additional 600 CVE's, but as you can see from numbers, that was mostly old security holes.   \nBtw, those last 2 CVEs were found in 26.9. and fixed in 28.9. \n\nWhat I see from that data, all new code is going through the same Mythos/whatever before release and that is stopping those security holes getting into releases at all. \n\nThis is by the fixed date. You can see more clearly that after 3 months the amounts are at the highest so data for the last 3 months will still continue add up. \n\nhttps://i.redd.it/xbmtriizy8xh1.png\n\n(Please, do not start lecturing me about what a CVE is. )",
+    "permalink": "/r/singularity/comments/1xdjqea/cybersecurity_in_the_news_but_actually_ai_is/"
+  },
+  "comments": []
+}

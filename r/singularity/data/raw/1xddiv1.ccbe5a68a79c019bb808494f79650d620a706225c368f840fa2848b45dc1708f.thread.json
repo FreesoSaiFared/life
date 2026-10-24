@@ -1,0 +1,26 @@
+{
+  "post_id": "1xddiv1",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~22h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "New AI built to predict human behavior instead of generating text beats 9 leading AI models at predicting how people answer surveys, with 74% less error.",
+    "author": "141_1337",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1792760780,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xddiv1/new_ai_built_to_predict_human_behavior_instead_of/"
+  },
+  "comments": []
+}

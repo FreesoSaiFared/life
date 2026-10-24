@@ -1,0 +1,26 @@
+{
+  "post_id": "1xe5bob",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Is anyone else losing the motivation to learn new things because of AI?",
+    "author": "kubika7",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Q&A / Help",
+    "created_utc": 1792838148,
+    "selftext": "I'm a CS graduate, and lately I've been finding it increasingly difficult to motivate myself to learn new skills. Not because I find them difficult or boring, but because I keep wondering whether any of the effort I put in today will actually matter a few years from now.\n\nWhenever I consider learning something new, whether it's a programming language, a framework, a new technical skill, or even something outside computer science, I find myself asking the same question: What's the point if AI will eventually be able to do it better, faster, and cheaper than I ever could?\n\nI know the usual response is that AI won't replace us, but rather augment our abilities. That we'll still need humans to direct AI, make decisions, think creatively, and solve problems. But honestly, I find that argument increasingly unconvincing. It feels more like something we tell ourselves to feel better about the situation than a conclusion we can confidently draw about the future.\n\nAnd this isn't just about programming. If I want to learn 3D modelling, AI might generate the models. If I want to learn music production, AI might compose and produce music. If I want to learn mathematics, AI might solve problems that would take me years to master. Obviously, there's value in enjoying these activities for their own sake, but it's difficult to ignore the possibility that the practical value of acquiring these skills could diminish significantly.\n\nAnd for those who don't feel this way, what is your reasoning? I'm genuinely interested in perspectives beyond the usual reassurance that AI will just be another tool, because I find that increasingly difficult to believe.",
+    "permalink": "/r/singularity/comments/1xe5bob/is_anyone_else_losing_the_motivation_to_learn_new/"
+  },
+  "comments": []
+}

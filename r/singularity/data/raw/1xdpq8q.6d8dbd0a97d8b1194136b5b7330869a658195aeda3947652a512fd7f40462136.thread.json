@@ -1,0 +1,26 @@
+{
+  "post_id": "1xdpq8q",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "I feel like robotics aren't being discussed enough",
+    "author": "Grouchy-Stranger-306",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1792788716,
+    "selftext": "I think for real impact on the economy we will need autonomous robots, and I don't think we are seeing much here.\n\nSo there would be a lot of issues with LLMs sending  commands to a robot like speed, cost and precision. We've seen some demos but they don't really look that great, and far from being able to work for several hours. So this to me is kind of out of the question, maybe it would work in some kind of a hybrid architecture where the language model would only reason and talk, without actually controlling the motors.\n\nSo is it going to be other types of models like VLAs or things like GEN-1.5? \n\nI was also wondering, maybe LLMs would eventually be able to train this type of model end-to-end? They could create simulation environments, score them etc. Feels like maybe they could fix the scale problem.\n\nI've also been thinking about Optimus from Tesla, they will apparently ship late 2027, but do we actually expect them to be autonomous? That would mean they had some kind of breakthrough in private doesn't it? I have a hard time believing that, all we've seen from them were remote controlled demos.",
+    "permalink": "/r/singularity/comments/1xdpq8q/i_feel_like_robotics_arent_being_discussed_enough/"
+  },
+  "comments": []
+}
