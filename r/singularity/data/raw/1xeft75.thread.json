@@ -1,0 +1,26 @@
+{
+  "post_id": "1xeft75",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Kimi 3.1 seems to be slightly worse than gpt 6.1 sol at certain tasks",
+    "author": "power97992",
+    "score": 2,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792865966,
+    "selftext": "Although AA shows K3.1  to be better than sol , it seems like sol is still better  at math and 3d tasks",
+    "permalink": "/r/singularity/comments/1xeft75/kimi_31_seems_to_be_slightly_worse_than_gpt_61/"
+  },
+  "comments": []
+}

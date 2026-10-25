@@ -1,0 +1,26 @@
+{
+  "post_id": "1xemlgh",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~12h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Does anyone else feels AI companies are running towards self destruction ?",
+    "author": "PM_40",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1792883329,
+    "selftext": "The amount of money AI companies are investing and spending in a staggering amount. The benefits are not proportional to the spending. The reason they are spending so much is a belief that they don't want the 'bad guy' (China, companies other than themselves) to reach AGI first. Every company is thinking the same.\n\nSomeone high up at Google even said something along the lines \"We rather cease to exist than lose this race\". Meanwhile, the average person is fed up with AI hype, and associated problems. \n\nFrom first principles thinking, and traditional approach is to invest according to return. Invest some money if you see returns invest more, if you don't see returns invest less and so on.  This is not the case with AI investment, it is driven by FOMO and summoning the AI God philosophy. It seems like a recipe for upcoming disaster to me.",
+    "permalink": "/r/singularity/comments/1xemlgh/does_anyone_else_feels_ai_companies_are_running/"
+  },
+  "comments": []
+}

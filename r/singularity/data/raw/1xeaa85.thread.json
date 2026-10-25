@@ -1,0 +1,26 @@
+{
+  "post_id": "1xeaa85",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~21h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "anyone else worried about slowdown when they expected singularity?",
+    "author": "block_wallet",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1792852585,
+    "selftext": "even if we just got stuck with the models we have now there are so many advancements we can make, what im scared as fuck about at the moment is that focus has moved from pre-training to runtime compute/inference since we ran out of internet text which sort of feels like we're squeezin more out of what we already have instead of finding more and that we'll hit a wall soon. \n\npeople are trying to train on videos and sensor data through multimodal, generating synthetic data using maths/compilers (not grounded in reality necessarily so might cause model collapse) and training models on real time sensor data, im just super worried that progress slows down instead of speeds up",
+    "permalink": "/r/singularity/comments/1xeaa85/anyone_else_worried_about_slowdown_when_they/"
+  },
+  "comments": []
+}

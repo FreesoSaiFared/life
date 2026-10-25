@@ -1,0 +1,26 @@
+{
+  "post_id": "1xe8b2x",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~22h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Absolutely crazy AI voice model by Block called Dessa.",
+    "author": "The_Ok_Lord",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1792847516,
+    "selftext": "Here's the full blog for the people who are interested.\n\nSource: [https://block.xyz/dessa](https://block.xyz/dessa)\n\n",
+    "permalink": "/r/singularity/comments/1xe8b2x/absolutely_crazy_ai_voice_model_by_block_called/"
+  },
+  "comments": []
+}

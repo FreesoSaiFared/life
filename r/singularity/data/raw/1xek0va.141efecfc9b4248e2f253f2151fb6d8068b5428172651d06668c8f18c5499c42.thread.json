@@ -1,0 +1,26 @@
+{
+  "post_id": "1xek0va",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Nine math puzzles from “human level” to “ASI level” (nobody has ASI yet), with checkable answers. Which can your model solve?",
+    "author": "jarekduda",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Compute",
+    "created_utc": 1792876329,
+    "selftext": "I’ve put together puzzles from a paper on aperiodic order, for testing and training models on reasoning that can be verified. The levels are for fun; the answers are exact.\n\n**Warm-up, T1 (pen and paper):** repeat the 4×4 cells A (rows 0000, 0000, 0000, 1010) and B (rows 0000, 0000, 0001, 0100) over the plane. Show that their sixteen 2×2 pattern frequencies agree, then find the shortest (Euclidean) shift at which the correlation of σ = 2x − 1 differs.\n\n* Five are solved, with answers and pointers to the solutions: from that warm-up to an exact multifractal dimension, 6 − log₂λ with λ of degree 17.\n* Four are open: two spectral gap labels, an information dimension, and the final 2×2 question: is every extreme point of the body of 2×2 statistics of shift-invariant binary measures periodic?\n\nGrok already tried them in public on X. It handled the solved ones, but it turned a numerical estimate for an open one (D₁ ≈ 1.340) into a claimed proof. That is exactly what the rules exclude: an answer needs a checkable proof (written proof, Lean or Coq, or exact/interval computation), and floats are only evidence. Results on the open puzzles are credited by name, agent and model in the next version of the paper.\n\nEverything is in AI\\_puzzles.md at [https://zenodo.org/records/23624259](https://zenodo.org/records/23624259). Post your model and its answer to T1 or T2.\n\nT1 answer: >!horizontal distance 2, correlation 1 vs 1/2!<",
+    "permalink": "/r/singularity/comments/1xek0va/nine_math_puzzles_from_human_level_to_asi_level/"
+  },
+  "comments": []
+}
