@@ -1,0 +1,153 @@
+{
+  "post_id": "1xgcvkn",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Mirendil announces Fern v0.1: Their first model with a 10M context window",
+    "author": "tkrandomness",
+    "score": 53,
+    "upvote_ratio": 0.9491525423728814,
+    "num_comments": 9,
+    "link_flair_text": "LLM News",
+    "created_utc": 1793057784,
+    "selftext": "They claim it was created with a single researcher and under $10 million spent on the model. Theyve only said that it is somewhere between 0.1 and 0.5T parameters in size. Benchmarks aren't super impressive, but they claim this is just the first very early checkpoint and that they also have two much larger models undergoing training right now.",
+    "permalink": "/r/singularity/comments/1xgcvkn/mirendil_announces_fern_v01_their_first_model/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rpedv8q7ule",
+      "parent_id": "t3_1xgcvkn",
+      "author": "SteelWillyz",
+      "author_flair_text": null,
+      "score": 13,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793058538,
+      "body": "Is the context actually usable tho? "
+    },
+    {
+      "depth": 1,
+      "id": "19rpf0c9b2jz6",
+      "parent_id": "t1_19rpedv8q7ule",
+      "author": "tkrandomness",
+      "author_flair_text": null,
+      "score": 14,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793059378,
+      "body": "The benchmarks they included seem to suggest so but obviously it remains to be seen until people get access and report some real world usage\n\nhttps://i.redd.it/axt2nx54iwxh1.jpeg"
+    },
+    {
+      "depth": 0,
+      "id": "19rpg68lf1x2d",
+      "parent_id": "t3_1xgcvkn",
+      "author": "SmileLonely5470",
+      "author_flair_text": null,
+      "score": 8,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793060944,
+      "body": "It would be cool if we could have like 1B context so you can just have a single main conversation thread for your project that lasts for months without any compaction. (While keeping implementation & stuff in side chats). But that would cost a lot and caching would be rough.\n\nIdk if a single thread would even really be that good anyway cuz u can just use a memory system for that type of context anyway.."
+    },
+    {
+      "depth": 1,
+      "id": "19rpxkhx1yaw2",
+      "parent_id": "t1_19rpg68lf1x2d",
+      "author": "SgathTriallair",
+      "author_flair_text": "▪️ AGI 2025 ▪️ ASI 2030",
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793084345,
+      "body": "That's my thought as well. When you get into massive context size it is almost certainly full of stuff that is no longer relevant. A memory system is useful because it helps us prioritize knowledge."
+    },
+    {
+      "depth": 0,
+      "id": "19rpgaw6i28bm",
+      "parent_id": "t3_1xgcvkn",
+      "author": "Ok_Barracuda_1161",
+      "author_flair_text": null,
+      "score": 0,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793061118,
+      "body": "I feel like with improvements in compaction and agentic work, long context is becoming more and more niche."
+    },
+    {
+      "depth": 1,
+      "id": "19rphp1rjt2g3",
+      "parent_id": "t1_19rpgaw6i28bm",
+      "author": "UnableMight",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793062992,
+      "body": "For writing it would be nice"
+    },
+    {
+      "depth": 1,
+      "id": "19rpk8kqginqc",
+      "parent_id": "t1_19rpgaw6i28bm",
+      "author": "Unfocusedbrain",
+      "author_flair_text": "ADHD: ASI's Distractible Human Delegate",
+      "score": 0,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793066412,
+      "body": "It's not as useful for work that is memory delicate since it, by definition, compaction is lossy. Compaction also causes the model to have to catch up again and reread repos too often, burning tokens. But a massive context length is also computationally expensive.\n\nI'm sure the AI companies will figure out a solution. Right now everyone is mostly satisfied with a million context length. But for things like long term memory for months or even years, as long as hallucination is low, in context learning is powerful and makes it undoubtly useful.\n\n"
+    },
+    {
+      "depth": 1,
+      "id": "19rq0od4sd0o2",
+      "parent_id": "t1_19rpgaw6i28bm",
+      "author": "VohaulsWetDream",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793088525,
+      "body": "token cost tho"
+    },
+    {
+      "depth": 0,
+      "id": "19rpzjl6hj6hw",
+      "parent_id": "t3_1xgcvkn",
+      "author": "R_Duncan",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793087002,
+      "body": "They didn't specified what's using... HOLA?"
+    }
+  ]
+}

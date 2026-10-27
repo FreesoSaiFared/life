@@ -1,0 +1,83 @@
+{
+  "post_id": "1xfymmc",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~22h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Singularity Daily Discussion Thread - Oct 26, 2026",
+    "author": "barbozas_obliques",
+    "score": 19,
+    "upvote_ratio": 0.8518518518518519,
+    "num_comments": 5,
+    "link_flair_text": "the Singularity is Nearer",
+    "created_utc": 1793025484,
+    "selftext": "This thread is for any discussions that doesn't necessitate a new post. Permission from a mod here: [https://www.reddit.com/r/singularity/s/FM1UwNdoL9](https://www.reddit.com/r/singularity/s/FM1UwNdoL9)\n\n\n\nSince this thread isn't going to be to stickied, it's up to you to upvote it.\n\n\n\nShare your anxiety, ideas on how to achieve alignment, observations, etc. Everything is fair game as long as it somewhat relates to the singularity.",
+    "permalink": "/r/singularity/comments/1xfymmc/singularity_daily_discussion_thread_oct_26_2026/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rozrlv28lmq",
+      "parent_id": "t3_1xfymmc",
+      "author": "Hubbardia",
+      "author_flair_text": "AGI 2045",
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793038874,
+      "body": "Microsoft announced voluntary exit packages for 27% of its workforce. 60,000 people. It's happening."
+    },
+    {
+      "depth": 1,
+      "id": "19rp05cb2fg5d",
+      "parent_id": "t1_19rozrlv28lmq",
+      "author": "ZealousidealBus9271",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793039387,
+      "body": "60,000 is a quarter of their company"
+    },
+    {
+      "depth": 1,
+      "id": "19rp1nb1z7blv",
+      "parent_id": "t1_19rozrlv28lmq",
+      "author": "barbozas_obliques",
+      "author_flair_text": null,
+      "score": 0,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793041403,
+      "body": "crazy"
+    },
+    {
+      "depth": 0,
+      "id": "19rpeyx87qzk2",
+      "parent_id": "t3_1xfymmc",
+      "author": "barbozas_obliques",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793059325,
+      "body": "Anybody find it funny how after Claude released a blog about potentially sovereign LLMs being able to run on stitched smart TVs (which have low security), coincidentally, there is a flux of posts across platforms encouraging people to debloat their TVs using agents? Anybody wants a tin foil hat or nah?"
+    }
+  ]
+}
