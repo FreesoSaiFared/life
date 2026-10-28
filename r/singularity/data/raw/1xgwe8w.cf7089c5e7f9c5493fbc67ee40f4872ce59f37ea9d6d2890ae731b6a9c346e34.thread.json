@@ -1,0 +1,125 @@
+{
+  "post_id": "1xgwe8w",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~21h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "OpenAI and Anthropic both claim 3-SAT in 2^o(n) time, refuting the Exponential Time Hypothesis — a 43-min explainer made with Claude",
+    "author": "pdkj",
+    "score": 65,
+    "upvote_ratio": 0.8823529411764706,
+    "num_comments": 7,
+    "link_flair_text": "AI",
+    "created_utc": 1793116667,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xgwe8w/openai_and_anthropic_both_claim_3sat_in_2on_time/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rqlzt5zbsow",
+      "parent_id": "t3_1xgwe8w",
+      "author": "New_Alps_5655",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793117202,
+      "body": "I think we can be relatively confident that neither company is hoarding too many proofs at this point. "
+    },
+    {
+      "depth": 1,
+      "id": "19rrj3c5mgcg0",
+      "parent_id": "t1_19rqlzt5zbsow",
+      "author": "WanderingStranger0",
+      "author_flair_text": "▪️its not gonna go well",
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793161726,
+      "body": "Strong chance they are hoarding cryptography proofs"
+    },
+    {
+      "depth": 0,
+      "id": "19rqmur9x7ojp",
+      "parent_id": "t3_1xgwe8w",
+      "author": "Amesbrutil",
+      "author_flair_text": null,
+      "score": 6,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793118359,
+      "body": "What does 2^O(n) mean? Shouldn’t it be O(2^n)?"
+    },
+    {
+      "depth": 1,
+      "id": "19rqnxlbb3pxe",
+      "parent_id": "t1_19rqmur9x7ojp",
+      "author": "pdkj",
+      "author_flair_text": null,
+      "score": 18,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793119810,
+      "body": "\n\nIt's a lowercase o (little-o), not big-O. 2\\^O(n) would just mean exponential time, which brute force already gets (O(2\\^n) is inside it). 2\\^o(n) means the exponent grows slower than εn for every ε > 0, i.e. subexponential.  \nETH says 3-SAT needs 2\\^(δn) time for some fixed δ > 0, so a 2\\^o(n) algorithm refutes it. The claimed bound is 2\\^O(n·log log n/√log n).\n\nGood question :)"
+    },
+    {
+      "depth": 2,
+      "id": "19rqrhha3988y",
+      "parent_id": "t1_19rqnxlbb3pxe",
+      "author": "Amesbrutil",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793124589,
+      "body": "Thanks for the explanation. I got like 50% but Im proud of every single percentage :D "
+    },
+    {
+      "depth": 1,
+      "id": "19rqzor1s4jr6",
+      "parent_id": "t1_19rqmur9x7ojp",
+      "author": "daniel-sousa-me",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": 1793135823,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793135622,
+      "body": "2^(O(2n\\)) = 2^(O(n\\))\n\nO(2^(2n)) = O((2^(n))²) ≠ O(2^(n))\n\nThe same applies to o"
+    },
+    {
+      "depth": 0,
+      "id": "19rqsu4vuhu69",
+      "parent_id": "t3_1xgwe8w",
+      "author": "Psychological_Bell48",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793126407,
+      "body": "Interesting atp we need more complex questions at this rate"
+    }
+  ]
+}

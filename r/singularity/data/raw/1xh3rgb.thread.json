@@ -1,0 +1,55 @@
+{
+  "post_id": "1xh3rgb",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Building Verifiable Scientific Models with Lanyon AI",
+    "author": "JohnCabot",
+    "score": 17,
+    "upvote_ratio": 0.8695652173913043,
+    "num_comments": 2,
+    "link_flair_text": "Video",
+    "created_utc": 1793132808,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xh3rgb/building_verifiable_scientific_models_with_lanyon/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rr10xmv0vpf",
+      "parent_id": "t3_1xh3rgb",
+      "author": "Weary-Historian-8593",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793137422,
+      "body": "Huge if true, but I get the feeling that I'll never hear from this ever again "
+    },
+    {
+      "depth": 0,
+      "id": "19rriphiao328",
+      "parent_id": "t3_1xh3rgb",
+      "author": "TheNerdosapien",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793161208,
+      "body": "Is it me or is that guy’s head shaped like the leader?\n\nhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqis-kGANIBtnaEKNO3SvEPnmxkqXGI1DbtWAWc3n2nbYJZ885x723vX8&s"
+    }
+  ]
+}

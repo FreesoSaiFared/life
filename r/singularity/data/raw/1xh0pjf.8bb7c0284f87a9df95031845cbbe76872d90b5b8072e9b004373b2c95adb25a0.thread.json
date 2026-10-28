@@ -1,0 +1,111 @@
+{
+  "post_id": "1xh0pjf",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Independent partial Yang-Mills results by postdocs at MIT Harvard/Oxford",
+    "author": "doublefelix921",
+    "score": 83,
+    "upvote_ratio": 0.946236559139785,
+    "num_comments": 7,
+    "link_flair_text": "LLM News",
+    "created_utc": 1793126035,
+    "selftext": "Two mathematician/physicist friends of mine have worked on Yang Mills for the last few months and made substantial progress. Due to OpenAI's claim, they have decided to publicize their results. They have a vision of community-generated math that makes a lot of sense to me in post-AI mathematics. I consider that part just as interesting as the result itself so I am helping share their claims around.\n\nThey worked with small budget (\\~$500) and made substantial progress toward YM existence, building on Bałaban as I understand it, just as OpenAI did in their statement. Their work is human-guided with AI doing substantial specified work. Both Claude and ChatGPT were substantial contributors.\n\nThis github has their work in it, with timestamped PRs starting from a few days ago when they decided to release. They have a vision of a community-generated mathematics, wherein the open internet can contribute towards a full solution using any tools at their disposal, starting for now through this github. It's a new modality of math that to me seems positive/to look forward to. Nobody loses substantial time from being scooped by an unknown competitor because progress is visible live, with more honest attribution than a traditional paper. As they are completed, proofs can be formalized and published in a traditional manner to reach fully accepted status. I understand it as an experiment on how math can be done as much as an important partial result. (yes, community math has been done before, the difference is that now it is a more logical modality than ever in the past)\n\n[https://github.com/MathePhysics/4D\\_Wilson\\_Loop\\_RG](https://github.com/MathePhysics/4D_Wilson_Loop_RG)\n\n[https://x.com/iaifi\\_news/status/2115139456877363435?s=20](https://x.com/iaifi_news/status/2115139456877363435?s=20)",
+    "permalink": "/r/singularity/comments/1xh0pjf/independent_partial_yangmills_results_by_postdocs/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rqsrpzanwjm",
+      "parent_id": "t3_1xh0pjf",
+      "author": "Kaloyanicus",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793126317,
+      "body": "Is Martin Bulgarian?\n\n"
+    },
+    {
+      "depth": 1,
+      "id": "19rqtbtjst2mb",
+      "parent_id": "t1_19rqsrpzanwjm",
+      "author": "Terinuva",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793127068,
+      "body": "Да"
+    },
+    {
+      "depth": 2,
+      "id": "19rr1cna08pdu",
+      "parent_id": "t1_19rqtbtjst2mb",
+      "author": "Kaloyanicus",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793137860,
+      "body": "Супер, радвам се да видя българи във фийлда. Сам съм завършил СМГ-то!"
+    },
+    {
+      "depth": 0,
+      "id": "19rqsyoy0wo74",
+      "parent_id": "t3_1xh0pjf",
+      "author": "Background-Wafer-548",
+      "author_flair_text": null,
+      "score": 11,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793126577,
+      "body": "A more community-based approach to research would indeed be a positive side effect of having entered the era of AI-powered science. Neat! Hope this sees wider adoption, although if memory serves me right, math has stood out in this regard for a while, with serious discussions going on in forums accessible to anyone, etc. Resistance in other fields might be higher."
+    },
+    {
+      "depth": 0,
+      "id": "19rqt5926mpvn",
+      "parent_id": "t3_1xh0pjf",
+      "author": "No_Development6032",
+      "author_flair_text": null,
+      "score": 18,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793126822,
+      "body": "Physics via GitHub is awesome "
+    },
+    {
+      "depth": 0,
+      "id": "19rqt8xjnr62o",
+      "parent_id": "t3_1xh0pjf",
+      "author": "Admirable-Ladder-681",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793126960,
+      "body": "always confuse this with world renound author Quan mills"
+    }
+  ]
+}

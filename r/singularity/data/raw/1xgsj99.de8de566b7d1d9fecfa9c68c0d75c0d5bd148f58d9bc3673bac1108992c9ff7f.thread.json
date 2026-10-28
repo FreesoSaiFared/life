@@ -1,0 +1,97 @@
+{
+  "post_id": "1xgsj99",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~24h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Optimistic take on AI in math",
+    "author": "Alex__007",
+    "score": 19,
+    "upvote_ratio": 0.7435897435897436,
+    "num_comments": 6,
+    "link_flair_text": "AI",
+    "created_utc": 1793107708,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xgsj99/optimistic_take_on_ai_in_math/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rqosz5hhef7",
+      "parent_id": "t3_1xgsj99",
+      "author": "DSLmao",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793120983,
+      "body": "Reading comment, I realize why the west is so anti AI compare to the East. "
+    },
+    {
+      "depth": 1,
+      "id": "19rrmr8lfy6gx",
+      "parent_id": "t1_19rqosz5hhef7",
+      "author": "sceadwian",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793166655,
+      "body": "The East doesn't have the outrage politics the West does.\n\nJust don't mistake those comments for what the American people actually think."
+    },
+    {
+      "depth": 0,
+      "id": "19rqx20rq62ip",
+      "parent_id": "t3_1xgsj99",
+      "author": "NoCard1571",
+      "author_flair_text": null,
+      "score": 10,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793132082,
+      "body": "Gotta respect Hank Green for actually looking at the tech a bit more objectively these days, he was a bit of an AI doomer initially. I think anyone with an inkling of intelligence can see that it's a very grey subject matter. \n\nUnfortunately however it seems his comment section is severely lacking in critical thinkers. "
+    },
+    {
+      "depth": 0,
+      "id": "19rrhm8wecvgi",
+      "parent_id": "t3_1xgsj99",
+      "author": "KakaTraining",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793159742,
+      "body": "https://i.redd.it/8ipzl59is4yh1.png\n\n"
+    },
+    {
+      "depth": 1,
+      "id": "19rrlmv98zg3p",
+      "parent_id": "t1_19rrhm8wecvgi",
+      "author": "sceadwian",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793165146,
+      "body": "Now get to work on the pragmatics! \n\nOh wait, there aren't any? \n\nWell... This is awkward..\n\n✌️"
+    }
+  ]
+}
