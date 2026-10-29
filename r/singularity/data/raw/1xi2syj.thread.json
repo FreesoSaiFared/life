@@ -1,0 +1,83 @@
+{
+  "post_id": "1xi2syj",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AI is coming for particle physics, but it's AlphaFold type of narrow intelligence moment in the making",
+    "author": "navnt5",
+    "score": 35,
+    "upvote_ratio": 0.8431372549019608,
+    "num_comments": 4,
+    "link_flair_text": "AI",
+    "created_utc": 1793226917,
+    "selftext": "πLabs",
+    "permalink": "/r/singularity/comments/1xi2syj/ai_is_coming_for_particle_physics_but_its/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rswlxpt7mxw",
+      "parent_id": "t3_1xi2syj",
+      "author": "RamanaSadhana",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793228336,
+      "body": "bad title. "
+    },
+    {
+      "depth": 0,
+      "id": "19rt115ck5v50",
+      "parent_id": "t3_1xi2syj",
+      "author": "old97ss",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793234286,
+      "body": "That narrator or whatever is bad bad bad\n Ummm bad. And im not happy with this."
+    },
+    {
+      "depth": 0,
+      "id": "19rt2btekur4w",
+      "parent_id": "t3_1xi2syj",
+      "author": "orangesherbet0",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793236029,
+      "body": "If you have a faithful simulation, as far as experimental physics goes, the job is essentially done and AI should have no problems if it can build such a simulation. But getting to that model is not easy. In the beginning you have no idea what matters yet or what to include in the model, which itself depends on the actual physical conditions, tolerances, controls that you manage to create by building something and then the measurements you can get. Building and measuring might be done by a robot someday, but not today at least. I imagine theorists are more worried than experimentalists."
+    },
+    {
+      "depth": 0,
+      "id": "19rt2ypj0uktc",
+      "parent_id": "t3_1xi2syj",
+      "author": "New_Alps_5655",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793236885,
+      "body": "Reminds me of this: [https://youtu.be/Ac7G7xOG2Ag](https://youtu.be/Ac7G7xOG2Ag)"
+    }
+  ]
+}

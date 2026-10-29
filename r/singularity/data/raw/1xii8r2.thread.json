@@ -1,0 +1,26 @@
+{
+  "post_id": "1xii8r2",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "RSI in mathematics?",
+    "author": "MrSnowden",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Shitposting",
+    "created_utc": 1793275870,
+    "selftext": "recursive self improvement has been a goal for a long time. and I think we have been thinking about it in terms of SWE and building towards AGI. watching the insane progress in math, and how mathematics is built on itsself, I was wo dering about a recursive improvement loop in fundamental math.  where the 700 proofs from OpenAI get fed back in to the training corpus and it's told to \"find the next implications\" and looped. \n\n",
+    "permalink": "/r/singularity/comments/1xii8r2/rsi_in_mathematics/"
+  },
+  "comments": []
+}

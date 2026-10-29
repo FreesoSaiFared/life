@@ -1,0 +1,125 @@
+{
+  "post_id": "1xibrq4",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Surely it'll work this time",
+    "author": "GeneReddit123",
+    "score": 156,
+    "upvote_ratio": 0.8786407766990292,
+    "num_comments": 7,
+    "link_flair_text": "Meme",
+    "created_utc": 1793252985,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xibrq4/surely_itll_work_this_time/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rtf8if9yzpc",
+      "parent_id": "t3_1xibrq4",
+      "author": "NoOneMan79",
+      "author_flair_text": null,
+      "score": 21,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793253394,
+      "body": "They don't just attack the same problem with the same context. Check out adaptive collective intelligence. Swarms learn from previous generations, approach with new vectors, knowledge and skills (and code if you include development cycles to prove assertions). Its just takes the right (semi-random) start place and info/tools to make a novel breakthrough (leading to yet more novel knowledge for the next generation). You can also send swarms down partial rabbit holes and reconvene disparate groups."
+    },
+    {
+      "depth": 1,
+      "id": "19rtjs3q5fwas",
+      "parent_id": "t1_19rtf8if9yzpc",
+      "author": "nonzeroday_tv",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793259507,
+      "body": "> adaptive collective intelligence. Swarms learn from previous generations, approach with new vectors, knowledge and skills \n\nJust like the Borg, nothing new under the sun. The difference is that it's not fantasy this time and is not trying to asimilate us... so far"
+    },
+    {
+      "depth": 0,
+      "id": "19rtlu9sxluf8",
+      "parent_id": "t3_1xibrq4",
+      "author": "moschles",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793262278,
+      "body": "\"Company!   On my order, Company!\"    \n\nhttps://www.youtube.com/shorts/XbKgGl9FeJ0"
+    },
+    {
+      "depth": 1,
+      "id": "19rtlzeo4krwl",
+      "parent_id": "t1_19rtlu9sxluf8",
+      "author": "AmusingVegetable",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793262470,
+      "body": "I was expecting the final episode of Blackadder…"
+    },
+    {
+      "depth": 0,
+      "id": "19rtlxg01zps0",
+      "parent_id": "t3_1xibrq4",
+      "author": "AmusingVegetable",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793262397,
+      "body": "Second rifle from the right is a six-fingered AI disaster."
+    },
+    {
+      "depth": 1,
+      "id": "19rtnrzxe3eiq",
+      "parent_id": "t1_19rtlxg01zps0",
+      "author": "lolsai",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793264883,
+      "body": "Oh no!!! Cancel the singularity!!!"
+    },
+    {
+      "depth": 1,
+      "id": "19rtp925gyn9f",
+      "parent_id": "t1_19rtlxg01zps0",
+      "author": "Azicald",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793266866,
+      "body": "I’ll have you know that’s D3SM0ND D0X\n\nHe’s a pacifist bot but he wanted to aurafarm w the boys so they gave him 2 stocks put together"
+    }
+  ]
+}

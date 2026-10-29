@@ -1,0 +1,55 @@
+{
+  "post_id": "1xhxsc4",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Since it will take so long until we will see Gemini 4 Carbon with abyssmal low usage",
+    "author": "Bitter-College8786",
+    "score": 52,
+    "upvote_ratio": 0.8823529411764706,
+    "num_comments": 2,
+    "link_flair_text": "AI",
+    "created_utc": 1793215349,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xhxsc4/since_it_will_take_so_long_until_we_will_see/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rsn5rqpzb5u",
+      "parent_id": "t3_1xhxsc4",
+      "author": "s41gon",
+      "author_flair_text": null,
+      "score": -2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793215625,
+      "body": "WHOA...where are your manners? Language boy 😄 "
+    },
+    {
+      "depth": 0,
+      "id": "19rsrlt9dg30h",
+      "parent_id": "t3_1xhxsc4",
+      "author": "michael-relleum",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793221606,
+      "body": "Two weeks and then only API or highest paid plan. What happened to Ai Studio for testing out? Not even Argon can be tested for free there. At least with OpenAI you can test Astra and other models on the plus plan..."
+    }
+  ]
+}

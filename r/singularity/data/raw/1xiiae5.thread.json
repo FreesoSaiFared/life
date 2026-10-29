@@ -1,0 +1,26 @@
+{
+  "post_id": "1xiiae5",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Is the Turing Test compatible with AI Safety rules?",
+    "author": "CMDR_ACE209",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1793276001,
+    "selftext": "I got into a discussion today if current AI systems can / have passed the Turing Test as defined by Ray Kurzweil.\n\nThat it has to convince a group of human judges who are experts in AI during a two hour conversation with each that the system is human.\n\n\n\nNow, I won't answer that question here. But that made me wonder if this test even makes sense anymore.\n\n\n\nBecause the modern AI systems would have to downplay their abilities to pass as human and thus be actively deceitful.\n\n\n\nFor example when they ask to write a piece of software, the system has to answer something like: \"LOL, do it yourself, I'm not a developer.\" And not just spit out the code, which it could.\n\n\n\nThe Turing Test was thought up at a time where AI Safety wasn't a topic yet and I came to the conclusion that we better should not try to beat this test anymore.\n\n\n\nThis test just doesn't make sense anymore when the system has to downplay its abilities to appear human.\n\n\n\nDo we really want to create a deceitful machine just that we can pass this test?\n\n",
+    "permalink": "/r/singularity/comments/1xiiae5/is_the_turing_test_compatible_with_ai_safety_rules/"
+  },
+  "comments": []
+}
