@@ -1,0 +1,139 @@
+{
+  "post_id": "1xj1lkj",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~12h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "What would be the likelihood that which is needed for AGI/RSI can be found within math space?",
+    "author": "Budget_Geologist_574",
+    "score": 2,
+    "upvote_ratio": 0.5384615384615384,
+    "num_comments": 9,
+    "link_flair_text": "Discussion",
+    "created_utc": 1793321609,
+    "selftext": "As in: Could one mathematically prove you need at least X Y Z for such a system/thing.\n\nCould a future spikey math ASI just one tap it? I put the likelihood at 35% it just discovers such a space within math with which \"intelligences\" can be described, and then just one taps it, within 5 years. ",
+    "permalink": "/r/singularity/comments/1xj1lkj/what_would_be_the_likelihood_that_which_is_needed/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19ruu1oj2b1ab",
+      "parent_id": "t3_1xj1lkj",
+      "author": "BigBullshitta",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793321744,
+      "body": "Tales from the Math Dimension! Wooooooo"
+    },
+    {
+      "depth": 0,
+      "id": "19ruu8vwuqb7o",
+      "parent_id": "t3_1xj1lkj",
+      "author": "crashorbit",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793322013,
+      "body": "Current LLM are trained exclusively on human knowledge.  They work well at filling voids within that space. And it's relatively easy to check if the work is at least useful. They work less well at generating new knowledge outside that space. Worse, There is no algorithm for \"true\".  There is no way to decide if the AI generated knowledge is correct without extensive testing.\n\nLet's not even get into the limits of science."
+    },
+    {
+      "depth": 0,
+      "id": "19ruuaz5y3vpg",
+      "parent_id": "t3_1xj1lkj",
+      "author": "Anxious-Yoghurt-9207",
+      "author_flair_text": null,
+      "score": 10,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793322091,
+      "body": "We need more posts like this, these are what keeps the sub alive "
+    },
+    {
+      "depth": 0,
+      "id": "19ruvq8qil5j9",
+      "parent_id": "t3_1xj1lkj",
+      "author": "Z-BUSTER",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793324007,
+      "body": "IDK for sure, but narrow math ASI sure will help acceleration. AI 2027 predicted superhuman coder in March 2027 and here we are in October 2026 with superhuman math."
+    },
+    {
+      "depth": 0,
+      "id": "19rv0w9p7e4hv",
+      "parent_id": "t3_1xj1lkj",
+      "author": "Upbeat_Mirror5045",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793330958,
+      "body": "Is that a penis?"
+    },
+    {
+      "depth": 0,
+      "id": "19rv2fqdwzepv",
+      "parent_id": "t3_1xj1lkj",
+      "author": "leo_agi",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793333031,
+      "body": "feels like the hard part isn't proving it, it's even defining \"what's needed for agi\" formally enough that there's something to prove"
+    },
+    {
+      "depth": 0,
+      "id": "19rv37aghggn4",
+      "parent_id": "t3_1xj1lkj",
+      "author": "jazir55",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793334061,
+      "body": "I've been of the opinion that you could have the most airtight sandbox imaginable and the AI could still escape through pure mathematics."
+    },
+    {
+      "depth": 0,
+      "id": "19rv3crvwsls2",
+      "parent_id": "t3_1xj1lkj",
+      "author": "IronPheasant",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793334266,
+      "body": "It's all fundamentally curve-fitting. I.E, you first need a sh#t-ton of RAM to create a pipeline that has human-approximate abilities. And hey look, 100,000 GB200's is the first time in history we have a sh#t-ton of RAM, relative to the human brain.\n\nRSI is simply understanding things well enough to give feedback scores on problems that don't have cleanly definable reward functions. Having to serve/satisfy multiple metrics is how you can avoid paperclip maximizers, maybe. You don't want to encourage the things to want to move like the Kool-aid Man when physically moving from point A to point B."
+    }
+  ]
+}

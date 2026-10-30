@@ -1,0 +1,125 @@
+{
+  "post_id": "1xj61qv",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Why are we not seeing more about AI potentially affecting election results?",
+    "author": "Radiofled",
+    "score": 4,
+    "upvote_ratio": 0.6666666666666666,
+    "num_comments": 7,
+    "link_flair_text": "Discussion",
+    "created_utc": 1793334897,
+    "selftext": "With frontier AIs super human hacking ability it seems possible that ai labs will control the results of elections. I’m just a layman though perhaps someone with a better grasp of AIs hacking abilities could illuminate this subject?",
+    "permalink": "/r/singularity/comments/1xj61qv/why_are_we_not_seeing_more_about_ai_potentially/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rv3y3sgknlu",
+      "parent_id": "t3_1xj61qv",
+      "author": "JumpOk2313",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793335063,
+      "body": "I've seen plenty, to the point where losing presidential candidates blame their loss on AI "
+    },
+    {
+      "depth": 0,
+      "id": "19rv43q92jnnm",
+      "parent_id": "t3_1xj61qv",
+      "author": "SlightOfHand_",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793335273,
+      "body": "It varies from state to state, there’s no one federal standard for voting machines. You’d imagine the ai labs would be paying pretty close attention to attempts to subvert voting machinery. Of course if they were very confident they could launch attempts themselves, but it seems unlikely to me simply because of the risk involved.\n\nNow, Chinese firms, on the other hand."
+    },
+    {
+      "depth": 0,
+      "id": "19rv584qjbzpd",
+      "parent_id": "t3_1xj61qv",
+      "author": "5ollys",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793336782,
+      "body": "I honestly don't think most people care :/"
+    },
+    {
+      "depth": 0,
+      "id": "19rv5atj7ol8h",
+      "parent_id": "t3_1xj61qv",
+      "author": "hdufort",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793336883,
+      "body": "I live in Canada and we use paper ballots and pencils. Votes are counted by hand. Results are available before midnight on election day.\n\nTypical human error on these counts is 25 out of 40,000. So if the results are very close in a riding, a judicial recount is permitted by default. A losing candidate just has to ask nicely.\n\nIt's probably much safer to use paper, pencils and humans.\n\n"
+    },
+    {
+      "depth": 1,
+      "id": "19rvajyi32y6c",
+      "parent_id": "t1_19rv5atj7ol8h",
+      "author": "Labyrinthos",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793343950,
+      "body": "Well what if AI hacks your pencils and papers? What then? "
+    },
+    {
+      "depth": 2,
+      "id": "19rvd9gwfsdxe",
+      "parent_id": "t1_19rvajyi32y6c",
+      "author": "Nohreboh",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793347594,
+      "body": "Charcoal and birch bark."
+    },
+    {
+      "depth": 0,
+      "id": "19rv6bwp0c48y",
+      "parent_id": "t3_1xj61qv",
+      "author": "Ok_Commission7932",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793338269,
+      "body": "The actual threat is AI being used to mass-produce misinformation, like that California has post-birth abortions and shit like that."
+    }
+  ]
+}

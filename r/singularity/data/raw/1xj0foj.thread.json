@@ -1,0 +1,41 @@
+{
+  "post_id": "1xj0foj",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Welcome to the Infinite Work Machine",
+    "author": "Ididit-forthecookie",
+    "score": 13,
+    "upvote_ratio": 0.8095238095238095,
+    "num_comments": 2,
+    "link_flair_text": "Economics & Society",
+    "created_utc": 1793318416,
+    "selftext": "Interesting perspective. Will the economy just become an infinite arms race of bots and slop?\n\n\\> This morning we released an episode with Lindsay Owens, president and CEO of Groundwork Collaborative and author of the new book Gouged: The End of a Fair Price — and What That Means for Your Wallet. In the conversation, we talk a lot about algorithmic and personalized pricing. But of course, you can’t talk about prices nowadays without also talking about AI.\n\n\\> Already we’ve seen Meta unveil its new agent Muse, which promises to find “the best deals” for its users. The problem is that sellers of goods also have access to AI tools which are capable of doing the exact opposite: using vast reams of data and behavioral studies to try to extract the highest price from buyers. The result is a potential bot vs. bot arms race, where buyers and sellers deploy technology to continuously outmaneuver each other on price.\n\n\\> I’ve talked before about AI leading to a Jevons paradox of administrative busywork that ends up eating into any ostensible productivity gains. Named after the 19th century economist, William Stanley Jevons, the paradox describes efficiency gains that end up increasing total consumption of a resource. Here, the idea is an analogy. For instance, an insurance company uses an AI agent to generate an automatic rejection of a coverage claim. The insured then uses AI to generate a dispute, which then goes back to the insurer’s bot for handling. As AI becomes more diffused throughout the economy, it’s not hard to imagine a future where bots are caught in an endless loop of disputes — whether that’s for shopping or bureaucracy or now, cybersecurity. It’s hard to find productivity gains in this scenario; ultimately we end up in a place where we’re trying to create the same result (handling an insurance claim), with far more machines doing it and potentially more money spent on it.\n\n\\> I’ve been thinking about this more and more in light of the recently discovered vulnerability in PHP, a programming language used for roughly 70% of existing websites. Researchers at Wiz used frontier AI models to find the flaws in PHP, which had apparently been present for more than a decade. Public disclosure triggered a scramble to patch them before attackers (aided by their own agents) could exploit them. Developers arguably should have fixed these bugs years ago. But without AI, the vulnerability might never have surfaced and would have been much harder to exploit. AI found a problem that now has to be solved with more AI to debug and patch existing infrastructure. Again, as AI takes over more and more coding, you can imagine a world where agents are continuously competing with each other to find and fix vulnerabilities.\n\n\\> So, we have another possible AI-powered Jevons paradox, which I’m officially rebranding as the Infinite Work Machine. As AI becomes more ubiquitous throughout the economy, you can see it leading to more work that will arguably generate the same result. A buyer’s bot will try to find the best price for a good, a seller’s bot will try to preserve pricing power as best they can. Who knows if the resulting equilibrium price they eventually settle on will be theoretically ‘better’ for either side. But in the meantime, oodles of dollars will have been spent on respective agent subscriptions and compute.\n\n\\> In Lewis Carroll’s Through the Looking-Glass: And What Alice Found There, the villainous Red Queen tells Alice that “it takes all the running you can do, to keep in the same place.” That line eventually inspired the Red Queen hypothesis in biology, where species must keep adapting because everything they’re competing with is adapting too. It’s easy to see us heading for an “AI Red Queen” future, where everyone has to keep deploying agents just to survive.\n\n\\> This is the ouroboros of productivity, the one that doesn’t so much boost output as multiply the work needed to end up in the same place, eating its own tail. Call it what you want. The bureaucracy singularity. The slop tax. I’ve opted for the Infinite Work Machine, as the one thing it seems guaranteed to produce is more work for machines.\n\n\\> The caveat in all of this, as always, is that it’s still early days for AI. Maybe the technology will hit some sort of developmental limit, dampening the agent arms race. Maybe the same tools that create bureaucratic churn today will genuinely clear backlogs and reduce frictions in the future. The big question is whether any gains go to people, or to the companies creating the machines to compete with each other.",
+    "permalink": "/r/singularity/comments/1xj0foj/welcome_to_the_infinite_work_machine/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rusap5043ol",
+      "parent_id": "t3_1xj0foj",
+      "author": "Grognoscente",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793319391,
+      "body": "Halfway there already."
+    }
+  ]
+}
