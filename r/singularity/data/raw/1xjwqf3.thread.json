@@ -1,0 +1,97 @@
+{
+  "post_id": "1xjwqf3",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~12h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Astra Beats Every Model in Robot Intelligence",
+    "author": "karsickk",
+    "score": 81,
+    "upvote_ratio": 0.9655172413793104,
+    "num_comments": 6,
+    "link_flair_text": "Robotics",
+    "created_utc": 1793408158,
+    "selftext": "[https://fixupx.com/withplayground/status/2116288487532216472](https://fixupx.com/withplayground/status/2116288487532216472)",
+    "permalink": "/r/singularity/comments/1xjwqf3/astra_beats_every_model_in_robot_intelligence/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rwmdh6cnjqa",
+      "parent_id": "t3_1xjwqf3",
+      "author": "frogsarenottoads",
+      "author_flair_text": null,
+      "score": 13,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793408278,
+      "body": "Carbons not on the list, it's hard to say with absolute certainty that it's the best model."
+    },
+    {
+      "depth": 1,
+      "id": "19rwnmulflcx1",
+      "parent_id": "t1_19rwmdh6cnjqa",
+      "author": "karsickk",
+      "author_flair_text": null,
+      "score": 7,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793409974,
+      "body": "hopefully will be soon! "
+    },
+    {
+      "depth": 1,
+      "id": "19rwrg9g5q00w",
+      "parent_id": "t1_19rwmdh6cnjqa",
+      "author": "sultanofsubstance",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793415108,
+      "body": "The Gemini team largely still can’t access Carbon. Get back to me when a normie can access the model."
+    },
+    {
+      "depth": 1,
+      "id": "19rww7z6k05gh",
+      "parent_id": "t1_19rwmdh6cnjqa",
+      "author": "HashPandaNL",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793421525,
+      "body": "Carbon is not publically available currently, so it doesn't count. OpenAI and Anthropic also have even better models internally."
+    },
+    {
+      "depth": 0,
+      "id": "19rwpz9i69med",
+      "parent_id": "t3_1xjwqf3",
+      "author": "aKaizuh",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793413128,
+      "body": "Does this just translate to superior real world visual recognition?"
+    }
+  ]
+}

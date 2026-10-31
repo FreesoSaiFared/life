@@ -1,0 +1,111 @@
+{
+  "post_id": "1xjpm25",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Qwen27b vs GPT 6",
+    "author": "Express_Quail_1493",
+    "score": 1,
+    "upvote_ratio": 0.5135135135135135,
+    "num_comments": 6,
+    "link_flair_text": "Shitposting",
+    "created_utc": 1793390200,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xjpm25/qwen27b_vs_gpt_6/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rw97qbpctxf",
+      "parent_id": "t3_1xjpm25",
+      "author": "QbitFiber2030",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793390576,
+      "body": "Gpt6, but which model? How are you finding working with Qwen? Have they manage to built you a website, a startup business with data bases, customer login info, recovery processes, credential security following the most accredited system process in place now. Like the big corporations?  Im curious,\n\nIm working on this with GPT6.1 sol but taking forever. But its doing it which is crazy?!"
+    },
+    {
+      "depth": 0,
+      "id": "19rw9uiabfwxv",
+      "parent_id": "t3_1xjpm25",
+      "author": "_YonYonson_",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793391427,
+      "body": "Even funnier that Qwen is Chinese"
+    },
+    {
+      "depth": 0,
+      "id": "19rwapnjamnpf",
+      "parent_id": "t3_1xjpm25",
+      "author": "Tricky_Rule_4565",
+      "author_flair_text": null,
+      "score": 19,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793392591,
+      "body": "Ik this is a shitpost, but GPT6 instant is the reason why a lot of “normies” think LLMs aren’t transformative. \n\nSuch “chatbot” behaviour with low intelligence and adding emojis and mimicking a teenage girl’s texting makes it unbearable."
+    },
+    {
+      "depth": 0,
+      "id": "19rwere2t77nn",
+      "parent_id": "t3_1xjpm25",
+      "author": "Gubzs",
+      "author_flair_text": "FDVR addict in pre-hoc rehab",
+      "score": 8,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793398037,
+      "body": "Normies will believe this shit while there is literally an ad in the screenshot, meaning this is a free user, meaning this is a very cheap unintelligent model."
+    },
+    {
+      "depth": 0,
+      "id": "19rwg9vnvnon6",
+      "parent_id": "t3_1xjpm25",
+      "author": "Davidolo",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793400073,
+      "body": "False   \n\n\nhttps://i.redd.it/7lkozh35noyh1.jpeg"
+    },
+    {
+      "depth": 0,
+      "id": "19rwumfefspkx",
+      "parent_id": "t3_1xjpm25",
+      "author": "Mistuv",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793419374,
+      "body": "Querying free Luna Low to prove that your locally run model that 5090 consumes 400 W to generate 20 TPS is superior. On the most 50/50 question for weak model. rLLocalLama not escaping the mentally ill cult allegations."
+    }
+  ]
+}
