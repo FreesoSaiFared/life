@@ -1,0 +1,125 @@
+{
+  "post_id": "1xkdykc",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~21h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "r/Singularity Daily Discussion Thread — October 31, 2026",
+    "author": "AutoModerator",
+    "score": 7,
+    "upvote_ratio": 0.7333333333333333,
+    "num_comments": 9,
+    "link_flair_text": "Discussion",
+    "created_utc": 1793462548,
+    "selftext": "Welcome to the daily r/singularity discussion thread!\n\nUse this thread for casual conversations, questions, speculation, AI developments, and anything related to the technological singularity that doesn't necessarily warrant its own post.\n\nPlease keep discussions civil and follow the subreddit rules.",
+    "permalink": "/r/singularity/comments/1xkdykc/rsingularity_daily_discussion_thread_october_31/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rxvfs4uz8ub",
+      "parent_id": "t3_1xkdykc",
+      "author": "SameAd8209",
+      "author_flair_text": null,
+      "score": 0,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793468899,
+      "body": "How far from AGI? 1-3 years? 5-10? More than 10?"
+    },
+    {
+      "depth": 1,
+      "id": "19rxzhwv5jc76",
+      "parent_id": "t1_19rxvfs4uz8ub",
+      "author": "Alarmed-Guidance6260",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793474359,
+      "body": "2027-2028"
+    },
+    {
+      "depth": 1,
+      "id": "19ry0l7ctln5x",
+      "parent_id": "t1_19rxvfs4uz8ub",
+      "author": "EvilSporkOfDeath",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793475828,
+      "body": "2029"
+    },
+    {
+      "depth": 1,
+      "id": "19ry1p0iztthh",
+      "parent_id": "t1_19rxvfs4uz8ub",
+      "author": "TorturedPoet30",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793477315,
+      "body": "Demis went from 2035 to 2030 to now just 1-2 years away and he’s the conservative one btw "
+    },
+    {
+      "depth": 1,
+      "id": "19ryevlqvxfur",
+      "parent_id": "t1_19rxvfs4uz8ub",
+      "author": "SadaWeyaUniverse",
+      "author_flair_text": null,
+      "score": 0,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793495049,
+      "body": "Dude how much comment karma do I need to make a post it says 46 is too little"
+    },
+    {
+      "depth": 1,
+      "id": "19ryqkpvx5egy",
+      "parent_id": "t1_19rxvfs4uz8ub",
+      "author": "Tystros",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793510785,
+      "body": "by 2030 is a reasonably safe bet"
+    },
+    {
+      "depth": 0,
+      "id": "19rxvuoztlksh",
+      "parent_id": "t3_1xkdykc",
+      "author": "Gendo-Glasses",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793469456,
+      "body": "The Singularity is nearer"
+    }
+  ]
+}

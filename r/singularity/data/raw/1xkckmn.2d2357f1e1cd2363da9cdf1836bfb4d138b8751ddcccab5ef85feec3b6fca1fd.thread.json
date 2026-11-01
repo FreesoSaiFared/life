@@ -1,0 +1,111 @@
+{
+  "post_id": "1xkckmn",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~22h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "It took us 3 years for a quarter, I'm thinking next 3 quarters will be much faster",
+    "author": "decixl",
+    "score": 32,
+    "upvote_ratio": 0.7285714285714285,
+    "num_comments": 6,
+    "link_flair_text": "AI",
+    "created_utc": 1793459177,
+    "selftext": "https://i.redd.it/6r5wmnptityh1.png\n\nIt all happened so fast, right? Resistance is futile :) but let's focus on the positive sides!",
+    "permalink": "/r/singularity/comments/1xkckmn/it_took_us_3_years_for_a_quarter_im_thinking_next/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19rxp1t54ar29",
+      "parent_id": "t3_1xkckmn",
+      "author": "Tomi97_origin",
+      "author_flair_text": null,
+      "score": 28,
+      "edited": 1793460593,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793460306,
+      "body": "That's not very useful or meaningful metric. It doesn't really says anything.\n\nWhat would be useful is saying how much of human writing it replaced, how much of it is additional writing, and most importantly how it affected reading patterns.\n\nIf you 10x the amount of written text you can say 90% of internet has AI written text, but what's the point unless someone is reading it.\n\nPercentage of text people consume each day would be so much more interesting metric."
+    },
+    {
+      "depth": 1,
+      "id": "19rxp4wqdzypx",
+      "parent_id": "t1_19rxp1t54ar29",
+      "author": "decixl",
+      "author_flair_text": null,
+      "score": -13,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793460421,
+      "body": "No one is preventing humans to write brother. But I would agree that every content should be labeled (AI/Human). "
+    },
+    {
+      "depth": 2,
+      "id": "19rxpgmqjg39h",
+      "parent_id": "t1_19rxp4wqdzypx",
+      "author": "Tomi97_origin",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793460859,
+      "body": "??? I wasn't complaining about AI written text. How did you get that idea?\n\nI was saying the amount of web containing AI written text is pointless and meaningless metric.\n\nMy point was that actually usage based metric as in percentage of text actually being read would be much more meaningful.\n\nAfter all if it's just volume you are after you don't need the bots to be smart or useful."
+    },
+    {
+      "depth": 3,
+      "id": "19rxpjas25fgh",
+      "parent_id": "t1_19rxpgmqjg39h",
+      "author": "decixl",
+      "author_flair_text": null,
+      "score": -8,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793460959,
+      "body": "I agree. That would be additional metric creating a stronger insight. What's the point of all that text if no one is reading it. \n\nI think few Google searches would satisfy your curiosity."
+    },
+    {
+      "depth": 0,
+      "id": "19rxp93u6mhdx",
+      "parent_id": "t3_1xkckmn",
+      "author": "trakdtor",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793460578,
+      "body": "We are closer to self improvement "
+    },
+    {
+      "depth": 0,
+      "id": "19rz0vaogj4w0",
+      "parent_id": "t3_1xkckmn",
+      "author": "bhavyagarg8",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793524632,
+      "body": "Doesn't matter how much compute or how smart the model is or how many models are there, you can never finish the next 3 quarters. "
+    }
+  ]
+}

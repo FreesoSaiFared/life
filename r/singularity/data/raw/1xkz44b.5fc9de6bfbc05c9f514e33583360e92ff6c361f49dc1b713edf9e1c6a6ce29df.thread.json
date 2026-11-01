@@ -1,0 +1,26 @@
+{
+  "post_id": "1xkz44b",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~4h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Worry about AI taking jobs rose for almost every job this year. Programmers are the exception, their worry peaked in March 2024",
+    "author": "vaitko",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1793526525,
+    "selftext": "I tracked \"will AI replace \\[job\\]\" searches in Google Trends for 56 jobs. Programmers were the first to worry, with a spike right after ChatGPT and another in March 2024 when Devin was announced. Since then it's come down (-12% on last year), while teachers, doctors and lawyers all hit new highs in 2026.\n\n\n\nMy guess is that programmers have used these tools every day for two years and have a clearer idea of what they can and can't do. Curious what you think.\n\n\n\nLookup for any job and the full data: [https://scrollytelling.ai/what-jobs-will-ai-replace/](https://scrollytelling.ai/what-jobs-will-ai-replace/)",
+    "permalink": "/r/singularity/comments/1xkz44b/worry_about_ai_taking_jobs_rose_for_almost_every/"
+  },
+  "comments": []
+}
