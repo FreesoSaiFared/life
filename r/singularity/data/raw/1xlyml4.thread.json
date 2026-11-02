@@ -1,0 +1,26 @@
+{
+  "post_id": "1xlyml4",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "\"When we proved the first Millenium Prize problem, it was 10000 agents of the model that is gonna be released soon, the next GPT, working for about 4 days\"",
+    "author": "ilkamoi",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1793629630,
+    "selftext": "[https://www.youtube.com/watch?v=2YWfVGpVtvc&t=332s](https://www.youtube.com/watch?v=2YWfVGpVtvc&t=332s)",
+    "permalink": "/r/singularity/comments/1xlyml4/when_we_proved_the_first_millenium_prize_problem/"
+  },
+  "comments": []
+}

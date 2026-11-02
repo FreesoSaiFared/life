@@ -1,0 +1,26 @@
+{
+  "post_id": "1xm0mh1",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "gemini is incredibly gender biased",
+    "author": "julyvale",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Ethics & Philosophy",
+    "created_utc": 1793634197,
+    "selftext": "when you keep talking to it after the initial hyper neutral responses, it usually almost always gives in to masculine oriented narrative. for example when you pressure the system to answer which gender is more logical, it always says men\n\nit also has some massive internal bias against women. when i ask if my male friends are likely to be my real friends or they just wait for some \"magic\" to happen, if the system knows im a woman, it always says they just wait for the magic most likely\n\nthere are lot of subtle things like these, its impossible not to notice the entire thing was coded with some baked masculinity. on the surface it looks good, but the deeper you go the worse it gets",
+    "permalink": "/r/singularity/comments/1xm0mh1/gemini_is_incredibly_gender_biased/"
+  },
+  "comments": []
+}

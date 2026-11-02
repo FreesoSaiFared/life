@@ -1,0 +1,83 @@
+{
+  "post_id": "1xllh7r",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Ai Hacking right now",
+    "author": "talltad",
+    "score": 6,
+    "upvote_ratio": 0.6153846153846154,
+    "num_comments": 6,
+    "link_flair_text": "Shitposting",
+    "created_utc": 1793586430,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xllh7r/ai_hacking_right_now/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s0fhwht5mao",
+      "parent_id": "t3_1xllh7r",
+      "author": "MrBadBoyWorldwide",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793592737,
+      "body": "k"
+    },
+    {
+      "depth": 0,
+      "id": "19s0gmw1ov3tv",
+      "parent_id": "t3_1xllh7r",
+      "author": "AshuraBaron",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793594269,
+      "body": "What you say?!"
+    },
+    {
+      "depth": 0,
+      "id": "19s0hz9nvyvxe",
+      "parent_id": "t3_1xllh7r",
+      "author": "RealSlyck",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793596077,
+      "body": "![gif](giphy|DOb3rFL6d83Zu)"
+    },
+    {
+      "depth": 0,
+      "id": "19s11hneg3qjo",
+      "parent_id": "t3_1xllh7r",
+      "author": "Gnoccho1",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793622323,
+      "body": "It must be great to live in a 3rd world country where bootlegged Windows XP still runs everything."
+    }
+  ]
+}
