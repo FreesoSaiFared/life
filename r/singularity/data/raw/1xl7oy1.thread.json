@@ -8,15 +8,13 @@
     "complete": true,
     "more_stubs": 0
   },
-  "notes": [
-    "thread is ~23h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
-  ],
+  "notes": [],
   "post": {
     "title": "OpenAI wants to rebrand its data centers as \"AI compute campuses\" after the midterms",
     "author": "TorturedPoet30",
-    "score": 137,
-    "upvote_ratio": 0.8870056497175142,
-    "num_comments": 94,
+    "score": 172,
+    "upvote_ratio": 0.8981481481481481,
+    "num_comments": 112,
     "link_flair_text": "Discussion",
     "created_utc": 1793551236,
     "selftext": "Does anyone think the name itself will make people more receptive?  \n  \nAccording to this Axios article, the rebrand is part of OpenAI’s post-midterm PR campaign. The idea is also to give residents more say over projects and their benefits.\n\nI’m not sure who the rename is supposed to convince. If your concerns are electricity costs, water use and what your community actually gets out of this \"project\" calling it a \"campus\" doesn’t really address any of that?   \n  \nI just find it hard to believe a rebrand will change people’s minds about data centers.",

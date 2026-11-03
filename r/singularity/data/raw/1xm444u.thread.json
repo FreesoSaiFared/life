@@ -1,0 +1,69 @@
+{
+  "post_id": "1xm444u",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~20h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "How october ended!",
+    "author": "Immediate_Simple_217",
+    "score": 36,
+    "upvote_ratio": 0.8214285714285714,
+    "num_comments": 3,
+    "link_flair_text": "Meme",
+    "created_utc": 1793641808,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xm444u/how_october_ended/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s1gm28bc6x1",
+      "parent_id": "t3_1xm444u",
+      "author": "Solid_Sky_6411",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793642666,
+      "body": "Carbon"
+    },
+    {
+      "depth": 1,
+      "id": "19s1k1zd20gec",
+      "parent_id": "t1_19s1gm28bc6x1",
+      "author": "LyAkolon",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793647296,
+      "body": "say more"
+    },
+    {
+      "depth": 2,
+      "id": "19s1ldw2o3toh",
+      "parent_id": "t1_19s1k1zd20gec",
+      "author": "HotDogDay82",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793649086,
+      "body": "Caaaaaaarbon"
+    }
+  ]
+}

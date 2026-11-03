@@ -8,15 +8,13 @@
     "complete": true,
     "more_stubs": 0
   },
-  "notes": [
-    "thread is ~24h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
-  ],
+  "notes": [],
   "post": {
     "title": "Anthropic's growing restrictions are creating a new divide in the AI capabilities race: Gemini 4 Argon recreates Pixar's iconic intro, while Claude Opus 5.5 refuses over copyright and builds a toaster instead—highlighting the gap between what frontier AI can do and what companies allow it to do.",
     "author": "141_1337",
-    "score": 1524,
-    "upvote_ratio": 0.968557336621455,
-    "num_comments": 294,
+    "score": 1684,
+    "upvote_ratio": 0.9692737430167597,
+    "num_comments": 329,
     "link_flair_text": "The Singularity is Near",
     "created_utc": 1793549285,
     "selftext": "",

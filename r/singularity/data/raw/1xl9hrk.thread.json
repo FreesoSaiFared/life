@@ -8,15 +8,13 @@
     "complete": true,
     "more_stubs": 0
   },
-  "notes": [
-    "thread is ~22h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
-  ],
+  "notes": [],
   "post": {
     "title": "Demis Hassabis says AI data centers should be beautiful and we should take their effect on our physical surroundings seriously",
     "author": "Recent_Fox4339",
-    "score": 450,
-    "upvote_ratio": 0.95,
-    "num_comments": 82,
+    "score": 528,
+    "upvote_ratio": 0.9489795918367347,
+    "num_comments": 89,
     "link_flair_text": "Discussion",
     "created_utc": 1793555382,
     "selftext": "Interview from early September with Hannah Fry. ",

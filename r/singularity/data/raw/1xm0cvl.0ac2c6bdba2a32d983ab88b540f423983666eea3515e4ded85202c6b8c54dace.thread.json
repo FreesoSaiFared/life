@@ -1,0 +1,69 @@
+{
+  "post_id": "1xm0cvl",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~23h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Agibot streaming 6 wheeled humanoid robots running a convenience store for 24h",
+    "author": "Distinct-Question-16",
+    "score": 38,
+    "upvote_ratio": 0.975,
+    "num_comments": 5,
+    "link_flair_text": "Robotics",
+    "created_utc": 1793633604,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xm0cvl/agibot_streaming_6_wheeled_humanoid_robots/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s1g9ms1mao1",
+      "parent_id": "t3_1xm0cvl",
+      "author": "Animats",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793642201,
+      "body": "They move around and look at the shelves, but in ten minutes, none of them used their arms. There's one customer, sitting at a table with a laptop. They seem to ignore the robots. \n\nBut it's 3 AM. Nothing for the robots to do. Need to check back when the store is busier."
+    },
+    {
+      "depth": 1,
+      "id": "19s1hitofck91",
+      "parent_id": "t1_19s1g9ms1mao1",
+      "author": "Distinct-Question-16",
+      "author_flair_text": "▪️AGI 2029",
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793643890,
+      "body": "I watched one of them in slow motion, picking pastries, putting them in a bag, and handing them to a customer"
+    },
+    {
+      "depth": 2,
+      "id": "19s1vrmmw81ad",
+      "parent_id": "t1_19s1hitofck91",
+      "author": "Animats",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793663052,
+      "body": "Nice. Right now there's a guy with a big camera and headphones following a robot around, and sometimes the feed for the stream seems to come from him. Saw a robot put a container on a shelf.\n\nThere's still one customer, sitting at a table, with a laptop, facing the robots but ignoring them. Different person; it was a man earlier, now it's a woman. Then the woman left and a guy with a laptop is now present. Strongly suspect this is the human safety operator.\n\nBar robot picks and places things, very, very slowly. One of the other robots picked up a bagged candy item from a shelf, using a special end effector for grabbing objects of that form. The end effector has its own small camera. \n\nOccasionally people come in, but nothing like a retail transaction seems to happen, where people pick up some items, pay, and leave."
+    }
+  ]
+}

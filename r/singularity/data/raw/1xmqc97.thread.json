@@ -1,0 +1,139 @@
+{
+  "post_id": "1xmqc97",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "LLMs are fantastic Tech Supports",
+    "author": "KrydanX",
+    "score": 27,
+    "upvote_ratio": 0.9354838709677419,
+    "num_comments": 8,
+    "link_flair_text": "Discussion",
+    "created_utc": 1793704708,
+    "selftext": "I had an issue with my MacBook Pro M4 since MacOS27 - an external monitor (connected via HDMI) that used to work all the time with previous versions of macOS suddenly had massive issues, not being recognised, not having the right settings, defaulting back to some weird settings as much as only mirroring a quarter of my built in monitor, bugging out my display settings and the whole around it.\n\nI spend multiple hours trying to fix it. All the usual stuff, resetting this, resetting that, trying different solutions offered all around the internet, no success. I gave up, used my iPad as a second monitor and called it a day.\n\nFunny enough, on the MacBook of my wife (M3, macOS 27) it was working just fine.\n\nEven with the help of Claude, using everything the internet suggested, it didn’t work. Used BetterDisplay, went deep into deleting Color/Display profiles, nothing.\n\nThen we checked the EDID and found out, there is something broken there, the monitor is sending a buggy EDID that had 2 broken bytes in them - not me finding it out, it happened when I send Claude the Log/Screenshots. It immediately pointed out that what’s being send is broken. 10 seconds later he created a fitting EDID Bin/Profile for me, I plugged it in - worked flawless.\n\nI spend HOURS on research, debugging, problem solving - the moment I gave Claude some more informations, showed it exactly what’s wrong, it fixed it within seconds. I was about to give it up and just live with it, waiting for maybe the next MacOS version or just buying a new monitor. \n\nI’m pretty sure a standard hardware store or even the apple support wouldn’t help me with this and suggesting getting a new monitor or wait for an update. Claude just wrote a proper EDID profile and fixed it.\n\nTLDR; My Monitor had an EDID issue ever since, macOS 27.0 and before handled it, the new macOS was too picky and refused to work. Claude correctly found it, fixed it in seconds. ",
+    "permalink": "/r/singularity/comments/1xmqc97/llms_are_fantastic_tech_supports/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s2qvrw4ukf7",
+      "parent_id": "t3_1xmqc97",
+      "author": "Fine_League311",
+      "author_flair_text": null,
+      "score": 0,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793704908,
+      "body": "for research, debugging an docs and status for remember ist realy realy nice ... but atuomation is teribble false work! "
+    },
+    {
+      "depth": 0,
+      "id": "19s2r1qhsb0f6",
+      "parent_id": "t3_1xmqc97",
+      "author": "Key-Dress7912",
+      "author_flair_text": null,
+      "score": 8,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793705131,
+      "body": "Bye-bye Bangalore "
+    },
+    {
+      "depth": 0,
+      "id": "19s2r7ov5cl45",
+      "parent_id": "t3_1xmqc97",
+      "author": "30svich",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793705354,
+      "body": "Faster would be to run an agent and it fixes the problem itself without you needing copy pasting logs to it. I had an hdmi problem - audio was not working on any display, asked deepseek agent to do it, and it fixed it in 20 minutes without my intervention"
+    },
+    {
+      "depth": 1,
+      "id": "19s2roar6erxg",
+      "parent_id": "t1_19s2r7ov5cl45",
+      "author": "KrydanX",
+      "author_flair_text": null,
+      "score": 7,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793705974,
+      "body": "I rather not give full autonomy to my laptop - also I wanted to understand what’s wrong, why it was wrong to learn something from it, if it ever happens again "
+    },
+    {
+      "depth": 0,
+      "id": "19s2w8qk2zug0",
+      "parent_id": "t3_1xmqc97",
+      "author": "Nomadic_Pulse",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793712119,
+      "body": "the screenshots and logs are what did it imo. if you just describe the problem in words you mostly get the same reset this, reset that list from every forum. the raw output is where the actual clue is"
+    },
+    {
+      "depth": 0,
+      "id": "19s2wodoofcv5",
+      "parent_id": "t3_1xmqc97",
+      "author": "beehole99",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793712703,
+      "body": "This is very true!"
+    },
+    {
+      "depth": 0,
+      "id": "19s2wp1kbzcv4",
+      "parent_id": "t3_1xmqc97",
+      "author": "eigenein",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793712728,
+      "body": "If only we saw negative stories here, too. You know, for a _full picture_"
+    },
+    {
+      "depth": 0,
+      "id": "19s2xa77ax0ip",
+      "parent_id": "t3_1xmqc97",
+      "author": "Yugudubenbi",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793713519,
+      "body": "But it still far from optimized. Sometimes I had them give the wrong solutions and then I found a solution somewhere or fixed it myself. \n\n\nThe issue now is there is no real good way for one to add these solutions to AIs other than downvote the answer and send it there.\n\n\nBut you can do sooo much more with an AI dedicated website. Upvote/downvotes, system analysis of your exact system to find similarities etc. They could easily create a system that instantly solves any problem so easy"
+    }
+  ]
+}
