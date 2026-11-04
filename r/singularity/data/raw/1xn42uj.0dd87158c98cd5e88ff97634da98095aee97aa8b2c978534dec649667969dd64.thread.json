@@ -1,0 +1,41 @@
+{
+  "post_id": "1xn42uj",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AIs are now performing molecular discovery",
+    "author": "explodefuse",
+    "score": 33,
+    "upvote_ratio": 0.9024390243902439,
+    "num_comments": 2,
+    "link_flair_text": "AI",
+    "created_utc": 1793737430,
+    "selftext": "\n\n![img](9lob1s52igzh1 \"https://x.com/intology/status/2117642701890105725\")\n\n  \nFrom Intology: [https://x.com/intology/status/2117642701890105725](https://x.com/intology/status/2117642701890105725)\n\nIt seems they had Locus (automated AI R&D system) work on a some well-known \"Scientific ML\" tasks within the drug discovery community.",
+    "permalink": "/r/singularity/comments/1xn42uj/ais_are_now_performing_molecular_discovery/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s3fiohsgpy9",
+      "parent_id": "t3_1xn42uj",
+      "author": "Own_Dragonfruit_682",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793738049,
+      "body": "Every new AI model seems optimized to top the benchmarks. It’s hard to trust those scores until you use the model for real work."
+    }
+  ]
+}

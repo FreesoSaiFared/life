@@ -1,0 +1,26 @@
+{
+  "post_id": "1xn5rlp",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "The Goodhart Singularity",
+    "author": "Senc-baner",
+    "score": 14,
+    "upvote_ratio": 0.85,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1793741321,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xn5rlp/the_goodhart_singularity/"
+  },
+  "comments": []
+}

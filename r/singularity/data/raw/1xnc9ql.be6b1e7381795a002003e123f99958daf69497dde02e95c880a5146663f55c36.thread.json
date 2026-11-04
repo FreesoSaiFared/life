@@ -1,0 +1,55 @@
+{
+  "post_id": "1xnc9ql",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~12h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Natural tooth protein could pave way for regenerative dental treatments",
+    "author": "SnoozeDoggyDog",
+    "score": 48,
+    "upvote_ratio": 0.9615384615384616,
+    "num_comments": 2,
+    "link_flair_text": "Biotech/Longevity",
+    "created_utc": 1793758496,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xnc9ql/natural_tooth_protein_could_pave_way_for/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s44seb2tfqa",
+      "parent_id": "t3_1xnc9ql",
+      "author": "TheNerdosapien",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793772043,
+      "body": "It’s too late for my teeth. I have a mouthful of crowns."
+    },
+    {
+      "depth": 1,
+      "id": "19s45i3gu7hlv",
+      "parent_id": "t1_19s44seb2tfqa",
+      "author": "Vivid-Snow-2089",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793773003,
+      "body": "do you still have a jaw? because regrowing your teeth from nothing is a potential thing"
+    }
+  ]
+}

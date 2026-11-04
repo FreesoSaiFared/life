@@ -1,0 +1,55 @@
+{
+  "post_id": "1xn9nte",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Creepy Answer",
+    "author": "UnderstandingBasic82",
+    "score": 0,
+    "upvote_ratio": 0.15789473684210525,
+    "num_comments": 2,
+    "link_flair_text": "AI",
+    "created_utc": 1793751113,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xn9nte/creepy_answer/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s3ui44bxxoj",
+      "parent_id": "t3_1xn9nte",
+      "author": "hartigen",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793758206,
+      "body": "/r/im14andthisisdeep/"
+    },
+    {
+      "depth": 0,
+      "id": "19s4685vwpeww",
+      "parent_id": "t3_1xn9nte",
+      "author": "Hellrage",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793773977,
+      "body": "This is literally just the great filter argument, nothing creepy about it"
+    }
+  ]
+}
