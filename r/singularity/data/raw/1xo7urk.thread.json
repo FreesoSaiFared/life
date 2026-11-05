@@ -1,0 +1,125 @@
+{
+  "post_id": "1xo7urk",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~12h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Google DeepMind unveils agentic cheminformatics on Antigravity: compresses multi-day drug design workflows into 1 hour",
+    "author": "Gaiden206",
+    "score": 130,
+    "upvote_ratio": 0.9850746268656716,
+    "num_comments": 9,
+    "link_flair_text": "Biotech/Longevity",
+    "created_utc": 1793847679,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xo7urk/google_deepmind_unveils_agentic_cheminformatics/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s5tv8psbyv7",
+      "parent_id": "t3_1xo7urk",
+      "author": "Grand-Line8185",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793854207,
+      "body": "And how fast does it make 3 Phase Trials?"
+    },
+    {
+      "depth": 1,
+      "id": "19s5x1iln5rgk",
+      "parent_id": "t1_19s5tv8psbyv7",
+      "author": "Pitiful_Conflict7031",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793858477,
+      "body": "If not in the USA much quicker."
+    },
+    {
+      "depth": 0,
+      "id": "19s5zd3scbwhx",
+      "parent_id": "t3_1xo7urk",
+      "author": "Street-Percentage502",
+      "author_flair_text": null,
+      "score": -10,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793861600,
+      "body": "buzz buzzword buzzword buzzword buzzword\n\nhere ill do one to\n\nAI unveils new PROTOCOL to disentangle MILLENIAL ballstank HYPOTHESIS"
+    },
+    {
+      "depth": 1,
+      "id": "19s604zd5yqte",
+      "parent_id": "t1_19s5zd3scbwhx",
+      "author": "Hubbardia",
+      "author_flair_text": "AGI 2045",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793862642,
+      "body": "Big words too much for you to handle?"
+    },
+    {
+      "depth": 2,
+      "id": "19s623qffw9xd",
+      "parent_id": "t1_19s604zd5yqte",
+      "author": "Street-Percentage502",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793865286,
+      "body": "how bout u come and handle this big thing right here"
+    },
+    {
+      "depth": 1,
+      "id": "19s619b144mys",
+      "parent_id": "t1_19s5zd3scbwhx",
+      "author": "Illustrious_Air_8914",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793864149,
+      "body": "Since when is ballstank a buzzword? "
+    },
+    {
+      "depth": 2,
+      "id": "19s6232bj6csk",
+      "parent_id": "t1_19s619b144mys",
+      "author": "Street-Percentage502",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793865261,
+      "body": "since when is ballstank in the room with us"
+    }
+  ]
+}

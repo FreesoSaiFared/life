@@ -1,0 +1,97 @@
+{
+  "post_id": "1xny0m0",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~19h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+    "author": "beasthunterr69",
+    "score": 30,
+    "upvote_ratio": 0.9166666666666666,
+    "num_comments": 5,
+    "link_flair_text": "Discussion",
+    "created_utc": 1793821936,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xny0m0/octoverse_commits_pushes_reach_new_highs_in_2026/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s56jxmq7ade",
+      "parent_id": "t3_1xny0m0",
+      "author": "ChemicalExcellent463",
+      "author_flair_text": null,
+      "score": 11,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793822844,
+      "body": "token use in my repos went from 91 million in april to 38 billion by october 28 on one machine, but lines added stayed about flat, 291k to 245k. the tokens went into agents reviewing each other and docs and research that steer the code."
+    },
+    {
+      "depth": 1,
+      "id": "19s5omt2nvg3n",
+      "parent_id": "t1_19s56jxmq7ade",
+      "author": "Brainiac_Pickle_7439",
+      "author_flair_text": "The singularity is, oh well it just happened▪️",
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793847165,
+      "body": "A billion seems like a lot, but it actually makes sense when you do the math haha. A seemingly simple question that isn't even coding related and is precise can sometimes easily take up 10k tokens lol"
+    },
+    {
+      "depth": 2,
+      "id": "19s5s6dyrhdmt",
+      "parent_id": "t1_19s5omt2nvg3n",
+      "author": "ChemicalExcellent463",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793851933,
+      "body": "that's a lot for one question lol. what tool was that in?"
+    },
+    {
+      "depth": 3,
+      "id": "19s5spifq8kzl",
+      "parent_id": "t1_19s5s6dyrhdmt",
+      "author": "Brainiac_Pickle_7439",
+      "author_flair_text": "The singularity is, oh well it just happened▪️",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793852647,
+      "body": "This was with Claude Code: it doesn't happen often for a single question, but sometimes Claude can't find the answer from the documentation so it just derives the answer from the codebase lol, and it does it just fine. I then ask it to update the documentation in a draft for review whenever it does this"
+    },
+    {
+      "depth": 0,
+      "id": "19s56q5wli5oi",
+      "parent_id": "t3_1xny0m0",
+      "author": "delxmobile",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793823077,
+      "body": "commit count gets weird once agents are in the loop. an agent will happily make six commits called \"fix the fix\" before lunch. i'd rather see revert rate or how many PRs actually got merged next to it, that would say more about whether output went up or just activity."
+    }
+  ]
+}
