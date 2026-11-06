@@ -1,0 +1,69 @@
+{
+  "post_id": "1xoo9s0",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~21h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "author": "Hans-Wermhatt",
+    "score": 35,
+    "upvote_ratio": 0.9069767441860465,
+    "num_comments": 3,
+    "link_flair_text": "AI",
+    "created_utc": 1793898816,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xoo9s0/gemini_omni_12_flash_fast_and_costeffective_with/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s6r6fsrfhvp",
+      "parent_id": "t3_1xoo9s0",
+      "author": "TorturedPoet30",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793899017,
+      "body": "Sounds promising. 30% lower price than Omni Flash 1.1"
+    },
+    {
+      "depth": 1,
+      "id": "19s6r9te6hoat",
+      "parent_id": "t1_19s6r6fsrfhvp",
+      "author": "Hans-Wermhatt",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793899143,
+      "body": "The demo clips looked good. Looks like they are admitting it still isn't great for fast action though:\n\n> While development is ongoing to further improve things like fast sports action, rapid script changes and complex physics, Gemini Omni 1.2 Flash is ideal for businesses, developers, and creators producing videos at scale.\n\nBut the cost reductions are great."
+    },
+    {
+      "depth": 0,
+      "id": "19s76lrxulow4",
+      "parent_id": "t3_1xoo9s0",
+      "author": "Psychological_Bell48",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793919768,
+      "body": "Nice "
+    }
+  ]
+}

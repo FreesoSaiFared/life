@@ -1,0 +1,26 @@
+{
+  "post_id": "1xp1jua",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~12h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Weight Space Generation of State Machines (GPT-6)",
+    "author": "Sl33py_4est",
+    "score": 10,
+    "upvote_ratio": 0.9166666666666666,
+    "num_comments": 0,
+    "link_flair_text": "LLM News",
+    "created_utc": 1793932388,
+    "selftext": "Been seeing this a lot, wanted to give it a try. It took about 8 minutes for Astra to fabricate the weights (it uses a combination of separate small networks, each with a specific task). A rough guess at token usage would be 200k with a majority being output.\n\n  \nIt also made a live editor that enables changing of running weights to see their impacts. The neuron I changed caused the ball to stop moving left, so it eventually just occupied the same space as the right paddle.\n\n  \n(yes I move the paddles around later in the video. I'm not sure why I was having such a hard time with it ahaa.)",
+    "permalink": "/r/singularity/comments/1xp1jua/weight_space_generation_of_state_machines_gpt6/"
+  },
+  "comments": []
+}

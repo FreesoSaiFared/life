@@ -1,0 +1,139 @@
+{
+  "post_id": "1xp35e7",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~10h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Every tech bro rn",
+    "author": "Traditional-Chip8339",
+    "score": 161,
+    "upvote_ratio": 0.8888888888888888,
+    "num_comments": 8,
+    "link_flair_text": "Meme",
+    "created_utc": 1793937268,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xp35e7/every_tech_bro_rn/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s7juevb2lfk",
+      "parent_id": "t3_1xp35e7",
+      "author": "Future-Bandicoot-823",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793937579,
+      "body": "Just ran this through my AI  bullshit sniffer...\n\nno lies detected, 100% facts. huh."
+    },
+    {
+      "depth": 0,
+      "id": "19s7k09xzfuo0",
+      "parent_id": "t3_1xp35e7",
+      "author": "Baphaddon",
+      "author_flair_text": null,
+      "score": 0,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793937798,
+      "body": "Totally out of context "
+    },
+    {
+      "depth": 0,
+      "id": "19s7k6vrzeeip",
+      "parent_id": "t3_1xp35e7",
+      "author": "Due-Helicopter-8735",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793938045,
+      "body": "Will Sundar put back the “don’t be evil” phrases now?"
+    },
+    {
+      "depth": 1,
+      "id": "19s7sjoklrpq9",
+      "parent_id": "t1_19s7k6vrzeeip",
+      "author": "Macronomium",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793949285,
+      "body": "It was never removed, just moved to the final sentence."
+    },
+    {
+      "depth": 1,
+      "id": "19s7v6i2i1342",
+      "parent_id": "t1_19s7k6vrzeeip",
+      "author": "Bladder-Splatter",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793952828,
+      "body": "That went long before AI didn't it?"
+    },
+    {
+      "depth": 0,
+      "id": "19s7kmaold1xe",
+      "parent_id": "t3_1xp35e7",
+      "author": "mr_palante",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793938621,
+      "body": "Like I know what this from and shit but elon looks like he just got out of surgery 😆."
+    },
+    {
+      "depth": 0,
+      "id": "19s7yyyuf10jl",
+      "parent_id": "t3_1xp35e7",
+      "author": "FomalhautCalliclea",
+      "author_flair_text": "▪️Euphemistically less Agnostic",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793957927,
+      "body": "Musk deleted his tweet saying \"go vote red!\" and a few others, as if screencaps didn't exist. Most importantly, as if people would ever forget his past 10 years and 2 nazi salutes.\n\nAt this point, just cut the crap out and be the below average IQ POS we all know you are. \n\nThere's this silly french joke about a kid crying after his ice cream fell on the floor, and the father telling him \"well at least it won't fall any lower now\"."
+    },
+    {
+      "depth": 0,
+      "id": "19s7zatyxzbwk",
+      "parent_id": "t3_1xp35e7",
+      "author": "tomvorlostriddle",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793958370,
+      "body": "So you're saying Dario went from having the most successful but least government liked lab to the most successful **and** most government liked lab?\n\nSeriously though, mock Altman and Elon and a few others, it's deserved. But not Dario, Demis, Hinton etc."
+    }
+  ]
+}

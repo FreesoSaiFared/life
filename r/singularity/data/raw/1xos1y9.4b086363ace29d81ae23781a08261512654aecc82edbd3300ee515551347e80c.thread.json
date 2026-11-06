@@ -1,0 +1,139 @@
+{
+  "post_id": "1xos1y9",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~19h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "I use an LLM Agent to program a PLC (Industrial Automation)",
+    "author": "Many_Somewhere3863",
+    "score": 17,
+    "upvote_ratio": 0.7428571428571429,
+    "num_comments": 8,
+    "link_flair_text": "Engineering",
+    "created_utc": 1793907416,
+    "selftext": "Posting it here, because it got removed on PLC Sub\n\nHere's some demo of an LLM Agent from someone (this is not promotion, you wouldn't find this anywhere) doing ladder for me, you can also use csv import ( i use auto write because why not) , and it don't make special file or anything like that, the token use is pretty minimal, under 100K.\n\nIts in indonesian language, no english yet.\n\nIt also has guardrails and lint so it wouldn't make a simple mistake and its offline only. If you online with PLC, the Agent won't write it. You also have to check it in the end.\n\nIs it good ? Yeah its okay, it still make a lot of mistakes, but you can use a harness to guide the models. Depending on the models, if you use Frontier models, it just fly. But my experience with chinese models also not bad.\n\nIts interesting, i don't think this gonna replace engineer, but it sure would help a lot. I don't know why mod on PLC sub is so anti AI. ",
+    "permalink": "/r/singularity/comments/1xos1y9/i_use_an_llm_agent_to_program_a_plc_industrial/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s6xjq0p4r1d",
+      "parent_id": "t3_1xos1y9",
+      "author": "RealSlyck",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793907585,
+      "body": "Of course it did, sorry about that. Change is gonna be hard for 2/3rds of Reddit. Looks super cool, keep up the hard work! Thanks for sharing, neat to see what things are going to be possible in the future!"
+    },
+    {
+      "depth": 1,
+      "id": "19s6xota576qo",
+      "parent_id": "t1_19s6xjq0p4r1d",
+      "author": "Many_Somewhere3863",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793907775,
+      "body": "Thanks man, its actually pretty positive though from that sub users, and then the mod removed it lol"
+    },
+    {
+      "depth": 0,
+      "id": "19s6zuyk5b3dw",
+      "parent_id": "t3_1xos1y9",
+      "author": "_36-_426-__",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793910695,
+      "body": "Any more info on where I can get it and how? "
+    },
+    {
+      "depth": 0,
+      "id": "19s70tk1s6n6r",
+      "parent_id": "t3_1xos1y9",
+      "author": "Due_Construction5967",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793911988,
+      "body": "Really cool, its going to be crazy when this stuff hits industry. "
+    },
+    {
+      "depth": 1,
+      "id": "19s72751ray8w",
+      "parent_id": "t1_19s70tk1s6n6r",
+      "author": "def__eq__",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793913841,
+      "body": "Crazy in both good and bad way. I think it really will bring up the much needed societal discussion of responsibility and consequence, because one thing is to have AI make something that might, when buggy, make someone’s life inconvenient, and another is to take someone’s life by accident."
+    },
+    {
+      "depth": 2,
+      "id": "19s7kjantpgwx",
+      "parent_id": "t1_19s72751ray8w",
+      "author": "Many_Somewhere3863",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793938509,
+      "body": "Yes indeed, that's why i made it offline only, no edit with the running machine, and you still have to review it\n\nBut, i do think it will get better over time"
+    },
+    {
+      "depth": 0,
+      "id": "19s7gp3unzmcl",
+      "parent_id": "t3_1xos1y9",
+      "author": "Random_182f2565",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793933345,
+      "body": "Sweet dude, it's an MCP?  What LLM do you use?"
+    },
+    {
+      "depth": 1,
+      "id": "19s7khb26hjhf",
+      "parent_id": "t1_19s7gp3unzmcl",
+      "author": "Many_Somewhere3863",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793938434,
+      "body": "Yes, you can use it as MCP or Agent itself, you can use any models \n\nIn the video i used mercury 3"
+    }
+  ]
+}

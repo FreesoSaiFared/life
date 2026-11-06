@@ -1,0 +1,41 @@
+{
+  "post_id": "1xozm3r",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~13h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Julius Research dropped a new benchmark today for high finance work",
+    "author": "North_Teacher_7522",
+    "score": 5,
+    "upvote_ratio": 0.6923076923076923,
+    "num_comments": 3,
+    "link_flair_text": "LLM News",
+    "created_utc": 1793926678,
+    "selftext": "https://i.redd.it/txuycl1f3wzh1.png\n\nReal world high finance work is full of assumptions and conflicting evidence. The DeepFinance benchmark looks to capture the ability of leading AI models to navigate ultra long-horizon workflow in finance. For high-finance professionals in IB and PE, does this match what you see in your work?\n\n  \nFull paper can be found here: [https://www.juliusresearch.ai/blog/deep-finance](https://www.juliusresearch.ai/blog/deep-finance)",
+    "permalink": "/r/singularity/comments/1xozm3r/julius_research_dropped_a_new_benchmark_today_for/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s7c2cptc6g4",
+      "parent_id": "t3_1xozm3r",
+      "author": "SnakeFarmSuperviser",
+      "author_flair_text": "Retarded",
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793927114,
+      "body": "https://i.redd.it/bmp4ry3c6wzh1.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "post_id": "1xp6c13",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~7h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Xinhua News Agency introduces two UBtech U1s as news anchors",
+    "author": "subnautthrowaway777",
+    "score": 7,
+    "upvote_ratio": 0.6842105263157895,
+    "num_comments": 2,
+    "link_flair_text": "Robotics",
+    "created_utc": 1793948281,
+    "selftext": "Title.",
+    "permalink": "/r/singularity/comments/1xp6c13/xinhua_news_agency_introduces_two_ubtech_u1s_as/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s7svdcajhpe",
+      "parent_id": "t3_1xp6c13",
+      "author": "vhsgreed",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793949721,
+      "body": "Friendly and professional "
+    },
+    {
+      "depth": 0,
+      "id": "19s86d9maplcy",
+      "parent_id": "t3_1xp6c13",
+      "author": "13-14_Mustang",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793967878,
+      "body": "At this stage, I would rather just look at AI. "
+    }
+  ]
+}

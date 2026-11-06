@@ -1,0 +1,69 @@
+{
+  "post_id": "1xoz60i",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Inkling releases Inkling Small 2 - highest AA scoring non-chinese open-weights model (pending release)",
+    "author": "elemental-mind",
+    "score": 18,
+    "upvote_ratio": 0.9090909090909091,
+    "num_comments": 3,
+    "link_flair_text": "AI",
+    "created_utc": 1793925381,
+    "selftext": "Read their release blog post here: [Introducing Inkling 2 Small - Thinking Machines Lab](https://thinkingmachines.ai/news/inkling-2-small/)",
+    "permalink": "/r/singularity/comments/1xoz60i/inkling_releases_inkling_small_2_highest_aa/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s7bohhfnvwg",
+      "parent_id": "t3_1xoz60i",
+      "author": "Imaginary_Regret_430",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793926596,
+      "body": "Can’t wait to run this small model with my modest 650gb of memory. "
+    },
+    {
+      "depth": 0,
+      "id": "19s7cat5wkpxf",
+      "parent_id": "t3_1xoz60i",
+      "author": "SnakeFarmSuperviser",
+      "author_flair_text": "Retarded",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793927430,
+      "body": "https://i.redd.it/f47zqhy97wzh1.jpeg"
+    },
+    {
+      "depth": 0,
+      "id": "19s7dlcbu6af7",
+      "parent_id": "t3_1xoz60i",
+      "author": "CryMoreT_T",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793929169,
+      "body": "Damn.  NGL i think this shows how big of a gap Anthropic/OpenAI/Google/Facebook(somewhat) have in front of everyone.  Chinese models are already pretty far behind and the rest of the startups after that are even more behind"
+    }
+  ]
+}

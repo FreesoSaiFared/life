@@ -1,0 +1,125 @@
+{
+  "post_id": "1xoptyr",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~20h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "GPT-6.1 Sol learns from real-world surgical experience: After just 3 mouse brain procedures, with a surgeon correcting its mistakes, the AI finds key anatomical landmarks nearly twice as fast (169 → 86 seconds) and cuts its positioning error in half (0.6 → 0.3 mm).",
+    "author": "141_1337",
+    "score": 110,
+    "upvote_ratio": 0.9508196721311475,
+    "num_comments": 7,
+    "link_flair_text": "the Singularity is Nearer",
+    "created_utc": 1793902308,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xoptyr/gpt61_sol_learns_from_realworld_surgical/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s6tzhq40gn6",
+      "parent_id": "t3_1xoptyr",
+      "author": "notextinctyet",
+      "author_flair_text": null,
+      "score": 12,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793902793,
+      "body": "I call dibbs on brain surgery number four. Someone else can undergo the first three, it's fine."
+    },
+    {
+      "depth": 0,
+      "id": "19s6ugxmq5cg4",
+      "parent_id": "t3_1xoptyr",
+      "author": "LyAkolon",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793903445,
+      "body": "Unless we have a way to preform insight integration into the model, this is not very useful. LLMs have always been great at incontext learning."
+    },
+    {
+      "depth": 1,
+      "id": "19s6zecbz8fno",
+      "parent_id": "t1_19s6ugxmq5cg4",
+      "author": "BreadwheatInc",
+      "author_flair_text": "▪️Avid AGI feeler",
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793910074,
+      "body": "Google already found a way to make models sleep and integrate new knowledge/skill into weights + there's a lot of other promising research. We know it's possible. "
+    },
+    {
+      "depth": 0,
+      "id": "19s6uni07qqm8",
+      "parent_id": "t3_1xoptyr",
+      "author": "whoknowsifimjoking",
+      "author_flair_text": null,
+      "score": 6,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793903690,
+      "body": "Idk if I would really call it in-context learning if a human comes, corrects the failed attempt and then has the next instance of the model start with that information in the context window at the beginning, there would probably be no difference to a model that only got that information from the beginning without ever having performed the first attempt. So calling that learning seem like bs to me, it's just more added context and the model also didn't really do it itself.\n\nSo far most of the attempts to add learning via outside systems didn't really convince me, I still hope dynamic weights might finally be able to achieve it. "
+    },
+    {
+      "depth": 1,
+      "id": "19s7of6nbn879",
+      "parent_id": "t1_19s6uni07qqm8",
+      "author": "ervza",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793943736,
+      "body": ">it's just more added context  \n\nThat is why it's called \"in-context learning\".  \n\nJokes aside, you are right, dynamic weights would be the holy grail of realtime learning, it is just impressive how far GPT-6.1 can improve with just added context."
+    },
+    {
+      "depth": 0,
+      "id": "19s6vtz94dh6q",
+      "parent_id": "t3_1xoptyr",
+      "author": "ConversationSure460",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793905277,
+      "body": "did the mouse survive?"
+    },
+    {
+      "depth": 0,
+      "id": "19s6zuuwk5f7o",
+      "parent_id": "t3_1xoptyr",
+      "author": "AngleAccomplished865",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793910691,
+      "body": "I don't see how this is learning or self correction. The surgeon is doing the correcting. What am I missing? "
+    }
+  ]
+}
