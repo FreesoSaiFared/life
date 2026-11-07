@@ -1,0 +1,55 @@
+{
+  "post_id": "1xpgggi",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~21h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "r/Singularity Daily Discussion Thread — November 06, 2026",
+    "author": "AutoModerator",
+    "score": 10,
+    "upvote_ratio": 0.9166666666666666,
+    "num_comments": 2,
+    "link_flair_text": "Discussion",
+    "created_utc": 1793980940,
+    "selftext": "Welcome to the daily r/singularity discussion thread!\n\nUse this thread for casual conversations, questions, speculation, AI developments, and anything related to the technological singularity that doesn't necessarily warrant its own post.\n\nPlease keep discussions civil and follow the subreddit rules.",
+    "permalink": "/r/singularity/comments/1xpgggi/rsingularity_daily_discussion_thread_november_06/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19s8rh64l9qo2",
+      "parent_id": "t3_1xpgggi",
+      "author": "Ok_Warthog6007",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1793996273,
+      "body": "it's been 45 days since opus 5.5, which was released 60 days after opus 5.0 and only 21 days after fable 5.1. it's an exceptionally long time for one model to be the best thing available. \n\nprobably we will get Gemini Carbon actually released next Tuesday, based on time between Argon's announcement and its release. and there are rumors of Astra 6.2 release imminent. and it's especially surprising that there has been no new Fable class model. so maybe things will look different in a week."
+    },
+    {
+      "depth": 0,
+      "id": "19s8vgpbkphdx",
+      "parent_id": "t3_1xpgggi",
+      "author": "DifferencePublic7057",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": 1794002364,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794001637,
+      "body": "Doing back of the envelope calculations for a 100T LLM when I win the lottery:\n\n* 10M GPUs at $50k\n\n* 8GW, a mix of solar and nuclear \n\n* 2Q tokens from the internet, scanned books/magazines, private data\n\nWhy? Late stage LLM. A lot of the data would be repetitive and irrelevant, of questionable quality, but gloriously awesome. And then...profit!"
+    }
+  ]
+}
