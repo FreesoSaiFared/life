@@ -1,0 +1,69 @@
+{
+  "post_id": "1xqdfmc",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~19h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Cainiao Opens Its Global Warehouse Network as a Real-World Training Ground for Embodied AI",
+    "author": "yogthos",
+    "score": 15,
+    "upvote_ratio": 0.9411764705882353,
+    "num_comments": 4,
+    "link_flair_text": "AI",
+    "created_utc": 1794076478,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xqdfmc/cainiao_opens_its_global_warehouse_network_as_a/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sahque3pjxd",
+      "parent_id": "t3_1xqdfmc",
+      "author": "TorturedPoet30",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794080038,
+      "body": "I believe China will be the world leader in robotics and applied AI (not necessarily building the single most capable frontier model!). Unless I am mistaken, they already install the majority of the world’s industrial robots and already deploy driverless vehicles at scale (recently read that Baidu reported over 3 million fully driverless rides in the 1st quarter of 2026 and that it’s also testing in London, Switzerland... wondering how Waymo compares)."
+    },
+    {
+      "depth": 1,
+      "id": "19sai414mqmud",
+      "parent_id": "t1_19sahque3pjxd",
+      "author": "yogthos",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794080530,
+      "body": "That's my expectation as well. Having a massive industrial base naturally creates a lot of niches for applied robotics."
+    },
+    {
+      "depth": 0,
+      "id": "19saphwocfsww",
+      "parent_id": "t3_1xqdfmc",
+      "author": "Distinct-Question-16",
+      "author_flair_text": "▪️AGI 2029",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794090465,
+      "body": "why the batteries just lasts 4 hours on these humanoids robots why not 5, 6 ?"
+    }
+  ]
+}

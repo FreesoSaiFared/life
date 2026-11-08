@@ -1,0 +1,26 @@
+{
+  "post_id": "1xqpr5j",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~9h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "100% Accurate Rocket League Simulator - CUDA accelerated",
+    "author": "thecosmicskye",
+    "score": 10,
+    "upvote_ratio": 0.8571428571428571,
+    "num_comments": 1,
+    "link_flair_text": "AI",
+    "created_utc": 1794112090,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xqpr5j/100_accurate_rocket_league_simulator_cuda/"
+  },
+  "comments": []
+}

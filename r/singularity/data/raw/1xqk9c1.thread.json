@@ -1,0 +1,125 @@
+{
+  "post_id": "1xqk9c1",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Anti Software Doomsday Cult (debunking Connor Leahy, ControlAI and Professor Dave Explains)",
+    "author": "Galactic_Neighbour",
+    "score": 0,
+    "upvote_ratio": 0.3684210526315789,
+    "num_comments": 8,
+    "link_flair_text": "Discussion",
+    "created_utc": 1794094870,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xqk9c1/anti_software_doomsday_cult_debunking_connor/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19saswfhozahu",
+      "parent_id": "t3_1xqk9c1",
+      "author": "Galactic_Neighbour",
+      "author_flair_text": null,
+      "score": 0,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794095044,
+      "body": "TLDR There are people who work for well funded non-profit organizations, who go on podcasts and lie about how LLMs work in order to convince people that AI is becoming conscious. One of such people is Connor Leahy and the orgranization he works for - ControlAI. On [their website](https://web.archive.org/web/20261105232659/https://controlai.org/) you can see that they warn about \"an extinction risk on par with nuclear war\". They propose new regulation to solve this. But the solution isn't transparency, they don't actually want that. [Their website says](https://web.archive.org/web/20260909173645/https://controlai.org/our-policies): \"Developing superintelligent AI at home offers a country no protection from this threat\". Instead, they want to give the government control over AI, let them monitor and restrict software projects and the distribution of AI chips. They also advocate for international agreements. [ControlAI also pays content creators](https://web.archive.org/web/20261105233930/https://controlai.org/blog/controlais-creator-outreach) to spread their doomsday stories and lies about LLMs. It's all for \"our safety\" and \"national security\", because LLMs allegedly can hack the government and everything (break out of every sandbox, etc.) and develop bioweapons. Oh and AI might also steal our jobs in a few years. I try to debunk all of that in this post. Especially focusing on [this interview](https://www.youtube.com/watch?v=XW4D6NguJmA).\n\nI think this propaganda might make it difficult for us to share and run unrestricted AI models in the future. So it's important to debunk it. It's also worrying that those people are able to fool even science communicators with their lies about language models."
+    },
+    {
+      "depth": 0,
+      "id": "19satdhrtjy00",
+      "parent_id": "t3_1xqk9c1",
+      "author": "hyperfiled",
+      "author_flair_text": null,
+      "score": 0,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794095681,
+      "body": "they're definitely profiting"
+    },
+    {
+      "depth": 0,
+      "id": "19sausfms66sl",
+      "parent_id": "t3_1xqk9c1",
+      "author": "Background-Wafer-548",
+      "author_flair_text": null,
+      "score": 0,
+      "edited": 1794098118,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794097585,
+      "body": "I don't think Dave has any business being in the title like that, given that he barely figures in the piece. He interviewed a guy and at times, apparently \"just sits there and listens to it\". Well, what else is he supposed to do when it comes to hypothetical scenarios he's not intimately familiar with? He's a science communicator with a BA in chemistry. When talking to any expert in any other field, a generalist will inevitably be out of their depth and may sooner or later find themselves in a conversation with someone who might be problematic in ways that do not immediately violate common sense and deductive reasoning. It's not like a search for Leahy yields an avalanche of red flags."
+    },
+    {
+      "depth": 1,
+      "id": "19savstpja7l0",
+      "parent_id": "t1_19sausfms66sl",
+      "author": "Galactic_Neighbour",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": 1794099368,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794098945,
+      "body": "It's not his first video on this topic. He should just learn the basics of how language models work and teach it to people, just like he does with other topics. I understand that he was lied to here, but a lot of people watch his videos. He gives credibility to those frauds. So it's his responsibility. Most of his viewers aren't gonna look any of this up. And I get that he doesn't know the technical details, but the stories Connor tells him about what our future will look like are just ridiculous. There were also other some moments when Dave probably should have been suspicious. Like when Connor says that we don't use LLMs anymore. Or Dave asked Connor if Recursive Self Improvement (AI improving itself) is a real thing and he said yes, but he couldn't explain anything about it.\n\n>It's not like a search for Leahy yields an avalanche of red flags.\n\nOne potential red flag is that ControlAI reaches out to content creators who don't know anything about this topic, provides them with \"sources\" for their claims and offers them money to make a scary video. That wasn't the case with Dave, but it is suspicious that they do that. Dave knows about it, because he mentions it in the video. But he doesn't see that as a red flag. Why reach out to people who don't know how AI works? Why not reach out to people who teach about machine learning and understand this subject? I've never heard of the Free Software Foundation or anyone like them doing anything like that.\n\nI think Dave needs to be in the title, because he is the only one that might actually listen to this criticism and change."
+    },
+    {
+      "depth": 0,
+      "id": "19sawi5vmomw1",
+      "parent_id": "t3_1xqk9c1",
+      "author": "Formal_Context_9774",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794099891,
+      "body": "Everything in this blog post is a point refuted a thousand times. He has no right to be taken seriously when he is this confidently wrong AND this aggressive to the people he's arguing against. Saying this as a pro-AI person"
+    },
+    {
+      "depth": 1,
+      "id": "19say94mz20v9",
+      "parent_id": "t1_19sawi5vmomw1",
+      "author": "Galactic_Neighbour",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794102244,
+      "body": "I can't tell who you're disagreeing with. If you think I said something incorrect, give a specific example."
+    },
+    {
+      "depth": 2,
+      "id": "19sazdn8n2hgl",
+      "parent_id": "t1_19say94mz20v9",
+      "author": "Formal_Context_9774",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794103758,
+      "body": "How does a stochastic parrot solve the ETH or the Quasi-Riemann hypothesis? "
+    }
+  ]
+}

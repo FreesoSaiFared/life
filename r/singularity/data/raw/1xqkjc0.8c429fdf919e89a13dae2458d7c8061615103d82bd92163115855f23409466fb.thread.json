@@ -1,0 +1,41 @@
+{
+  "post_id": "1xqkjc0",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~14h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "MineBench Sol and Sonnet similarity",
+    "author": "Separate_Tonight9533",
+    "score": 7,
+    "upvote_ratio": 0.8888888888888888,
+    "num_comments": 1,
+    "link_flair_text": "Discussion",
+    "created_utc": 1794095691,
+    "selftext": "There is something that made me curious. For some reason both Sonnet 5.5 abd Sol 6.1 try to add a shadow bahind the knight benchmark. While Astra and Opus don't.\n\nIt is really curious, what makes the \"lower tier\" models attempt to add a shadow. Maybe just a coincidence, but if not then somehow making the model cheaper also gives them something that makes them understand light direction and shadows? Ofc they both did a bad job but the idea exists inside the model.",
+    "permalink": "/r/singularity/comments/1xqkjc0/minebench_sol_and_sonnet_similarity/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sb1y8yflctc",
+      "parent_id": "t3_1xqkjc0",
+      "author": "SnakeFarmSuperviser",
+      "author_flair_text": "Retarded",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794107219,
+      "body": "https://i.redd.it/bc6st1mv1b0i1.jpeg"
+    }
+  ]
+}

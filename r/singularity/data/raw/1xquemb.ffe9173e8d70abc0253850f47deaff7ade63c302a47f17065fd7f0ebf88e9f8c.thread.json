@@ -1,0 +1,26 @@
+{
+  "post_id": "1xquemb",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~4h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "How far is material technology progressing?",
+    "author": "angel99999999",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1794129674,
+    "selftext": "I just watched two videos, one on a microdispensing system from M2-Automation and another on a welding robot from Speedbot. I was genuinely impressed by M2-Automation, it felt as though things were accelerating at an incredible pace, only to be met with profound disappointment by Speedbot. It brought to mind a post I wrote a year ago. AI has clearly made leaps and bounds beyond anything we could have imagined, but has our materials technology remained completely stagnant? Does it truly require ASI to trigger a major transformation in materials science, on par with the progress we’ve seen in AI?",
+    "permalink": "/r/singularity/comments/1xquemb/how_far_is_material_technology_progressing/"
+  },
+  "comments": []
+}
