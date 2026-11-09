@@ -1,0 +1,83 @@
+{
+  "post_id": "1xrmq81",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "\"yes, i can't wait for the AI bubble to pop\" ...... \"omg the ai bubble popped, we're being bankrupted\"",
+    "author": "Minimum_Hour519",
+    "score": 0,
+    "upvote_ratio": 0.14285714285714285,
+    "num_comments": 4,
+    "link_flair_text": "Shitposting",
+    "created_utc": 1794214292,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xrmq81/yes_i_cant_wait_for_the_ai_bubble_to_pop_omg_the/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sdh0rbbyhuq",
+      "parent_id": "t3_1xrmq81",
+      "author": "enilea",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794224346,
+      "body": "Who's saying both of these things at the same time? Lots of goomba fallacies lately. Either way a pop or \"correction\" was inevitable and necessary at some point, everyone saw it coming given that revenue growth was overhyped for too long and the hardware bottleneck won't be solved anytime soon. But the race for AGI will still continue either way, just with less insane expectations of revenue growth. There's no going back after everything we've seen these last couple months."
+    },
+    {
+      "depth": 1,
+      "id": "19sdhba8080ro",
+      "parent_id": "t1_19sdh0rbbyhuq",
+      "author": "Minimum_Hour519",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794224739,
+      "body": "its all back up today"
+    },
+    {
+      "depth": 2,
+      "id": "19sdhkrva0ixt",
+      "parent_id": "t1_19sdhba8080ro",
+      "author": "enilea",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794225094,
+      "body": "I thought the US stock market hasn't opened yet today"
+    },
+    {
+      "depth": 3,
+      "id": "19sdhmriex9sy",
+      "parent_id": "t1_19sdhkrva0ixt",
+      "author": "Minimum_Hour519",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794225168,
+      "body": "pre market"
+    }
+  ]
+}

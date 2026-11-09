@@ -1,0 +1,26 @@
+{
+  "post_id": "1xrbn3n",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Startup Mirendil trains a Kimi K3 level model with only one developer and only $10 million in compute.",
+    "author": "Ok_Warthog6007",
+    "score": 143,
+    "upvote_ratio": 0.9386503067484663,
+    "num_comments": 40,
+    "link_flair_text": "LLM News",
+    "created_utc": 1794178600,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xrbn3n/startup_mirendil_trains_a_kimi_k3_level_model/"
+  },
+  "comments": []
+}

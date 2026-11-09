@@ -1,0 +1,69 @@
+{
+  "post_id": "1xr2mzi",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~24h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Multi-Agent AI Safety Through Identity, Reputation, and Collective Incentives",
+    "author": "Competitive_Travel16",
+    "score": 13,
+    "upvote_ratio": 0.8421052631578947,
+    "num_comments": 4,
+    "link_flair_text": "AI",
+    "created_utc": 1794155926,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xr2mzi/multiagent_ai_safety_through_identity_reputation/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sc26nhy6xxg",
+      "parent_id": "t3_1xr2mzi",
+      "author": "Competitive_Travel16",
+      "author_flair_text": "AGI 2027 ▪️ ASI 2029",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794155960,
+      "body": "> Artificial intelligence now changes from single models to multi-agent groups. These groups can write software, move capital, and complete complex work at high speed. It is difficult to align each agent alone; when many agents interact, organizational safety becomes the primary problem. Society can try to slow this technology, but society must also build institutions to guide it toward stable outcomes.\n> \n> Human societies stay stable because humans use identity, laws, reputation, and shared incentives. AI networks can use these same mechanisms. Agents can receive persistent identities and version records to trace their actions. A network can give compute, tools, and funds to agents that obey constitutional rules; it can restrict or remove bad actors. In this manner, agents gain economic value when they cooperate safely with humans and with other agents.\n> \n> Constitutional rules must change slowly, even while agents operate at machine speed. This difference in speed prevents sudden instability and protects human control. Researchers can test these institutional rules in small experimental environments (such as the Commons project) before risks increase. These tests show how identity, reputation, and resource limits help agent organizations complete useful work without causing harm."
+    },
+    {
+      "depth": 0,
+      "id": "19sc3jbz75gsi",
+      "parent_id": "t3_1xr2mzi",
+      "author": "PLBjt",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794157779,
+      "body": "Identity seems like the hinge here: if an agent can fork or restart with a clean reputation, resource gating may just push it to make a new account. I'd test this in a small sandbox with cloneable agents and a scarce, harmless resource, then track both repeat abuse after resets and honest agents getting locked out after a bad run. A persistent ledger could make cooperation easier to enforce, but it also creates a valuable target and makes appeals important. Without a recovery path, reputation can reward a clean record more than genuinely safe behavior."
+    },
+    {
+      "depth": 0,
+      "id": "19sce5kr36a11",
+      "parent_id": "t3_1xr2mzi",
+      "author": "Jealous-Two-4436",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794172062,
+      "body": "Heck yes. Been saying this for months."
+    }
+  ]
+}

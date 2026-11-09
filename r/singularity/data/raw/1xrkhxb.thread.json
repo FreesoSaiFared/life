@@ -1,0 +1,55 @@
+{
+  "post_id": "1xrkhxb",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~10h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "‘Genesis Agent Skills’ release to support innovation across the Genesis Mission",
+    "author": "donutloop",
+    "score": 8,
+    "upvote_ratio": 0.8333333333333334,
+    "num_comments": 2,
+    "link_flair_text": "AI",
+    "created_utc": 1794205855,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xrkhxb/genesis_agent_skills_release_to_support/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sd51herqu77",
+      "parent_id": "t3_1xrkhxb",
+      "author": "Dry_Management_8203",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794208230,
+      "body": "Let the one-upsmanship commence!"
+    },
+    {
+      "depth": 0,
+      "id": "19sdjz33gpwtd",
+      "parent_id": "t3_1xrkhxb",
+      "author": "Psychological_Bell48",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794228319,
+      "body": "Interesting "
+    }
+  ]
+}

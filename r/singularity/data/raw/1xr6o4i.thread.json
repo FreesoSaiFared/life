@@ -1,0 +1,55 @@
+{
+  "post_id": "1xr6o4i",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~21h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Which \"is this LLM nerfed?\" testing/tracking website do you trust the most? There's loads of them",
+    "author": "PressPlayPlease7",
+    "score": 19,
+    "upvote_ratio": 0.8064516129032258,
+    "num_comments": 1,
+    "link_flair_text": "Discussion",
+    "created_utc": 1794165803,
+    "selftext": "It's all in the title really \n\nI specifically want to look at 5.6 Sol and Opus 5.5",
+    "permalink": "/r/singularity/comments/1xr6o4i/which_is_this_llm_nerfed_testingtracking_website/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sckhh8uw4zn",
+      "parent_id": "t3_1xr6o4i",
+      "author": "yurqua8",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794180578,
+      "body": "[https://github.com/ninjahawk/livenerf](https://github.com/ninjahawk/livenerf)"
+    },
+    {
+      "depth": 0,
+      "id": "19sdo03b22dl0",
+      "parent_id": "t3_1xr6o4i",
+      "author": "katoptronophile",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794233737,
+      "body": "None of them.\n\nIt's all nonsense."
+    }
+  ]
+}

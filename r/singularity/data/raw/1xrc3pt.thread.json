@@ -1,0 +1,26 @@
+{
+  "post_id": "1xrc3pt",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AI to find vulnerabilities in global legislation",
+    "author": "SnooPeripherals5313",
+    "score": 28,
+    "upvote_ratio": 0.9117647058823529,
+    "num_comments": 9,
+    "link_flair_text": "AI",
+    "created_utc": 1794179866,
+    "selftext": "\"Could we get sued by AI?\"\n\nAI for cybersecurity is taking the world by storm, leading to the need to harden systems all over software.\n\nBut we have access to the same engines for law. Our global law repo keeps a versioned history of law/caselaw across the world. So, we pointed AI at it, and found all sorts of loopholes and logical errors.\n\nPah, you say. Most of this is unenforcable in reality. And you might be right. Nonetheless, we all know that legal loopholes are a part of reality. And it would be nice to rewrite errors, even when the errors are unenforcable.\n\nAs part of our monitoring system, where we're constantly checking official legislation for upcoming laws, we now also check for vulnerabilities and mistakes. \n\nIn an ideal world, the jurisdiction in question could open a pull request and sort this out.",
+    "permalink": "/r/singularity/comments/1xrc3pt/ai_to_find_vulnerabilities_in_global_legislation/"
+  },
+  "comments": []
+}

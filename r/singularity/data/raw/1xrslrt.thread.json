@@ -1,0 +1,26 @@
+{
+  "post_id": "1xrslrt",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Google introduced two new TPU systems: 8tx for secure and confidential AI workloads and 8i Max for massive context windows",
+    "author": "TorturedPoet30",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Compute",
+    "created_utc": 1794233375,
+    "selftext": "Google expanded their TPU portfolio with TPU 8tx and TPU 8i Max, marking four new TPU systems in a single year! \n\nFrom blog post: \"From using Google DeepMind’s [AlphaChip](https://deepmind.google/blog/how-alphachip-transformed-computer-chip-design/) reinforcement learning system to using Gemini to deliver chip layouts in hours rather than weeks, we’re using TPU-powered AI services to rapidly accelerate next-generation TPU hardware development.\" Pushing further into NVIDIA chip market?",
+    "permalink": "/r/singularity/comments/1xrslrt/google_introduced_two_new_tpu_systems_8tx_for/"
+  },
+  "comments": []
+}

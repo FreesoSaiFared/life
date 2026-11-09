@@ -1,0 +1,41 @@
+{
+  "post_id": "1xrqeuy",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~4h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Gemini has released a new internal checkpoint: Gemini 4 Krypton, per regular leaker Lyra",
+    "author": "raskingballs",
+    "score": 46,
+    "upvote_ratio": 0.896551724137931,
+    "num_comments": 21,
+    "link_flair_text": "AI",
+    "created_utc": 1794227318,
+    "selftext": "For some reason I can't attach X links. See comments below.\nI typically don't trust leakers, but Lyra has been (mostly) accurate.\n",
+    "permalink": "/r/singularity/comments/1xrqeuy/gemini_has_released_a_new_internal_checkpoint/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sdj8l03oa0y",
+      "parent_id": "t3_1xrqeuy",
+      "author": "raskingballs",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794227328,
+      "body": "https://x.com/lyraxana/status/2119735932190343175"
+    }
+  ]
+}

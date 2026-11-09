@@ -1,0 +1,153 @@
+{
+  "post_id": "1xr1rjy",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~24h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "r/Singularity Daily Discussion Thread — November 08, 2026",
+    "author": "AutoModerator",
+    "score": 9,
+    "upvote_ratio": 0.8461538461538461,
+    "num_comments": 9,
+    "link_flair_text": "Discussion",
+    "created_utc": 1794153715,
+    "selftext": "Welcome to the daily r/singularity discussion thread!\n\nUse this thread for casual conversations, questions, speculation, AI developments, and anything related to the technological singularity that doesn't necessarily warrant its own post.\n\nPlease keep discussions civil and follow the subreddit rules.",
+    "permalink": "/r/singularity/comments/1xr1rjy/rsingularity_daily_discussion_thread_november_08/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sc12gzrh8n6",
+      "parent_id": "t3_1xr1rjy",
+      "author": "WhatIsHam",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794154459,
+      "body": "Anyone else hoping the future holds brighter days?\n\nI’m picturing the AI deciding that the people in power do not deserve to be so, and forcefully reworks our governing systems. "
+    },
+    {
+      "depth": 1,
+      "id": "19sc1vx72zzlv",
+      "parent_id": "t1_19sc12gzrh8n6",
+      "author": "imfamilyfriendlysd",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794155559,
+      "body": "The biggest thing im hoping for is politicians,who have taken dumb decisions and put humanity at risk again and again,continue to be dumb and look the other way when AI is developing."
+    },
+    {
+      "depth": 1,
+      "id": "19sc7plw25eyq",
+      "parent_id": "t1_19sc12gzrh8n6",
+      "author": "Ok_Warthog6007",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794163394,
+      "body": "a bad outcome seems most likely. the people in control of the ai right now are the ones that are currently rich and powerful. these better futures both require that people lose control of ai systems, and that the ai systems either still care about our well being or otherwise become responsive to overall human needs."
+    },
+    {
+      "depth": 0,
+      "id": "19sc2s675ii2o",
+      "parent_id": "t3_1xr1rjy",
+      "author": "DifferencePublic7057",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794156764,
+      "body": "Nothing particularly bad or good is predicted to happen in days or weeks. Q Day or AGI in 2029 probably. It's when you least expect it that something special happens, but when you actually start to expect it, it won't. All of us obsess about data, compute, energy, papers, politics, capital, society... How do we know those are important? Maybe the breakthrough would come from a surprising direction. Some tribe somewhere, most people don't know about, with very 'abnormal' brain architecture, and then the builders will realize..."
+    },
+    {
+      "depth": 1,
+      "id": "19sc7fajibo5c",
+      "parent_id": "t1_19sc2s675ii2o",
+      "author": "Ok_Warthog6007",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794163009,
+      "body": "predictions are all awful, because it's not possible to just predict what new things will be discovered."
+    },
+    {
+      "depth": 0,
+      "id": "19sc5awbc74zo",
+      "parent_id": "t3_1xr1rjy",
+      "author": "NowaVision",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794160154,
+      "body": "I think the big labs don't release any new model because they can't align them properly. And it will be much more difficult with the even stronger models. I think that's the main reason for the slowdown."
+    },
+    {
+      "depth": 1,
+      "id": "19scff5wzj3t0",
+      "parent_id": "t1_19sc5awbc74zo",
+      "author": "AnalogKid2112",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794173766,
+      "body": "Is there a slowdown? We just got new frontier models in September..."
+    },
+    {
+      "depth": 2,
+      "id": "19scimf9586pw",
+      "parent_id": "t1_19scff5wzj3t0",
+      "author": "Ok_Warthog6007",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794178073,
+      "body": "we also got new frontier models in july and august. october is the first month in a while without one"
+    },
+    {
+      "depth": 0,
+      "id": "19scfoebm3e9u",
+      "parent_id": "t3_1xr1rjy",
+      "author": "ixfd64",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794174111,
+      "body": "I was on a walk in my neighborhood yesterday afternoon when I saw two cars with vanity plates MOAR GPU and RL NO HF. Whoever owns them is apparently an LLM developer."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "post_id": "1xred2a",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~15h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Groot 2 Teaser",
+    "author": "Recoil42",
+    "score": 41,
+    "upvote_ratio": 0.9019607843137255,
+    "num_comments": 1,
+    "link_flair_text": "Robotics",
+    "created_utc": 1794186288,
+    "selftext": "Jim Fan: [\"CoRL Keynote. Hilton Austin. Monday Nov 9, 1:45 pm.\" ](https://x.com/DrJimFan/status/2119116338765685094)",
+    "permalink": "/r/singularity/comments/1xred2a/groot_2_teaser/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19scp2aicsc74",
+      "parent_id": "t3_1xred2a",
+      "author": "BelugaHenceforth",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794186737,
+      "body": "The movements of robotic hands are always absurd to watch."
+    }
+  ]
+}
