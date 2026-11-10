@@ -1,0 +1,83 @@
+{
+  "post_id": "1xs44n7",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AI Model Capabilities - Jan 2026 vs Nov 2026",
+    "author": "BoiledEggs",
+    "score": 18,
+    "upvote_ratio": 0.7647058823529411,
+    "num_comments": 4,
+    "link_flair_text": "Discussion",
+    "created_utc": 1794259225,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xs44n7/ai_model_capabilities_jan_2026_vs_nov_2026/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19se792udd4ch",
+      "parent_id": "t3_1xs44n7",
+      "author": "injectitpussy",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794259632,
+      "body": "Claude, summarise this picture in 10 words for me."
+    },
+    {
+      "depth": 1,
+      "id": "19se7c3usl7b5",
+      "parent_id": "t1_19se792udd4ch",
+      "author": "injectitpussy",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794259745,
+      "body": "Fable 5.2 said:\n\n\"AI capability grew through 2026; Fable 5.2 posts big gains.\"\n\nHoly shit. Anyways, scrolling to the next post."
+    },
+    {
+      "depth": 2,
+      "id": "19sejq4fm8b45",
+      "parent_id": "t1_19se7c3usl7b5",
+      "author": "Rd545454",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794276411,
+      "body": "We have truly arrived"
+    },
+    {
+      "depth": 0,
+      "id": "19se7bfynjww2",
+      "parent_id": "t3_1xs44n7",
+      "author": "Background-Wafer-548",
+      "author_flair_text": null,
+      "score": 6,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794259720,
+      "body": "Bottom graph: Sep 1 → Nov 9"
+    }
+  ]
+}

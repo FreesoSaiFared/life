@@ -1,0 +1,97 @@
+{
+  "post_id": "1xsde10",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~11h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "The Chinese threat",
+    "author": "PhilosophyforOne",
+    "score": 241,
+    "upvote_ratio": 0.916955017301038,
+    "num_comments": 5,
+    "link_flair_text": "Meme",
+    "created_utc": 1794284179,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xsde10/the_chinese_threat/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19set2hmfwpcw",
+      "parent_id": "t3_1xsde10",
+      "author": "Andreas1120",
+      "author_flair_text": null,
+      "score": 6,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794288980,
+      "body": "I feel like the average redditor is a  bigger threat"
+    },
+    {
+      "depth": 0,
+      "id": "19sevobr864bp",
+      "parent_id": "t3_1xsde10",
+      "author": "mWo12",
+      "author_flair_text": null,
+      "score": 10,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794292487,
+      "body": "If this is going to get ram, gpu and ssd prices down, Alice should be made saint."
+    },
+    {
+      "depth": 0,
+      "id": "19sez5xvaus0z",
+      "parent_id": "t3_1xsde10",
+      "author": "Knever",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794297181,
+      "body": "How hard is it to properly format a meme?"
+    },
+    {
+      "depth": 1,
+      "id": "19sf3ly5f4py8",
+      "parent_id": "t1_19sez5xvaus0z",
+      "author": "NoFaithlessness951",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794303160,
+      "body": "Whats wrong?"
+    },
+    {
+      "depth": 0,
+      "id": "19sezv8sq2kps",
+      "parent_id": "t3_1xsde10",
+      "author": "Rudolfo_Vidasinha",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794298126,
+      "body": "A builder of the AI era struck down by his humanity. Ironic."
+    }
+  ]
+}

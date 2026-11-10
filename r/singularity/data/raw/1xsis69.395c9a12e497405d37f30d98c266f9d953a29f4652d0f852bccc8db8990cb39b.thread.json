@@ -1,0 +1,41 @@
+{
+  "post_id": "1xsis69",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Costs to create an article with Claude Fable 5.2",
+    "author": "CmdWaterford",
+    "score": 2,
+    "upvote_ratio": 0.6,
+    "num_comments": 1,
+    "link_flair_text": "AI",
+    "created_utc": 1794303798,
+    "selftext": "https://i.redd.it/qza7kud0ar0i1.png\n\n[https://aiarticlepricer.com/](https://aiarticlepricer.com/) lists the costs for creating an article/text with Claude Fable 5.2 and it is surprisingly actually far cheaper than GPT-5.5 or GPT Astra ....",
+    "permalink": "/r/singularity/comments/1xsis69/costs_to_create_an_article_with_claude_fable_52/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sf6oja87lds",
+      "parent_id": "t3_1xsis69",
+      "author": "More-Economics-9779",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794307292,
+      "body": ">Claude Fable 5.2 and it is surprisingly actually far cheaper than GPT-5.5\n\nBut the chart shows it's **more** expensive that GPT-5.5 (which isn't surprising, just pointing out the caption is false)"
+    }
+  ]
+}

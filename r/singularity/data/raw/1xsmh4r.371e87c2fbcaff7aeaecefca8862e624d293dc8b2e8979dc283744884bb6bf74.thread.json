@@ -1,0 +1,26 @@
+{
+  "post_id": "1xsmh4r",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "GDM introduces AlphaProof Code, an AI framework that formally verified Signal’s core cryptographic code in just four weeks, a task that historically takes years",
+    "author": "TorturedPoet30",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1794316133,
+    "selftext": "Google DeepMind has introduced AlphaProof Code today. It is a system of AI agents that writes mathematical proofs about software. In its first project, the agents proved key security properties of the code behind the Signal protocol.\n\nBased on this blog post, agents powered by Gemini Carbon 'generated more than 6 million lines of machine-checked Lean proofs for Signal’s core cryptographic code, while flagging only around 1% for closer human review'. They called it 'the future of security' in this blog post.\n\nThe entire process took four weeks, a task that can traditionally take expert teams years. ",
+    "permalink": "/r/singularity/comments/1xsmh4r/gdm_introduces_alphaproof_code_an_ai_framework/"
+  },
+  "comments": []
+}

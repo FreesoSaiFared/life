@@ -1,0 +1,125 @@
+{
+  "post_id": "1xs4te7",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Fable 5.2 has practically saturated SimpleQA",
+    "author": "Successful-Earth678",
+    "score": 133,
+    "upvote_ratio": 0.9784172661870504,
+    "num_comments": 8,
+    "link_flair_text": "AI",
+    "created_utc": 1794260842,
+    "selftext": "Source: [SimpleQA Verified | Epoch AI](https://epoch.ai/benchmarks/simple-qa-verified?view=graph&tab=leaderboard)",
+    "permalink": "/r/singularity/comments/1xs4te7/fable_52_has_practically_saturated_simpleqa/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19se8dl8r6dgg",
+      "parent_id": "t3_1xs4te7",
+      "author": "pianodude7",
+      "author_flair_text": null,
+      "score": 12,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794261146,
+      "body": "The subtle off-white coloring. Oh my God, it's even a high score.\n\n![gif](giphy|Jq1T4jCKm9039q2lEV)"
+    },
+    {
+      "depth": 0,
+      "id": "19se8nraw8rdx",
+      "parent_id": "t3_1xs4te7",
+      "author": "Timkinut",
+      "author_flair_text": null,
+      "score": 21,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794261526,
+      "body": "time for ComplexQA"
+    },
+    {
+      "depth": 0,
+      "id": "19se90hkg4l9d",
+      "parent_id": "t3_1xs4te7",
+      "author": "FateOfMuffins",
+      "author_flair_text": null,
+      "score": -3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794262001,
+      "body": "Thing is, SimpleQA was originally made to measure hallucination. idk if hillclimbing on this is a good thing."
+    },
+    {
+      "depth": 1,
+      "id": "19se9v8g23fs5",
+      "parent_id": "t1_19se90hkg4l9d",
+      "author": "Ok-Lengthiness-3988",
+      "author_flair_text": null,
+      "score": 19,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794263150,
+      "body": "It's a measure of accuracy. Higher accuracy correlates with fewer hallucinations."
+    },
+    {
+      "depth": 2,
+      "id": "19sea2rfeaois",
+      "parent_id": "t1_19se9v8g23fs5",
+      "author": "FateOfMuffins",
+      "author_flair_text": null,
+      "score": 7,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794263432,
+      "body": "> Each answer in SimpleQA is graded as either correct, incorrect, or not attempted. A model with ideal behavior would get as many questions correct as possible while not attempting the questions for which it is not confident it knows the correct answer. SimpleQA is a simple, targeted evaluation for whether models \"know what they know,\" and our hope is that this benchmark will remain relevant for the next few generations of frontier models.\n\nIt is no longer useful if the \"I don't know\" category no longer exists."
+    },
+    {
+      "depth": 3,
+      "id": "19seabomnr8v6",
+      "parent_id": "t1_19sea2rfeaois",
+      "author": "Ok-Lengthiness-3988",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": 1794264639,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794263765,
+      "body": "~~The category still exists. It's getting a very high score because it is indeed declining to answer questions it doesn't know the answer to.~~\n\nActually, you may be right. I had confused accuracy with facticity. If its high score on accuracy comes from high-risk guessing in a domain it's very knowledgeable about (such as the questions on this particular benchmark), it may still confidently produce fabrications in everyday use."
+    },
+    {
+      "depth": 0,
+      "id": "19sebmic26ie8",
+      "parent_id": "t3_1xs4te7",
+      "author": "the_crooked_badger",
+      "author_flair_text": null,
+      "score": 7,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794265515,
+      "body": "94.0 vs 76.0 for Gemini 4 Argon is a huge gap, and the next five are all bunched between 72 and 76. from what i remember epoch also started adding an instruction telling models not to say i don't know, so i wonder how much of that jump is just guessing more"
+    }
+  ]
+}

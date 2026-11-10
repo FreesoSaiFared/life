@@ -1,0 +1,69 @@
+{
+  "post_id": "1xsldmp",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~3h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+    "author": "SnoozeDoggyDog",
+    "score": 15,
+    "upvote_ratio": 0.9411764705882353,
+    "num_comments": 3,
+    "link_flair_text": "Compute",
+    "created_utc": 1794312896,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xsldmp/nvidia_and_jensen_huang_sued_in_us_over_affair/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sfb2b6lmn7l",
+      "parent_id": "t3_1xsldmp",
+      "author": "VisionWithin",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794313187,
+      "body": "This might be the first time in history to see a court case with completely autonomous AI lawyers."
+    },
+    {
+      "depth": 0,
+      "id": "19sff2059mgw5",
+      "parent_id": "t3_1xsldmp",
+      "author": "RDTIZFUN",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794318557,
+      "body": "With the US political system supporting him, from top-down, Jensen will be alright.\n\n“I did speak to him today just to see if he’s feeling all right, how you’re doing,” - POTUS"
+    },
+    {
+      "depth": 0,
+      "id": "19sff8dcup9tv",
+      "parent_id": "t3_1xsldmp",
+      "author": "Course_Latter",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794318795,
+      "body": "https://i.redd.it/dlk7d260js0i1.png"
+    }
+  ]
+}
