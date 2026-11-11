@@ -1,0 +1,83 @@
+{
+  "post_id": "1xsyof2",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AI 2027 futures project made a takeoff chart that roughly matches the original AI 2027 paper",
+    "author": "Snoo-75663",
+    "score": 28,
+    "upvote_ratio": 0.8888888888888888,
+    "num_comments": 4,
+    "link_flair_text": "AI",
+    "created_utc": 1794344737,
+    "selftext": "Here is the visualization of the AI 2027 paper made in April 2025\n\n",
+    "permalink": "/r/singularity/comments/1xsyof2/ai_2027_futures_project_made_a_takeoff_chart_that/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sfyutn9dles",
+      "parent_id": "t3_1xsyof2",
+      "author": "Snoo-75663",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794345193,
+      "body": "Here is the chart:  \n[https://www.aifuturesmodel.com/p?v=2&base=daniel-08-16-26&ed=q3.5&arts=3.8370724549227884&suard=3.5281979680856033&eudt=2.63548208408095](https://www.aifuturesmodel.com/p?v=2&base=daniel-08-16-26&ed=q3.5&arts=3.8370724549227884&suard=3.5281979680856033&eudt=2.63548208408095)\n\nHere is the chart that shows their current prediction:  \n[https://www.aifuturesmodel.com/p?v=2&base=eli-08-16-26&ed=q3.5&rcl=-0.5&suard=7.052322627593112&eudt=3.0130366136756046&ila=60&icaec=1.5](https://www.aifuturesmodel.com/p?v=2&base=eli-08-16-26&ed=q3.5&rcl=-0.5&suard=7.052322627593112&eudt=3.0130366136756046&ila=60&icaec=1.5)\n\nIts still in some preview version so it could change"
+    },
+    {
+      "depth": 0,
+      "id": "19sfzuerddear",
+      "parent_id": "t3_1xsyof2",
+      "author": "Correct_Front3725",
+      "author_flair_text": null,
+      "score": 7,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794346522,
+      "body": "But The new timeline is even more optimistic.Original predicction vs current one of the same authors\n\n•Automated Coder\n\nDec 26, 2026 (old) Nov 27, 2026 (new)\n\n•SuperHuman Ai Researcher\n\nJun 8, 2027 (old) Apr 12, 2027 (new)\n\n•Superintelligence\n\nOct 14, 2027 (old) Jul 1, 2027 (new)"
+    },
+    {
+      "depth": 0,
+      "id": "19sg5euhqrrmq",
+      "parent_id": "t3_1xsyof2",
+      "author": "AlarmingGear7812",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794354012,
+      "body": "Accelerate "
+    },
+    {
+      "depth": 1,
+      "id": "19sgadc6ramci",
+      "parent_id": "t1_19sg5euhqrrmq",
+      "author": "Alarmed_Ad1946",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794360682,
+      "body": "This guy did not read 2027"
+    }
+  ]
+}

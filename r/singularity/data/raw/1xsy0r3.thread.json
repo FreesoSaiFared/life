@@ -1,0 +1,83 @@
+{
+  "post_id": "1xsy0r3",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "5-month-old startup beats IsoDDE and AlphaFold 3 on FoldBench antibody–antigen and protein–ligand structure prediction",
+    "author": "Recent_Fox4339",
+    "score": 54,
+    "upvote_ratio": 0.9655172413793104,
+    "num_comments": 4,
+    "link_flair_text": "Biotech/Longevity",
+    "created_utc": 1794343187,
+    "selftext": "Geodesic Intelligence (founded June 2026) has released NovaAtom-Lite, \"an all-atom structure prediction model for proteins, nucleic acids and the ligands they bind.\" \n\n  \nNovaAtom-Lite outperforms both IsoDDE and AlphaFold 3 on FoldBench antibody–antigen structure prediction (DockQ ≥ 0.23):  \n  \nNovaAtom-Lite: 79.07% (n=172)  \n  \nIsoDDE: 75.58%  \n  \nAlphaFold 3: 47.90% (n=167)\n\nOfficial announcement and numbers: [https://www.geodesiclab.com/news/introducing-novaatom-lite](https://www.geodesiclab.com/news/introducing-novaatom-lite)",
+    "permalink": "/r/singularity/comments/1xsy0r3/5monthold_startup_beats_isodde_and_alphafold_3_on/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sfxqxm0c9yd",
+      "parent_id": "t3_1xsy0r3",
+      "author": "TorturedPoet30",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794343702,
+      "body": "Looks promising. 🚀 And just about time Isomorphic is rumored to be raising $5B at a $50B valuation lol Really looking forward to some actual drug discovery updates from Iso/GDM, the biggest headlines this year have mostly been the funding rounds."
+    },
+    {
+      "depth": 0,
+      "id": "19sfxtyodhile",
+      "parent_id": "t3_1xsy0r3",
+      "author": "Consistent-Paint7860",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794343815,
+      "body": "\"beats\""
+    },
+    {
+      "depth": 0,
+      "id": "19sgek2qwokf9",
+      "parent_id": "t3_1xsy0r3",
+      "author": "Random_182f2565",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794366314,
+      "body": "Great 😃👍"
+    },
+    {
+      "depth": 0,
+      "id": "19sgvbq04dco4",
+      "parent_id": "t3_1xsy0r3",
+      "author": "unkownuser436",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794388871,
+      "body": "damn what are those fancy bechmarks that says DNA everywhere "
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "post_id": "1xt5tdj",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~12h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Anthropic's top-cited AI scientists are cited twice as much as OpenAI's",
+    "author": "NegotiationOk7535",
+    "score": 37,
+    "upvote_ratio": 0.8627450980392157,
+    "num_comments": 9,
+    "link_flair_text": "Discussion",
+    "created_utc": 1794363450,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xt5tdj/anthropics_topcited_ai_scientists_are_cited_twice/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sgcgrlev3kw",
+      "parent_id": "t3_1xt5tdj",
+      "author": "NegotiationOk7535",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794363500,
+      "body": "Data: the 2026 Stanford–Elsevier top 2% list (Ioannidis et al., Mendeley Data, CC BY-NC 3.0). Each dot is a listed author working in the US whose main subfield is [AI & Image Processing](https://topcitedscientists.com/subfield/artificial-intelligence-image-processing/). A company counts every name the dataset gives it (Google includes Google DeepMind, Meta includes Meta AI, FAIR and Reality Labs). \"Typical\" is the median.\n\nAnthropic has only 9 such authors, but it still leads without its most-cited two. And the citations are to all of each person's papers, so this says more about who the companies hired than about their own research.\n\nInteractive version: [https://topcitedscientists.com/](https://topcitedscientists.com/)"
+    },
+    {
+      "depth": 0,
+      "id": "19sgd4ldav4dd",
+      "parent_id": "t3_1xt5tdj",
+      "author": "Dillyconda",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794364391,
+      "body": "Anthropic publishes about 25% more than OpenAI these days. \n\nWhat it publishes is also more accessible to more people. Anthropic has a lot more publications that are useful outside of frontier AI research."
+    },
+    {
+      "depth": 1,
+      "id": "19sgdbf6ympr5",
+      "parent_id": "t1_19sgd4ldav4dd",
+      "author": "NegotiationOk7535",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794364646,
+      "body": "The typical listed author at Anthropic has 40 papers and 4,830 citations in 2025 (https://topcitedscientists.com/institution/anthropic/). These citations are impressive."
+    },
+    {
+      "depth": 2,
+      "id": "19sgdpjm0df4x",
+      "parent_id": "t1_19sgdbf6ympr5",
+      "author": "Dillyconda",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794365174,
+      "body": "I didn't say anthropic's citations are unimpressive. I said they're written for a broader audience to cite them and that there are more papers to cite."
+    },
+    {
+      "depth": 3,
+      "id": "19sgdug3pck4l",
+      "parent_id": "t1_19sgdpjm0df4x",
+      "author": "NegotiationOk7535",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794365357,
+      "body": "Agree."
+    },
+    {
+      "depth": 0,
+      "id": "19sgdf2wwdgpu",
+      "parent_id": "t3_1xt5tdj",
+      "author": "Dull_Republic_7712",
+      "author_flair_text": null,
+      "score": 6,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794364783,
+      "body": "Why is it so? Is it because openai don't make more research public?"
+    },
+    {
+      "depth": 1,
+      "id": "19sgdjg9zua5g",
+      "parent_id": "t1_19sgdf2wwdgpu",
+      "author": "NegotiationOk7535",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794364946,
+      "body": "Haven’t thought about it, but could be a reason."
+    },
+    {
+      "depth": 0,
+      "id": "19sgdwwa02cx1",
+      "parent_id": "t3_1xt5tdj",
+      "author": "NoFaithlessness951",
+      "author_flair_text": null,
+      "score": 17,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794365448,
+      "body": "To me it looks more like Google and meta actually publish research and anthropic and Openai largely don't and in the rare cases they do they get higher citations on those outliers."
+    },
+    {
+      "depth": 0,
+      "id": "19sgo9fzsw4bm",
+      "parent_id": "t3_1xt5tdj",
+      "author": "Ormusn2o",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794379369,
+      "body": "From what I understand, Anthropic is locking down the models more so they are doing more internal scientific research. This results with more Anthropic authored research. On the other hand, OpenAI is releasing the models to independent researchers and is giving out tokens so the papers are not credited directly to OpenAI employees. This is consistent with how Anthropic is locking down the models and not allowing to use it for AI research (and they apparently nerfed Fable 5.2 for AI research), meanwhile OpenAI is well, more open."
+    }
+  ]
+}

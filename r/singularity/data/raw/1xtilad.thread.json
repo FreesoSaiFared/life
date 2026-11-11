@@ -1,0 +1,26 @@
+{
+  "post_id": "1xtilad",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~0h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "What does the new ai 2027 update mean?",
+    "author": "ShardsOfSalt",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "the Singularity is Nearer",
+    "created_utc": 1794405938,
+    "selftext": "I'm not a smart person, I can't follow [what's being said](https://www.reddit.com/r/singularity/comments/1xsyof2/ai_2027_futures_project_made_a_takeoff_chart_that/).  My take away is that super intelligence is supposed to be here before 2028.  What's that mean?  Fully human robots able to do anything and more than humans can?  Or is it some narrow definition of super intelligence where it solves n=np but can't clean my house?",
+    "permalink": "/r/singularity/comments/1xtilad/what_does_the_new_ai_2027_update_mean/"
+  },
+  "comments": []
+}

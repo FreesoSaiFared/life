@@ -1,0 +1,97 @@
+{
+  "post_id": "1xt0b2k",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~16h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "The Most Important AI Capability Index",
+    "author": "Jealous-Two-4436",
+    "score": 65,
+    "upvote_ratio": 0.8421052631578947,
+    "num_comments": 5,
+    "link_flair_text": "Shitposting",
+    "created_utc": 1794348664,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xt0b2k/the_most_important_ai_capability_index/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sg3ipe5382p",
+      "parent_id": "t3_1xt0b2k",
+      "author": "suamai",
+      "author_flair_text": null,
+      "score": 6,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794351466,
+      "body": "Feels more accurate than most benchmarks, TBH"
+    },
+    {
+      "depth": 0,
+      "id": "19sg3qj31v89u",
+      "parent_id": "t3_1xt0b2k",
+      "author": "Haxsysgit",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794351758,
+      "body": "How muse and grok entered the list of frontiers is still baffling lol. DeepSeek flash is faster and better btw"
+    },
+    {
+      "depth": 1,
+      "id": "19sg3ya7pe8ps",
+      "parent_id": "t1_19sg3qj31v89u",
+      "author": "Illustrious_Grade608",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794352048,
+      "body": "What if it's worse at bullshitting you"
+    },
+    {
+      "depth": 0,
+      "id": "19sgbprn27s84",
+      "parent_id": "t3_1xt0b2k",
+      "author": "Far-Lingonberry-7046",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794362492,
+      "body": "Let's start by not mentioning a product that doesn't even exist (Carbon)\n\nDeepMind is getting free advertisement out of this."
+    },
+    {
+      "depth": 1,
+      "id": "19sgfima667c1",
+      "parent_id": "t1_19sgbprn27s84",
+      "author": "gtderEvan",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794367605,
+      "body": "Carbon is available today. "
+    }
+  ]
+}
