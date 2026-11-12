@@ -1,0 +1,26 @@
+{
+  "post_id": "1xuak77",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~4h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "DeepMind’s AlphaGenome 2 identifies 30% of causal DNA variants in an immune-cell benchmark, up from 16%",
+    "author": "Spirited-Sir-3034",
+    "score": 34,
+    "upvote_ratio": 0.925,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1794483490,
+    "selftext": "Google DeepMind has introduced AlphaGenome 2, a DNA model designed to predict how genetic variants affect specific cell types and cellular states rather than relying on broad tissue-level averages.\n\nThe model was trained on more than 107 million human and mouse cell profiles. In the TenK10K immune-cell benchmark, it identified 30% of causal variants, compared with 16% for its predecessor and other specialized tools. It also predicted whether variants increased or decreased gene expression in 43% of cases, up from 23%.\n\nAlphaGenome 2 could help researchers prioritize disease-linked variants for laboratory investigation, but its predictions still require experimental validation. It remains a research tool and has not been approved for clinical diagnosis. Where could cell-specific genetic predictions make the biggest difference: rare-disease research, drug discovery or personalized medicine?",
+    "permalink": "/r/singularity/comments/1xuak77/deepminds_alphagenome_2_identifies_30_of_causal/"
+  },
+  "comments": []
+}

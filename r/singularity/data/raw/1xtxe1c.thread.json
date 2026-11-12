@@ -1,0 +1,26 @@
+{
+  "post_id": "1xtxe1c",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~16h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Moving atoms with AI",
+    "author": "Herodont5915",
+    "score": 8,
+    "upvote_ratio": 0.9,
+    "num_comments": 0,
+    "link_flair_text": "Robotics",
+    "created_utc": 1794440472,
+    "selftext": "We all know AI reached a new threshold over the last few months and it’s able to help build and design in new ways we’ve never seen before.\n\nNow we can design custom PCB’s, draft CAD files for robotic chasses, and generally work through entire designs from wiring to firing.  \nI’m curious, is anyone here using AI to build physical projects?\n\nAnyone going from electrons to atoms?\n\nI’d love to hear about what you’re building, especially if it’s in the robotics space and if you’ve been using AI as part of your process.",
+    "permalink": "/r/singularity/comments/1xtxe1c/moving_atoms_with_ai/"
+  },
+  "comments": []
+}

@@ -1,0 +1,26 @@
+{
+  "post_id": "1xuczsf",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Data center build out is bogus",
+    "author": "anondasein",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Compute",
+    "created_utc": 1794490752,
+    "selftext": "We don't need more compute when the models are able to one shot solve complex problems without reasoning. If you train a model that is fully aligned with reality, it doesn't have to think that much, it just knows. How much brain power are you using on 2+2=4? The compute required to train a model is a different beast than just using the trained model. ",
+    "permalink": "/r/singularity/comments/1xuczsf/data_center_build_out_is_bogus/"
+  },
+  "comments": []
+}

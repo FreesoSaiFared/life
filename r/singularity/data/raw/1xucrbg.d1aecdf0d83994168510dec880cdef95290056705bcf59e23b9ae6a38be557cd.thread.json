@@ -1,0 +1,26 @@
+{
+  "post_id": "1xucrbg",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Global Medical Relational Intelligence + Recursive Physician Examination",
+    "author": "Connect_Fact_5490",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1794490106,
+    "selftext": "The idea behind this paper is pretty simple. Medicine has become extremely specialized, and while that specialization has created an incredible amount of knowledge, it has also created gaps between specialties. The patient is still one interconnected biological system, but the information we use to understand that patient is often separated into completely different medical worlds.\n\nI created this system due to my own experience with the medical field when dealing with the sudden, unexplained onset of seizures when I was 38. For nearly 10 years doctors were unable to explain or diagnose my condition as anything other than \"epilepsy\". After becoming my own health advocate, I was able to discern a pattern across multiple specialized medical fields using test results, along with my own experience of how, why, and when my seizures occurred. I used this information to create a proposed diagnosis, which I presented to my neurologist. Through collaboration with other physicians, based on my personal findings, a treatment plan was tested and successfully stopped my seizures. \n\nThe overspecialization of the medical field as it currently exists prevented this diagnosis from being discovered.\n\nWhat I’m proposing is a global medical intelligence system combined with recursive physician examination. The system would be able to examine medical histories across huge populations and look for relationships that may otherwise be missed—similar patient histories, timing between events, treatment responses, contradictions, unusual combinations of findings, and connections that cross different medical specialties.\n\nThe goal isn’t to dump everyone’s medical records into one giant database or let AI diagnose people on its own. The data can remain under the control of the hospitals, institutions, and countries that already hold it. The intelligence system searches for relationships and produces hypotheses, physicians examine and challenge those hypotheses, reality tests them, and the results are fed back into the system.\n\nThat last part is really the point. It’s recursive. Every successful treatment, failed treatment, disproven hypothesis, unusual case, and validated finding becomes information the system can use the next time it encounters something similar.\n\nInstead of medicine simply accumulating more and more information, the goal is to create a system that actually learns from the medical experience we already have.\n\n",
+    "permalink": "/r/singularity/comments/1xucrbg/global_medical_relational_intelligence_recursive/"
+  },
+  "comments": []
+}
