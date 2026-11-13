@@ -1,0 +1,97 @@
+{
+  "post_id": "1xupzkj",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "This Artificial Analysis scatter plot is a strong proof that the Singularity curve is going vertical.",
+    "author": "Electronic-Weekend66",
+    "score": 4,
+    "upvote_ratio": 0.625,
+    "num_comments": 5,
+    "link_flair_text": "The Singularity is Near",
+    "created_utc": 1794520587,
+    "selftext": "Look closely at the four green dots in this Artificial Analysis chart—that's Google's brand-new Gemini 4 Hydrogen (their replacement for the cheap/fast \"Flash\" line) plotted across its four thinking levels against Anthropic's lineup on a log scale cost-per-task axis.\n\n The dots tell a story: frontier intelligence is getting demonetized fast.\n\nBreak down what you're actually looking at here:\n\n\\* \\*\\*The only dot in the green \"Most attractive quadrant\" (\\~41 Intelligence Index at \\~$0.80/task):\\*\\* That's Hydrogen on \\`Medium\\`. It clears the 40+ intelligence threshold for well under a dollar per benchmark task, while Anthropic's closest equivalent (\\~41.5) sits outside the box at more than double the cost (\\~$1.65/task).  \n\\* \\*\\*Beating frontier models at half the price (\\~51 Intelligence Index at \\~$1.85/task):\\*\\* Bump Hydrogen to its default \\`High\\` setting and it outscores the \\~50-point Anthropic tier (\\~$4.20/task) for less than half the spend—while running \\*\\*2.5x faster\\*\\* than September's Gemini 3.8 Flash.  \n\\* \\*\\*Matching top-tier frontier reasoning at 1/3 the cost (\\~54 Intelligence Index at \\~$3.15/task):\\*\\* On \\`xHigh\\`, Google's \\*speed/budget\\* model sits right alongside Anthropic's \\~$10/task flagship (\\~54.5).\n\n\\*\\*Why this chart screams \"Singularity is near\":\\*\\*\n\nPeople always obsess over the biggest, slowest, most expensive frontier model, but exponential takeoff is driven by \\*\\*cost-performance compression\\*\\*. When a cheap, high-speed model hits 51–54 on the Artificial Analysis Intelligence Index (and 57% on Terminal-Bench 4.1) for \\~$1.85–$3.15 across an entire benchmark suite, two things happen immediately:\n\n1. \\*\\*Massive parallel agent swarms become dirt cheap.\\*\\* You don't need a $10/task flagship doing every step when a coordinator model can spin up dozens of fast Hydrogen workers in parallel for pennies.  \n2. \\*\\*The diffusion lag between \"frontier\" and \"commodity\" just shrank to weeks.\\*\\* Hydrogen on \\`High\\` (51) is already outscoring Google's own frontier Gemini 4 Argon (50) from weeks ago.\n\nLook at that x-axis again—it's a \\*\\*log scale\\*\\*, and the green dots are marching straight up the left wall. What does this chart even look like by mid-2027?\n\n\\-you can get the same chart by visiting AA web (https://artificialanalysis.ai/models) and use filter in the chart.  \nI've put another charts, take a look at how fast Hydrogen is.",
+    "permalink": "/r/singularity/comments/1xupzkj/this_artificial_analysis_scatter_plot_is_a_strong/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sjlfo04hhfk",
+      "parent_id": "t3_1xupzkj",
+      "author": "Electronic-Weekend66",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794520849,
+      "body": "https://artificialanalysis.ai/models"
+    },
+    {
+      "depth": 0,
+      "id": "19sjn61cy6flv",
+      "parent_id": "t3_1xupzkj",
+      "author": "SomeLikeItRaw",
+      "author_flair_text": null,
+      "score": -1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794523179,
+      "body": "Slop thread. 6.1 sol + 6 Astra dominates hydrogen.\n\nhttps://artificialanalysis.ai/?releases=gpt-6-1-sol%2Cgemini-4-hydrogen%2Cgpt-6-astra#intelligence-efficiency-tabs"
+    },
+    {
+      "depth": 1,
+      "id": "19sjnuj7agi9t",
+      "parent_id": "t1_19sjn61cy6flv",
+      "author": "Electronic-Weekend66",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794524095,
+      "body": "You didn't actually read, I didn't say Hydrogen is the smartest model omg"
+    },
+    {
+      "depth": 0,
+      "id": "19sjobksq1apx",
+      "parent_id": "t3_1xupzkj",
+      "author": "handson729",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794524732,
+      "body": "\"Artificial\" Analysis is correct.\n\nBiased results, they don't publish their testing methodology, or the hardware they use either.\n\nSo none of their results are reproducible."
+    },
+    {
+      "depth": 0,
+      "id": "19skic59e62yr",
+      "parent_id": "t3_1xupzkj",
+      "author": "Apprehensive-Tell820",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794565109,
+      "body": "Strong proof. Lol"
+    }
+  ]
+}

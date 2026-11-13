@@ -1,0 +1,41 @@
+{
+  "post_id": "1xump6t",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~19h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "GPT-6 Astra: 30 simulated seconds of walking took 250 calls and 2.8 hours. Multimodal models reason well, but the embodied layer still calls for robot models like LingBot-Touch",
+    "author": "BootNew7978",
+    "score": 17,
+    "upvote_ratio": 0.9047619047619048,
+    "num_comments": 1,
+    "link_flair_text": "AI",
+    "created_utc": 1794512858,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xump6t/gpt6_astra_30_simulated_seconds_of_walking_took/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sjxt3zo0byd",
+      "parent_id": "t3_1xump6t",
+      "author": "ignite_intelligence",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794537494,
+      "body": "1. RSI will accelerate the iterations of general-purpose models  \n2. Current frontier model's capabilities will be acquired by light-weighted models in months"
+    }
+  ]
+}

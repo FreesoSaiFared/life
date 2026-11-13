@@ -1,0 +1,139 @@
+{
+  "post_id": "1xv2ck8",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 8,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "A Data Center with zero water use, 100% renewable energy (1.17g CO2/kWh) and a 1.15 PUE, all made from wood",
+    "author": "filwi",
+    "score": 59,
+    "upvote_ratio": 0.9402985074626866,
+    "num_comments": 9,
+    "link_flair_text": "Compute",
+    "created_utc": 1794557872,
+    "selftext": "The EcoDataCenter in Sweden:\n\n>There are two key measures of datacentre performance. One is carbon usage effectiveness (CUE): the carbon emissions for each kWh of energy consumed. The average for US datacentres is 414g CO2/kWh, the [European Union’s](https://www.oeko.de/fileadmin/oekodoc/Climate_Divide_Data_Centers.pdf) is 263g CO2/kWh, EcoDataCenter’s is 1.17g CO2/kWh.   \n  \nAnother key measure is power usage effectiveness (PUE); how efficiently the datacentre uses the power going into it. The EU average is 1.36 (where a score of 1 would be 100% efficiency), EcoDataCenter’s is 1.15.\n\nPretty damn amazing, if you ask me (although I do have a patriotic stake in promoting Sweden - give us more datacenters and cheaper compute! ;) ). Oh, and we've got a huge energy surplus up north, which is getting lost being sold south to the EU. Better to use it up locally instead of building datacenters in Germany or France.",
+    "permalink": "/r/singularity/comments/1xv2ck8/a_data_center_with_zero_water_use_100_renewable/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19skg3zjqtjup",
+      "parent_id": "t3_1xv2ck8",
+      "author": "irrelevantusername24",
+      "author_flair_text": "⸎:illuminati:⸎",
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794562114,
+      "body": "When it comes to anything, whether its personal healthcare or macro scale infrastructure (of which datacenters are a part), spending more up front and doing things the right way, in the long run, is cheaper than spending less and having to constantly be fixing broken shit because it was done in a halfass haphazard rushed way. And if the maintenance isn't done, the longer it isn't done, the higher that cost is going to be. And in the long run, you're going to end up doing it the slow correct way regardless. Which is to say the entire logic of neocapitalism makes zero sense"
+    },
+    {
+      "depth": 1,
+      "id": "19skrw29k2uo2",
+      "parent_id": "t1_19skg3zjqtjup",
+      "author": "LyAkolon",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794577960,
+      "body": "This is true, if you have ambitions for the future. I suspect that the sensitive nature of the current circular financing is something a lot of people think won't last forever. I think that these companies know they need to get in as quickly as possible, ride the current upward and then hopefully gracefully exit before any popping. \n\nThe web as a technology survived past the popping and ai very likely will too "
+    },
+    {
+      "depth": 0,
+      "id": "19skhrve298zm",
+      "parent_id": "t3_1xv2ck8",
+      "author": "Necessary-Basil6475",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794564352,
+      "body": "数据中心的水电使用量和重工业相比完全不算什么，在这里浪费大量时间表演环保是没有实际意义的。完全不如先推进到ASI，再通过ASI提出有意义的治理方案。"
+    },
+    {
+      "depth": 0,
+      "id": "19skkih4svz5w",
+      "parent_id": "t3_1xv2ck8",
+      "author": "Alex180689",
+      "author_flair_text": null,
+      "score": -2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794568036,
+      "body": "Antis in shambles"
+    },
+    {
+      "depth": 0,
+      "id": "19skltqppkwqo",
+      "parent_id": "t3_1xv2ck8",
+      "author": "RareRandomRedditor",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794569802,
+      "body": "That data center probably came with a \"set it up yourself by hand\" instruction manual. "
+    },
+    {
+      "depth": 0,
+      "id": "19skqhzebcvyc",
+      "parent_id": "t3_1xv2ck8",
+      "author": "rushmc1",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794576089,
+      "body": "Won't someone think of the TREES?"
+    },
+    {
+      "depth": 1,
+      "id": "19skswz4z6nk0",
+      "parent_id": "t1_19skqhzebcvyc",
+      "author": "Few_Owl_7122",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794579340,
+      "body": "Logging can be rather sustainable, but perhaps the key word is \"can\""
+    },
+    {
+      "depth": 0,
+      "id": "19skrypcwx6mc",
+      "parent_id": "t3_1xv2ck8",
+      "author": "Serious-Ebb-7223",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794578059,
+      "body": "New deforestation machine dropped 🗣 "
+    }
+  ]
+}
