@@ -1,0 +1,26 @@
+{
+  "post_id": "1xw1x7s",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Local, open-weight, tiny AI models are going to become a real deal",
+    "author": "ProxyLumina",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1794661421,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xw1x7s/local_openweight_tiny_ai_models_are_going_to/"
+  },
+  "comments": []
+}

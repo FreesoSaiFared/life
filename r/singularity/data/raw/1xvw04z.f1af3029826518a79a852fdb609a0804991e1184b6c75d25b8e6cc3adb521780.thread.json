@@ -1,0 +1,83 @@
+{
+  "post_id": "1xvw04z",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~6h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "AI Closes in on the Riemann Hypothesis",
+    "author": "EvilSporkOfDeath",
+    "score": 20,
+    "upvote_ratio": 0.8125,
+    "num_comments": 6,
+    "link_flair_text": "Video",
+    "created_utc": 1794640024,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xvw04z/ai_closes_in_on_the_riemann_hypothesis/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sm4rjuo2qxw",
+      "parent_id": "t3_1xvw04z",
+      "author": "SnackerSnick",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794643707,
+      "body": "This was such a great talk! I'm a big math guy and this is the first time I got the relationship between the zeta function and prime distribution. (It's not so complicated if you're into math, somehow it just never registered for me that I could understand it in five minutes.)"
+    },
+    {
+      "depth": 1,
+      "id": "19smdbufyvqat",
+      "parent_id": "t1_19sm4rjuo2qxw",
+      "author": "canofwhippedcream",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794655227,
+      "body": "Neat isn't it, how the Euler product formula is really just the fundamental theorem of arithmetic wearing fancy clothes."
+    },
+    {
+      "depth": 0,
+      "id": "19smg5xzcfcgw",
+      "parent_id": "t3_1xvw04z",
+      "author": "Liksombit",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794659042,
+      "body": "Does sombody feel like explaining the \"convex hull - semigroup\" comment? "
+    },
+    {
+      "depth": 0,
+      "id": "19smh0cvcxs6b",
+      "parent_id": "t3_1xvw04z",
+      "author": "AnonThrowaway998877",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794660179,
+      "body": "I love watching these episodes with Brian Greene. I minored in physics because of him and Sean Carroll.  They have a rare talent for making really complex topics accessible and exciting for everyday people. "
+    }
+  ]
+}

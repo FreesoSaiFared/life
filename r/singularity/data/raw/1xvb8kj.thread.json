@@ -1,0 +1,69 @@
+{
+  "post_id": "1xvb8kj",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~22h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Neurons as an Interpretable Basis",
+    "author": "TemetN",
+    "score": 26,
+    "upvote_ratio": 0.8823529411764706,
+    "num_comments": 3,
+    "link_flair_text": "AI",
+    "created_utc": 1794584723,
+    "selftext": "Technical followup to Already Clean.",
+    "permalink": "/r/singularity/comments/1xvb8kj/neurons_as_an_interpretable_basis/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19skzcju4om1s",
+      "parent_id": "t3_1xvb8kj",
+      "author": "Alone-Escape8096",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794587993,
+      "body": "Waiting for someone's smarter opinion so I can stochastically parrot it"
+    },
+    {
+      "depth": 1,
+      "id": "19sl1d3iabhy9",
+      "parent_id": "t1_19skzcju4om1s",
+      "author": "Good-Age-8339",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794590704,
+      "body": "AI neurons may be far easier to understand than scientists previously believed"
+    },
+    {
+      "depth": 0,
+      "id": "19sl0abqr3oh0",
+      "parent_id": "t3_1xvb8kj",
+      "author": "Robonglious",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794589255,
+      "body": "Son of a gun, I've got a similar thing right now. You've got me beat on part of it but I've got you beat on another from what I can tell.\n\nEdit: your visualizations are pretty awesome."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "post_id": "1xvt3z9",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~9h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+    "author": "irrelevantusername24",
+    "score": 30,
+    "upvote_ratio": 0.9166666666666666,
+    "num_comments": 2,
+    "link_flair_text": "AI",
+    "created_utc": 1794630210,
+    "selftext": ">Gödel’s incompleteness theorems revealed the existence of statements whose truths were independent of the system they were written in: that is, they could not be proved or disproved within the system. In 1966, the American mathematician Paul Cohen won the Fields medal, the highest honour in maths, for showing the independence of two well-known mathematical statements: the continuum hypothesis and the axiom of choice.\n\n\\---\n\nTo understand Paul Cohen’s work, it helps to think of the standard axioms of set theory (the Zermelo–Fraenkel axioms) as the \"rulebook\" for a game. These rules define how sets—the basic building blocks of mathematics—behave.\n\nCohen’s breakthrough, **forcing**, is essentially a way to expand that game. Imagine you have a set of rules that don't specify whether a certain move is allowed or forbidden. Cohen developed a method to \"force\" a new, consistent version of the game into existence where that move is either definitely allowed or definitely forbidden, without breaking the original rules.\n\nUsing this, he tackled two famous problems:\n\n* **The Continuum Hypothesis (CH):** This asks if there is a size of infinity between the set of all whole numbers and the set of all real numbers. Cohen proved that you can build a mathematical universe where this hypothesis is true, and another where it is false.\n* **The Axiom of Choice:** This is a rule about how you can pick items from an infinite collection of sets. Cohen showed that this rule is also independent of the standard ones.\n\nIn real-world terms, this means that the standard \"rulebook\" of mathematics is incomplete. It isn't powerful enough to decide these questions, so they are considered **undecidable**. Just as you can't determine the winner of a game if the rules don't cover the final play, mathematicians cannot prove or disprove these statements using only the standard axioms. Cohen showed that these questions are essentially \"outside\" the reach of the current system.",
+    "permalink": "/r/singularity/comments/1xvt3z9/ahead_of_his_time_ai_helps_unlock_discoveries/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19slvuy8n377p",
+      "parent_id": "t3_1xvt3z9",
+      "author": "Dragonbonded",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794631727,
+      "body": "i'll pretend i know whats being said here.\n\n......good job?"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "post_id": "1xvbofy",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~22h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "r/Singularity Daily Discussion Thread — November 13, 2026",
+    "author": "AutoModerator",
+    "score": 9,
+    "upvote_ratio": 1,
+    "num_comments": 6,
+    "link_flair_text": "Discussion",
+    "created_utc": 1794585704,
+    "selftext": "Welcome to the daily r/singularity discussion thread!\n\nUse this thread for casual conversations, questions, speculation, AI developments, and anything related to the technological singularity that doesn't necessarily warrant its own post.\n\nPlease keep discussions civil and follow the subreddit rules.",
+    "permalink": "/r/singularity/comments/1xvbofy/rsingularity_daily_discussion_thread_november_13/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19skxscfdp4eb",
+      "parent_id": "t3_1xvbofy",
+      "author": "141_1337",
+      "author_flair_text": "▪️e/acc | AGI: ~2030 | ASI: ~2040 | FALGSC: ~2050 | :illuminati:",
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794585893,
+      "body": "The Jensen stuff is really making me worried about Open Source AI"
+    },
+    {
+      "depth": 1,
+      "id": "19sky2krr664j",
+      "parent_id": "t1_19skxscfdp4eb",
+      "author": "RealSlyck",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794586275,
+      "body": "Why? NVDA != ASML."
+    },
+    {
+      "depth": 2,
+      "id": "19sl9dd9nh18j",
+      "parent_id": "t1_19sky2krr664j",
+      "author": "Tystros",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794601476,
+      "body": "Jensen was the only really influential voice in the US in favor of open weight models. all the other tech leaders would prefer to just ban them."
+    },
+    {
+      "depth": 0,
+      "id": "19skxz4zzjn9d",
+      "parent_id": "t3_1xvbofy",
+      "author": "Sanchez_U-SOB",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794586147,
+      "body": "I use the free Gemini and it is great for brainstorming physics. Advanced general relativity in seconds."
+    },
+    {
+      "depth": 0,
+      "id": "19sl267jle6wx",
+      "parent_id": "t3_1xvbofy",
+      "author": "krizzalicious49",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794591792,
+      "body": "gemini 4 hydrogen seems a medium amount better than gemini 3.8 flash for translations. i'll need to use it more but its pretty good"
+    },
+    {
+      "depth": 0,
+      "id": "19slg26ag5q4g",
+      "parent_id": "t3_1xvbofy",
+      "author": "DifferencePublic7057",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794610474,
+      "body": "Binary classifiers for each token or token cluster might work as well as transformers. Probably not but who knows? Or maybe even simpler. A 'LUT' for each token and subsequent tokens but vectorized and then just KDE + some sanity checks. Primitive and fast I hope..."
+    }
+  ]
+}
