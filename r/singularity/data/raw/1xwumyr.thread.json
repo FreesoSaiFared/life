@@ -1,0 +1,26 @@
+{
+  "post_id": "1xwumyr",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "My definition for AGI and why the frontier is still far from AGI",
+    "author": "johnc1100",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "AI",
+    "created_utc": 1794746774,
+    "selftext": "https://i.redd.it/ne0r83fcur1i1.png\n\nSo for the last few day I've been thinking the definition of AGI because I just don't feel the AGI as other people claimed, then I came up with six different axis to measure AGI, then I asked gemini 4 hydrogen to refine the idea, rate the current frontier and make a webpage, here's the definition:\n\n  \n**0**: None, No capability at all\n\n**1:** Stagnant, Incomparable to human; little progress\n\n**2:** Emerging, Subhuman, improving rapidly\n\n**3:** Human, Average human baseline (AGI bar)\n\n**4:** Superhuman, Exceeds human / civilization scale\n\n# 1. System 1 Control\n\nFrontier Score: 2 / 4\n\n# Definition\n\nClosed-loop, sub-50ms (60–120Hz+) perception-to-action control in dynamic, unpredictable environments, paired with rapid physical adaptation to unfamiliar tools or machines.\n\nLevel 3 (AGI):Effortless human-level physical coordination and quick mastery of everyday vehicles, tools, and dynamic surroundings.\n\nLevel 4 (ASI):Superhuman millisecond reflexes, simultaneous control of vast robotic swarms, and extreme-environment precision.\n\n# 2. System 2 Reasoning\n\nFrontier Score: 3 / 4\n\n# Definition\n\nDeliberative reasoning and grounded causal simulation across both (a) formal/verifiable puzzles (math, code, logic) and (b) informal, open-world ambiguity with messy feedback.\n\nLevel 3 (AGI):Competent adult causal common sense, strategic judgment under uncertainty, and solid everyday analytical problem-solving.\n\nLevel 4 (ASI):Superhuman synthesis across sciences, formal proofs, and deep multi-variable modeling far beyond human cognitive bandwidth.\n\n# 3. Autonomy\n\nFrontier Score: 2 / 4\n\n# Definition\n\nPerpetual, self-directed stewardship over 'endless tasks' with no finish line—surviving regime shifts, preventing cumulative error drift, and balancing immediate fires against multi-decade survival without prompting.\n\nLevel 3 (AGI):Independently sustains a human-scale endless role or enterprise indefinitely (e.g., running a business, farm, or evolving department across decades).\n\nLevel 4 (ASI):Solo-runs civilization-scale endless tasks: steering multi-century institutions (like a 140-year Coca-Cola), advancing science, exploring the universe, or maintaining civilization.\n\n# 4. Metacognition\n\nFrontier Score: 2 / 4\n\n# Definition\n\nEpistemic calibration (knowing what you don't know instead of bluffing), mid-task error detection and strategy pivoting, and verifying real-world state before claiming success.\n\nLevel 3 (AGI):Accurate self-awareness of personal limits, reliable sanity-checking, and resisting shortcuts or self-deception under pressure.\n\nLevel 4 (ASI):Near-flawless real-time self-auditing, Bayesian uncertainty tracking, and zero blind spots during recursive self-improvement.\n\n# 5. Long-Term Memory\n\nFrontier Score: 1 / 4\n\n# Definition\n\nPersistent episodic and semantic memory across years and decades with near-constant O(1) retrieval latency—achieved via intelligent consolidation and selective forgetting rather than context hoarding.\n\nLevel 3 (AGI):Retains decades of lived experiences, nuanced relationships, and lessons without slowing down or drowning in noise.\n\nLevel 4 (ASI):Lossless, instant cross-generational recall spanning millions of parallel experiences, papers, and global historical states.\n\n# 6. Continual Learning\n\nFrontier Score: 1 / 4\n\n# Definition\n\nSample-efficient, permanent skill and intuition updates during live deployment—across both System 1 reflexes and System 2 reasoning—without catastrophic forgetting or relying solely on temporary text notes.\n\nLevel 3 (AGI):Learns continuously on the job from just a few real-world experiences, adapting permanently over years without forgetting old skills.\n\nLevel 4 (ASI):Rapidly absorbs new domains, invents novel cognitive tools, and transfers breakthroughs instantaneously across every copy of itself.",
+    "permalink": "/r/singularity/comments/1xwumyr/my_definition_for_agi_and_why_the_frontier_is/"
+  },
+  "comments": []
+}

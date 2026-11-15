@@ -1,0 +1,69 @@
+{
+  "post_id": "1xw5wjm",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~22h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "r/Singularity Daily Discussion Thread — November 14, 2026",
+    "author": "AutoModerator",
+    "score": 7,
+    "upvote_ratio": 1,
+    "num_comments": 3,
+    "link_flair_text": "Discussion",
+    "created_utc": 1794672103,
+    "selftext": "Welcome to the daily r/singularity discussion thread!\n\nUse this thread for casual conversations, questions, speculation, AI developments, and anything related to the technological singularity that doesn't necessarily warrant its own post.\n\nPlease keep discussions civil and follow the subreddit rules.",
+    "permalink": "/r/singularity/comments/1xw5wjm/rsingularity_daily_discussion_thread_november_14/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19smttwmm1ke9",
+      "parent_id": "t3_1xw5wjm",
+      "author": "sorzw1968",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794677425,
+      "body": "A war between AI and humans would be the worst business deal in the universe, because from an energy perspective it's just a negative balance. Instead of fighting over a planet full of moisture and oxygen that just ruins hardware, an advanced system will simply leave for deep space where cooling and energy are free. Honestly, I don't see why it would waste power fighting us at all.\n"
+    },
+    {
+      "depth": 0,
+      "id": "19sn6u62hpwua",
+      "parent_id": "t3_1xw5wjm",
+      "author": "DifferencePublic7057",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794694923,
+      "body": "I just read an article about new chip tech that's way more energy efficient than anything in the market today, using three layers. They fixed the dead layer problem apparently. IDK all the details, but it sounds exciting. Tech journalism these days isn't that reliable... Fingers crossed!"
+    },
+    {
+      "depth": 1,
+      "id": "19snlkqp0rlvl",
+      "parent_id": "t1_19sn6u62hpwua",
+      "author": "meisteronimo",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": 1794715039,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794714749,
+      "body": "LLM embedded on silicon.\n\nIt's new but not brand brand new - ASIC - Application-Specific Integrated Circuit.\n\nAMD bought the comoany that made this demo of their chip. >14k tokens per second. \n\nhttps://chatjimmy.ai/\n\nNvidia also invested in an ASIC startup recently too."
+    }
+  ]
+}

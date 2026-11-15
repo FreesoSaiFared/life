@@ -1,0 +1,125 @@
+{
+  "post_id": "1xwm3ai",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~10h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Is the Hugging Face acquisition still on?  Who is the new face of the Open Model / Open weights ecosystem now that Jensen is gone from NVIDIA?",
+    "author": "Traditional-Chip8339",
+    "score": 27,
+    "upvote_ratio": 0.9090909090909091,
+    "num_comments": 8,
+    "link_flair_text": "AI",
+    "created_utc": 1794716142,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xwm3ai/is_the_hugging_face_acquisition_still_on_who_is/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19snmycm6sjqb",
+      "parent_id": "t3_1xwm3ai",
+      "author": "cookingboy",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": 1794718209,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794716602,
+      "body": "I think it’s still on, but the new CEO will be much more aligned with the interests of the AI labs such as Anthropic.\n\nWhich means they will finish the deal, then kill the whole thing."
+    },
+    {
+      "depth": 1,
+      "id": "19snnegprdyw0",
+      "parent_id": "t1_19snmycm6sjqb",
+      "author": "darylvp",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794717205,
+      "body": "Most likely."
+    },
+    {
+      "depth": 1,
+      "id": "19sno9f52t7fm",
+      "parent_id": "t1_19snmycm6sjqb",
+      "author": "Traditional-Chip8339",
+      "author_flair_text": "▪️AI 2027 was right, bruh.....",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794718361,
+      "body": "yikes, the leak timing of the memo is feeling a bit fishy now.  Feels like open source is in the cross hairs.  Probably best for Hugging face to stay independent now if they could. "
+    },
+    {
+      "depth": 2,
+      "id": "19snocf4ljaht",
+      "parent_id": "t1_19sno9f52t7fm",
+      "author": "cookingboy",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794718473,
+      "body": "> the leak timing of the memo is feeling a bit fishy now\n\nEveryone with both functional brain hemispheres can see it was a concerted effort to oust Jensen. It's most likely Anthropic (Dario hates China and open models) and the rest of the China Hawks in the administration."
+    },
+    {
+      "depth": 3,
+      "id": "19snogjz27tur",
+      "parent_id": "t1_19snocf4ljaht",
+      "author": "Traditional-Chip8339",
+      "author_flair_text": "▪️AI 2027 was right, bruh.....",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794718628,
+      "body": "yes, the timing after the mid-terms seems intentional. Hopefully calmer heads can prevail and the Open weights models are not regulated out of existence for usage in the US.  "
+    },
+    {
+      "depth": 1,
+      "id": "19snq3z6uqeas",
+      "parent_id": "t1_19snmycm6sjqb",
+      "author": "Frigorific",
+      "author_flair_text": null,
+      "score": 6,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794720848,
+      "body": "Why? Nvidia still benefits from open models."
+    },
+    {
+      "depth": 0,
+      "id": "19so04xz06yn4",
+      "parent_id": "t3_1xwm3ai",
+      "author": "Flugelwagen",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794734337,
+      "body": "It happened already. It was a hostile takeover.\n\nhttps://i.redd.it/jl5nw22muq1i1.jpeg"
+    }
+  ]
+}

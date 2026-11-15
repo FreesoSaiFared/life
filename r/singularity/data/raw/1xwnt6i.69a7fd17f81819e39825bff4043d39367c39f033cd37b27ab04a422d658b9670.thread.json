@@ -1,0 +1,41 @@
+{
+  "post_id": "1xwnt6i",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~8h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Terence Tao and Peter L.: LIVE Math with Open Math OS",
+    "author": "SammaVaco",
+    "score": 5,
+    "upvote_ratio": 0.7272727272727273,
+    "num_comments": 1,
+    "link_flair_text": "the Singularity is HERE",
+    "created_utc": 1794721979,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xwnt6i/terence_tao_and_peter_l_live_math_with_open_math/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19so0goq01mip",
+      "parent_id": "t3_1xwnt6i",
+      "author": "OrganicPossession130",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794734775,
+      "body": "Terence Tao exits the artificial AI vs. mathematicians crisis in a very Chinese way.  \nand by promoting collaboration as he uses to."
+    }
+  ]
+}

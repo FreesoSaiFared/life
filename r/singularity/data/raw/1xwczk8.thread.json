@@ -1,0 +1,125 @@
+{
+  "post_id": "1xwczk8",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 7,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~17h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "ChatGPT's new Wallet lets AI agents shop and check out for you",
+    "author": "SnoozeDoggyDog",
+    "score": 10,
+    "upvote_ratio": 0.7083333333333334,
+    "num_comments": 9,
+    "link_flair_text": "AI",
+    "created_utc": 1794689529,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xwczk8/chatgpts_new_wallet_lets_ai_agents_shop_and_check/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sn3g6srbi01",
+      "parent_id": "t3_1xwczk8",
+      "author": "Future-Bandicoot-823",
+      "author_flair_text": null,
+      "score": 11,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794690365,
+      "body": "My bank sent me a letter about this. They said if I choose to use this service I have no protections if my account gets wiped of money.\n\nI'll HARD pass on giving openai my account info willingly."
+    },
+    {
+      "depth": 1,
+      "id": "19sn8jvf4arqa",
+      "parent_id": "t1_19sn3g6srbi01",
+      "author": "dinfinity88",
+      "author_flair_text": null,
+      "score": 7,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794697229,
+      "body": "The obvious solution would be to have a separate balance available to agents. Something like temporary prepaid credit cards."
+    },
+    {
+      "depth": 2,
+      "id": "19snqll25n5yd",
+      "parent_id": "t1_19sn8jvf4arqa",
+      "author": "Hubbardia",
+      "author_flair_text": "AGI 2045",
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794721506,
+      "body": "\"ChatGPT wallet\" sounds something like that"
+    },
+    {
+      "depth": 3,
+      "id": "19so3rwvx8lb5",
+      "parent_id": "t1_19snqll25n5yd",
+      "author": "dinfinity88",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794739231,
+      "body": "It does, but apparently it isn't."
+    },
+    {
+      "depth": 1,
+      "id": "19sn9mtj587vn",
+      "parent_id": "t1_19sn3g6srbi01",
+      "author": "MaybeLiterally",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794698684,
+      "body": "I got a similar notice, and it makes sense. I don't know why your bank would give you any specific protections, they have nothing to do with what your AI bots do.\n\nI'm experimenting with giving AI one of my cards and testing it out. So far, still needs some work but it hasn't done anything I haven't asked it to do."
+    },
+    {
+      "depth": 0,
+      "id": "19sn6y67vj4ys",
+      "parent_id": "t3_1xwczk8",
+      "author": "Mechbear2000",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794695072,
+      "body": "Sounds like most electronic and online accounts have specific wording in the terms of service banning ai/third party access. I font know any that do allow it"
+    },
+    {
+      "depth": 0,
+      "id": "19so0p0fdpwpv",
+      "parent_id": "t3_1xwczk8",
+      "author": "Fine_League311",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794735086,
+      "body": "Good luck to all who want to use it! "
+    }
+  ]
+}
