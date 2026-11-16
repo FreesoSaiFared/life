@@ -1,0 +1,69 @@
+{
+  "post_id": "1xx87ra",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 3,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Chinese robot handles hotel laundry workflow in just 18.6 seconds",
+    "author": "yogthos",
+    "score": 18,
+    "upvote_ratio": 0.8,
+    "num_comments": 3,
+    "link_flair_text": "Robotics",
+    "created_utc": 1794780473,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xx87ra/chinese_robot_handles_hotel_laundry_workflow_in/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19spftnkrmc5f",
+      "parent_id": "t3_1xx87ra",
+      "author": "CryMoreT_T",
+      "author_flair_text": null,
+      "score": 0,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794803866,
+      "body": "[https://interestingengineering.com/ai-robotics/video-laundry-folding-home-robot](https://interestingengineering.com/ai-robotics/video-laundry-folding-home-robot)\n\n  \ntook them long enough to catch up to the US"
+    },
+    {
+      "depth": 1,
+      "id": "19sppupos7htx",
+      "parent_id": "t1_19spftnkrmc5f",
+      "author": "CrowdGoesWildWoooo",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794817357,
+      "body": "That one is stationary, this one is a hotel workflow route"
+    },
+    {
+      "depth": 0,
+      "id": "19sphqgzu7uv9",
+      "parent_id": "t3_1xx87ra",
+      "author": "Economy_Variation365",
+      "author_flair_text": null,
+      "score": 6,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794806437,
+      "body": "It *simulates* the laundry workflow in 18 seconds. Misleading title! "
+    }
+  ]
+}

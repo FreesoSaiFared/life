@@ -1,0 +1,55 @@
+{
+  "post_id": "1xxidbf",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 2,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~9h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "This 2017 song Technocrat from retired rapper Samsa is one of my favorites and I find it pretty relevant, lot's of talking points.",
+    "author": "evitcepsrePweN",
+    "score": 11,
+    "upvote_ratio": 0.7894736842105263,
+    "num_comments": 2,
+    "link_flair_text": "Video",
+    "created_utc": 1794810922,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xxidbf/this_2017_song_technocrat_from_retired_rapper/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sporanb1ktc",
+      "parent_id": "t3_1xxidbf",
+      "author": "SammaVaco",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794815884,
+      "body": "[Working As Intended](https://www.youtube.com/watch?v=Z6_ENp_fO_Y)\n\n> I'm working as intended. Whose intention?  \nNever mind."
+    },
+    {
+      "depth": 0,
+      "id": "19spwqptnpcit",
+      "parent_id": "t3_1xxidbf",
+      "author": "Zorander22",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794826624,
+      "body": "This is fantastic "
+    }
+  ]
+}

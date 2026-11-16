@@ -1,0 +1,83 @@
+{
+  "post_id": "1xx3a6r",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~21h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Embodied AI robots take over night-shift parcel sorting in China’s tech hub Shenzhen",
+    "author": "yogthos",
+    "score": 60,
+    "upvote_ratio": 0.9411764705882353,
+    "num_comments": 4,
+    "link_flair_text": "AI",
+    "created_utc": 1794768342,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xx3a6r/embodied_ai_robots_take_over_nightshift_parcel/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sorkhwp8n7p",
+      "parent_id": "t3_1xx3a6r",
+      "author": "Ok-Bullfrog-3052",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794771238,
+      "body": "There are THREE robots working at this facility, with little technical description of how capable they are.\n\nOne has to love reddit post titles.  I doubt anyone would call this as \"taking over\" an entire tech hub."
+    },
+    {
+      "depth": 1,
+      "id": "19sovpm20lthe",
+      "parent_id": "t1_19sorkhwp8n7p",
+      "author": "yogthos",
+      "author_flair_text": null,
+      "score": 6,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794776810,
+      "body": "> with little technical description of how capable they are\n\nfrom the article:\n\n> Staff at the postal center said the robots are the star performers, each capable of sorting around 1,000 to 1,200 parcels per hour."
+    },
+    {
+      "depth": 2,
+      "id": "19sp0su19ftl1",
+      "parent_id": "t1_19sovpm20lthe",
+      "author": "Ok-Bullfrog-3052",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794783657,
+      "body": "Yes, but what about that?  Is the error rate higher than humans' error rate?  Do the robots break down frequently?  Is this more economical than paying a human, or is it just an experiment to get training data?  Why are there only 3 robots instead of 4?  The title is disproportionate to an article where the reporter did little research."
+    },
+    {
+      "depth": 3,
+      "id": "19sp1u7lcvlvl",
+      "parent_id": "t1_19sp0su19ftl1",
+      "author": "yogthos",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794785053,
+      "body": "The article also mentions that the accuracy reaches over 95 percent. I doubt humans can do much better than that, especially when working long shifts. I get the impression that you didn't bother actually reading the article.\n\nIt should also be obvious that having a robot do the work is infinitely cheaper than paying a human worker for the same job.\n\nWhy all the braying?"
+    }
+  ]
+}

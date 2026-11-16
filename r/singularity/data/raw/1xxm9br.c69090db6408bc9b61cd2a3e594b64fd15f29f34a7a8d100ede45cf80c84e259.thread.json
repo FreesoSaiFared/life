@@ -1,0 +1,97 @@
+{
+  "post_id": "1xxm9br",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Just release the Bel model bro 💔",
+    "author": "Lucky_Creme_5208",
+    "score": 33,
+    "upvote_ratio": 0.8113207547169812,
+    "num_comments": 6,
+    "link_flair_text": "Meme",
+    "created_utc": 1794825715,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xxm9br/just_release_the_bel_model_bro/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19spw9a2wl4cl",
+      "parent_id": "t3_1xxm9br",
+      "author": "Fearless-Macaron9183",
+      "author_flair_text": "▪️agi touched me",
+      "score": 9,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794825973,
+      "body": "Open ai more like closed ai"
+    },
+    {
+      "depth": 0,
+      "id": "19spwdx4hvygy",
+      "parent_id": "t3_1xxm9br",
+      "author": "Least-Bonus2258",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794826146,
+      "body": "![gif](giphy|sImvjuAu6gUiJlT9w4)"
+    },
+    {
+      "depth": 0,
+      "id": "19spwovzck8qs",
+      "parent_id": "t3_1xxm9br",
+      "author": "PrivateComments",
+      "author_flair_text": null,
+      "score": 7,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794826556,
+      "body": "I still don’t understand what the average user is working on that they can’t get done with Astra or Sol "
+    },
+    {
+      "depth": 1,
+      "id": "19sq1qr7rq7us",
+      "parent_id": "t1_19spwovzck8qs",
+      "author": "CymonSet",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794833352,
+      "body": "Personally, I’m enthused about what researchers who may not be in the inner circle of the partnerships with big labs might get done with better models. I want to see what *non-average* users will do."
+    },
+    {
+      "depth": 0,
+      "id": "19sq1o1v1oyf9",
+      "parent_id": "t3_1xxm9br",
+      "author": "master_internutter",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794833251,
+      "body": "They are definitely up to something"
+    }
+  ]
+}

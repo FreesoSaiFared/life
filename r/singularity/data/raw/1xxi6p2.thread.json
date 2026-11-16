@@ -1,0 +1,41 @@
+{
+  "post_id": "1xxi6p2",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~9h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Data Analysis on News Coverage about Jensen",
+    "author": "Which-Travel-1426",
+    "score": 8,
+    "upvote_ratio": 0.7857142857142857,
+    "num_comments": 1,
+    "link_flair_text": "Economics & Society",
+    "created_utc": 1794810268,
+    "selftext": "Copy-pasted from X https://x.com/varun\\_mathur/status/2122018790653231113?a=8hOX7n7EejxsN8uQjU8&s=46:\n\nNVIDIA has lost over $1 trillion in market value since the first New York Times story broke about Jensen. I dug deeper to analyze how the news originated and spread, running a swarm of agents which analyzed almost 2000 stories, across 40 US and European news outlets, and applying PageRank to understand how they cited each other. \n\nCore findings:   \n\\- Primary news driver: NYT, with 88 stories, most-cited  \n\\- Volume drivers: WSJ - 99 stories; Bloomberg - 140 stories; NY Post - 68 stories\n\nAll of this started from unknown sources who gave information to the NYT, which then ran the spy story (still unproven), and it was then picked up in other news publications. Curiously, even after that story, there was a 9 day period of extremely low volume reporting (28 stories only), after which there was a sudden spike after Jensen's own letter to NVIDIA staff. NYT then had multiple sequential spy and affair stories, which fed a wave of further news coverage. It was the originating hub of negative Jensen coverage. Multiple outlets since then had an explosion in stories about him starting earlier this week as well. \n\nOverall, as you see this data, you will observe this was an exceptional media onslaught against Jensen with sharply negative coverage about him, his work, style, and family. Infact, it was brutal, and unlike coverage in the past of CEOs who have had affairs (such as Intel CEO in 2018). For eg, NYT ran just 2 stories about Intel's CEO who had an affair with his employee, compared to 88 on Jensen! Why ? \n\nThis analysis used a technique of how Google originally ranked webpages, using PageRank, and does deep dive link analysis so you can view how the news spread. What struck here was that it did not matter if there were proven facts or credible sources: the outcome here was pre-decided. The news was making the reality which it wanted. \n\nDuring this period, NVIDIA has lost $1.27 trillion in market value since the first story broke. On Nov 12th-13th, further news broke that both the US Justice Department, and Singapore - are unable to even conclude the spy allegation. \n\nThis has been a catastrophic attack on one of the hardest working founders in modern times, who took an idea from a Denny's booth, through multiple instances of almost going out of business, to building the foundation of the entire modern world with how the NVIDIA story played out. Thanks to Jensen, we have hope that many formerly incurable diseases will get solved by AI, that quality of life will and have improved for billions around the world. \n\nNow I do not know if he will come back as CEO or not, but I hope he does. What happened to him here, and to the wider industry, was not fair.",
+    "permalink": "/r/singularity/comments/1xxi6p2/data_analysis_on_news_coverage_about_jensen/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19spvwe35tzj8",
+      "parent_id": "t3_1xxi6p2",
+      "author": "cookingboy",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794825491,
+      "body": "The NYT reporters have had very close working relationships with Jack Clark, one of the Anthropic cofounders.\n\nAnthropic also has close ties with the China Hawks inside the administration, which also played a role in “massaging” the original intelligence to paint the woman as a spy (which is now being back tracked).\n\nIt was obviously a concerted effort by a very powerful group of people. "
+    }
+  ]
+}

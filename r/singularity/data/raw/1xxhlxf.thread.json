@@ -1,0 +1,153 @@
+{
+  "post_id": "1xxhlxf",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 9,
+    "max_depth": 2,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~10h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Gemini models at the end of the year:",
+    "author": "Awique",
+    "score": 174,
+    "upvote_ratio": 0.9393939393939394,
+    "num_comments": 10,
+    "link_flair_text": "Meme",
+    "created_utc": 1794808238,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xxhlxf/gemini_models_at_the_end_of_the_year/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19splwhd75yrp",
+      "parent_id": "t3_1xxhlxf",
+      "author": "Captain_Mystic",
+      "author_flair_text": null,
+      "score": 21,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794812043,
+      "body": "You missed one - Gemini Uranium"
+    },
+    {
+      "depth": 1,
+      "id": "19spstc6hiyww",
+      "parent_id": "t1_19splwhd75yrp",
+      "author": "Arsene_Yuka_1980",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794821342,
+      "body": "Its benchmarks will be 3.6 Roentgen."
+    },
+    {
+      "depth": 2,
+      "id": "19spyc1j27sjm",
+      "parent_id": "t1_19spstc6hiyww",
+      "author": "GeneralReach6339",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794828767,
+      "body": "Not great, not terrible"
+    },
+    {
+      "depth": 0,
+      "id": "19sppq6nm0u2p",
+      "parent_id": "t3_1xxhlxf",
+      "author": "want8memes",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794817188,
+      "body": "Gemini Chernobyl "
+    },
+    {
+      "depth": 0,
+      "id": "19spqjf5336f6",
+      "parent_id": "t3_1xxhlxf",
+      "author": "exploring_stuff",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794818281,
+      "body": "Gemini Carbon will be succeeded by its post-trained unstable isotope, Gemini Carbon-14. Misaligned toxic content will be spewed by Gemini Polonium."
+    },
+    {
+      "depth": 0,
+      "id": "19spsaoohxoao",
+      "parent_id": "t3_1xxhlxf",
+      "author": "Black_Badger",
+      "author_flair_text": null,
+      "score": 0,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794820645,
+      "body": "I actually hate all this.. I wish with all AI models there was a “automatic” button which automatically looks at the complexity and context of a question and it decides what model to use"
+    },
+    {
+      "depth": 1,
+      "id": "19spw0iufmudh",
+      "parent_id": "t1_19spsaoohxoao",
+      "author": "Middle_Bullfrog_6173",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794825646,
+      "body": "That's been pretty clearly rejected by the user reception of GPT 5 auto and when Claude dropped the reasoning control for a while around Opus... 4.7?"
+    },
+    {
+      "depth": 0,
+      "id": "19spsoopqlb9c",
+      "parent_id": "t3_1xxhlxf",
+      "author": "Alpacabro21",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794821168,
+      "body": "Lol\n\nJokes aside, this seems to be the structure for Gemini:\n\n-Argon and RL iterations → Opus/Fable\n\n-Hydrogen → Sonnet\n\n-Tritium? → Haiku"
+    },
+    {
+      "depth": 0,
+      "id": "19spz1t0ayog5",
+      "parent_id": "t3_1xxhlxf",
+      "author": "Happy_Guitar3521",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794829729,
+      "body": "Waiting for Plutonium"
+    }
+  ]
+}

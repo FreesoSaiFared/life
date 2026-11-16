@@ -1,0 +1,97 @@
+{
+  "post_id": "1xx5c34",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 5,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~20h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "NVDA gives OpenAI $30B → OpenAI buys compute → Oracle buys NVDA chips → NVDA books a sale. One marble, one lap.",
+    "author": "Qweskj",
+    "score": 0,
+    "upvote_ratio": 0.3125,
+    "num_comments": 5,
+    "link_flair_text": "Discussion",
+    "created_utc": 1794773231,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xx5c34/nvda_gives_openai_30b_openai_buys_compute_oracle/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19soteh9exj38",
+      "parent_id": "t3_1xx5c34",
+      "author": "reallysoverybad",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794773704,
+      "body": "lmfao fixed capital playing catch with itself. Interesting part is how much of the AI boom depends on corpos financing each other's demand.\n\nChips are real. Infrastructure is real. But every dollar circulating through the arrangement doesn't automatically represent new value. Would love to know how much of this growth ultimately depends on revenue from outside the same handful of firms. Who's actually paying for the party?"
+    },
+    {
+      "depth": 1,
+      "id": "19sotje35621v",
+      "parent_id": "t1_19soteh9exj38",
+      "author": "AnswerFeeling460",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794773888,
+      "body": "me, just looked at a new graphics card price :-("
+    },
+    {
+      "depth": 0,
+      "id": "19sou64buiqjn",
+      "parent_id": "t3_1xx5c34",
+      "author": "Sherman140824",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794774737,
+      "body": "NVDIA"
+    },
+    {
+      "depth": 1,
+      "id": "19sp8o8f27x0j",
+      "parent_id": "t1_19sou64buiqjn",
+      "author": "Timkinut",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794794247,
+      "body": "NVDA is the stock/ticker symbol. like GOOG, AAPL, MSFT, etc."
+    },
+    {
+      "depth": 0,
+      "id": "19sox70bcufac",
+      "parent_id": "t3_1xx5c34",
+      "author": "MelvinCapitalPR",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794778806,
+      "body": "Wait till you find out the whole economy is circular."
+    }
+  ]
+}
