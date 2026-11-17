@@ -1,0 +1,26 @@
+{
+  "post_id": "1xylfy1",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~2h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Would any prompt induce psychedelic effects on an LLM?",
+    "author": "arcanebanshee",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "Discussion",
+    "created_utc": 1794924718,
+    "selftext": "Same as the question",
+    "permalink": "/r/singularity/comments/1xylfy1/would_any_prompt_induce_psychedelic_effects_on_an/"
+  },
+  "comments": []
+}

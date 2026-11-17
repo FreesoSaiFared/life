@@ -1,0 +1,26 @@
+{
+  "post_id": "1xynctv",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 0,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~1h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Anthropic’s AI agents discovered a previously unknown CRISPR-like genetic system in viruses. Ginkgo Bioworks used Claude Opus 5 to design lab experiments and found the first evidence that its RNA-to-DNA copying enzyme actually works, in just 13 days for ~$14,000.",
+    "author": "141_1337",
+    "score": 1,
+    "upvote_ratio": 1,
+    "num_comments": 0,
+    "link_flair_text": "the Singularity is Nearer",
+    "created_utc": 1794929340,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xynctv/anthropics_ai_agents_discovered_a_previously/"
+  },
+  "comments": []
+}

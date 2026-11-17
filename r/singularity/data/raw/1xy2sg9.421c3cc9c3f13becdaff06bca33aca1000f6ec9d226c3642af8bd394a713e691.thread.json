@@ -1,0 +1,83 @@
+{
+  "post_id": "1xy2sg9",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~18h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Unpopular opinion: US chip bans didn't stop China's AI, they actually saved China from the AI infrastructure bubble",
+    "author": "PureControl3423",
+    "score": 0,
+    "upvote_ratio": 0.21428571428571427,
+    "num_comments": 6,
+    "link_flair_text": "Discussion",
+    "created_utc": 1794866784,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xy2sg9/unpopular_opinion_us_chip_bans_didnt_stop_chinas/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sqs0ajbsjd1",
+      "parent_id": "t3_1xy2sg9",
+      "author": "enilea",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794868684,
+      "body": "The bubble is because the expected economic growth is greater than what can be delivered, but even if that pops the race is still very much on, there just will be less funding for it. China is ahead in energy and infrastructure in general but it's behind in compute and really need to catch up because the automated research explosion that's about to come is going to leave everyone without enough compute far behind."
+    },
+    {
+      "depth": 0,
+      "id": "19sqs7u49v5s4",
+      "parent_id": "t3_1xy2sg9",
+      "author": "VeterinarianMuch4055",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794868966,
+      "body": "sanctions as accidental financial advice is a new one. the theory at least explains why both sides keep claiming victory"
+    },
+    {
+      "depth": 0,
+      "id": "19sqy6bpvzkzp",
+      "parent_id": "t3_1xy2sg9",
+      "author": "Mauer_Bluemchen",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": 1794877793,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794876980,
+      "body": "I think that you may have some valid, but rather shallow points here - although I would also assume that China has never planned this, just reacted to the status quo.\n\nBut then - if AI models will indeed get much more efficient and will require way less compute - and we all would appreciate this - then US would still have their massive AI data centers and could still use them to run these more efficient models heavily.\n\nPlease keep in mind: The whole AI game is an end game, and it is not at all about earning the costs and becoming profitable - this would just a secondary side effect. This game is about world domination by achieving and controlling SGI first, and then utilizing this to dominate and finally even remove the competition. Not only between companies but also between states and super powers.\n\nEvery key player in the AI field has understood this since quite some time ago - and this is the very reason why they act like they act, going all in."
+    },
+    {
+      "depth": 0,
+      "id": "19sr4hu8m5ji8",
+      "parent_id": "t3_1xy2sg9",
+      "author": "Asteroid_picks_you",
+      "author_flair_text": null,
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794885482,
+      "body": "That's one view, another view is that: first, china banned the same Nvidia chips that US export controls (so whatever US did is moot). Second, you view DeepSeek and Qwen as efficiency standpoint, I view it from \"distillation\" view point, and please don't tell me \"no, china is not distilling anthropic or openai!\""
+    }
+  ]
+}

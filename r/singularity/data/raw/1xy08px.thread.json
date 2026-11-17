@@ -1,0 +1,111 @@
+{
+  "post_id": "1xy08px",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 6,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~20h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "US closes the \"just rent the chips\" loophole for China",
+    "author": "Incener",
+    "score": 49,
+    "upvote_ratio": 0.8769230769230769,
+    "num_comments": 6,
+    "link_flair_text": "Compute",
+    "created_utc": 1794860800,
+    "selftext": "**TL;DR** Commerce is closing the \"rent the chips instead of buying them\" loophole for China, while scrapping the Biden-era worldwide licensing regime. The timing is Huang fallout, landing as Trump flies to Asia to meet Xi.\n\nSummary by Claude of the article and [document](https://www.bis.gov/media/documents/rin-0694-ak50.pdf):\n\n# Why now (CBS)\n\n* **The trigger:** Jensen Huang resigned last week after revelations of an affair with a suspected Chinese spy, plus one with a subordinate. That sharpened fears that China reaches Nvidia's best chips by renting compute in Southeast Asian data centers.\n* **The official framing:** BIS (the Bureau of Industry and Security, the Commerce Department office that runs export controls) says the rule makes sure existing restrictions \"cannot be circumvented through remote computing arrangements involving data centers in third countries\".\n* **The politics:** Trump left for Asia on the 16th, where he's expected to meet Xi and Putin. His comment was \"Selling the other chips is a good thing, not a bad thing\", meaning only the top-end chips are targeted. China denies any involvement in the affair.\n\n# What the rule does\n\n* **Remote access:** a license is needed to ship advanced chips to any data center worldwide that gives more than roughly 750 Nvidia H100s' worth of compute to companies headquartered in a D:5 country(China (including Hong Kong and Macau), Russia, Iran, North Korea or another country under a US arms embargo.)\n* **Workarounds covered:** the threshold counts linked sites together (data centers networked to work as one pool, even if only digitally linked). It also catches middlemen training models for Chinese firms, and data centers that start serving such customers after the chips arrived.\n* **Due diligence:** exporters have to get know-your-customer information from the data center (who its clients are and who ultimately owns them). A data center that won't provide it counts as a red flag. Existing operators get 90 days to obtain a license.\n* **Carve-out:** compute used exclusively for commercial recommender systems (tools that only rank or suggest products and content, like a TikTok feed or shop recommendations) is exempt, with reporting to BIS.\n* **Five countries:** Brazil, Indonesia, Malaysia, Singapore and Thailand now need licenses, reviewed case by case. US-headquartered recipients are exempt if the shipper files monthly reports. The rule gives no country-specific reasoning, only \"higher-than-normal risk of diversion\".\n* **Foundries (the contract chip factories, like TSMC):** a cutting-edge chip made for an unvetted designer is presumed to be a controlled AI chip. Designers from restricted countries can no longer submit evidence to disprove that, so the factory needs a license to ship it.\n\n# What it loosens\n\n* **AI Diffusion Rule scrapped:** Biden's January 2025 framework, which sorted the whole world into tiers with different chip access, is formally rescinded. BIS says it was never enforced.\n* **Worldwide licensing gone:** the license requirement shrinks to the countries the US already treats as a security concern (China, Russia, Iran, North Korea and the like) plus the five countries above, so most of the world no longer needs one.\n* **Model weights uncontrolled:** the Diffusion Rule had made the weights of the most powerful closed models an export-controlled item, meaning a lab needed a license to send or store them in most countries abroad. That control is deleted. BIS says it would rather handle the risk through the chip and data center rules, so the restrictions now sit on the compute needed to train and run models, and the model files themselves are free to move.\n\n# Process\n\n* **Effective date:** when it's published in the Federal Register (the US government's official journal). \"Interim final\" means it binds immediately and the 60-day comment period comes afterwards, so CBS calling it \"temporary\" is misleading.\n* **Grace period:** shipments already en route on the publication date have 30 days to complete.",
+    "permalink": "/r/singularity/comments/1xy08px/us_closes_the_just_rent_the_chips_loophole_for/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sqnkbvzvqhs",
+      "parent_id": "t3_1xy08px",
+      "author": "Vex1om",
+      "author_flair_text": null,
+      "score": 11,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794862706,
+      "body": "Shouldn't this be re-closing it?  It was closed by Biden, but then Trump and Nutlick opened it again."
+    },
+    {
+      "depth": 0,
+      "id": "19sqnqkanhlnm",
+      "parent_id": "t3_1xy08px",
+      "author": "MrSnowden",
+      "author_flair_text": null,
+      "score": 16,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794862939,
+      "body": "This doesn’t sound super enforceable.  How on earth will they police compute packages run by third parties on data centers?   KYC only goes so far.  "
+    },
+    {
+      "depth": 1,
+      "id": "19sr5e5xjzgtg",
+      "parent_id": "t1_19sqnqkanhlnm",
+      "author": "i-love-small-tits-47",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794886690,
+      "body": "I mean they probably figure that it’s not going to be airtight but that some enforcement is better than none. Its not like it’s a constitutional right where you can’t use that excuse"
+    },
+    {
+      "depth": 0,
+      "id": "19sqpj61gsjq9",
+      "parent_id": "t3_1xy08px",
+      "author": "SpaceTacos99",
+      "author_flair_text": "▪️Doomers are stochastic parrots",
+      "score": 4,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794865353,
+      "body": "Well there we go.... we have an answer.  \n\nThis would have taken more than the laat 9 days to put together. "
+    },
+    {
+      "depth": 0,
+      "id": "19srcdq78qcps",
+      "parent_id": "t3_1xy08px",
+      "author": "spin_kick",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794896090,
+      "body": "Almost as if people are straightening up before January 1st"
+    },
+    {
+      "depth": 0,
+      "id": "19srkvjc471es",
+      "parent_id": "t3_1xy08px",
+      "author": "Gnoccho1",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794907517,
+      "body": "Good ... more sanctions!"
+    }
+  ]
+}

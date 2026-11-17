@@ -1,0 +1,41 @@
+{
+  "post_id": "1xyiupd",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 1,
+    "max_depth": 0,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~4h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "Isomorphic Labs just raised $5B for AI drug discovery. When will its first drug reach human trials?",
+    "author": "TorturedPoet30",
+    "score": 30,
+    "upvote_ratio": 0.9166666666666666,
+    "num_comments": 1,
+    "link_flair_text": "Biotech/Longevity",
+    "created_utc": 1794917456,
+    "selftext": "That follows a $600 million round in March 2025 and a $2.1 billion Series B in May 2026. Demis Hassabis launched the company in 2021 to build on DeepMind’s AlphaFold breakthrough.\n\nFive years in, Isomorphic still hasn’t publicly announced that one of its drug candidates has entered a human trial. The new release says its internal oncology and immunology programs have shown positive preclinical results. Demis originally targeted the end of 2025 for the first trials, then moved that target to the end of 2026. Today’s release gives no updated date.  \n  \n\"Isomorphic Labs announces it has raised $5 Billion in Series C funding. The round was co-led by Greenoaks and Sequoia Capital, alongside Andreessen Horowitz (a16z) and several other new investors, with continued significant investment from Alphabet. The round also included participation from all existing investors: Thrive Capital, MGX, GV, CapitalG, Temasek and the UK Sovereign AI Fund.\"",
+    "permalink": "/r/singularity/comments/1xyiupd/isomorphic_labs_just_raised_5b_for_ai_drug/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19srskxrgrkmb",
+      "parent_id": "t3_1xyiupd",
+      "author": "Recent_Fox4339",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794917883,
+      "body": "I’m bullish on Demis, but I’d like to see more concrete results from Iso. Most of the news over the past year has been about funding rounds afaik "
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "post_id": "1xyhf85",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~5h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
+    "author": "Recent_Fox4339",
+    "score": 24,
+    "upvote_ratio": 0.9285714285714286,
+    "num_comments": 4,
+    "link_flair_text": "Discussion",
+    "created_utc": 1794912667,
+    "selftext": "source: NVIDIA press website",
+    "permalink": "/r/singularity/comments/1xyhf85/nvidia_board_of_directors_establishes_national/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19srosedsufr5",
+      "parent_id": "t3_1xyhf85",
+      "author": "TorturedPoet30",
+      "author_flair_text": null,
+      "score": 7,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794912781,
+      "body": "Don’t see Huang getting back in."
+    },
+    {
+      "depth": 1,
+      "id": "19srpbex5lveo",
+      "parent_id": "t1_19srosedsufr5",
+      "author": "Alpacabro21",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794913491,
+      "body": "Same. "
+    },
+    {
+      "depth": 0,
+      "id": "19srpbf4xai4k",
+      "parent_id": "t3_1xyhf85",
+      "author": "SanDiedo",
+      "author_flair_text": null,
+      "score": 3,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794913492,
+      "body": "Seems like \"Watch them look the other way and hope for the best\" plan has failed. Now they need to re-make a facade of responsible company."
+    },
+    {
+      "depth": 0,
+      "id": "19srqyrus7oec",
+      "parent_id": "t3_1xyhf85",
+      "author": "ookamizanagi",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794915709,
+      "body": "About damn time"
+    }
+  ]
+}

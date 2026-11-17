@@ -1,0 +1,83 @@
+{
+  "post_id": "1xydifz",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 1,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~9h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "A hypothetical vertical biotech progression",
+    "author": "TikorDuro",
+    "score": 2,
+    "upvote_ratio": 0.75,
+    "num_comments": 5,
+    "link_flair_text": "Biotech/Longevity",
+    "created_utc": 1794897933,
+    "selftext": "Tier 0: Nothing about how drugs are made changes, but the individual tasks required are sped up by AI adoption. Statisticians and data scientists write code with Claude. Pharma company documents get drafted and revised by ChatGPT. FDA reviewers adopt Grok in their reviews. Doctors use AI to discover which of their patients qualify for an experimental treatment. Here the non-trial time-bottleneck tasks take less time, reducing the time to market from discovery. Medical research becomes more profitable which allows more compounds and devices to be pursued in trials, which results in more and better drugs and other interventions on an accelerated timeline. But because the trials are still the majority of the time required for most drugs, this is far short of a doubling. Medical practice looks much the same, the exponential uplift is so early it's hard to tell from linear.\n\nTier 1: AI takes on trial success probabilities with in-silico simulations (or a more opaque predictive method). Most drugs today fail their trials, even though tests leading up to that trial showed promise. They surface safety issues, or the efficacy didn't pan out in large trials that are appropriately powered to find their effect size. If AI trial simulations were able to predict which drugs would pass a trial at even 80% success rate, that would be a doubling at least in the pace of market-approved medical options. In this tier we still do the human trials, no laws change. But medical research institutions like pharma companies simply wouldn't pursue trials the AI believes would fail. We'll miss out on some great things the AI makes the wrong call about. But right now we miss out on many things we don't have the funding to properly test, and we make guesses. Today, our guesses are mostly wrong. In this tier our guesses are mostly right and medical progress speeds ahead. Diseases that stymied medicine for centuries become manageable or cured every year, then accelerate to multiple times a year.\n\nTier 2: AI makes another leap in in-silico simulations, achieving 99% accuracy in its projections on trial success. Patient advocate groups demand access to drugs the AI deems safe and effective, and they succeed in getting such laws passed which changes the FDA's job from trial review to AI prediction review. Human trials still happen, but they are like the Phase 4 trials of today: watching the drug or device in the market and pulling it if something bad enough surfaces. One in 100 approved are revoked, and this makes headlines, but every serious medical researcher and practitioner sees the other 99 and tries to keep up with the astounding rate of progress. In this tier aging itself becomes a prime target for medical intervention, as the lengthy longevity trials that held back progress are pushed on the far side of market access.\n\nTier 3: AI personalizes medicine. With astonishing predictive power and a bevy of approved treatments on the market, the AI can diagnose and prescribe patients to avoid adverse events and maximize efficacy for literally any ailment. Every doctor's visit spins up a simulated trial for a population of 1 taking numerous plausible drug combinations, the best mixture of which is proscribed. No disease is too rare to treat; no symptom set is too mysterious to diagnose. Language of disease changes to center the intervention rather than the malady. \"I got a pill-type problem\" \" I got a shot\" \"I got a surgery\" all followed by \"and my symptoms went away.\"\n\nEndnotes: The AI predicting clinical trial success rates could be completely opaque to researchers, so long as they are correct. Candidate discovery is not discussed, because we already have more targets than we can feasibly test (though AI will likely enhance candidate quality and quantity).",
+    "permalink": "/r/singularity/comments/1xydifz/a_hypothetical_vertical_biotech_progression/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19sre4glzkh6o",
+      "parent_id": "t3_1xydifz",
+      "author": "Apprehensive-Tell820",
+      "author_flair_text": null,
+      "score": 5,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794898434,
+      "body": "If you are going to be a sci-fi author, you need to work on your prose style"
+    },
+    {
+      "depth": 1,
+      "id": "19srmv0amz6rl",
+      "parent_id": "t1_19sre4glzkh6o",
+      "author": "pavelkomin",
+      "author_flair_text": null,
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794910188,
+      "body": "If you are going to be a critic, you need to work on being constructive and specific.\n\nSeriously, I feel it's fine. Though I don't read it as a \"sci-fi\" story to be enjoyed, but as a proposed framework for thinking about progress in medicine."
+    },
+    {
+      "depth": 0,
+      "id": "19srez8msv11c",
+      "parent_id": "t3_1xydifz",
+      "author": "The_Scout1255",
+      "author_flair_text": "AGI Dec '26 | ASI '27|waiting to be a🦊",
+      "score": 2,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794899584,
+      "body": "Tier 4: Morphological freedom, AI allows therians, transhumanists, otherkin, etc like meeeeeee to transition into our desired bodies."
+    },
+    {
+      "depth": 0,
+      "id": "19srmras83shv",
+      "parent_id": "t3_1xydifz",
+      "author": "Acrobatic_Arm_8412",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794910049,
+      "body": "tier 0 is doing a lot of heavy lifting here. half of pharma still runs on excel attachments and hope"
+    }
+  ]
+}

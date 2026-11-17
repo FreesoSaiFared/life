@@ -1,0 +1,83 @@
+{
+  "post_id": "1xyiepu",
+  "source": "arctic-shift",
+  "summary": {
+    "comments": 4,
+    "max_depth": 3,
+    "all_scored": true,
+    "complete": true,
+    "more_stubs": 0
+  },
+  "notes": [
+    "thread is ~4h old (<36h): Arctic Shift scores may be unripe. Set REDDIT_CLIENT_ID/SECRET/USERNAME/PASSWORD for live scores."
+  ],
+  "post": {
+    "title": "PyBot, an agent-written GOFAI chatbot",
+    "author": "filterdust",
+    "score": 8,
+    "upvote_ratio": 0.9,
+    "num_comments": 4,
+    "link_flair_text": "AI",
+    "created_utc": 1794916069,
+    "selftext": "",
+    "permalink": "/r/singularity/comments/1xyiepu/pybot_an_agentwritten_gofai_chatbot/"
+  },
+  "comments": [
+    {
+      "depth": 0,
+      "id": "19srt1nx8u3sx",
+      "parent_id": "t3_1xyiepu",
+      "author": "alwaysbeblepping",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794918508,
+      "body": "Regressing to Eliza is like the anti-Singularity."
+    },
+    {
+      "depth": 1,
+      "id": "19sruoxbg4ds3",
+      "parent_id": "t1_19srt1nx8u3sx",
+      "author": "Background-Wafer-548",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794920722,
+      "body": "Using LLMs to code transparent deterministic or probabilistic applications which robustly solve (mostly closed-ended) problems, instead of using an SLM/LLM agent to handle them, is actually quite reasonable. Nowadays, a rule-based system can be large yet manageable/debuggable and highly optimized and you can quickly extend it to cover new use cases.\n\nA chatbot may seem like the very last thing you'd tackle with this approach, but in terms of liability, it can make sense for a company."
+    },
+    {
+      "depth": 2,
+      "id": "19srvdlf4hpdw",
+      "parent_id": "t1_19sruoxbg4ds3",
+      "author": "Mundane_Reward7",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794921644,
+      "body": "A chatbot is not a closed-ended problem though. This is a regression for sure. I mean people were literally trying this for decades to no avail. It doesn’t work for language."
+    },
+    {
+      "depth": 3,
+      "id": "19srvjxkgdhok",
+      "parent_id": "t1_19srvdlf4hpdw",
+      "author": "Background-Wafer-548",
+      "author_flair_text": null,
+      "score": 1,
+      "edited": false,
+      "distinguished": null,
+      "removed_by_category": null,
+      "is_deleted": false,
+      "created_utc": 1794921881,
+      "body": "It can be, if you only want it to handle a narrow set of questions and eliminate any possibility of prompt injection. As I noted, liability and associated costs may be a concern here."
+    }
+  ]
+}
